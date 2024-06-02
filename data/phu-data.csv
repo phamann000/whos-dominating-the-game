@@ -1,0 +1,902 @@
+year,publisher,total_sales,critic_score,highestSales,lowestSales,highestScore,lowestScore
+1989,Ultra Games,4.17,5.9,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles
+1991,Square,0.38,9,Final Fantasy Adventure,Final Fantasy Adventure,Final Fantasy Adventure,Final Fantasy Adventure
+1993,Activision,0.18,8,Doom,Doom,Doom,Doom
+1993,LucasArts,0,9,Sam & Max Hit the Road,Sam & Max Hit the Road,Sam & Max Hit the Road,Sam & Max Hit the Road
+1993,Maxis,2.14,8,SimCity 2000,SimCity 2000,SimCity 2000,SimCity 2000
+1993,Square,0.76,7,Final Fantasy Legend III,Final Fantasy Legend III,Final Fantasy Legend III,Final Fantasy Legend III
+1994,Activision,3.65,8.1,Doom II,Doom II,Doom II,Doom II
+1994,Sega,0.19,9,Shining Force II,Shining Force II,Shining Force II,Shining Force II
+1995,ASCII Entertainment,0.16,7.1,King's Field,King's Field,King's Field,King's Field
+1995,Capcom,0.55,8.3,Breath of Fire II,Breath of Fire II,Breath of Fire II,Breath of Fire II
+1995,Namco,0.79,9,Ridge Racer,Ridge Racer,Ridge Racer,Ridge Racer
+1995,Psygnosis,0.06,7,3D Lemmings,3D Lemmings,3D Lemmings,3D Lemmings
+1995,Sega,1.07,9,Virtua Fighter,Virtua Fighter,Virtua Fighter,Virtua Fighter
+1995,Sierra Entertainment,1.11,6,You Don't Know Jack,You Don't Know Jack,You Don't Know Jack,You Don't Know Jack
+1995,Sony Computer Entertainment,1.56,7,Twisted Metal,Twisted Metal,Twisted Metal,Twisted Metal
+1995,Ubisoft,3.03,7,Rayman,Rayman,Rayman,Rayman
+1996,ASCII Entertainment,0.26,7.3,King's Field II,King's Field II,King's Field II,King's Field II
+1996,Acclaim Entertainment,0.115,6.05,Bust-A-Move 2 Arcade Edition,Batman Forever: The Arcade Game,Bust-A-Move 2 Arcade Edition,Batman Forever: The Arcade Game
+1996,Accolade,0.19,5.8,Bubsy 3D,Bubsy 3D,Bubsy 3D,Bubsy 3D
+1996,Atlus,0.45,8.1,Persona,Persona,Persona,Persona
+1996,Capcom,1.34,8,Street Fighter Alpha 2,Street Fighter Alpha 2,Street Fighter Alpha 2,Street Fighter Alpha 2
+1996,Crystal Dynamics,0.44,7.8,Blood Omen: Legacy of Kain,Blood Omen: Legacy of Kain,Blood Omen: Legacy of Kain,Blood Omen: Legacy of Kain
+1996,EA Sports,0.77,7.3,Andretti Racing,Andretti Racing,Andretti Racing,Andretti Racing
+1996,Eidos Interactive,5.66,8.7,Tomb Raider,Tomb Raider,Tomb Raider,Tomb Raider
+1996,Fox Interactive,1.54,8.5,Die Hard Trilogy,Die Hard Trilogy,Die Hard Trilogy,Die Hard Trilogy
+1996,Interplay,0.83,4.9,Casper,Casper,Casper,Casper
+1996,Konami,0.47,7.566666667,Contra: Legacy of War,Bottom of the 9th,Suikoden,Contra: Legacy of War
+1996,Maxis,0.08,6,A-Train,A-Train,A-Train,A-Train
+1996,Microprose,0,9.1,Sid Meier's Civilization II,Sid Meier's Civilization II,Sid Meier's Civilization II,Sid Meier's Civilization II
+1996,Microsoft,5.12,7,Microsoft Flight Simulator,Microsoft Flight Simulator,Microsoft Flight Simulator,Microsoft Flight Simulator
+1996,Midway Games,0.53,8.1,Wayne Gretzky's 3D Hockey,Wayne Gretzky's 3D Hockey,Wayne Gretzky's 3D Hockey,Wayne Gretzky's 3D Hockey
+1996,Mindscape,0.09,7.1,Blazing Dragons,3D Baseball,3D Baseball,Blazing Dragons
+1996,Namco,5.74,9.1,Tekken 2,Tekken 2,Tekken 2,Tekken 2
+1996,Playmates,0.12,6,Burning Road,Burning Road,Burning Road,Burning Road
+1996,Psygnosis,0.04,7,Adidas Power Soccer,Adidas Power Soccer,Adidas Power Soccer,Adidas Power Soccer
+1996,SSI,0.19,6.3,Allied General,Allied General,Allied General,Allied General
+1996,Sega,0.353333333,7.9,NiGHTS into dreams...,Virtua Fighter Kids,NiGHTS into dreams...,Virtua Fighter Kids
+1996,Sony Computer Entertainment,0.841428571,7.085714286,Twisted Metal 2,Philosoma,WipEout XL,Beyond The Beyond
+1996,Virgin Interactive,0.07,4.4,Spot Goes to Hollywood,Spot Goes to Hollywood,Spot Goes to Hollywood,Spot Goes to Hollywood
+1996,Working Designs,0.3,9,Dragon Force,Dragon Force,Dragon Force,Dragon Force
+1997,ASCII Entertainment,0.53,6.1,Clock Tower,Clock Tower,Clock Tower,Clock Tower
+1997,Acclaim Entertainment,0.47,8,Alien Trilogy,Alien Trilogy,Alien Trilogy,Alien Trilogy
+1997,Activision,0.26,7.1,Nightmare Creatures,Nightmare Creatures,Nightmare Creatures,Nightmare Creatures
+1997,Atlus,0.2,7.8,Ogre Battle Saga Episode Five: The March of the Black Queen,Ogre Battle Saga Episode Five: The March of the Black Queen,Snowboard Kids,Ogre Battle Saga Episode Five: The March of the Black Queen
+1997,Capcom,0.12,7.1,Resident Evil,Buster Bros. Collection,Resident Evil,Buster Bros. Collection
+1997,ESP,0.67,8.4,Grandia,Grandia,Grandia,Grandia
+1997,Eidos Interactive,7.53,7.6,Tomb Raider II,Tomb Raider II,Tomb Raider II,Tomb Raider II
+1997,Electronic Arts,1.4,6.4,Theme Hospital,WarCraft II: The Dark Saga,WarCraft II: The Dark Saga,Theme Hospital
+1997,GT Interactive,0.483333333,5.233333333,Oddworld: Abe's Oddysee,Bugriders: The Race of Kings,Oddworld: Abe's Oddysee,Bugriders: The Race of Kings
+1997,Hudson Soft,1.04,6.1,Bomberman 64,Bomberman 64,Bomberman 64,Bomberman 64
+1997,Interplay,0.21,3.1,ClayFighter 63 1/3,ClayFighter 63 1/3,ClayFighter 63 1/3,ClayFighter 63 1/3
+1997,Konami,0.58,7.666666667,Castlevania: Symphony of the Night,Bottom of the 9th '97,Castlevania: Symphony of the Night,Bottom of the 9th '97
+1997,LucasArts,0.68,6.8,Star Wars: Masters of Teras Kasi,Star Wars: Masters of Teras Kasi,Star Wars: Masters of Teras Kasi,Star Wars: Masters of Teras Kasi
+1997,Midway Games,0.33,7.25,Doom 64,Mace: The Dark Age,Doom 64,Mace: The Dark Age
+1997,Namco,1.635,8.55,Time Crisis,Soul Blade,Soul Blade,Time Crisis
+1997,Nintendo,0.57,7.8,Blast Corps,Mischief Makers,Blast Corps,Mischief Makers
+1997,Psygnosis,0.215,6.85,Colony Wars,The City of Lost Children,Colony Wars,The City of Lost Children
+1997,Sony Computer Entertainment,0.537777778,7.022222222,Intelligent Qube,Codename Tenka,Wild ARMs,Spawn the Eternal
+1997,THQ,0.14,5.3,Bravo Air Race,Bravo Air Race,Bravo Air Race,Bravo Air Race
+1997,Tecmo,0.46,7.9,Dead or Alive,Dead or Alive,Dead or Alive,Dead or Alive
+1997,Victory Lap Games,0.19,5.4,AeroFighters Assault,AeroFighters Assault,AeroFighters Assault,AeroFighters Assault
+1997,Westwood Studios,0.405,8.1,Command & Conquer: Red Alert,Command & Conquer,Command & Conquer,Command & Conquer: Red Alert
+1997,Working Designs,0.23,8.8,Alundra,Alundra,Alundra,Alundra
+1998,989 Studios,0.806666667,5.766666667,Twisted Metal III,Cardinal Syn,Bust A Groove,Twisted Metal III
+1998,ASC Games,2.56,6,Grand Theft Auto,Grand Theft Auto,Grand Theft Auto,Grand Theft Auto
+1998,ASCII Entertainment,0.23,6.3,Backstreet Billiards,Aero Gauge,Armored Core: Project Phantasma,Aero Gauge
+1998,Acclaim Entertainment,0.5825,5.55,South Park,Iggy's Reckin' Balls,Forsaken 64,South Park
+1998,Activision,1.275,5.8,A Bug's Life,The Fifth Element,Tenchu: Stealth Assassins,A Bug's Life
+1998,Atlus,0.21,7.433333333,Bomberman World,Ogre Battle Series: Tactics Ogre,Kartia: The Word of Fate,Bomberman World
+1998,Capcom,1.04,6,Breath of Fire III,Breath of Fire III,Breath of Fire III,Breath of Fire III
+1998,EA Sports,1.22,8.3,NBA Live 99,NBA Live 99,NBA Live 99,NBA Live 99
+1998,ESP,0.03,9,Radiant Silvergun,Radiant Silvergun,Radiant Silvergun,Radiant Silvergun
+1998,Eidos Interactive,2.14,7,Tomb Raider III: Adventures of Lara Croft,Akuji the Heartless,Tomb Raider III: Adventures of Lara Croft,Akuji the Heartless
+1998,Electronic Arts,0.58,8.3,Diablo,Diablo,Diablo,Diablo
+1998,Fortyfive,0.06,4.8,July,July,July,July
+1998,GT Interactive,0.99,8.6,Oddworld: Abe's Exoddus,Oddworld: Abe's Exoddus,Oddworld: Abe's Exoddus,Oddworld: Abe's Exoddus
+1998,Interplay,0,9.2,Fallout 2,Fallout 2,Fallout 2,Fallout 2
+1998,Konami,0.17,6.28,International Superstar Soccer '98,Kensei: Sacred Fist,International Superstar Soccer '98,C: The Contra Adventure
+1998,Midway Games,0.82,7.65,NFL Blitz,Bio FREAKS,NFL Blitz,Bio FREAKS
+1998,Mindscape,0.07,5.9,Circuit Breakers,Circuit Breakers,Circuit Breakers,Circuit Breakers
+1998,Natsume,0.22,7.8,Bust-A-Move 4,Bust-A-Move 4,Bust-A-Move 4,Bust-A-Move 4
+1998,Ocean,0.625,7.6,Mission: Impossible,Wetrix,Wetrix,Mission: Impossible
+1998,Psygnosis,0.125,7.2,Colony Wars: Vengeance,Adidas Power Soccer 98,Colony Wars: Vengeance,Adidas Power Soccer 98
+1998,Sega,0.106666667,6.6,The House of the Dead,Godzilla Generations,Panzer Dragoon Saga,Godzilla Generations
+1998,Sony Computer Entertainment,0.333333333,7.266666667,Bloody Roar,Tomba!,Bloody Roar,Blasto
+1998,Square,1.14,8.4,Brave Fencer Musashi,Brave Fencer Musashi,Brave Fencer Musashi,Brave Fencer Musashi
+1998,Square EA,0.68,7.5,Bushido Blade 2,Bushido Blade 2,Bushido Blade 2,Bushido Blade 2
+1998,THQ,0.263333333,7.066666667,Quest 64,The Granstream Saga,Brunswick Circuit Pro Bowling,Quest 64
+1998,Take-Two Interactive,0.15,8.3,Space Station Silicon Valley,Space Station Silicon Valley,Space Station Silicon Valley,Space Station Silicon Valley
+1998,Ubisoft,0.16,6.8,Buck Bumble,Buck Bumble,Buck Bumble,Buck Bumble
+1999,3DO,0.81,4.2,Army Men: Sarge's Heroes,Army Men: Sarge's Heroes,Army Men: Sarge's Heroes,Army Men: Sarge's Heroes
+1999,989 Studios,1.09,4.8,Twisted Metal 4,3Xtreme,Twisted Metal 4,3Xtreme
+1999,Acclaim Entertainment,0.3925,4.475,South Park: Chef's Luv Shack,Bust-A-Move '99,Bust-A-Move '99,South Park: Chef's Luv Shack
+1999,Activision,2.956666667,6.033333333,Tony Hawk's Pro Skater,Blue Stinger,Tony Hawk's Pro Skater,A Collection of Intellivision Classic Games
+1999,Agetec,0.13,5.466666667,Clock Tower II: The Struggle Within,Shadow Tower,Echo Night,Clock Tower II: The Struggle Within
+1999,Atari,0.105,6.7,RollerCoaster Tycoon,Ballistic,Ballistic,RollerCoaster Tycoon
+1999,Atlus,0.025,6.8,Tail Concerto,Bomberman Fantasy Race,Tail Concerto,Bomberman Fantasy Race
+1999,Bandai,0.06,5.6,Neon Genesis Evangelion,Neon Genesis Evangelion,Neon Genesis Evangelion,Neon Genesis Evangelion
+1999,Capcom,0.286666667,7.666666667,Resident Evil 2,Marvel vs. Capcom: Clash of Super Heroes,Power Stone,Resident Evil 2
+1999,Crave Entertainment,0.11,6.033333333,Asteroids Hyper 64,Broken Sword II: The Smoking Mirror,Broken Sword II: The Smoking Mirror,Fighting Force 64
+1999,EA Sports,1.87,8.8,FIFA 2000,FIFA 2000,FIFA 2000,FIFA 2000
+1999,Eidos Interactive,1.04,8.9,Legacy of Kain: Soul Reaver,Legacy of Kain: Soul Reaver,Legacy of Kain: Soul Reaver,Legacy of Kain: Soul Reaver
+1999,Electronic Arts,2.466666667,7.166666667,Medal of Honor,System Shock 2,Beetle Adventure Racing!,Castrol Honda Superbike Racing
+1999,Enix,0.26,7,Bust A Groove 2,Bust A Groove 2,Bust A Groove 2,Bust A Groove 2
+1999,Fox Interactive,0.01,8.7,Aliens versus Predator,Aliens versus Predator,Aliens versus Predator,Aliens versus Predator
+1999,GT Interactive,3.29,7,Driver,40 Winks,Driver,40 Winks
+1999,Gathering of Developers,0.66,6.7,Darkstone,Darkstone,Darkstone,Darkstone
+1999,Hasbro Interactive,0.65,5.9,Centipede,Centipede,Centipede,Centipede
+1999,Human Entertainment,0.19,8,Fire ProWrestling G,Fire ProWrestling G,Fire ProWrestling G,Fire ProWrestling G
+1999,Infogrames,0.1475,6.25,Bugs Bunny: Lost in Time,Starshot: Space Circus Fever,Bugs Bunny: Lost in Time,Starshot: Space Circus Fever
+1999,Interplay,0.03,8.8,Planescape: Torment,Planescape: Torment,Planescape: Torment,Planescape: Torment
+1999,Kemco,0.05,5.65,Shadowgate 64: Trials of the Four Towers,Charlie Blasts Territory,Charlie Blasts Territory,Shadowgate 64: Trials of the Four Towers
+1999,Konami,0.57,7.42,Metal Gear Solid VR Missions,Vandal Hearts II,Suikoden II,Metal Gear Solid VR Missions
+1999,Midway Games,0.64,7.3,Ready 2 Rumble Boxing,Arcade Party Pak,Paperboy,Gauntlet Legends
+1999,Mindscape,0.15,7.5,Chessmaster II,Chessmaster II,Chessmaster II,Chessmaster II
+1999,Namco,2.06,9.1,R4: Ridge Racer Type 4,R4: Ridge Racer Type 4,R4: Ridge Racer Type 4,R4: Ridge Racer Type 4
+1999,Natsume,0.48,7.8,Harvest Moon 64,Harvest Moon 64,Harvest Moon 64,Harvest Moon 64
+1999,Psygnosis,0.07,6.6,Blast Radius,Blast Radius,Blast Radius,Blast Radius
+1999,Rockstar Games,1.276666667,6.366666667,Grand Theft Auto 2,"Grand Theft Auto: Mission Pack #1, London 1969",Grand Theft Auto 2,Monster Truck Madness 64
+1999,SNK,0.09,6.85,The King of Fighters: Dream Match 1999,Koudelka,The King of Fighters: Dream Match 1999,Koudelka
+1999,Sega,0.785,8.6,Sonic Adventure,NBA 2K,NFL 2K,The House of the Dead 2
+1999,Sony Computer Entertainment,1.885,8.7,Crash Team Racing,Bloody Roar II,Ape Escape,Legend of Legaia
+1999,SouthPeak Interactive,0.11,4.5,BoomBots,BoomBots,BoomBots,BoomBots
+1999,Square,0.3,6.7,Ehrgeiz,Ehrgeiz,Ehrgeiz,Ehrgeiz
+1999,Square EA,0.646666667,6.733333333,Final Fantasy Anthology,Chocobo Racing,Final Fantasy Anthology,Chocobo Racing
+1999,THQ,0.58,7.5,Championship Motocross featuring Ricky Carmichael,Championship Motocross featuring Ricky Carmichael,Championship Motocross featuring Ricky Carmichael,Championship Motocross featuring Ricky Carmichael
+1999,Take-Two Interactive,0.19,5.2,Bass Hunter 64,Alexi Lalas International Soccer,Bass Hunter 64,Alexi Lalas International Soccer
+1999,Titus,0.105,3.85,Roadsters 99,Carmageddon 64,Roadsters 99,Carmageddon 64
+1999,Ubisoft,0.376666667,7.366666667,Rayman 2: The Great Escape,All Star Tennis 99,Rayman 2: The Great Escape,All Star Tennis 99
+1999,Working Designs,0.55,7.6,Lunar: Silver Star Story Complete,Lunar: Silver Star Story Complete,Lunar: Silver Star Story Complete,Lunar: Silver Star Story Complete
+2000,3DO,0.303333333,6.533333333,Army Men: Sarge's Heroes 2,Army Men: Air Combat,Army Men: Air Combat,Army Men: Sarge's Heroes 2
+2000,Acclaim Entertainment,2.033333333,7.933333333,Crazy Taxi,All-Star Baseball 2001,All-Star Baseball 2001,Crazy Taxi
+2000,Activision,2.49,8.033333333,Tony Hawk's Pro Skater 2,Alundra 2: A New Legend Begins,Tenchu 2: Birth of the Stealth Assassins,Alundra 2: A New Legend Begins
+2000,Agetec,0.305,6.7,EverGrace,Armored Core: Master of Arena,Armored Core: Master of Arena,EverGrace
+2000,Atari,4.73,7,Driver 2,Driver 2,Driver 2,Driver 2
+2000,Atlus,0.283333333,8.166666667,Ogre Battle 64: Person of Lordly Caliber,Rhapsody: A Musical Adventure,Ogre Battle 64: Person of Lordly Caliber,Rhapsody: A Musical Adventure
+2000,Capcom,0.56,8.466666667,Marvel vs. Capcom 2,Capcom vs. SNK,Capcom vs. SNK,Marvel vs. Capcom 2
+2000,Codemasters,0.93,8.3,Colin McRae Rally 2.0,Colin McRae Rally 2.0,Colin McRae Rally 2.0,Colin McRae Rally 2.0
+2000,Crave Entertainment,0.07,7.3,Battlezone: Rise of the Black Dogs,Battlezone: Rise of the Black Dogs,Battlezone: Rise of the Black Dogs,Battlezone: Rise of the Black Dogs
+2000,EA Sports,0.32,7.1,Championship Bass,Championship Bass,Championship Bass,Championship Bass
+2000,Eidos Interactive,0.046666667,6.5,Chicken Run,John Romero's Daikatana,Deus Ex,John Romero's Daikatana
+2000,Electronic Arts,0.691428571,7.485714286,007: The World is Not Enough,Shogun: Total War,Command & Conquer: Red Alert 2,007 Racing
+2000,Fox Interactive,0.14,6.8,The Operative: No One Lives Forever,The Operative: No One Lives Forever,The Operative: No One Lives Forever,The Operative: No One Lives Forever
+2000,Hasbro Interactive,0.11,4.9,Breakout,Breakout,Breakout,Breakout
+2000,Infogrames,0.135,5.75,Bugs Bunny & Taz: Time Busters,Animorphs: Shattered Reality,Bugs Bunny & Taz: Time Busters,Animorphs: Shattered Reality
+2000,Interplay,0,8.5,MDK2,MDK2,MDK2,MDK2
+2000,Konami,0,8.5,Metal Gear Solid,Metal Gear Solid,Metal Gear Solid,Metal Gear Solid
+2000,LucasArts,0.26,8.5,Star Wars Episode I: Battle for Naboo,Star Wars Episode I: Battle for Naboo,Star Wars Episode I: Battle for Naboo,Star Wars Episode I: Battle for Naboo
+2000,Mattel Interactive,0.06,7.2,Championship Surfer,Championship Surfer,Championship Surfer,Championship Surfer
+2000,Maxis,0.05,8.9,The Sims,The Sims,The Sims,The Sims
+2000,Midway Games,0.633333333,6.233333333,Ready 2 Rumble Boxing: Round 2,Colony Wars III: Red Sun,Colony Wars III: Red Sun,Ready 2 Rumble Boxing: Round 2
+2000,Namco,2.06,7.4,Tekken Tag Tournament,Dragon Valor,Tekken Tag Tournament,Dragon Valor
+2000,NewKidCo,0.2,7.3,Tigger's Honey Hunt,Tigger's Honey Hunt,Tigger's Honey Hunt,Tigger's Honey Hunt
+2000,Nintendo,0.58,8.45,Excitebike 64,Starcraft 64,Excitebike 64,Starcraft 64
+2000,Sega,0.388,8.46,NFL 2K1,Skies of Arcadia,NFL 2K1,Sakura Wars
+2000,Sony Computer Entertainment,1.615,6.933333333,Crash Bash,NHL FaceOff 2001,Fantavision,NHL FaceOff 2001
+2000,Square EA,0.673333333,8.166666667,SaGa Frontier 2,Threads of Fate,Vagrant Story,SaGa Frontier 2
+2000,THQ,1.603333333,8.266666667,WWF SmackDown! 2: Know Your Role,Brunswick Circuit Pro Bowling 2,WWF No Mercy,Brunswick Circuit Pro Bowling 2
+2000,Take-Two Interactive,0.625,5.85,Action Bass,Railroad Tycoon II,Railroad Tycoon II,Action Bass
+2000,Tecmo,0.14,9,Dead or Alive 2,Dead or Alive 2,Dead or Alive 2,Dead or Alive 2
+2000,Titus,0.04,4.7,Blues Brothers 2000,Roadsters,Blues Brothers 2000,Roadsters
+2000,Ubisoft,0.29,4.7,Grandia II,Batman Beyond: Return of the Joker,Grandia II,Batman Beyond: Return of the Joker
+2000,Vatical Entertainment,0.12,7.9,Bomberman Party Edition,Bomberman Party Edition,Bomberman Party Edition,Bomberman Party Edition
+2000,Working Designs,0.21,7.25,Lunar 2: Eternal Blue Complete,Vanguard Bandits,Lunar 2: Eternal Blue Complete,Vanguard Bandits
+2001,3DO,0.0325,6.25,Portal Runner,Army Men Advance,Portal Runner,High Heat Major League Baseball 2002
+2001,AIA,0,6.4,Dokapon: Monster Hunter,Dokapon: Monster Hunter,Dokapon: Monster Hunter,Dokapon: Monster Hunter
+2001,Acclaim Entertainment,0.2675,7.025,18 Wheeler: American Pro Trucker,XGIII: Extreme G Racing,XGIII: Extreme G Racing,18 Wheeler: American Pro Trucker
+2001,Activision,1.445,7.925,Tony Hawk's Pro Skater 3,Alienators: Evolution Continues,Bomberman Tournament,Alienators: Evolution Continues
+2001,Agetec,0.083333333,6.833333333,The King of Fighters '99,Boxing,The King of Fighters: Evolution,Boxing
+2001,BAM! Entertainment,0.1525,7.25,Dexter's Laboratory Deesaster Strikes,Driven,Fire ProWrestling,Dexter's Laboratory Deesaster Strikes
+2001,Capcom,0.262,7.3,Capcom vs. SNK 2: Mark of the Millennium 2001,Capcom vs. SNK: Millennium Fight 2000 Pro,Final Fight One,Resident Evil 3: Nemesis
+2001,Conspiracy Entertainment,0,7,Gadget Racers,Gadget Racers,Gadget Racers,Gadget Racers
+2001,Crave Entertainment,0.113333333,4.233333333,Blaster Master: Blasting Again,The Flintstones: Big Trouble in Bedrock,Blaster Master: Blasting Again,Kabuki Warriors
+2001,EA Sports,0.61,8.6,Madden NFL 2002,Madden NFL 2002,Madden NFL 2002,Madden NFL 2002
+2001,EA Sports BIG,2.27,8.4,SSX Tricky,SSX Tricky,SSX Tricky,SSX Tricky
+2001,Electronic Arts,1.906666667,6.1,The Simpsons: Road Rage,Cel Damage,Harry Potter and the Sorcerer's Stone,Cel Damage
+2001,Gathering of Developers,2.29,8.25,Max Payne,Tropico,Tropico,Max Payne
+2001,Infogrames,0.08,7.9,Alone in the Dark: The New Nightmare,Sid Meier's Civilization III,Sid Meier's Civilization III,Alone in the Dark: The New Nightmare
+2001,Kemco,0.05,5.05,Universal Studios Theme Parks Adventure,Phalanx,Universal Studios Theme Parks Adventure,Phalanx
+2001,Konami,0.459166667,6.308333333,Frogger's Adventures: Temple of the Frog,ESPN Great Outdoor Games Bass 2002,Ring of Red,Frogger: The Great Quest
+2001,LEGO Media,0.06,6.4,LEGO Bionicle,LEGO Bionicle,LEGO Bionicle,LEGO Bionicle
+2001,LucasArts,1.9,9.2,Star Wars Rogue Leader: Rogue Squadron II,Star Wars Rogue Leader: Rogue Squadron II,Star Wars Rogue Leader: Rogue Squadron II,Star Wars Rogue Leader: Rogue Squadron II
+2001,Majesco,0.315,6.916666667,F-14 Tomcat,Denki Blocks!,Denki Blocks!,Iridion 3D
+2001,Metro 3D,0.09,4.6,Dark Angel: Vampire Apocalypse,Dark Angel: Vampire Apocalypse,Dark Angel: Vampire Apocalypse,Dark Angel: Vampire Apocalypse
+2001,Microsoft,0.47,7.9,Shenmue II,Shenmue II,Shenmue II,Shenmue II
+2001,Midway Games,0.14,6.15,Shadow Hearts,Cruis'n Velocity,Shadow Hearts,Cruis'n Velocity
+2001,Namco,0.355,7.975,Tales of Destiny II,Klonoa: Empire of Dreams,Klonoa 2: Lunatea's Veil,Vampire Night
+2001,Natsume,0.4,7.8,Harvest Moon: Save the Homeland,Harvest Moon: Save the Homeland,Harvest Moon: Save the Homeland,Harvest Moon: Save the Homeland
+2001,NewKidCo,0.01,3.5,E.T. The Extra-Terrestrial,E.T. The Extra-Terrestrial,E.T. The Extra-Terrestrial,E.T. The Extra-Terrestrial
+2001,Nintendo,0.968333333,8.283333333,The Legend of Zelda: Oracle of Ages,KuruKuru Kururin,Advance Wars,Dr. Mario 64
+2001,Rare,0.77,9.2,Conker's Bad Fur Day,Conker's Bad Fur Day,Conker's Bad Fur Day,Conker's Bad Fur Day
+2001,Rockstar Games,13.11,9.1,Grand Theft Auto III,Grand Theft Auto III,Grand Theft Auto III,Grand Theft Auto III
+2001,Sega,0.311428571,8.585714286,Super Monkey Ball,The Typing of the Dead,Super Monkey Ball,ChuChu Rocket!
+2001,Sierra Entertainment,0.6,8.4,Half-Life,Half-Life,Half-Life,Half-Life
+2001,Sony Computer Entertainment,1.621666667,8.383333333,Jak and Daxter: The Precursor Legacy,Formula One 2001,Jak and Daxter: The Precursor Legacy,Formula One 2001
+2001,Square,0.52,9.2,Final Fantasy Chronicles,Final Fantasy Chronicles,Final Fantasy Chronicles,Final Fantasy Chronicles
+2001,THQ,0.461428571,7.2,Red Faction,Hot Wheels: Burnin' Rubber,Red Faction,Aidyn Chronicles: The First Mage
+2001,Telegames,0,5.2,BackTrack,BackTrack,BackTrack,BackTrack
+2001,Titus,0.01,3.9,Kao the Kangaroo,Kao the Kangaroo,Kao the Kangaroo,Kao the Kangaroo
+2001,Ubisoft,0.3525,7.025,Batman: Vengeance,American Bass Challenge,Rayman 2: Revolution,Batman: Vengeance
+2001,Universal Interactive,6.01,6,Crash Bandicoot: The Wrath of Cortex,Crash Bandicoot: The Wrath of Cortex,Crash Bandicoot: The Wrath of Cortex,Crash Bandicoot: The Wrath of Cortex
+2002,3DO,0.09,6.05,Army Men: RTS,High Heat Major League Baseball 2003,Army Men: RTS,High Heat Major League Baseball 2003
+2002,Acclaim Entertainment,0.231111111,6.777777778,Aggressive Inline,Dave Mirra Freestyle BMX 3,Dave Mirra Freestyle BMX 3,Jeremy McGrath Supercross World
+2002,Activision,1.293636364,7.618181818,Spider-Man: The Movie,Medieval: Total War,Tony Hawk's Pro Skater 4,The Invincible Iron Man
+2002,Atari,0.373333333,6.744444444,RollerCoaster Tycoon 2,Unreal Tournament 2003,Unreal Tournament 2003,Godzilla: Domination!
+2002,Atlus,0.24,7.7,Tactics Ogre: The Knight of Lodis,Dual Hearts,Tactics Ogre: The Knight of Lodis,Cubivore: Survival of the Fittest
+2002,BAM! Entertainment,0.19,5.84,The Powerpuff Girls: Relish Rampage,Kong: The Animated Series,Broken Sword: The Shadow of the Templars,The Powerpuff Girls: Relish Rampage
+2002,Bethesda Softworks,2.86,8.2,The Elder Scrolls III: Morrowind,The Elder Scrolls III: Morrowind,The Elder Scrolls III: Morrowind,The Elder Scrolls III: Morrowind
+2002,Capcom,0.435,8.2,Maximo: Ghosts to Glory,Steel Battalion,Maximo: Ghosts to Glory,Steel Battalion
+2002,Conspiracy Entertainment,1.06,5.6,Seek and Destroy,Seek and Destroy,Seek and Destroy,Seek and Destroy
+2002,Crave Entertainment,0.04,7.9,Ultimate Fighting Championship: Throwdown,Freedom Force,Freedom Force,Ultimate Fighting Championship: Throwdown
+2002,"Destination Software, Inc",0.17,7.7,Baldur's Gate: Dark Alliance,Baldur's Gate: Dark Alliance,Baldur's Gate: Dark Alliance,Baldur's Gate: Dark Alliance
+2002,Disney Interactive Studios,0.495,5.825,Disney's Lilo & Stitch,Disney's Peter Pan: Return to Never Land,Disney's Lilo & Stitch,Disney's Peter Pan: Return to Never Land
+2002,DreamCatcher Interactive,0,7.1,Extreme Ghostbusters,Extreme Ghostbusters,Extreme Ghostbusters,Extreme Ghostbusters
+2002,EA Sports,1.013333333,8.3,Madden NFL 2003,FIFA Soccer 2003,NCAA Football 2003,FIFA Soccer 2003
+2002,Eidos Interactive,0.396666667,7.9,TimeSplitters 2,Deus Ex: The Conspiracy,TimeSplitters 2,Mister Mosquito
+2002,Electronic Arts,2.272727273,7.309090909,Medal of Honor: Frontline,Medal of Honor: Allied Assault,Medal of Honor: Allied Assault,Galidor: Defenders of the Outer Dimension
+2002,Enix,0.38,6.7,Grandia Xtreme,Grandia Xtreme,Grandia Xtreme,Grandia Xtreme
+2002,Gathering of Developers,0.74,6.5,Mafia,Mafia,Mafia,Mafia
+2002,Infogrames,0.655,6.25,Dragon Ball Z: The Legacy of Goku,Monopoly Party,Monopoly Party,Zapper: One Wicked Cricket!
+2002,Interplay,0.48,7.1,Hunter: The Reckoning,Hunter: The Reckoning,Hunter: The Reckoning,Hunter: The Reckoning
+2002,KOEI,0.09,6.8,Mystic Heroes,Mystic Heroes,Mystic Heroes,Mystic Heroes
+2002,Kemco,0,7.533333333,Boulder Dash EX,Boulder Dash EX,Boulder Dash EX,Egg Mania
+2002,Knowledge Adventure,0.25,6,Butt Ugly Martians: B.K.M. Battles,Butt Ugly Martians: B.K.M. Battles,Butt Ugly Martians: B.K.M. Battles,Butt Ugly Martians: B.K.M. Battles
+2002,Konami,0.346875,6.5875,Metal Gear Solid 2: Substance,AirForce Delta Storm,Castlevania: Harmony of Dissonance,Disney Sports Skateboarding
+2002,LucasArts,0.313333333,7.4,Star Wars: Clone Wars,Star Wars Jedi Knight II: Jedi Outcast,Star Wars Racer Revenge,Star Wars Jedi Knight II: Jedi Outcast
+2002,Majesco,0.1075,6.3625,BloodRayne,David Beckham Soccer,Bomberman Generation,David Beckham Soccer
+2002,Metro 3D,0,6.666666667,Aero The Acro-Bat,Aero The Acro-Bat,Aero The Acro-Bat,Dual Blades
+2002,Microsoft Game Studios,0.56,6.8,Blinx: The Time Sweeper,Blinx: The Time Sweeper,Blinx: The Time Sweeper,Blinx: The Time Sweeper
+2002,Midway Games,0.546666667,6.333333333,Mortal Kombat: Deadly Alliance,Gauntlet: Dark Legacy,Mortal Kombat: Deadly Alliance,Gauntlet: Dark Legacy
+2002,Mindscape,0.02,7.9,Car Battler Joe,Car Battler Joe,Car Battler Joe,Car Battler Joe
+2002,Namco,0.873333333,6.466666667,Tekken 4,Smashing Drive,Tekken Advance,Smashing Drive
+2002,Natsume,0.09,6.8,MetropolisMania,MetropolisMania,MetropolisMania,MetropolisMania
+2002,NewKidCo,0,7.9,Muppet Pinball Mayhem,Muppet Pinball Mayhem,Muppet Pinball Mayhem,Muppet Pinball Mayhem
+2002,Nintendo,0.282,6.18,Game & Watch Gallery 4,Doshin the Giant,NBA Courtside 2002,Disney's Magical Mirror Starring Mickey Mouse
+2002,Rockstar Games,8.975,8.5,Grand Theft Auto: Vice City,State of Emergency,Grand Theft Auto: Vice City,State of Emergency
+2002,Sammy Corporation,0.06,7.3,Guilty Gear X: Advance Edition,Guilty Gear X: Advance Edition,Guilty Gear X: Advance Edition,Guilty Gear X: Advance Edition
+2002,Sega,0.2125,7.7,Phantasy Star Online Episode I & II,Rez,NFL 2K3,Gunvalkyrie
+2002,Sony Computer Entertainment,2.15,8.1,SOCOM: U.S. Navy SEALs,Wild ARMs 3,ATV Offroad Fury 2,Wild ARMs 3
+2002,Strategy First,0,8.4,Trainz,Trainz,Trainz,Trainz
+2002,TDK Core,0.19,6.1,Dinotopia: The Timestone Pirates,Dinotopia: The Timestone Pirates,Dinotopia: The Timestone Pirates,Dinotopia: The Timestone Pirates
+2002,TDK Mediactive,0.15,5.5,Shrek Extra Large,Pryzm Chapter One: The Dark Unicorn,Robotech: Battlecry,Shrek Extra Large
+2002,THQ,0.323846154,6.392307692,Red Faction II,GT Advance 3: Pro Concept Racing,Baseball Advance,"Monsters, Inc. Scream Arena"
+2002,Take-Two Interactive,0.005,6.6,Duke Nukem Advance,Mall Tycoon,Duke Nukem Advance,Mall Tycoon
+2002,Tecmo,0.2,7.6,Fatal Frame,Fatal Frame,Fatal Frame,Fatal Frame
+2002,The Adventure Company,0.03,8,Syberia,Syberia,Syberia,Syberia
+2002,Ubisoft,0.52,6.4,Tom Clancy's Splinter Cell,Davis Cup Tennis,Tom Clancy's Splinter Cell,Disney's PK: Out of the Shadows
+2002,Universal Interactive,0.335,4.1,Barbie Groovy Games,The Scorpion King: Rise of the Akkadian,The Scorpion King: Rise of the Akkadian,Barbie Groovy Games
+2002,VU Games,0.425,5.05,Spyro: Enter the Dragonfly,4X4 EVO 2,4X4 EVO 2,Spyro: Enter the Dragonfly
+2002,Vivendi Games,1.73,8.3,Crash Bandicoot: The Huge Adventure,Crash Bandicoot: The Huge Adventure,Crash Bandicoot: The Huge Adventure,Crash Bandicoot: The Huge Adventure
+2003,3DO,0.01,3.8,Army Men: Air Combat - The Elite Missions,Army Men: Air Combat - The Elite Missions,Army Men: Air Combat - The Elite Missions,Army Men: Air Combat - The Elite Missions
+2003,Acclaim Entertainment,0.1275,6.85,Vexx,Speed Kings,All-Star Baseball 2004,Vexx
+2003,Activision,0.978571429,7.257142857,Tony Hawk's Underground,Call of Duty,Tony Hawk's Underground,X2: Wolverine's Revenge
+2003,Atari,0.544285714,5.885714286,Dragon Ball Z: The Legacy of Goku II,Ikaruga,Ikaruga,BeyBlade VForce: Super Tournament Battle
+2003,Atlus,0.088333333,7.383333333,Disgaea: Hour of Darkness,DemiKids: Dark Version,Disgaea: Hour of Darkness,Go! Go! Hypergrind
+2003,BAM! Entertainment,0.665,6.3,Starsky & Hutch,Wallace & Gromit in Project Zoo,Wallace & Gromit in Project Zoo,Starsky & Hutch
+2003,Bandai,0.54,7.46,.hack//Infection Part 1,Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,Digimon Battle Spirit 2
+2003,Bethesda Softworks,1.03,8.3,The Elder Scrolls III: Morrowind Game of the Year Edition,The Elder Scrolls III: Morrowind Game of the Year Edition,The Elder Scrolls III: Morrowind Game of the Year Edition,The Elder Scrolls III: Morrowind Game of the Year Edition
+2003,Blizzard Entertainment,0.01,7.1,Blackthorne,Blackthorne,Blackthorne,Blackthorne
+2003,Capcom,0.189090909,6.436363636,Viewtiful Joe,Auto Modellista,Viewtiful Joe,Disney's Hide & Sneak
+2003,DSI Games,0.01,7.2,Freekstyle,Freekstyle,Freekstyle,Freekstyle
+2003,"Destination Software, Inc",0.025,7.1,Gekido Advance: Kintaro's Revenge,F1 2002,Gekido Advance: Kintaro's Revenge,F1 2002
+2003,EA Sports,2.332,7.74,Madden NFL 2004,Rugby 2004,Madden NFL 2004,Rugby 2004
+2003,EA Sports BIG,0.39,9.033333333,NBA Street Vol. 2,Def Jam Vendetta,SSX 3,Def Jam Vendetta
+2003,Eidos Interactive,0.41,7.6,Backyard Wrestling: Don't Try This at Home,Hitman 2: Silent Assassin,Deus Ex: Invisible War,Backyard Wrestling: Don't Try This at Home
+2003,Electronic Arts,1.928181818,6.972727273,Need for Speed Underground,Command & Conquer: Generals,Freedom Fighters,Disney's Party
+2003,Encore,0.005,4.9,Grooverider: Slot Car Thunder,Daredevil,Daredevil,Grooverider: Slot Car Thunder
+2003,Gathering of Developers,0.015,8.55,Railroad Tycoon 3,Tropico 2: Pirate Cove,Railroad Tycoon 3,Tropico 2: Pirate Cove
+2003,Gotham Games,0.08,6.3,Conflict: Desert Storm,Conflict: Desert Storm,Conflict: Desert Storm,Conflict: Desert Storm
+2003,Jaleco,0.0625,6.575,Goblin Commander: Unleash the Horde,Jazz Jackrabbit,Karnaaj Rally,Super Bubble Pop
+2003,Kemco,0.065,4.2,Batman: Dark Tomorrow,Rogue Ops,Rogue Ops,Batman: Dark Tomorrow
+2003,Konami,0.34375,6.625,Castlevania: Lament of Innocence,Disney Sports Motocross,Castlevania: Aria of Sorrow,Yu-Gi-Oh! The Falsebound Kingdom
+2003,LucasArts,1.02,8.666666667,Star Wars: Knights of the Old Republic,Gladius,Star Wars: Knights of the Old Republic,Gladius
+2003,Majesco,0.193333333,6.133333333,Battlebots: Design & Destroy,BlowOut,Iridion II,Battlebots: Design & Destroy
+2003,Microsoft Game Studios,0.5125,8.175,PGR: Project Gotham Racing 2,Halo: Combat Evolved,PGR: Project Gotham Racing 2,Kung Fu Chaos
+2003,Midway Games,0.07,6.5,Midway Arcade Treasures,RoadKill,MLB SlugFest 20-04,Justice League: Chronicles
+2003,NEC Interchannel,0.02,5.9,Tube Slider,Tube Slider,Tube Slider,Tube Slider
+2003,Namco,0.5425,7.95,SoulCalibur II,SoulCalibur II(JP sales),SoulCalibur II(JP sales),R: Racing Evolution
+2003,Natsume,0.223333333,6.6,Harvest Moon: Friends of Mineral Town,CIMA: The Enemy,Harvest Moon: Friends of Mineral Town,Medabots: Infinity
+2003,Nintendo,0.575,7.783333333,Fire Emblem: The Blazing Blade,Hamtaro: Ham-Ham Heartbreak,Advance Wars 2: Black Hole Rising,Pokémon Channel
+2003,Rockstar Games,2.563333333,8.066666667,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,Manhunt,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,Max Payne 2: The Fall of Max Payne
+2003,Sega,0.452,7.84,The Incredible Hulk,Skies of Arcadia Legends,Virtua Fighter 4: Evolution,The Incredible Hulk
+2003,Sierra Entertainment,0.195,6.55,The Hobbit,Homeworld 2,Homeworld 2,The Hobbit
+2003,Sony Computer Entertainment,1.3225,7.675,The Getaway,Arc the Lad: Twilight of the Spirits,Dark Cloud 2,Primal
+2003,TDK Mediactive,0.1,4.64,Corvette,Aquaman: Battle for Atlantis,Jim Henson's the Muppets: On With the Show!,Aquaman: Battle for Atlantis
+2003,THQ,0.690909091,6.645454545,SpongeBob SquarePants: Battle for Bikini Bottom,Buffy the Vampire Slayer: Wrath of the Darkhul King,Sphinx and the Cursed Mummy,Buffy the Vampire Slayer: Wrath of the Darkhul King
+2003,Tecmo,0.375,7.2,Dead or Alive Xtreme Beach Volleyball,Fatal Frame II: Crimson Butterfly,Fatal Frame II: Crimson Butterfly,Dead or Alive Xtreme Beach Volleyball
+2003,Ubisoft,0.531,6.18,Prince of Persia: The Sands of Time,Charlie's Angels,Prince of Persia: The Sands of Time,Charlie's Angels
+2003,Universal Interactive,0.19,7.3,Hulk,Hulk,Hulk,Hulk
+2003,VU Games,5.69,7.7,The Simpsons: Hit & Run,The Simpsons: Hit & Run,The Simpsons: Hit & Run,The Simpsons: Hit & Run
+2003,Vivendi Games,0.61,7.866666667,Crash Bandicoot 2: N-Tranced,Bruce Lee: Return of the Legend,Bruce Lee: Return of the Legend,Crash Bandicoot 2: N-Tranced
+2004,Acclaim Entertainment,0.07,7.5,Worms 3D,Worms 3D,Worms 3D,Worms 3D
+2004,Activision,2.571666667,7.35,Spider-Man 2,Rome: Total War,Rome: Total War,Shrek 2
+2004,Atari,0.319090909,6.418181818,Transformers,Mission: Impossible - Operation Surma,Unreal Tournament 2004,Beyblade G-Revolution
+2004,Atlus,0.08,7.8,Shining Force: Resurrection of the Dark Dragon,Shining Force: Resurrection of the Dark Dragon,Shining Force: Resurrection of the Dark Dragon,Shining Force: Resurrection of the Dark Dragon
+2004,Bandai,0.168,6.46,Ghost in the Shell: Stand Alone Complex,Gundam Seed: Battle Assault,Galactic Wrestling: Featuring Ultimate Muscle,Ghost in the Shell: Stand Alone Complex
+2004,Capcom,0.15,6.625,Mega Man Anniversary Collection,Crimson Tears,Mega Man Anniversary Collection,Crimson Tears
+2004,Codemasters,0.26,7,Second Sight,Second Sight,Second Sight,Second Sight
+2004,Crave Entertainment,0.0375,4.875,Intellivision Lives!,Future Tactics: The Uprising,Future Tactics: The Uprising,Trigger Man
+2004,"Destination Software, Inc",0.02,7.5,Kill.switch,Kill.switch,Kill.switch,Kill.switch
+2004,Disney Interactive Studios,0.415,6.65,Disney's Kim Possible 2: Drakken's Demise,Disney's Home on the Range,Disney's Kim Possible 2: Drakken's Demise,Disney's Home on the Range
+2004,EA Sports,2.43,8.675,Madden NFL 2005,MVP Baseball 2004,Madden NFL 2005,FIFA Soccer 2005
+2004,EA Sports BIG,0.275,8.25,NFL Street,NFL Street 2,NFL Street,NFL Street 2
+2004,Eidos Interactive,0.19,8.1,R-Type Final,R-Type Final,R-Type Final,R-Type Final
+2004,Electronic Arts,2.038888889,6.877777778,Need for Speed Underground 2,The Lord of the Rings: The Third Age,Burnout 3: Takedown,Catwoman
+2004,Empire Interactive,0.06,5.5,Bubble Bobble: Old & New,Bubble Bobble: Old & New,Bubble Bobble: Old & New,Bubble Bobble: Old & New
+2004,Global Star Software,0.02,7.1,Scaler,School Tycoon,Scaler,School Tycoon
+2004,Gotham Games,0.04,6.9,Conflict: Desert Storm II - Back to Bagdhad,Conflict: Desert Storm II - Back to Bagdhad,Conflict: Desert Storm II - Back to Bagdhad,Conflict: Desert Storm II - Back to Bagdhad
+2004,Hip Interactive,0.0575,4.95,Fear Factor: Unleashed,CT Special Forces 2: Back in the Trenches,CT Special Forces 2: Back in the Trenches,Fear Factor: Unleashed
+2004,Interplay,0.68,7.8,Baldur's Gate: Dark Alliance II,Baldur's Gate: Dark Alliance II,Baldur's Gate: Dark Alliance II,Baldur's Gate: Dark Alliance II
+2004,Knowledge Adventure,0.02,6,Barbie as the Princess and the Pauper,Barbie as the Princess and the Pauper,Barbie as the Princess and the Pauper,Barbie as the Princess and the Pauper
+2004,Konami,0.146,6.44,King Arthur,Boktai 2: Solar Boy Django,Boktai 2: Solar Boy Django,Teenage Mutant Ninja Turtles 2: Battle Nexus
+2004,LucasArts,3.61,8.1,Star Wars Battlefront,Star Wars Battlefront,Star Wars Battlefront,Star Wars Battlefront
+2004,Mad Catz,0.2,2.5,MC Groovz Dance Craze,MC Groovz Dance Craze,MC Groovz Dance Craze,MC Groovz Dance Craze
+2004,Majesco,0.053333333,5.733333333,Bomberman Jetters,Bookworm,Bomberman Jetters,Cartoon Network Block Party
+2004,Mastiff,0.01,2.9,Space Raiders,Space Raiders,Space Raiders,Space Raiders
+2004,Microsoft Game Studios,0.105,7,Blinx 2: Masters of Time & Space,Zoo Tycoon 2,Zoo Tycoon 2,Blinx 2: Masters of Time & Space
+2004,Midway Games,1.05,7.5,Mortal Kombat: Deception,Midway Arcade Treasures 2,Shadow Hearts: Covenant,Midway Arcade Treasures 2
+2004,Namco,0.236666667,6.85,Katamari Damacy,Dead to Rights,Katamari Damacy,Dead to Rights
+2004,Natsume,0.79,8.2,Harvest Moon: A Wonderful Life,Harvest Moon: A Wonderful Life,Harvest Moon: A Wonderful Life,Harvest Moon: A Wonderful Life
+2004,Nintendo,0.357647059,6.923529412,Donkey Kong Country 2,Classic NES Series: Metroid,Metroid: Zero Mission,Classic NES Series: Metroid
+2004,O3 Entertainment,0.09,8.3,Alien Hominid,Alien Hominid,Alien Hominid,Alien Hominid
+2004,Sega,0.106,7.78,Feel the Magic XY/XX,Puyo Pop Fever,Astro Boy: Omega Factor,Amazing Island
+2004,Sony Computer Entertainment,1.53,7.75,SingStar,ATV Offroad Fury 3,SingStar,ATV Offroad Fury 3
+2004,Sony Online Entertainment,1.28,8.5,Champions of Norrath,Champions of Norrath,Champions of Norrath,Champions of Norrath
+2004,Square Enix,0.38,7,Final Fantasy XI: Online,Final Fantasy XI: Chains of Promathia,Final Fantasy XI: Chains of Promathia,Final Fantasy XI: Online
+2004,THQ,1.105,5.79,The Incredibles,The Polar Express,WWE Day of Reckoning,The Polar Express
+2004,Tecmo,0.275,8.4,Dead or Alive Ultimate,Fatal Frame II: Crimson Butterfly Director's Cut,Fatal Frame II: Crimson Butterfly Director's Cut,Dead or Alive Ultimate
+2004,The Adventure Company,0.02,7.5,Syberia II,Syberia II,Syberia II,Syberia II
+2004,Ubisoft,0.49,6.68,Tom Clancy's Splinter Cell: Pandora Tomorrow,Advance Guardian Heroes,Prince of Persia: Warrior Within,Asphalt: Urban GT
+2004,VU Games,0.29,6.4,Spyro: A Hero's Tail,Spyro: A Hero's Tail,Spyro: A Hero's Tail,Spyro: A Hero's Tail
+2004,Vivendi Games,0.64,6.7,Crash Bandicoot Purple: Ripto's Rampage,Crash Bandicoot Purple: Ripto's Rampage,Crash Bandicoot Purple: Ripto's Rampage,Crash Bandicoot Purple: Ripto's Rampage
+2005,2K Sports,0.24,7.25,College Hoops 2K6,NHL 2K6,NBA 2K6,College Hoops 2K6
+2005,Activision,1.035714286,6.857142857,Madagascar,Cabela's Dangerous Hunts 2,Tony Hawk's Underground 2 Remix,World Series of Poker
+2005,Agetec,0.066666667,6.966666667,Wild ARMs: Alter Code F,Armored Core: Formula Front Extreme Battle,Wild ARMs: Alter Code F,Armored Core: Formula Front Extreme Battle
+2005,Atari,0.264,6.74,The Matrix: Path of Neo,Act of War: Direct Action,Act of War: Direct Action,Backyard NFL Football 2006
+2005,Atlus,0.161666667,7.633333333,Trauma Center: Under the Knife,Shin Megami Tensei: Digital Devil Saga 2,Riviera: The Promised Land,Magna Carta: Tears of Blood
+2005,BAM! Entertainment,0,6.8,A Sound of Thunder,A Sound of Thunder,A Sound of Thunder,A Sound of Thunder
+2005,Bandai,0.0675,5.875,Digimon World 4,Zatch Bell! Electric Arena,Zatch Bell! Mamodo Battles,Zatch Bell! Electric Arena
+2005,Buena Vista,0.7275,6.025,Disney's Chicken Little,Disney's Cinderella: Magical Dreams,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",Herbie: Fully Loaded
+2005,Capcom,0.26125,6.8,Phoenix Wright: Ace Attorney,Disney's Magical Quest 3 Starring Mickey and Donald,Phoenix Wright: Ace Attorney,Resident Evil Outbreak File #2
+2005,Crave Entertainment,0.163333333,5.9,Pinball Hall of Fame: The Gottlieb Collection,The Bible Game,Pinball Hall of Fame: The Gottlieb Collection,The Bible Game
+2005,DSI Games,0.035,4.5,Big Mutha Truckers,Gauntlet / Rampart,Big Mutha Truckers,Gauntlet / Rampart
+2005,"Destination Software, Inc",0.07,5.6,Centipede / Breakout / Warlords,Centipede / Breakout / Warlords,Centipede / Breakout / Warlords,Centipede / Breakout / Warlords
+2005,Disney Interactive Studios,0.46,9,Disney's Kim Possible 3: Team Possible,Disney's Kim Possible 3: Team Possible,Disney's Kim Possible 3: Team Possible,Disney's Kim Possible 3: Team Possible
+2005,DreamCatcher Interactive,0.07,6.8,Obscure,Obscure,Obscure,Obscure
+2005,EA Sports,1.864285714,7.357142857,Madden NFL 06,FIFA 06: Road to FIFA World Cup,MVP Baseball 2005,FIFA 06: Road to FIFA World Cup
+2005,EA Sports BIG,0.23,8.2,SSX on Tour,SSX on Tour,SSX on Tour,SSX on Tour
+2005,Eidos Interactive,7.26,7.4,LEGO Star Wars: The Video Game,LEGO Star Wars: The Video Game,LEGO Star Wars: The Video Game,LEGO Star Wars: The Video Game
+2005,Electronic Arts,1.0465,7,Need for Speed: Most Wanted,The Sims 2 Holiday Edition,Half-Life 2,The Sims 2 Holiday Edition
+2005,Global Star Software,0.09,5.35,Charlie and the Chocolate Factory,Mall Tycoon 3,Mall Tycoon 3,Charlie and the Chocolate Factory
+2005,Hot-B,0.03,7.2,Graffiti Kingdom,Graffiti Kingdom,Graffiti Kingdom,Graffiti Kingdom
+2005,Ignition Entertainment,0.253333333,5.433333333,Archer Maclean's Mercury,Elf Bowling 1 & 2,Archer Maclean's Mercury,Elf Bowling 1 & 2
+2005,Kemco,0.02,4.9,Top Gear RPM Tuning,Top Gear RPM Tuning,Top Gear RPM Tuning,Top Gear RPM Tuning
+2005,Konami,0.650833333,6.658333333,World Soccer Winning Eleven 8 International,Rave Master,World Soccer Winning Eleven 8 International,TMNT: Mutant Melee
+2005,Lionhead Studios,0.04,8.2,The Movies,The Movies,The Movies,The Movies
+2005,LucasArts,4.81,6.9,Star Wars Battlefront II,Star Wars Battlefront II,Star Wars Battlefront II,Star Wars Battlefront II
+2005,Majesco,0.156666667,8.033333333,Psychonauts,Phantom Dust,Psychonauts,Infected
+2005,Microsoft Game Studios,0.545714286,8.314285714,Forza Motorsport,Zoo Tycoon 2: Endangered Species,Forza Motorsport,Zoo Tycoon 2: Endangered Species
+2005,Midway Games,0.604285714,6.285714286,Blitz: The League,Midway Arcade Treasures 3,Mortal Kombat: Shaolin Monks,"Ed, Edd n Eddy: The Mis-Edventures"
+2005,NIS America,0.135,7.55,Atelier Iris: Eternal Mana,Makai Kingdom: Chronicles of the Sacred Tome,Makai Kingdom: Chronicles of the Sacred Tome,Atelier Iris: Eternal Mana
+2005,Namco,0.238,7.09,Namco Museum Battle Collection,Hugo: The Evil Mirror,We Love Katamari,Dead to Rights: Reckoning
+2005,Natsume,0.22,7.85,Harvest Moon: Another Wonderful Life,Harvest Moon: More Friends of Mineral Town,Harvest Moon: More Friends of Mineral Town,Harvest Moon: Another Wonderful Life
+2005,Nintendo,0.488947368,7.373684211,Donkey Kong Jungle Beat,Dance Dance Revolution: Mario Mix (JP sales),Advance Wars: Dual Strike,Dynasty Warriors Advance
+2005,Rockstar Games,5.946666667,8.233333333,Grand Theft Auto: Liberty City Stories,Grand Theft Auto: San Andreas,Grand Theft Auto: San Andreas,Midnight Club 3: DUB Edition
+2005,Sega,0.418,6.44,Shadow The Hedgehog,Virtua Quest,Gunstar Super Heroes,Shadow The Hedgehog
+2005,Sony Computer Entertainment,0.652777778,7.127777778,Shadow of the Colossus,F1 Grand Prix,Shadow of the Colossus,Gretzky NHL 06
+2005,Sony Online Entertainment,0.606666667,6.533333333,Untold Legends: Brotherhood of the Blade,Frantix,Champions: Return to Arms,Frantix
+2005,Square Enix,0.61,8.6,Final Fantasy IV Advance,Final Fantasy IV Advance,Final Fantasy IV Advance,Final Fantasy IV Advance
+2005,THQ,0.7275,6.5875,WWE SmackDown! vs. Raw 2006,Banjo-Pilot,WWE SmackDown! vs. Raw 2006,The Fairly Odd Parents: Clash with the Anti-World
+2005,Tecmo,0.085,8.6,Ninja Gaiden Black,Fatal Frame III: The Tormented,Ninja Gaiden Black,Fatal Frame III: The Tormented
+2005,Tecmo Koei,0.51,6.6,Dynasty Warriors,Dynasty Warriors,Dynasty Warriors,Dynasty Warriors
+2005,The Adventure Company,0,6.4,Still Life,Still Life,Still Life,Still Life
+2005,Ubisoft,0.321666667,6.241666667,Tom Clancy's Splinter Cell: Chaos Theory,"Crouching Tiger, Hidden Dragon",Prince of Persia: The Two Thrones,Dogz
+2005,VU Games,0.1425,6.875,Crash Tag Team Racing,Empire Earth II,The Incredible Hulk: Ultimate Destruction,Robots
+2006,2K Games,0.275,6.85,Prey,Family Guy,Prey,Family Guy
+2006,2K Sports,0.812,7.02,NBA 2K7,NHL 2K7,NBA 2K7,Top Spin 2
+2006,Activision,1.846666667,5.477777778,Call of Duty 3,Greg Hastings' Tournament Paintball Max'd,Activision Hits: Remixed,Greg Hastings' Tournament Paintball Max'd
+2006,Aspyr,0,7.8,Dreamfall: The Longest Journey,Dreamfall: The Longest Journey,SpellForce 2: Shadow Wars,Dreamfall: The Longest Journey
+2006,Atari,0.186,7.28,Test Drive Unlimited,Act of War: High Treason,Neverwinter Nights 2,Tycoon City: New York
+2006,Atlus,0.088333333,6.8,Trauma Center: Second Opinion,Battle B-Daman,Trauma Center: Second Opinion,Rule of Rose
+2006,Bethesda Softworks,0.2,5.3,Star Trek: Legacy,Star Trek: Legacy,Star Trek: Legacy,Star Trek: Legacy
+2006,Buena Vista,0.8475,6.2,Hannah Montana,Disney's Chicken Little: Ace In Action,Lumines ll,Pirates of the Caribbean: Dead Man's Chest
+2006,Capcom,0.24,7.53,Mega Man X Collection,Capcom Classics Mini Mix,Mega Man Powered Up,Capcom Classics Mini Mix
+2006,Codemasters,0.01,6.2,LMA Manager 2007,LMA Manager 2007,LMA Manager 2007,LMA Manager 2007
+2006,Crave Entertainment,0.136666667,5,Puzzle Challenge: Crosswords and More!,Dave Mirra BMX Challenge,Puzzle Challenge: Crosswords and More!,Dave Mirra BMX Challenge
+2006,D3 Publisher,1.04,7.4,Naruto: Clash of Ninja 2,Naruto: Clash of Ninja 2,Naruto: Clash of Ninja 2,Naruto: Clash of Ninja 2
+2006,DTMC,0,7.8,Championship Manager 2006,Championship Manager 2006,Championship Manager 2006,Championship Manager 2006
+2006,EA Sports,2.312,6.71,FIFA 07 Soccer,FIFA World Cup: Germany 2006,NCAA Football 07,FIFA World Cup: Germany 2006
+2006,EA Sports BIG,0.205,5.8,NFL Street 3,FIFA Street 2,NFL Street 3,FIFA Street 2
+2006,Eidos Interactive,0.53,6.34,Tomb Raider: Legend,Reservoir Dogs,Hitman: Blood Money,Bionicle Heroes
+2006,Electronic Arts,1.656,6.4,Need for Speed Carbon,The Lord of the Rings: The Battle for Middle-Earth II,Def Jam Fight For NY: The Takeover,Superman Returns
+2006,KOEI,0.45,6.066666667,Samurai Warriors 2,Samurai Warriors: State of War,Samurai Warriors: State of War,Samurai Warriors 2
+2006,King Games,0,6.7,Big Bumpin',Big Bumpin',Big Bumpin',Big Bumpin'
+2006,Konami,0.55625,7.35,World Soccer Winning Eleven 9,Pocket Racers,Metal Gear Solid 3: Subsistence,Bomberman: Act Zero
+2006,LucasArts,3.76,6.15,LEGO Star Wars II: The Original Trilogy,Thrillville,Thrillville,LEGO Star Wars II: The Original Trilogy
+2006,Majesco,1.5075,5.925,Cooking Mama,Dino Master: Dig Discover Duel,Guilty Gear Judgment,Dino Master: Dig Discover Duel
+2006,Mastiff,0.01,6.7,Dr. Sudoku,Dr. Sudoku,Dr. Sudoku,Dr. Sudoku
+2006,Microsoft,0.07,7.4,Xbox Live Arcade Unplugged Volume 1,Xbox Live Arcade Unplugged Volume 1,Xbox Live Arcade Unplugged Volume 1,Xbox Live Arcade Unplugged Volume 1
+2006,Microsoft Game Studios,0.11,6.2,N3: Ninety-Nine Nights,Zoo Tycoon 2: African Adventure,Rise of Nations: Rise of Legends,Zoo Tycoon 2: African Adventure
+2006,Midway Games,0.398333333,6.683333333,Mortal Kombat: Armageddon,The Ant Bully,NBA Ballers: Rebound,The Ant Bully
+2006,NCSoft,0.02,8.3,Guild Wars: Nightfall,Guild Wars: Factions,Guild Wars: Factions,Guild Wars: Nightfall
+2006,NIS America,0.15,6.866666667,Disgaea 2: Cursed Memories,Atelier Iris 2: The Azoth Of Destiny,Disgaea 2: Cursed Memories,Generation of Chaos
+2006,Namco,0.195,6.9,Me & My Katamari,Curious George,Me & My Katamari,Curious George
+2006,Namco Bandai,0.08,4.6,Shonen Jump's One Piece: Pirates Carnival,Shonen Jump's One Piece: Pirates Carnival,Shonen Jump's One Piece: Pirates Carnival,Shonen Jump's One Piece: Pirates Carnival
+2006,Natsume,0.275,6.1,Harvest Moon: Magical Melody,Ruff Trigger: The Vanocore Conspiracy,Harvest Moon: Magical Melody,Ruff Trigger: The Vanocore Conspiracy
+2006,Nintendo,0.224545455,7.063636364,Excite Truck,bit Generations: Boundish,Final Fantasy V Advance,bit Generations: Boundish
+2006,RedOctane,7.33,9.2,Guitar Hero II,Guitar Hero II,Guitar Hero II,Guitar Hero II
+2006,Rockstar Games,3.545,7.6,Grand Theft Auto: Vice City Stories,Rockstar Games presents Table Tennis,Grand Theft Auto: Vice City Stories,Rockstar Games presents Table Tennis
+2006,Sega,0.41375,7.5375,Sega Genesis Collection,Football Manager 2006,Worldwide Soccer Manager 2007,Full Auto 2: Battlelines
+2006,Sierra Entertainment,0.5725,5.525,Ice Age 2: The Meltdown,Scarface: Money. Power. Respect.,The Legend of Spyro: A New Beginning,Eragon
+2006,Sony Computer Entertainment,0.489285714,7.114285714,SOCOM: U.S. Navy SEALs Fireteam Bravo 2,Ape Academy 2,Syphon Filter: Dark Mirror,Gangs of London
+2006,Sony Online Entertainment,0.245,7.25,Untold Legends: The Warriors Code,Field Commander,Field Commander,Untold Legends: The Warriors Code
+2006,Square Enix,0.97,5.8,Dirge of Cerberus: Final Fantasy VII,Dirge of Cerberus: Final Fantasy VII,Dirge of Cerberus: Final Fantasy VII,Dirge of Cerberus: Final Fantasy VII
+2006,THQ,0.741333333,6.42,WWE SmackDown vs. RAW 2007,"Warhammer 40,000: Dawn of War - Dark Crusade",Company of Heroes,Alex Rider: Stormbreaker
+2006,Tecmo,0.25,5.3,Dead or Alive Xtreme 2,Dead or Alive Xtreme 2,Dead or Alive Xtreme 2,Dead or Alive Xtreme 2
+2006,Ubisoft,0.577368421,5.957894737,Tom Clancy's Rainbow Six: Vegas,Dark Messiah Might and Magic,Far Cry Instincts Predator,GT Pro Series
+2006,Vivendi Games,0.215,7.05,F.E.A.R.,50 Cent: Bulletproof,F.E.A.R.,50 Cent: Bulletproof
+2006,Warner Bros. Interactive,0.03,8,Justice League Heroes: The Flash,Justice League Heroes: The Flash,Justice League Heroes: The Flash,Justice League Heroes: The Flash
+2006,Xseed Games,0.14,7.1,Shadow Hearts: From The New World,Shadow Hearts: From The New World,Shadow Hearts: From The New World,Wild ARMs 4
+2007,2K Games,0.885,7.566666667,BioShock,Jade Empire: Special Edition,BioShock,Ghost Rider
+2007,2K Sports,0.1875,7.475,MLB Power Pros,Major League Baseball 2K7,MLB Power Pros,Major League Baseball 2K7
+2007,AQ Interactive,0.21,3.9,Vampire Rain,Vampire Rain,Vampire Rain,Vampire Rain
+2007,Activision,3.5,5.725,Call of Duty 4: Modern Warfare,Barbie as The Island Princess,Call of Duty 4: Modern Warfare,Transformers: The Game
+2007,Aksys Games,0.01,5.6,Hoshigami: Ruining Blue Earth Remix,Hoshigami: Ruining Blue Earth Remix,Hoshigami: Ruining Blue Earth Remix,Hoshigami: Ruining Blue Earth Remix
+2007,Aspyr,0.13,5.7,Supreme Commander,Supreme Commander,Supreme Commander,Supreme Commander
+2007,Atari,0.211428571,5.642857143,Dragon Ball Z: Budokai Tenkaichi 3,Neverwinter Nights 2: Mask of the Betrayer,Neverwinter Nights 2: Mask of the Betrayer,Jenga World Tour
+2007,Atlus,0.311666667,7.466666667,Odin Sphere,Izuna: Legend of the Unemployed Ninja,Shin Megami Tensei: Persona 3,Izuna: Legend of the Unemployed Ninja
+2007,Bethesda Softworks,2.71,8.133333333,The Elder Scrolls IV: Oblivion,Star Trek: Conquest,The Elder Scrolls IV: Oblivion,Star Trek: Conquest
+2007,Capcom,0.382,7.84,Phoenix Wright: Ace Attorney - Trials and Tribulations,Capcom Puzzle World,Zack & Wiki: Quest for Barbaros' Treasure,Capcom Puzzle World
+2007,Codemasters,0.501666667,6.316666667,DiRT,Brian Lara International Cricket 2007,DiRT,Hospital Tycoon
+2007,Crave Entertainment,0.16,4.775,Spelling Challenges and more!,Napoleon Dynamite: The Game,Brunswick Pro Bowling,Hard Rock Casino
+2007,D3 Publisher,0.06,7.5,Earth Defense Force 2017,Dead Head Fred,Dead Head Fred,Earth Defense Force 2017
+2007,"Destination Software, Inc",0.35,3,Chicken Shoot,Chicken Shoot,Chicken Shoot,Chicken Shoot
+2007,Destineer,0.15,7.5,WordJong,WordJong,WordJong,WordJong
+2007,Disney Interactive Studios,1.034,6.64,High School Musical: Makin' the Cut!,Meteos: Disney Magic,High School Musical: Makin' the Cut!,Pirates of the Caribbean: At World's End
+2007,DreamCatcher Interactive,0,3,The Mark,The Mark,The Mark,The Mark
+2007,EA Sports,3.13,7.6,Madden NFL 08,FIFA Soccer 08,FIFA Soccer 08,Madden NFL 08
+2007,Eidos Interactive,0.641666667,6.333333333,Tomb Raider: Anniversary,Battlestations: Midway,Battlestations: Midway,Pocket Pool
+2007,Electronic Arts,1.876428571,6.95,MySims,The Godfather: Blackhand Edition,Mass Effect,Harry Potter and the Order of the Phoenix
+2007,Focus Home Interactive,0,6,Sherlock Holmes: The Awakened,Sherlock Holmes: The Awakened,Sherlock Holmes: The Awakened,Sherlock Holmes: The Awakened
+2007,Game Factory,0.03,2.9,Legend of the Dragon,Legend of the Dragon,Legend of the Dragon,Legend of the Dragon
+2007,Gamecock,0.17,7.5,Dementium: The Ward,Dementium: The Ward,Dementium: The Ward,Dementium: The Ward
+2007,Global Star Software,4.06,4.2,Carnival Games,Carnival Games,Carnival Games,Carnival Games
+2007,Got Game Entertainment,0,6.9,Penumbra: Overture,Penumbra: Overture,Penumbra: Overture,Penumbra: Overture
+2007,Ignition Entertainment,0.17,8,Mercury Meltdown Revolution,Mercury Meltdown Revolution,Mercury Meltdown Revolution,Mercury Meltdown Revolution
+2007,KOEI,0.37,5.8,Bladestorm: The Hundred Years' War,Bladestorm: The Hundred Years' War,Bladestorm: The Hundred Years' War,Bladestorm: The Hundred Years' War
+2007,Konami,1.06,7.257142857,Winning Eleven: Pro Evolution Soccer 2007,Winx Club: Join the Club,Lunar Knights,Winx Club: Join the Club
+2007,LucasArts,4.806666667,7.8,LEGO Star Wars: The Complete Saga,Thrillville: Off the Rails,Thrillville: Off the Rails,Star Wars Battlefront: Renegade Squadron
+2007,MTV Games,7.28,8.1,Rock Band,Rock Band,Rock Band,Rock Band
+2007,Majesco,2.18,5.866666667,Cooking Mama 2: Dinner With Friends,Kengo: Legend of The 9,Cooking Mama 2: Dinner With Friends,Kengo: Legend of The 9
+2007,Mastiff,0.01,7.4,Gurumin: A Monstrous Adventure,Gurumin: A Monstrous Adventure,Gurumin: A Monstrous Adventure,Gurumin: A Monstrous Adventure
+2007,Microsoft,0.245,6.2,Tenchu Z,Project Sylpheed: Arc of Deception,Project Sylpheed: Arc of Deception,Tenchu Z
+2007,Microsoft Game Studios,0.872222222,7.611111111,Forza Motorsport 2,Zoo Tycoon 2: Extinct Animals,Forza Motorsport 2,Viva Pinata: Party Animals
+2007,Midway Games,1.196666667,6.483333333,Game Party,Ultimate Mortal Kombat,Stranglehold,Game Party
+2007,Mumbo Jumbo,0.08,5.4,7 Wonders of the Ancient World,7 Wonders of the Ancient World,7 Wonders of the Ancient World,7 Wonders of the Ancient World
+2007,NIS America,0.134,6.7,Atelier Iris 3: Grand Phantasm (US Sales),Aedis Eclipse: Generation of Chaos,Disgaea: Afternoon of Darkness,Dragoneer's Aria
+2007,Namco Bandai,0.45,6.285714286,Time Crisis 4,.hack//G.U. Vol.3//Redemption,Eternal Sonata,SoulCalibur Legends
+2007,Natsume,0.1975,6.25,Rune Factory: A Fantasy Harvest Moon,MetropolisMania 2,Rune Factory: A Fantasy Harvest Moon,MetropolisMania 2
+2007,Nintendo,0.346363636,7.9,Donkey Kong Barrel Blast,Kirby's Adventure,Final Fantasy VI Advance,Donkey Kong Barrel Blast
+2007,Nippon Ichi Software,0.1,7,Ar tonelico: Melody of Elemia,Ar tonelico: Melody of Elemia,Ar tonelico: Melody of Elemia,Ar tonelico: Melody of Elemia
+2007,Red Mile Entertainment,0.22,5.6,Jackass the Game,Jackass the Game,Jackass the Game,Jackass the Game
+2007,RedOctane,16.36,8.2,Guitar Hero III: Legends of Rock,Guitar Hero III: Legends of Rock,Guitar Hero III: Legends of Rock,Guitar Hero III: Legends of Rock
+2007,Rockstar Games,0.41,6.95,Manhunt 2,The Warriors,The Warriors,Manhunt 2
+2007,Sega,0.546923077,6.784615385,Sonic Rivals 2,After Burner: Black Falcon,Virtua Fighter 5 Online,The Golden Compass
+2007,Sierra Entertainment,0.275,7.016666667,Crash of the Titans,World in Conflict,World in Conflict,Empire Earth III
+2007,Sony Computer Entertainment,1.104166667,7.8,Uncharted: Drake's Fortune,NBA 08,Uncharted: Drake's Fortune,Lair
+2007,SouthPeak Interactive,0.02,7.4,Two Worlds,Two Worlds,Two Worlds,Two Worlds
+2007,Square Enix,0.32,6.5,Final Fantasy XI: Wings of the Goddess,Final Fantasy XI: Wings of the Goddess,Final Fantasy XI: Wings of the Goddess,Final Fantasy XI: Wings of the Goddess
+2007,THQ,1.141111111,7.111111111,Ratatouille,Titan Quest: Immortal Throne,Titan Quest: Immortal Throne,Ratatouille
+2007,Tommo,0.06,2,Spy Games: Elevator Mission,Spy Games: Elevator Mission,Spy Games: Elevator Mission,Spy Games: Elevator Mission
+2007,UFO Interactive,0.07,1.5,Anubis II,Anubis II,Anubis II,Anubis II
+2007,Ubisoft,1.426666667,5.766666667,Assassin's Creed,Driver: Parallel Lines,Naruto: Rise of a Ninja,Imagine: Fashion Designer
+2007,Warner Bros. Interactive,0.355,5.65,300: March to Glory,Looney Tunes: Duck Amuck,Looney Tunes: Duck Amuck,300: March to Glory
+2007,Xseed Games,0.1925,6.5,Wild ARMs 5,Brave Story: New Traveler (US sales),Brave Story: New Traveler (US sales),Valhalla Knights
+2008,2K Games,1.155,6.1,Sid Meier's Civilization Revolution,Don King Presents: Prizefighter,Sid Meier's Civilization Revolution,Don King Presents: Prizefighter
+2008,2K Sports,1.153333333,7.1,NBA 2K9,Major League Baseball 2K8,Top Spin 3,Major League Baseball 2K8
+2008,505 Games,0.05,4.5,Battle Fantasia,A-Train HX,Battle Fantasia,A-Train HX
+2008,Activision,3.551818182,6.563636364,Call of Duty: World at War,NPPL Championship Paintball 2009,Guitar Hero: World Tour,Crash: Mind Over Mutant
+2008,Agetec,0.04,7,Fading Shadows,Fading Shadows,Fading Shadows,Fading Shadows
+2008,Aksys Games,0.05,7.25,From The Abyss,Castle of Shikigami III,From The Abyss,Castle of Shikigami III
+2008,Atari,0.342857143,6.657142857,Dragon Ball Z: Burst Limit,King's Bounty: The Legend,King's Bounty: The Legend,Alone In The Dark
+2008,Atlus,0.1725,7.125,Shin Megami Tensei: Persona 3 FES,Izuna 2: The Unemployed Ninja Returns,Shin Megami Tensei: Persona 3 FES,Baroque
+2008,Bethesda Softworks,5.525,8.1,Fallout 3,Command & Conquer: Red Alert 3,Fallout 3,Command & Conquer: Red Alert 3
+2008,Capcom,0.98,7.42,Devil May Cry 4,Lost Planet: Extreme Condition Colonies Edition,Devil May Cry 4,Lost Planet: Extreme Condition
+2008,Codemasters,0.906666667,5.733333333,GRID,Turning Point: Fall of Liberty,GRID,Turning Point: Fall of Liberty
+2008,Conspiracy Entertainment,0.06,6.7,Octomania,Octomania,Octomania,Octomania
+2008,Crave Entertainment,0.155,5.95,World Championship Cards,Pinball Hall of Fame: The Williams Collection,Pinball Hall of Fame: The Williams Collection,World Championship Cards
+2008,D3 Publisher,0.543333333,6.9,Dark Sector,Bangai-O Spirits,Bangai-O Spirits,Ben 10: Alien Force
+2008,Destineer,0.1,4.05,Iron Chef America: Supreme Cuisine,Animal Boxing,Animal Boxing,Iron Chef America: Supreme Cuisine
+2008,Disney Interactive Studios,1.8,6.9,Pure,The Chronicles of Narnia: Prince Caspian,Spectrobes: Beyond the Portals,The Chronicles of Narnia: Prince Caspian
+2008,EA Sports,2.111666667,6.516666667,FIFA Soccer 09,NCAA Football 09 All-Play,FIFA Soccer 09,Tiger Woods PGA Tour 09
+2008,Eidos Interactive,0.8575,6.45,Tomb Raider: Underworld,Soul Bubbles,Death Jr.: Root of Evil,Conflict: Denied Ops
+2008,Electronic Arts,1.628125,7.28125,Need for Speed: Undercover,Madden NFL 09 All-Play (weekly US sales),NHL 09,Need for Speed: Undercover
+2008,Gamecock,0.18,5.1,Legendary,Stronghold Crusader Extreme,Hail to the Chimp,Legendary
+2008,"Genius Products, Inc.",0.08,5,Line Rider 2: Unbound,Line Rider 2: Unbound,Line Rider 2: Unbound,Line Rider 2: Unbound
+2008,Hudson Entertainment,0.12,6.05,Bomberman Land,Dungeon Explorer: Warriors of Ancient Arts,Dungeon Explorer: Warriors of Ancient Arts,Bomberman Land
+2008,Ignition Entertainment,0.1,5.2,Metal Slug 7,Vampire Rain: Altered Species,Metal Slug 7,Vampire Rain: Altered Species
+2008,JoWood Productions,0,4.4,Gothic 3: Forsaken Gods,Gothic 3: Forsaken Gods,Gothic 3: Forsaken Gods,Gothic 3: Forsaken Gods
+2008,KOEI,0.27,5.825,Warriors Orochi 2,Opoona,Opoona,Warriors Orochi 2
+2008,Koch Media,0.03,7,S.T.A.L.K.E.R.: Clear Sky,S.T.A.L.K.E.R.: Clear Sky,S.T.A.L.K.E.R.: Clear Sky,S.T.A.L.K.E.R.: Clear Sky
+2008,Konami,1.47,6.825,Pro Evolution Soccer 2008,New International Track & Field,Metal Gear Solid: The Essential Collection,Rock Revolution
+2008,Konami Digital Entertainment,0,8.1,Metal Gear Online,Metal Gear Online,Metal Gear Online,Metal Gear Online
+2008,LucasArts,5.583333333,6.1,LEGO Indiana Jones: The Original Adventures,Fracture,LEGO Indiana Jones: The Original Adventures,Fracture
+2008,MTV Games,2.77,7.3,Rock Band 2,AC/DC LIVE: Rock Band Track Pack,Rock Band 2,AC/DC LIVE: Rock Band Track Pack
+2008,Majesco,0.075,7.5,"Blast Works: Build, Trade, Destroy",Air Traffic Chaos,"Blast Works: Build, Trade, Destroy",Air Traffic Chaos
+2008,Microsoft,0.48,5.1,You're in the Movies,You're in the Movies,You're in the Movies,You're in the Movies
+2008,Microsoft Game Studios,0.62,7.457142857,Lost Odyssey,Banjo-Kazooie,Viva Pinata: Trouble in Paradise,Too Human
+2008,Midway Games,1.84,6.4,Mortal Kombat vs DC Universe,Blitz: The League II,Mortal Kombat vs DC Universe,TNA iMPACT!
+2008,Mumbo Jumbo,0.02,3.5,Chicken Hunter,Chicken Hunter,Chicken Hunter,Chicken Hunter
+2008,NIS America,0.2075,7.25,Disgaea 3: Absence of Justice,Mana Khemia: Alchemists of Al-Revis (JP sales),Disgaea DS,Mana Khemia: Alchemists of Al-Revis
+2008,Namco Bandai,0.58,7.34,Tales of Vesperia,Culdcept SAGA,Tales of Vesperia,Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress
+2008,Namco Bandai Games,0.01,8.4,Soul Calibur IV,Soul Calibur IV,Soul Calibur IV,Soul Calibur IV
+2008,Natsume,0.52,7.9,Rune Factory 2: A Fantasy Harvest Moon,Rune Factory 2: A Fantasy Harvest Moon,Rune Factory 2: A Fantasy Harvest Moon,Rune Factory 2: A Fantasy Harvest Moon
+2008,Nintendo,0.4375,7.15,Endless Ocean,Captain Rainbow,Advance Wars: Days of Ruin,Disaster: Day of Crisis
+2008,O~3 Entertainment,0.04,6.8,Chaos Wars,Chaos Wars,Chaos Wars,Chaos Wars
+2008,Paradox Interactive,0.02,7.2,Mount & Blade,Mount & Blade,Mount & Blade,Mount & Blade
+2008,Rockstar Games,7.51,7.875,Grand Theft Auto IV,Midnight Club: LA Remix,Grand Theft Auto IV,Bully: Scholarship Edition
+2008,SNK Playmore,0.15,6.7,SNK Arcade Classics Vol. 1,SNK Arcade Classics Vol. 1,SNK Arcade Classics Vol. 1,SNK Arcade Classics Vol. 1
+2008,Sega,1.573571429,6.2,Sega Superstars Tennis,Space Siege,Condemned 2: Bloodshot,Golden Axe: Beast Rider
+2008,Sierra Entertainment,0.39,7.6,Robert Ludlum's The Bourne Conspiracy,Robert Ludlum's The Bourne Conspiracy,Robert Ludlum's The Bourne Conspiracy,Robert Ludlum's The Bourne Conspiracy
+2008,Sony Computer Entertainment,0.555,7.65625,SOCOM: U.S. Navy SEALs Confrontation,Buzz! Brain Bender,Patapon,SOCOM: U.S. Navy SEALs Confrontation
+2008,SouthPeak Interactive,0.18,7.3,Mushroom Men: The Spore Wars,Mushroom Men: The Spore Wars,Mushroom Men: The Spore Wars,Mushroom Men: The Spore Wars
+2008,Square Enix,0.605,7.65,Kingdom Hearts Re: Chain of Memories,Space Invaders Extreme,Space Invaders Extreme,Kingdom Hearts Re: Chain of Memories
+2008,THQ,1.114,6.42,Saints Row 2,"Warhammer 40,000: Dawn of War: Soulstorm",Age of Empires: Mythologies,Destroy All Humans! Path of the Furon
+2008,Take-Two Interactive,0.03,9,World of Goo,World of Goo,World of Goo,World of Goo
+2008,The Adventure Company,0.15,7.1,Sam & Max: Season One,Sam & Max: Season One,Sam & Max: Season One,Sam & Max: Season One
+2008,Touchstone,0.75,6.6,Turok,Turok,Turok,Turok
+2008,Ubisoft,1.092173913,6.447826087,Tom Clancy's Rainbow Six: Vegas 2,Brothers in Arms: Hell's Highway,Far Cry 2,Petz: Crazy Monkeyz
+2008,Valve,0,9.2,Team Fortress 2,Team Fortress 2,Team Fortress 2,Team Fortress 2
+2008,Warner Bros. Interactive,6.92,7.25,LEGO Batman: The Videogame,FlatOut: Head On,FlatOut: Head On,LEGO Batman: The Videogame
+2008,Xseed Games,0.23,5,Valhalla Knights 2,Valhalla Knights 2,Valhalla Knights 2,Valhalla Knights 2
+2009,2K Games,5.77,8.2,Borderlands,Borderlands,Borderlands,Borderlands
+2009,2K Sports,0.92,5.975,NBA 2K10,Major League Baseball 2K9,NHL 2K10,NBA 2K10
+2009,505 Games,0.94,5,IL-2 Sturmovik: Birds of Prey,IL-2 Sturmovik: Birds of Prey,IL-2 Sturmovik: Birds of Prey,IL-2 Sturmovik: Birds of Prey
+2009,Activision,2.613181818,6.572727273,Call of Duty: Modern Warfare 2,Chaotic: Shadow Warriors,Call of Duty: Modern Warfare 2,Transformers: Revenge of the Fallen
+2009,Agetec,0.52,6.5,Way of the Samurai 3,Way of the Samurai 3,Way of the Samurai 3,Way of the Samurai 3
+2009,Aksys Games,0.48,7.75,BlazBlue: Calamity Trigger,Guilty Gear XX Accent Core Plus,BlazBlue: Calamity Trigger,Guilty Gear XX Accent Core Plus
+2009,Aspyr,0.015,8,Men of War,Cryostasis: Sleep of Reason,Men of War,Cryostasis: Sleep of Reason
+2009,Atari,0.765,6.475,Ghostbusters: The Video Game,Demigod,The Chronicles of Riddick: Assault on Dark Athena,Ready 2 Rumble Revolution
+2009,Atlus,0.136666667,6.95,Kenka Bancho: Badass Rumble,Crimson Gem Saga,Knights in the Nightmare,Class of Heroes
+2009,Bethesda Softworks,0.68,4.7,Wet,Rogue Warrior,Wet,Rogue Warrior
+2009,CDV Software Entertainment,1.15,7,Sacred 2: Fallen Angel,Sacred 2: Fallen Angel,Sacred 2: Fallen Angel,Sacred 2: Fallen Angel
+2009,Capcom,2.044444444,7.177777778,Resident Evil 5,Fate/Unlimited Codes Portable,Street Fighter IV,Mega Man Star Force 3: Black Ace / Red Joker
+2009,Codemasters,1.017142857,6,DiRT 2,Damnation,Operation Flashpoint: Dragon Rising,Damnation
+2009,Conspiracy Entertainment,0.64,7.4,Real Heroes: Firefighter,Real Heroes: Firefighter,Real Heroes: Firefighter,Real Heroes: Firefighter
+2009,D3 Publisher,0.305,4.85,Astro Boy: The Video Game,Eat Lead: The Return of Matt Hazard,Eat Lead: The Return of Matt Hazard,Astro Boy: The Video Game
+2009,Deep Silver,0.27,6.1,Risen,Cursed Mountain,Cursed Mountain,Risen
+2009,Destineer,0.04,8.6,Stoked: Big Air Edition,Stoked: Big Air Edition,Stoked: Big Air Edition,Stoked: Big Air Edition
+2009,Disney Interactive Studios,0.8475,7.05,G-Force,Pure (JP sales),Spectrobes: Origins,Disney Sing It: Pop Hits
+2009,DreamCatcher Interactive,0.1,6,Agatha Christie: The ABC Murders,Agatha Christie: The ABC Murders,Agatha Christie: The ABC Murders,Agatha Christie: The ABC Murders
+2009,EA Sports,3.03,7.766666667,FIFA Soccer 10,NBA Live 10,NHL 10,NBA Live 10
+2009,Eidos Interactive,2.873333333,6.533333333,Batman: Arkham Asylum,ShellShock 2: Blood Trails,Batman: Arkham Asylum,ShellShock 2: Blood Trails
+2009,Electronic Arts,1.6352,7.084,The Sims 3,Burnout Paradise: The Ultimate Box,Henry Hatsworth in the Puzzling Adventure,G.I. Joe: The Rise of Cobra
+2009,Encore,0.02,7.3,Still Life 2,Still Life 2,Still Life 2,Still Life 2
+2009,From Software,0.03,5.8,Armored Core SL: Silent Line Portable,Armored Core SL: Silent Line Portable,Armored Core SL: Silent Line Portable,Armored Core SL: Silent Line Portable
+2009,Graffiti,0.0525,5.425,Rogue Trooper: Quartz Zone Massacre,C.O.R.E.,Rogue Trooper: Quartz Zone Massacre,Air Conflicts: Aces of World War II
+2009,Hudson Entertainment,0.1,5.5,Miami Law,Miami Law,Miami Law,Miami Law
+2009,Ignition Entertainment,0.223333333,6.566666667,The King of Fighters XII,Nostalgia,Nostalgia,The King of Fighters XII
+2009,KOEI,0.58,6.3,Dynasty Warriors 6 Empires,Dynasty Warriors 6 Empires,Dynasty Warriors 6 Empires,Dynasty Warriors 6 Empires
+2009,Kalypso,0.14,8.35,Tropico 3,Ceville,Ceville,Tropico 3
+2009,Konami,0.958888889,7.2,Pro Evolution Soccer 2010,Elebits: The Adventures of Kai and Zero,Suikoden Tierkreis,SAW
+2009,LucasArts,1.3725,5.25,LEGO Indiana Jones 2: The Adventure Continues,Indiana Jones and the Staff of Kings,Star Wars Battlefront: Elite Squadron,Star Wars The Clone Wars: Republic Heroes
+2009,MTV Games,2.32,8.35,The Beatles: Rock Band,Rock Band Unplugged,The Beatles: Rock Band,Rock Band Unplugged
+2009,Majesco,0.4325,6.1,Gardening Mama,Major Minor's Majestic March,A Boy and His Blob,Major Minor's Majestic March
+2009,Marvelous Interactive,0.155,6.4,Avalon Code,"Flower, Sun, and Rain",Avalon Code,"Flower, Sun, and Rain"
+2009,Mastiff,0.05,6.7,Moon,Moon,Moon,Moon
+2009,Microsoft,0.33,6.7,Ninja Blade,Ninja Blade,Ninja Blade,Ninja Blade
+2009,Microsoft Game Studios,5.5,9.2,Forza Motorsport 3,Forza Motorsport 3,Forza Motorsport 3,Forza Motorsport 3
+2009,NCSoft,0,7.4,Aion: Tower of Eternity,Aion: Tower of Eternity,Aion: Tower of Eternity,Aion: Tower of Eternity
+2009,NIS America,0.16,7,Disgaea 2: Dark Hero Days,Puchi Puchi Virus,Mana Khemia 2: Fall of Alchemy,A Witch's Tale
+2009,Namco Bandai,0.431818182,6.336363636,Dragon Ball: Raging Blast,Dragon Ball: Evolution,SoulCalibur: Broken Destiny,Dragon Ball: Evolution
+2009,Natsume,0.296666667,7.333333333,Harvest Moon: Sunshine Islands,Harvest Moon: Frantic Farming,Harvest Moon: Sunshine Islands,Afrika
+2009,Nintendo,0.555,7.383333333,Fossil Fighters,Another Code R: A Journey into Lost Memories,Metroid Prime: Trilogy,Another Code R: A Journey into Lost Memories
+2009,Nippon Ichi Software,0.11,3.2,Mana Khemia: Student Alliance,Mana Khemia: Student Alliance,Mana Khemia: Student Alliance,Mana Khemia: Student Alliance
+2009,Nobilis,0.01,8.1,Trine,Trine,Trine,Trine
+2009,PM Studios,0.13,7.7,DJ Max Fever,DJ Max Fever,DJ Max Fever,DJ Max Fever
+2009,Paradox Interactive,0.065,7.65,Hearts of Iron III,East India Company,Hearts of Iron III,East India Company
+2009,Perfect World Entertainment,0.07,8.4,Torchlight,Torchlight,Torchlight,Torchlight
+2009,Phantom EFX,0.1,4.6,Darkest of Days,Darkest of Days,Darkest of Days,Darkest of Days
+2009,Playlogic Game Factory,0.1425,5.175,Fairytale Fights,Sudoku Ball Detective,Obscure: The Aftermath,Infernal: Hell's Vengeance
+2009,PopCap Games,0.01,8.3,Zuma's Revenge!,Zuma's Revenge!,Zuma's Revenge!,Zuma's Revenge!
+2009,Rockstar Games,2.403333333,8.7,Grand Theft Auto: Episodes from Liberty City,Beaterator,Grand Theft Auto: Chinatown Wars,Beaterator
+2009,Sega,1.508,6.93,Mario & Sonic at the Olympic Winter Games,Football Manager 2010,Football Manager 2010,Stormrise
+2009,Sony Computer Entertainment,1.234,8.006666667,Uncharted 2: Among Thieves,LittleBigPlanet: Game of the Year Edition,LittleBigPlanet: Game of the Year Edition,Buzz! Quiz World
+2009,SouthPeak Interactive,0.182,6.14,X-Blades,Big Bang Mini,Big Bang Mini,Brave: A Warrior's Tale
+2009,Square Enix,0.365,7.225,Final Fantasy Crystal Chronicles: Echoes of Time,The Last Remnant,Star Ocean: Second Evolution,Final Fantasy Crystal Chronicles: The Crystal Bearers
+2009,THQ,1.111666667,7,UFC 2009 Undisputed,Are You Smarter than a 5th Grader? Game Time,"Warhammer 40,000: Dawn of War II",Are You Smarter than a 5th Grader? Game Time
+2009,Taito,0.19,8.1,Space Invaders Extreme 2,Space Invaders Extreme 2,Space Invaders Extreme 2,Space Invaders Extreme 2
+2009,Tecmo,0.12,6.6,Undead Knights,Undead Knights,Undead Knights,Undead Knights
+2009,Tecmo Koei,0.91,7.45,Dynasty Warriors: Strikeforce,Ninja Gaiden Sigma 2,Ninja Gaiden Sigma 2,Dynasty Warriors: Strikeforce
+2009,UFO Interactive,0.12,7,Raiden IV,Raiden IV,Raiden IV,Raiden IV
+2009,Ubisoft,1.275238095,6.776190476,Assassin's Creed II,World in Conflict: Soviet Assault,Might & Magic: Clash of Heroes,James Cameron's Avatar: The Game
+2009,Valve,0.36,9,Left 4 Dead 2,Left 4 Dead 2,Left 4 Dead 2,Left 4 Dead 2
+2009,Warner Bros. Interactive,0.978,6.42,LEGO Rock Band,Scene It? Bright Lights! Big Screen!,F.E.A.R. 2: Project Origin,Terminator Salvation
+2009,Xseed Games,0.1825,6.6,Rune Factory: Frontier,JU-ON: The Grudge,Retro Game Challenge,JU-ON: The Grudge
+2010,2K Games,3.4,7.75,BioShock 2,Mafia II,BioShock 2,Mafia II
+2010,2K Sports,1.163333333,5.966666667,NBA 2K11,NHL 2K11,NBA 2K11,Major League Baseball 2K10
+2010,505 Games,0.515,4.8,Naughty Bear,Backbreaker,Backbreaker,Naughty Bear
+2010,Activision,3.546666667,6.641666667,Call of Duty: Black Ops,Apache: Air Assault,DJ Hero 2,Transformers: Cybertron Adventures
+2010,Aksys Games,0.338,7.88,BlazBlue: Continuum Shift,BlazBlue: Calamity Trigger Portable,BlazBlue: Continuum Shift,Record of Agarest War
+2010,Atari,0.02,5.9,Star Trek Online,Star Trek Online,Star Trek Online,Star Trek Online
+2010,Atlus,0.144,6.68,Shiren the Wanderer,Metal Slug XX,Trauma Team,Naruto Shippuden: Dragon Blade Chronicles
+2010,Bethesda Softworks,7.25,8.2,Fallout: New Vegas,Fallout: New Vegas,Fallout: New Vegas,Fallout: New Vegas
+2010,CDV Software Entertainment,0.31,6,Divinity II: Ego Draconis,Divinity II: Ego Draconis,Divinity II: Ego Draconis,Divinity II: Ego Draconis
+2010,Capcom,0.902222222,7.366666667,Dead Rising 2,Resident Evil 5: Gold Edition,Resident Evil 5: Gold Edition,Sengoku Basara: Samurai Heroes
+2010,City Interactive,1.99,4.3,Sniper: Ghost Warrior,Sniper: Ghost Warrior,Sniper: Ghost Warrior,Sniper: Ghost Warrior
+2010,Codemasters,2.27,8,F1 2010,F1 2010,F1 2010,F1 2010
+2010,Conspiracy Entertainment,0.05,5,Rock of the Dead,Rock of the Dead,Rock of the Dead,Rock of the Dead
+2010,D3 Publisher,0.05,6.15,Blue Dragon: Awakened Shadow,Matt Hazard: Blood Bath and Beyond,Matt Hazard: Blood Bath and Beyond,Blue Dragon: Awakened Shadow
+2010,Deep Silver,0.46,2.5,Prison Break: The Conspiracy,Prison Break: The Conspiracy,Prison Break: The Conspiracy,Prison Break: The Conspiracy
+2010,Disney Interactive Studios,1.146666667,7.4,Toy Story 3: The Video Game,Split/Second,Split/Second,Alice in Wonderland
+2010,EA Sports,3.019,7.52,FIFA Soccer 11,NBA Jam,NHL 11,NCAA Football 11
+2010,Electronic Arts,2.202307692,6.961538462,Battlefield: Bad Company 2,Command & Conquer 4: Tiberian Twilight,Mass Effect 2,Army of Two: The 40th Day
+2010,Focus Home Interactive,0.24,5,Blood Bowl,Blood Bowl,Blood Bowl,Blood Bowl
+2010,From Software,0.03,5,Armored Core: Last Raven Portable,Armored Core: Last Raven Portable,Armored Core: Last Raven Portable,Armored Core: Last Raven Portable
+2010,Funcom,0.03,7.9,Age of Conan: Rise of the Godslayer,Age of Conan: Rise of the Godslayer,Age of Conan: Rise of the Godslayer,Age of Conan: Rise of the Godslayer
+2010,Headup Games,0,4.2,Twin Sector,Twin Sector,Twin Sector,Twin Sector
+2010,Hudson Soft,0.166666667,4.933333333,DECA Sports Freedom,Rooms: The Main Building,Rooms: The Main Building,DECA Sports Freedom
+2010,Ignition Entertainment,0.26,6,Deadly Premonition,Deadly Premonition,Deadly Premonition,Deadly Premonition
+2010,JoWood Productions,0.27,5.8,Arcania: Gothic 4,Arcania: Gothic 4,Arcania: Gothic 4,Arcania: Gothic 4
+2010,KOEI,0.07,6,Again,Again,Again,Again
+2010,Kalypso,0.12,6.55,DarkStar One: Broken Alliance,Patrician IV,Patrician IV,DarkStar One: Broken Alliance
+2010,Konami,0.878,6.59,Pro Evolution Soccer 2011,Puzzle Chronicles,Metal Gear Solid: Peace Walker,Saw II: Flesh & Blood
+2010,LucasArts,3.98,4,Star Wars: The Force Unleashed II,Star Wars: The Force Unleashed II,Star Wars: The Force Unleashed II,Star Wars: The Force Unleashed II
+2010,MTV Games,1.5,8.15,Rock Band 3,Green Day: Rock Band,Rock Band 3,Green Day: Rock Band
+2010,Majesco,0.38,5.366666667,Tetris Party Deluxe,Data East Arcade Classics,Tetris Party Deluxe,Babysitting Mama
+2010,Microsoft Game Studios,3.483333333,7.533333333,Halo: Reach,Crackdown 2,Halo: Reach,Kinect Joy Ride
+2010,NIS America,0.184,6.64,"Sakura Wars: So Long, My Love",Last Rebellion,Z.H.P. Unlosing Ranger vs Darkdeath Evilman,Last Rebellion
+2010,Namco Bandai,0.574,6.37,Dragon Ball: Raging Blast 2,Clash of the Titans: The Videogame,Enslaved: Odyssey to the West,Clash of the Titans: The Videogame
+2010,Natsume,0.285,7.9,Rune Factory 3: A Fantasy Harvest Moon,Lufia: Curse of the Sinistrals,Rune Factory 3: A Fantasy Harvest Moon,Lufia: Curse of the Sinistrals
+2010,Nintendo,0.576666667,7.016666667,Metroid: Other M,Last Window: The Secret of Cape West,Picross 3D,FlingSmash
+2010,Paradox Interactive,0.005,7.2,Lionheart: Kings' Crusade,Victoria II,Victoria II,Lionheart: Kings' Crusade
+2010,PopCap Games,1.38,8.1,Plants vs. Zombies,Plants vs. Zombies,Plants vs. Zombies,Plants vs. Zombies
+2010,Rockstar Games,7.68,9.75,Red Dead Redemption,Red Dead Redemption: Undead Nightmare,Red Dead Redemption: Undead Nightmare,Red Dead Redemption
+2010,Sega,1.041764706,7.082352941,Sonic & SEGA All-Stars Racing,Infinite Space,Football Manager 2011,Sonic Free Riders
+2010,Sony Computer Entertainment,0.831176471,6.835294118,Sports Champions,echoshift,PixelJunk Monsters Deluxe,Kung Fu Rider
+2010,SouthPeak Interactive,0.06,6.333333333,Dementium II,Crime Scene,Crime Scene,TNA iMPACT: Cross the Line
+2010,Square Enix,2.077142857,7.457142857,Final Fantasy XIII,Supreme Commander 2,Supreme Commander 2,Kane & Lynch 2: Dog Days
+2010,THQ,1.183333333,7.766666667,UFC Undisputed 2010,"Warhammer 40,000: Dawn of War II - Chaos Rising","Warhammer 40,000: Dawn of War II - Chaos Rising",WWE SmackDown vs. Raw 2011
+2010,Team17 Software,0.05,8.5,Worms Reloaded,Worms Reloaded,Worms Reloaded,Worms Reloaded
+2010,Tecmo,0.2,4.5,Dead or Alive Paradise,Dead or Alive Paradise,Dead or Alive Paradise,Dead or Alive Paradise
+2010,Tecmo Koei,0.82,4.8,Fist of the North Star: Ken's Rage,Fist of the North Star: Ken's Rage,Fist of the North Star: Ken's Rage,Fist of the North Star: Ken's Rage
+2010,Telltale Games,0.05,7,Back to the Future: The Game,Back to the Future: The Game,Back to the Future: The Game,Back to the Future: The Game
+2010,Ubisoft,1.491538462,6.346153846,Assassin's Creed: Brotherhood,Dawn of Discovery: Venice,Assassin's Creed: Brotherhood,Fighters Uncaged
+2010,Unknown,0.26,3,Power Gig: Rise of the SixString,Power Gig: Rise of the SixString,Power Gig: Rise of the SixString,Power Gig: Rise of the SixString
+2010,Viva Media,0.06,8,S.T.A.L.K.E.R.: Call of Pripyat,S.T.A.L.K.E.R.: Call of Pripyat,S.T.A.L.K.E.R.: Call of Pripyat,S.T.A.L.K.E.R.: Call of Pripyat
+2010,Warner Bros. Interactive,2.238,7.38,LEGO Harry Potter: Years 1-4,The Lord of the Rings: Aragorn's Quest,Super Scribblenauts,The Lord of the Rings: Aragorn's Quest
+2010,Xseed Games,0.19,7.1,Fragile Dreams: Farewell Ruins of the Moon,Samurai Shodown Sen,Ys: The Oath in Felghana,Samurai Shodown Sen
+2011,1C Company,0.06,8,Men of War: Assault Squad,Men of War: Assault Squad,Men of War: Assault Squad,Men of War: Assault Squad
+2011,2K Games,1.59,4.3,Duke Nukem Forever,Duke Nukem Forever,Duke Nukem Forever,Duke Nukem Forever
+2011,2K Sports,3.085,6.25,NBA 2K12,Top Spin 4,NBA 2K12,Top Spin 4
+2011,505 Games,0.405,4.75,Rugby World Cup 2011,Supremacy MMA,Supremacy MMA,Rugby World Cup 2011
+2011,Activision,5.507142857,4.957142857,Call of Duty: Modern Warfare 3,Spider-Man: Edge of Time,Skylanders: Spyro's Adventure,X-Men: Destiny
+2011,Aksys Games,0.175,6.95,BlazBlue: Continuum Shift II,BIT.TRIP COMPLETE,BIT.TRIP COMPLETE,BlazBlue: Continuum Shift II
+2011,Atari,0.695,6.625,Test Drive Unlimited 2,Dungeons & Dragons: Daggerdale,The Witcher 2: Assassins of Kings,Venetica
+2011,Atlus,0.34625,7.15,Catherine,Mahjong Cub3D,Radiant Historia,The Cursed Crusade
+2011,Bethesda Softworks,6.5675,7.3,The Elder Scrolls V: Skyrim,Hunted: The Demon's Forge,The Elder Scrolls V: Skyrim,Hunted: The Demon's Forge
+2011,Capcom,0.5875,7.6125,Marvel vs. Capcom 3: Fate of Two Worlds,Ultimate Marvel vs. Capcom 3,Super Street Fighter IV: Arcade Edition,MotoGP 10/11
+2011,City Interactive,0.23,7,TrackMania: Build to Race,TrackMania: Build to Race,TrackMania: Build to Race,TrackMania: Build to Race
+2011,Codemasters,1.27,6.525,F1 2011,Bodycount,DiRT 3,Bodycount
+2011,Crave Entertainment,0.1,5.6,Cartoon Network: Punch Time Explosion,Cartoon Network: Punch Time Explosion,Cartoon Network: Punch Time Explosion,Cartoon Network: Punch Time Explosion
+2011,D3 Publisher,0.363333333,5.9,White Knight Chronicles II,Dream Trigger 3D,Earth Defense Force: Insect Armageddon,White Knight Chronicles II
+2011,Deep Silver,4.67,6.7,Dead Island,Dead Island,Dead Island,Dead Island
+2011,Destineer,0.01,6.5,Breach,Breach,Breach,Breach
+2011,Disney Interactive Studios,2.5325,6.7,LEGO Pirates of the Caribbean: The Video Game,Phineas and Ferb: Across the 2nd Dimension,LEGO Pirates of the Caribbean: The Video Game,Cars 2
+2011,DreamCatcher Interactive,0.1,7.9,The Book of Unwritten Tales,The Book of Unwritten Tales,The Book of Unwritten Tales,The Book of Unwritten Tales
+2011,EA Sports,3.753333333,7.2,FIFA Soccer 12,Madden NFL Football,NHL 12,Madden NFL Football
+2011,Electronic Arts,2.482,7.166666667,Battlefield 3,Darkspore,Dead Space 2,Harry Potter and the Deathly Hallows - Part 2
+2011,Excalibur Publishing,0.01,1.5,Street Cleaning Simulator,Street Cleaning Simulator,Street Cleaning Simulator,Street Cleaning Simulator
+2011,Focus Home Interactive,0.05,5.9,Cities XL 2012,A Game of Thrones: Genesis,The Next BIG Thing,A Game of Thrones: Genesis
+2011,Hudson Soft,0.12,6.7,Lost in Shadow,Lost in Shadow,Lost in Shadow,Lost in Shadow
+2011,Ignition Entertainment,0.44,8,El Shaddai: Ascension of the Metatron,El Shaddai: Ascension of the Metatron,El Shaddai: Ascension of the Metatron,El Shaddai: Ascension of the Metatron
+2011,Kalypso,0.1325,6.85,Tropico 4,Air Conflicts: Secret Wars,Tropico 4,Air Conflicts: Secret Wars
+2011,Konami,0.59625,7.4125,Pro Evolution Soccer 2012,Castlevania: Lords of Shadow - Reverie,Metal Gear Solid HD Collection,Castlevania: Lords of Shadow - Reverie
+2011,LucasArts,7.33,6.3,LEGO Star Wars III: The Clone Wars,LEGO Star Wars III: The Clone Wars,LEGO Star Wars III: The Clone Wars,LEGO Star Wars III: The Clone Wars
+2011,Majesco,0.086666667,5.9,Jaws: Ultimate Predator,Monster Tale,Monster Tale,Jaws: Ultimate Predator
+2011,Meridian4,0.02,4,Trapped Dead,Trapped Dead,Trapped Dead,Trapped Dead
+2011,Microsoft,2.04,8.6,Dance Central 2,Dance Central 2,Dance Central 2,Dance Central 2
+2011,Microsoft Game Studios,0.06,7,Age of Empires Online,Age of Empires Online,Age of Empires Online,Age of Empires Online
+2011,Microsoft Studios,2.43,7.96,Forza Motorsport 4,The Gunstringer,Forza Motorsport 4,Kinect Sports: Season Two
+2011,NIS America,0.32,7.05,Disgaea 4: A Promise Unforgotten,Phantom Brave: The Hermuda Triangle,Cave Story 3D,Hyperdimension Neptunia
+2011,Namco,0.36,4,Tekken Hybrid,Tekken Hybrid,Tekken Hybrid,Tekken Hybrid
+2011,Namco Bandai,0.768888889,6.522222222,Dark Souls,Naruto Shippuden: Kizuna Drive,Dark Souls,Dragon Ball Z: Ultimate Tenkaichi
+2011,Natsume,0.423333333,6.766666667,Harvest Moon: The Tale of Two Towns,Gabrielle's Ghostly Groove 3D,Gabrielle's Ghostly Groove 3D,Harvest Moon: The Tale of Two Towns
+2011,Nintendo,0.552,6.68,PilotWings Resort,Mystery Case Files: The Malgrave Incident,Tetris Axis,Steel Diver
+2011,Nordic Games,0.16,3.5,We Dance,We Dance,We Dance,We Dance
+2011,Paradox Interactive,0.005,6.05,Pirates of Black Cove,Mount & Blade: With Fire & Sword,Mount & Blade: With Fire & Sword,Pirates of Black Cove
+2011,Rockstar Games,6.39,7.9,L.A. Noire,L.A. Noire,L.A. Noire,L.A. Noire
+2011,Sega,0.844545455,6.245454545,Sonic Generations,Conduit 2,Aliens: Infestation,Thor: God of Thunder
+2011,Sony Computer Entertainment,1.028333333,7.3,LittleBigPlanet 2,PlayStation Move Ape Escape,LittleBigPlanet 2,PlayStation Move Ape Escape
+2011,Sony Online Entertainment,0.74,6.5,DC Universe Online,DC Universe Online,DC Universe Online,DC Universe Online
+2011,SouthPeak Interactive,0.6,5.3,Two Worlds II,Stronghold 3,Two Worlds II,Stronghold 3
+2011,Square Enix,0.860909091,7.109090909,Deus Ex: Human Revolution,MindJack,Tactics Ogre: Let Us Cling Together,MindJack
+2011,THQ,1.146666667,6.453333333,Saints Row: The Third,"Warhammer 40,000: Dawn of War II - Retribution",Saints Row: The Third,Kung Fu Panda 2
+2011,Tecmo Koei,0.67,5.933333333,Dynasty Warriors 7,TRINITY: Souls of Zill O'll,Dynasty Warriors: Gundam 3,TRINITY: Souls of Zill O'll
+2011,Tommo,0.04,7,Jerry Rice and Nitus' Dog Football,Jerry Rice and Nitus' Dog Football,Jerry Rice and Nitus' Dog Football,Jerry Rice and Nitus' Dog Football
+2011,Tripwire Interactive,0.13,7.7,Red Orchestra 2: Heroes of Stalingrad,Red Orchestra 2: Heroes of Stalingrad,Red Orchestra 2: Heroes of Stalingrad,Red Orchestra 2: Heroes of Stalingrad
+2011,Ubisoft,0.9512,6.412,Assassin's Creed: Revelations,From Dust,Anno 2070,Driver: Renegade
+2011,Unknown,0.35,8.65,RIFT,LIMBO,LIMBO,RIFT
+2011,Valve,3.79,9.6,Portal 2,Portal 2,Portal 2,Portal 2
+2011,Visco,0.02,5.3,The Haunted: Hell's Reach,The Haunted: Hell's Reach,The Haunted: Hell's Reach,The Haunted: Hell's Reach
+2011,Viva Media,0.045,7.15,Gray Matter,STORM: Frontline Nation,Gray Matter,STORM: Frontline Nation
+2011,Wargaming.net,0.28,7.8,World of Tanks,World of Tanks,World of Tanks,World of Tanks
+2011,Warner Bros. Interactive,2.40625,7.45,Batman: Arkham City,Green Lantern: Rise of the Manhunters,Batman: Arkham City,LEGO Battles: Ninjago
+2011,Warner Bros. Interactive Entertainment,5.73,8.5,Mortal Kombat (2011),Mortal Kombat (2011),Mortal Kombat (2011),Mortal Kombat (2011)
+2011,Xseed Games,0.13,7.366666667,Solatorobo: Red the Hunter,Ys I & II Chronicles,The Legend of Heroes: Trails in the Sky,Ys I & II Chronicles
+2012,2K Games,1.94,8.8,XCOM: Enemy Unknown,XCOM: Enemy Unknown,XCOM: Enemy Unknown,XCOM: Enemy Unknown
+2012,2K Sports,5.91,7.6,NBA 2K13,NBA 2K13,NBA 2K13,NBA 2K13
+2012,505 Games,1.84,7,Sniper Elite V2,Sniper Elite V2,Sniper Elite V2,Sniper Elite V2
+2012,Activision,7.94,5.35,Call of Duty: Black Ops II,007 Legends,Call of Duty: Black Ops II,Call of Duty Black Ops: Declassified
+2012,Aksys Games,0.03,9,Zero Escape: Virtue's Last Reward,Zero Escape: Virtue's Last Reward,Zero Escape: Virtue's Last Reward,Zero Escape: Virtue's Last Reward
+2012,Atlus,0.17,7.3,Code of Princess,Gungnir,Gungnir,Code of Princess
+2012,Bethesda Softworks,0.58,6.8,Doom 3 BFG Edition,Doom 3 BFG Edition,Doom 3 BFG Edition,Doom 3 BFG Edition
+2012,Capcom,2.31,7.2,Resident Evil: Revelations,Resident Evil: Revelations,Resident Evil: Revelations,Resident Evil: Revelations
+2012,Codemasters,1.5,7.9,F1 2012,F1 2012,F1 2012,F1 2012
+2012,Deep Silver,0.37,5.5,Risen 2: Dark Waters,Risen 2: Dark Waters,Risen 2: Dark Waters,Risen 2: Dark Waters
+2012,Disney Interactive Studios,0.37,6.25,Epic Mickey: Power of Illusion,Disney Epic Mickey 2: The Power of Two,Epic Mickey: Power of Illusion,Disney Epic Mickey 2: The Power of Two
+2012,EA Sports,2.916666667,6.766666667,Madden NFL 13,FIFA 13,NCAA Football 13,Madden NFL 13
+2012,Electronic Arts,3.956666667,8.166666667,Need for Speed: Most Wanted (2012),NHL 13,Mass Effect 3,Need for Speed: Most Wanted (2012)
+2012,Frozenbyte,0.04,7.8,Trine 2: Director's Cut,Trine 2: Director's Cut,Trine 2: Director's Cut,Trine 2: Director's Cut
+2012,Konami,0.42,7.9,Metal Gear Solid: Snake Eater 3D,Metal Gear Solid: Snake Eater 3D,Metal Gear Solid: Snake Eater 3D,Metal Gear Solid: Snake Eater 3D
+2012,Namco Bandai,0.21,6.5,Tekken 3D: Prime Edition,Tekken 3D: Prime Edition,Tekken 3D: Prime Edition,Tekken 3D: Prime Edition
+2012,Namco Bandai Games,0.13,6.4,Tekken Tag Tournament 2,Tank! Tank! Tank!,Tekken Tag Tournament 2,Tank! Tank! Tank!
+2012,Natsume,0.95,8.2,Harvest Moon 3D: A New Beginning,Harvest Moon 3D: A New Beginning,Harvest Moon 3D: A New Beginning,Harvest Moon 3D: A New Beginning
+2012,Nintendo,0.55,7.225,Xenoblade Chronicles,Nintendo Pocket Football Club,New Play Control! Pikmin 2,Spirit Camera: The Cursed Memoir
+2012,Sega,0.676,6.58,London 2012: The Official Video Game of the Olympic Games,Crush3D,Rhythm Thief & the Emperor's Treasure,London 2012: The Official Video Game of the Olympic Games
+2012,Sony Computer Entertainment,0.724,7.04,Uncharted: Golden Abyss,MotorStorm RC,MotorStorm RC,Resistance: Burning Skies
+2012,Square Enix,2.65,7.9,Final Fantasy XIII-2,Sleeping Dogs,Final Fantasy XIII-2,Final Fantasy XIII-2
+2012,THQ,1.8,8.2,Darksiders II,Darksiders II,Darksiders II,Darksiders II
+2012,Tecmo Koei,0.98,7.6,Dead or Alive 5,Dead or Alive 5,Dead or Alive 5,Dead or Alive 5
+2012,Telltale Games,0.82,9.7,The Walking Dead: A Telltale Games Series,The Walking Dead: A Telltale Games Series,The Walking Dead: A Telltale Games Series,The Walking Dead: A Telltale Games Series
+2012,Ubisoft,2.245,5.925,Assassin's Creed III,Rabbids Land,Assassin's Creed III,ESPN: Sports Connection
+2012,Warner Bros. Interactive Entertainment,0.375,7.8,Scribblenauts: Unlimited,Batman: Arkham City Armored Edition,Batman: Arkham City Armored Edition,Scribblenauts: Unlimited
+2013,2K Games,1.82,9.5,BioShock Infinite,BioShock Infinite,BioShock Infinite,BioShock Infinite
+2013,2K Sports,2.32,7.6,WWE 2K14,WWE 2K14,WWE 2K14,WWE 2K14
+2013,Activision,14.535,7.3,Call of Duty: Ghosts,Skylanders SWAP Force,Skylanders SWAP Force,Call of Duty: Ghosts
+2013,Atlus,0.26,8.1,Etrian Odyssey: Millennium Girl,Etrian Odyssey: Millennium Girl,Etrian Odyssey: Millennium Girl,Etrian Odyssey: Millennium Girl
+2013,Capcom,0.38,8.65,Monster Hunter 3 Ultimate,DuckTales: Remastered,Monster Hunter 3 Ultimate,DuckTales: Remastered
+2013,Codemasters,0.88,7.7,F1 2013,F1 2013,F1 2013,F1 2013
+2013,D3Publisher,0.04,2.8,Adventure Time: Explore the Dungeon Because I Don't Know!,Adventure Time: Explore the Dungeon Because I Don't Know!,Adventure Time: Explore the Dungeon Because I Don't Know!,Adventure Time: Explore the Dungeon Because I Don't Know!
+2013,Deep Silver,1.43,5.6,Dead Island: Riptide,Dead Island: Riptide,Dead Island: Riptide,Dead Island: Riptide
+2013,Disney Interactive Studios,0.67,7.6,Disney Infinity,Disney Infinity,Disney Infinity,Disney Infinity
+2013,EA Sports,4.105,7.35,Madden NFL 25,NCAA Football 14,NCAA Football 14,Madden NFL 25
+2013,Electronic Arts,6.475,7.95,Battlefield 4,Crysis 3,Battlefield 4,Crysis 3
+2013,Focus Home Interactive,0.39,3,Farming Simulator 2013,Farming Simulator 2013,Farming Simulator 2013,Farming Simulator 2013
+2013,Konami Digital Entertainment,1.033333333,8.033333333,Metal Gear Rising: Revengeance,Castlevania: Lords of Shadow - Mirror of Fate,Metal Gear Rising: Revengeance,Castlevania: Lords of Shadow - Mirror of Fate
+2013,Namco Bandai Games,0.185,6.6,Star Trek: The Game,Naruto Powerful Shippuden,Naruto Powerful Shippuden,Star Trek: The Game
+2013,Natsume,0.5,5.5,Hometown Story,Hometown Story,Hometown Story,Hometown Story
+2013,Nintendo,0.354,6.66,Mario & Sonic at the Sochi 2014 Olympic Winter Games,Pokémon Rumble U,The Wonderful 101,Pokémon Rumble U
+2013,Rockstar Games,48.43,9,Grand Theft Auto V,Grand Theft Auto V,Grand Theft Auto V,Grand Theft Auto V
+2013,Sega,0.85,5.2,Sonic Lost World,Sonic Lost World,Sonic Lost World,Sonic Lost World
+2013,Sony Computer Entertainment,0.21,5,Move Fitness,Move Fitness,Move Fitness,Move Fitness
+2013,Sony Computer Entertainment America,0.955,7.5,MLB 13: The Show,Killzone: Mercenary,MLB 13: The Show,Killzone: Mercenary
+2013,Square Enix,4.41,8.5,Tomb Raider (2013),Tomb Raider (2013),Tomb Raider (2013),Tomb Raider (2013)
+2013,Tecmo Koei,0.2,6.5,Fist of the North Star: Ken's Rage 2,Dead or Alive 5 Plus,Dead or Alive 5 Plus,Fist of the North Star: Ken's Rage 2
+2013,The Fullbright Company,0,9.1,Gone Home,Gone Home,Gone Home,Gone Home
+2013,Ubisoft,5.398,7.38,Assassin's Creed IV: Black Flag,Rayman Legends,Rocksmith 2014,Rayman Legends
+2013,Warner Bros. Interactive Entertainment,0.27,7,Batman: Arkham Origins Blackgate,Batman: Arkham Origins Blackgate,Batman: Arkham Origins Blackgate,Batman: Arkham Origins Blackgate
+2014,Activision,12.595,8.3,Call of Duty: Advanced Warfare,Destiny,Call of Duty: Advanced Warfare,Call of Duty: Advanced Warfare
+2014,Aksys Games,0.2,7,Arcana Heart 3,Arcana Heart 3,Arcana Heart 3,Arcana Heart 3
+2014,Bethesda Softworks,2.55,7.7,The Evil Within,The Evil Within,The Evil Within,The Evil Within
+2014,Codemasters,0.23,6.5,F1 2014,F1 2014,F1 2014,F1 2014
+2014,Deep Silver,0.11,7,NASCAR '14,NASCAR '14,NASCAR '14,NASCAR '14
+2014,Disney Interactive Studios,0.75,8,Disney Infinity 2.0: Marvel Super Heroes,Disney Infinity 2.0: Marvel Super Heroes,Disney Infinity 2.0: Marvel Super Heroes,Disney Infinity 2.0: Marvel Super Heroes
+2014,EA Sports,8.69,7.1,FIFA 15,2014 FIFA World Cup Brazil,2014 FIFA World Cup Brazil,FIFA 15
+2014,Electronic Arts,2.76,7.733333333,The Sims 4,Plants vs Zombies: Garden Warfare,Dragon Age: Inquisition,The Sims 4
+2014,Konami Digital Entertainment,2.2,7.6,Metal Gear Solid V: Ground Zeroes,Metal Gear Solid V: Ground Zeroes,Metal Gear Solid V: Ground Zeroes,Metal Gear Solid V: Ground Zeroes
+2014,Microsoft Studios,2.3,8.4,Halo: The Master Chief Collection,Sunset Overdrive,Halo: The Master Chief Collection,Sunset Overdrive
+2014,Mojang,10.06,5.5,Minecraft,Minecraft,Minecraft,Minecraft
+2014,NIS America,0.48,6.4,Atelier Rorona: Alchemist of Arland,Atelier Rorona: Alchemist of Arland,Atelier Rorona: Alchemist of Arland,Atelier Rorona: Alchemist of Arland
+2014,Namco Bandai Games,0.02,4.5,Tenkai Knights: Brave Battle,Tenkai Knights: Brave Battle,Tenkai Knights: Brave Battle,Tenkai Knights: Brave Battle
+2014,Nintendo,0.598571429,7.557142857,Wii Fit U,Ultimate NES Remix,Mario Golf: World Tour,Wii Sports Club
+2014,Rain Games,0,7,Teslagrad,Teslagrad,Teslagrad,Teslagrad
+2014,Sega,0.24,4.433333333,Sonic Boom: Rise of Lyric,Football Manager Classic 2014,Football Manager Classic 2014,Sonic Boom: Rise of Lyric
+2014,Sony Computer Entertainment,1.28,7.1,MLB 14 The Show,MLB 14 The Show,MLB 14 The Show,MLB 14 The Show
+2014,Square Enix,0.78,6.95,Lightning Returns: Final Fantasy XIII,Sleeping Dogs: Definitive Edition,Sleeping Dogs: Definitive Edition,Lightning Returns: Final Fantasy XIII
+2014,Ubisoft,3.465,8.25,Far Cry 4,Just Dance 2015,Far Cry 4,Just Dance 2015
+2014,Unknown,0.38,8.1,Phoenix Wright: Ace Attorney - Dual Destinies,Phoenix Wright: Ace Attorney - Dual Destinies,Phoenix Wright: Ace Attorney - Dual Destinies,Phoenix Wright: Ace Attorney - Dual Destinies
+2014,Warner Bros. Interactive Entertainment,0.47,6.8,The LEGO Movie Videogame,LEGO The Hobbit,Lego Batman 3: Beyond Gotham,The LEGO Movie Videogame
+2015,2K Sports,6.39,8.3,NBA 2K16,NBA 2K16,NBA 2K16,NBA 2K16
+2015,505 Games,2.18,6.5,Rocket League,Payday 2,Rocket League,Payday 2
+2015,Activision,7.84,8.05,Call of Duty: Black Ops 3,Skylanders: SuperChargers,Call of Duty: Black Ops 3,Skylanders: SuperChargers
+2015,Atlus,0.22,7.5,The Legend of Legacy,Shin Megami Tensei: Devil Survivor 2 Record Breaker,Shin Megami Tensei: Devil Survivor 2 Record Breaker,The Legend of Legacy
+2015,Bethesda Softworks,6.83,8.2,Fallout 4,Wolfenstein: The Old Blood,Fallout 4,Wolfenstein: The Old Blood
+2015,Blizzard Entertainment,0.57,8.8,StarCraft II: Legacy of the Void,StarCraft II: Legacy of the Void,StarCraft II: Legacy of the Void,StarCraft II: Legacy of the Void
+2015,Codemasters,0.93,5.7,F1 2015,F1 2015,F1 2015,F1 2015
+2015,Deep Silver,0.07,1,Risen 3: Titan Lords Enhanced Edition,Risen 3: Titan Lords Enhanced Edition,Risen 3: Titan Lords Enhanced Edition,Risen 3: Titan Lords Enhanced Edition
+2015,EA Sports,11.705,8.25,FIFA 16,Madden NFL 16,FIFA 16,Madden NFL 16
+2015,Electronic Arts,8.065,6.8,Star Wars Battlefront (2015),Need for Speed (2015),Star Wars Battlefront (2015),Need for Speed (2015)
+2015,NIS America,0.14,7,Rodea the Sky Soldier,Rodea the Sky Soldier,Rodea the Sky Soldier,Rodea the Sky Soldier
+2015,Namco Bandai Games,0.35,5,Dragon Ball Z: Extreme Butoden,Dragon Ball Z: Extreme Butoden,Dragon Ball Z: Extreme Butoden,Dragon Ball Z: Extreme Butoden
+2015,Nintendo,0.346,6.49,Xenoblade Chronicles X,Devil's Third,Kirby and the Rainbow Curse,Devil's Third
+2015,Nordic Games,0.32,7.5,Darksiders II: Deathinitive Edition,Darksiders II: Deathinitive Edition,Darksiders II: Deathinitive Edition,Darksiders II: Deathinitive Edition
+2015,Sega,0.38,7.5,Hatsune Miku: Project Mirai DX,Hatsune Miku: Project Mirai DX,Hatsune Miku: Project Mirai DX,Hatsune Miku: Project Mirai DX
+2015,Shin'en,0.01,8.1,Fast Racing Neo,Fast Racing Neo,Fast Racing Neo,Fast Racing Neo
+2015,Sony Computer Entertainment,1.62,6.2,The Order: 1886,The Order: 1886,The Order: 1886,The Order: 1886
+2015,Square Enix,2.025,8.15,Just Cause 3,Final Fantasy X / X-2 HD Remaster,Final Fantasy X / X-2 HD Remaster,Just Cause 3
+2015,Tecmo Koei,0.45,7.1,Dead or Alive 5 Last Round,Dead or Alive 5 Last Round,Dead or Alive 5 Last Round,Dead or Alive 5 Last Round
+2015,Ubisoft,1.835,8.05,Assassin's Creed Syndicate,Zombi,Assassin's Creed Syndicate,Zombi
+2015,Warner Bros. Interactive,4.11,8.1,Batman: Arkham Knight,Batman: Arkham Knight,Batman: Arkham Knight,Batman: Arkham Knight
+2015,Xseed Games,0.25,7.35,Story of Seasons,Lord of Magna: Maiden Heaven,Story of Seasons,Lord of Magna: Maiden Heaven
+2016,2K Games,3.98,6.8,Mafia III,Mafia III,Mafia III,Mafia III
+2016,2K Sports,5.56,8.8,NBA 2K17,NBA 2K17,NBA 2K17,NBA 2K17
+2016,505 Games,0.02,6,Assetto Corsa,Assetto Corsa,Assetto Corsa,Assetto Corsa
+2016,Activision,8.48,7.9,Call of Duty: Infinite Warfare,Call of Duty: Infinite Warfare,Call of Duty: Infinite Warfare,Call of Duty: Infinite Warfare
+2016,Aksys Games,0.066666667,4.4,Zero Escape: Zero Time Dilemma,Aegis of Earth: Protonovus Assault,Zero Escape: Zero Time Dilemma,Langrisser: Re:Incarnation Tensei
+2016,Atlus,0.37,8.1,Shin Megami Tensei IV: Apocalypse,Shin Megami Tensei IV: Apocalypse,Shin Megami Tensei IV: Apocalypse,Shin Megami Tensei IV: Apocalypse
+2016,Bethesda Softworks,5.19,8.1,The Elder Scrolls V: Skyrim Special Edition,The Elder Scrolls V: Skyrim Special Edition,The Elder Scrolls V: Skyrim Special Edition,The Elder Scrolls V: Skyrim Special Edition
+2016,Blizzard Entertainment,8.18,8.7,Overwatch,Overwatch,Overwatch,Overwatch
+2016,Capcom,0.29,8.1,Phoenix Wright: Ace Attorney: Spirit of Justice,Phoenix Wright: Ace Attorney: Spirit of Justice,Phoenix Wright: Ace Attorney: Spirit of Justice,Phoenix Wright: Ace Attorney: Spirit of Justice
+2016,Codemasters,0.755,8.15,F1 2016,DiRT Rally,DiRT Rally,F1 2016
+2016,EA Sports,5.72,8.1,Madden NFL 17,Madden NFL 17,Madden NFL 17,Madden NFL 17
+2016,Electronic Arts,9.843333333,8.933333333,FIFA 17,Titanfall 2,Battlefield 1,FIFA 17
+2016,GameMill Entertainment,0.12,1.5,Cartoon Network: Battle Crashers,Cartoon Network: Battle Crashers,Cartoon Network: Battle Crashers,Cartoon Network: Battle Crashers
+2016,GungHo Online Entertainment,0.02,6.5,République,République,République,République
+2016,Hello Games,2.26,6.8,No Man's Sky,No Man's Sky,No Man's Sky,No Man's Sky
+2016,Namco Bandai Games,0.365,6.45,Dragon Ball: Fusions,Project X Zone 2,Project X Zone 2,Dragon Ball: Fusions
+2016,Natsume,0.09,5,Harvest Moon: Skytree Village,Harvest Moon: Skytree Village,Harvest Moon: Skytree Village,Harvest Moon: Skytree Village
+2016,Nintendo,0.48,7.242857143,Mario Party: Star Rush,Picross 3D Round 2,Picross 3D Round 2,Mario Party: Star Rush
+2016,Sega,0.18,7.133333333,Sonic Boom: Fire & Ice,Sega 3D Classics Collection,7th Dragon III Code: VFD,Sonic Boom: Fire & Ice
+2016,Sony Computer Entertainment,0.16,7.9,Gravity Rush Remastered,Gravity Rush Remastered,Gravity Rush Remastered,Gravity Rush Remastered
+2016,Sony Interactive Entertainment,1.29,7.9,The Last Guardian,The Last Guardian,The Last Guardian,The Last Guardian
+2016,Square Enix,2.093333333,7.366666667,Final Fantasy XV,Final Fantasy Explorers,Final Fantasy XV,World of Final Fantasy
+2016,Ubisoft,3.98,7.2,Far Cry: Primal,Far Cry: Primal,Far Cry: Primal,Far Cry: Primal
+2016,WayForward Technologies,0.1,7.7,Shantae and the Pirate's Curse,Shantae and the Pirate's Curse,Shantae and the Pirate's Curse,Shantae and the Pirate's Curse
+2016,Xseed Games,0.22,7,Return to PopoloCrois: A Story of Seasons Fairytale,Return to PopoloCrois: A Story of Seasons Fairytale,Return to PopoloCrois: A Story of Seasons Fairytale,Return to PopoloCrois: A Story of Seasons Fairytale
+2017,2K Sports,5.99,7,NBA 2K18,NBA 2K18,NBA 2K18,NBA 2K18
+2017,505 Games,0.13,8.8,Stardew Valley,Stardew Valley,Stardew Valley,Stardew Valley
+2017,4-Aug,0.03,9,Undertale,Undertale,Undertale,Undertale
+2017,Activision,4.816666667,7.633333333,Call of Duty: WWII,Skylanders Imaginators,Call of Duty: WWII,Skylanders Imaginators
+2017,Atlus,0.27,7.9,Etrian Odyssey V: Beyond the Myth,Etrian Odyssey V: Beyond the Myth,Etrian Odyssey V: Beyond the Myth,Etrian Odyssey V: Beyond the Myth
+2017,Bethesda Softworks,0.95,8.25,Wolfenstein II: The New Colossus,Doom (2016),Wolfenstein II: The New Colossus,Doom (2016)
+2017,Capcom,0.635,7.55,Monster Hunter Stories,Ultra Street Fighter II: The Final Challengers,Monster Hunter Stories,Ultra Street Fighter II: The Final Challengers
+2017,Deep Silver,0.77,8.3,F1 2017,DiRT 4,DiRT 4,F1 2017
+2017,DotEmu,0.05,7.4,Wonder Boy: The Dragon's Trap (Remake),Wonder Boy: The Dragon's Trap (Remake),Wonder Boy: The Dragon's Trap (Remake),Wonder Boy: The Dragon's Trap (Remake)
+2017,EA Sports,10.325,7,FIFA 18,Madden NFL 18,Madden NFL 18,FIFA 18
+2017,Electronic Arts,2.93,5.8,Need for Speed: Payback,Need for Speed: Payback,Need for Speed: Payback,Need for Speed: Payback
+2017,GameTrust,0.14,4.8,Has-Been Heroes,Has-Been Heroes,Has-Been Heroes,Has-Been Heroes
+2017,Grey Box,0.26,4.5,RiME,RiME,RiME,RiME
+2017,Konami Digital Entertainment,0.87,6.3,Super Bomberman R,Super Bomberman R,Super Bomberman R,Super Bomberman R
+2017,Marvelous Interactive,0.49,7.9,Story of Seasons: Trio of Towns,Story of Seasons: Trio of Towns,Story of Seasons: Trio of Towns,Story of Seasons: Trio of Towns
+2017,Microids,0.15,6.1,Gear.Club Unlimited,Gear.Club Unlimited,Gear.Club Unlimited,Gear.Club Unlimited
+2017,Microsoft Studios,0.75,7.466666667,Forza Motorsport 7,Super Lucky's Tale,Forza Motorsport 7,Super Lucky's Tale
+2017,NIS America,0.07,7.15,Culdcept Revolt,Culdcept Revolt,Culdcept Revolt,RPG Maker: Fes
+2017,Namco Bandai Games,0.515,7.9,Project CARS 2,Gundam Versus,Project CARS 2,Gundam Versus
+2017,Nicalis,0.28,9,The Binding of Isaac: Afterbirth+,The Binding of Isaac: Afterbirth+,The Binding of Isaac: Afterbirth+,The Binding of Isaac: Afterbirth+
+2017,Nintendo,0.522,7.53,Dragon Quest VIII: Journey of the Cursed King,"Snipperclips Plus: Cut It Out, Together!",Metroid: Samus Returns,Mario Party: The Top 100
+2017,Paradox Interactive,0.16,8.3,Pillars of Eternity,Pillars of Eternity,Pillars of Eternity,Pillars of Eternity
+2017,Polykid,0.07,5,Poi,Poi,Poi,Poi
+2017,Rising Star Games,0.07,6,Cooking Mama: Sweet Shop,Cooking Mama: Sweet Shop,Cooking Mama: Sweet Shop,Cooking Mama: Sweet Shop
+2017,Sega,0.605,7.1,Sonic Forces,Sonic Mania,Sonic Mania,Sonic Forces
+2017,Sony Interactive Entertainment,0.515,7.4,Everybody's Golf,Knack 2,Everybody's Golf,Knack 2
+2017,Square Enix,0.05,7,I am Setsuna,I am Setsuna,I am Setsuna,I am Setsuna
+2017,THQ Nordic,0.04,8,Sine Mora EX,Sine Mora EX,Sine Mora EX,Sine Mora EX
+2017,Thomas Happ Games,0.17,7.5,Axiom Verge,Axiom Verge,Axiom Verge,Axiom Verge
+2017,Ubisoft,1.28,6.72,Tom Clancy's Ghost Recon Wildlands,Star Trek Bridge Crew,Just Dance 2018,Monopoly for Nintendo Switch
+2017,Warner Bros. Interactive Entertainment,0.99,6.5,LEGO City Undercover,LEGO Worlds,LEGO City Undercover,LEGO Worlds
+2017,Xseed Games,0.21,8,Fate/Extella: The Umbral Star,Fate/Extella: The Umbral Star,Fate/Extella: The Umbral Star,Fate/Extella: The Umbral Star
+2018,2K Games,0.25,9.4,Sid Meier's Civilization VI,Sid Meier's Civilization VI,Sid Meier's Civilization VI,Sid Meier's Civilization VI
+2018,505 Games,0.05,8.3,Hellblade: Senua's Sacrifice,Hellblade: Senua's Sacrifice,Hellblade: Senua's Sacrifice,Hellblade: Senua's Sacrifice
+2018,Activision,1.11,6,Crash Bandicoot N. Sane Trilogy,Crash Bandicoot N. Sane Trilogy,Crash Bandicoot N. Sane Trilogy,Crash Bandicoot N. Sane Trilogy
+2018,Aksys Games,0.13,7,Little Dragons Café,Little Dragons Café,Little Dragons Café,Little Dragons Café
+2018,Arc System Works,0.07,8,BlazBlue: Cross Tag Battle,BlazBlue: Cross Tag Battle,BlazBlue: Cross Tag Battle,BlazBlue: Cross Tag Battle
+2018,Atlus,0.16,7.7,Radiant Historia: Perfect Chronology,The Alliance Alive,Radiant Historia: Perfect Chronology,The Alliance Alive
+2018,Bandai Namco Entertainment,0.104,8.08,Katamari Damacy Reroll,One Piece: Pirate Warriors 3 - Deluxe Edition,Katamari Damacy Reroll,Ride 3
+2018,Bethesda Softworks,1.28,5.6,Fallout 76,The Elder Scrolls Online: Summerset,The Elder Scrolls Online: Summerset,Fallout 76
+2018,Blizzard Entertainment,0.67,9,Diablo III: Eternal Collection,Diablo III: Eternal Collection,Diablo III: Eternal Collection,Diablo III: Eternal Collection
+2018,Capcom,0.49,8.42,Monster Hunter: World,Street Fighter 30th Anniversary Collection,Monster Hunter: World,Monster Hunter Generations Ultimate
+2018,Codemasters,0.7,8.5,F1 2018,F1 2018,F1 2018,F1 2018
+2018,Electronic Arts,0.65,7.133333333,FIFA 19,Burnout Paradise Remastered,Burnout Paradise Remastered,FIFA 19
+2018,FDG Entertainment,0.04,8,Monster Boy and the Cursed Kingdom,Monster Boy and the Cursed Kingdom,Monster Boy and the Cursed Kingdom,Monster Boy and the Cursed Kingdom
+2018,GameMill Entertainment,0.13,2,Nickelodeon Kart Racers,Nickelodeon Kart Racers,Nickelodeon Kart Racers,Nickelodeon Kart Racers
+2018,Koei Tecmo,0.54,7,Attack on Titan 2,Attack on Titan 2,Attack on Titan 2,Attack on Titan 2
+2018,Maximum Games,0.03,5,Agony,Agony,Agony,Agony
+2018,Merge Games,0.11,9.3,Dead Cells,Dead Cells,Dead Cells,Dead Cells
+2018,Microids,0.06,6.5,Asterix and Obelix XXL2,Asterix and Obelix XXL2,Asterix and Obelix XXL2,Asterix and Obelix XXL2
+2018,Microsoft Studios,1.086666667,7.7,Forza Horizon 4,State of Decay 2,Forza Horizon 4,Sea of Thieves
+2018,NIS America,0.043333333,7.666666667,Ys VIII: Lacrimosa of Dana,Happy Birthdays,Happy Birthdays,Penny-Punching Princess
+2018,Namco Bandai Games,0.51,5.75,Ni no Kuni II: Revenant Kingdom,New Gundam Breaker,Ni no Kuni II: Revenant Kingdom,New Gundam Breaker
+2018,Nicalis,0.03,7.666666667,Blade Strangers,Runner3,Blade Strangers,Code of  Princess EX
+2018,Nintendo,0.289166667,7.4,Detective Pikachu,Dillon's Dead-Heat Breakers,Captain Toad: Treasure Tracker,Kirby: Battle Royale
+2018,Outright Games,0.01,6.5,Hotel Transylvania 3: Monsters Overboard,Hotel Transylvania 3: Monsters Overboard,Hotel Transylvania 3: Monsters Overboard,Hotel Transylvania 3: Monsters Overboard
+2018,PM Studios,0.01,7.5,Musynx,Musynx,Musynx,Musynx
+2018,Rising Star,0.01,7.5,Flipping Death,Flipping Death,Flipping Death,Flipping Death
+2018,Rockstar Games,13.94,9.8,Red Dead Redemption 2,Red Dead Redemption 2,Red Dead Redemption 2,Red Dead Redemption 2
+2018,Sega,0.19,8.6,Valkyria Chronicles 4,Valkyria Chronicles 4,Valkyria Chronicles 4,Valkyria Chronicles 4
+2018,Soedesco,0.05,9,Owlboy,Owlboy,Owlboy,Owlboy
+2018,Sold Out,0.29,8.4,Overcooked! 2,Overcooked! 2,Overcooked! 2,Overcooked! 2
+2018,Sony Interactive Entertainment,0.71,8.5,Astro Bot Rescue Mission,Astro Bot Rescue Mission,Astro Bot Rescue Mission,Astro Bot Rescue Mission
+2018,Square Enix,0.635,7.75,Dragon Quest XI: Echoes of an Elusive Age,Lost Sphear,Dragon Quest XI: Echoes of an Elusive Age,Lost Sphear
+2018,Studio Wildcard,0.08,4,ARK: Survival Evolved,ARK: Survival Evolved,ARK: Survival Evolved,ARK: Survival Evolved
+2018,THQ Nordic,0.03,7.5,Battle Chasers: Nightwar,Legend of Kay Anniversary,Battle Chasers: Nightwar,Legend of Kay Anniversary
+2018,Team 17,0.11,8.4,Overcooked Special Edition,Overcooked Special Edition,Overcooked Special Edition,Overcooked Special Edition
+2018,Techland,0.04,7,Pure Farming 2018,Pure Farming 2018,Pure Farming 2018,Pure Farming 2018
+2018,Ubisoft,1.758333333,7.55,Far Cry 5,Assassin's Creed Rogue Remastered,Assassin's Creed Odyssey,Assassin's Creed Rogue Remastered
+2018,Villa Gorilla,0.04,9,Yoku's Island Express,Yoku's Island Express,Yoku's Island Express,Yoku's Island Express
+2018,Warner Bros. Interactive Entertainment,0.763333333,7.6,LEGO The Incredibles,LEGO DC Super-Villains,Fortnite,LEGO The Incredibles
+2018,Xseed Games,0.02,7,Gal Metal!,Gal Metal!,Gal Metal!,Gal Metal!
+2019,NIS America,0.13,7,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel III,The Legend of Heroes: Trails of Cold Steel III
+2020,Unknown,0.1,7.5,Ridge Racer 2,Ridge Racer 2,Ridge Racer 2,Ridge Racer 2
