@@ -5,6 +5,9 @@
   import { Chart, registerables } from 'chart.js';
   import Papa from 'papaparse';
   import * as d3 from 'd3';
+  import PublisherBubble from './PublisherBubble.svelte';
+
+
 
   Chart.register(...registerables);
 
@@ -361,7 +364,12 @@
   .axis line {
     stroke: #e0e0e0;
   }
+
+  p {
+  text-align: left;
+  }
 </style>
+
 
 <div class="main-title">
   <span>🎮 Who's Dominating the Game:</span> A Temporal Analysis of Gaming Publishers 🎮
@@ -383,6 +391,17 @@
   <div id="games-chart" class="chart-container"></div>
   <div id="sales-chart" class="chart-container"></div>
 </div>
+
+<section>
+  <br>
+  <br>
+  <br>
+  <br>
+  <h2 align="left"> <br>A publisher wants...</h2>
+  <p>To create a brand!</p>
+  <br>
+  <PublisherBubble />
+</section>
 
 <div class="container">
   <h1>⚔️  Head-2-Head Publishers Combat  ⚔️</h1>
@@ -496,3 +515,4 @@
     </div>
   {/if}
 </div>
+
