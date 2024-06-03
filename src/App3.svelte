@@ -150,6 +150,7 @@
 
   function updateGamesChart(data, year) {
     const filteredData = data.filter(d => d.year === year);
+    const totalGames = d3.sum(filteredData, d => d.count);
 
     filteredData.sort((a, b) => b.count - a.count);
 
@@ -174,6 +175,8 @@
       .selectAll('text')
       .style('fill', '#e0e0e0');
 
+    const tooltip = d3.select('#tooltip');
+
     svgGames.selectAll('.bar')
       .data(filteredData)
       .enter()
@@ -184,6 +187,15 @@
       .attr('width', 0)
       .attr('height', yScaleGames.bandwidth())
       .attr('fill', '#9966ff')
+      .on('mouseover', (event, d) => {
+      tooltip.transition().duration(200).style('opacity', .9);
+      tooltip.html(`${d.genre}: ${((d.count / totalGames) * 100).toFixed(2)}%`)
+        .style('left', (event.pageX + 5) + 'px')
+        .style('top', (event.pageY - 28) + 'px');
+    })
+        .on('mouseout', () => {
+    tooltip.transition().duration(500).style('opacity', 0);
+    })
       .transition()
       .duration(1000) // Duration for smooth transition
       .attr('width', d => xScaleGames(d.count));
@@ -218,6 +230,7 @@
 
   function updateSalesChart(data, year) {
     const filteredData = data.filter(d => d.year === year);
+    const totalSales = d3.sum(filteredData, d => +d.sales);
 
     filteredData.sort((a, b) => b.sales - a.sales);
 
@@ -242,6 +255,8 @@
       .selectAll('text')
       .style('fill', '#e0e0e0');
 
+    const tooltip = d3.select('#tooltip');
+
     svgSales.selectAll('.bar')
       .data(filteredData)
       .enter()
@@ -252,6 +267,15 @@
       .attr('width', 0)
       .attr('height', yScaleSales.bandwidth())
       .attr('fill', '#4bc0c0')
+      .on('mouseover', (event, d) => {
+                        tooltip.transition().duration(200).style('opacity', .9);
+                        tooltip.html(`${d.genre}: ${((+d.sales / totalSales) * 100).toFixed(2)}%`)
+                            .style('left', (event.pageX + 5) + 'px')
+                            .style('top', (event.pageY - 28) + 'px');
+                    })
+                    .on('mouseout', () => {
+                        tooltip.transition().duration(500).style('opacity', 0);
+                    })
       .transition()
       .duration(1000) // Duration for smooth transition
       .attr('width', d => xScaleSales(d.sales));
@@ -390,6 +414,7 @@
 <div class="bar-chart-container">
   <div id="games-chart" class="chart-container"></div>
   <div id="sales-chart" class="chart-container"></div>
+  <div id="tooltip" style="position: absolute; opacity: 0; background-color: #333; color: #fff; padding: 5px; border-radius: 3px; pointer-events: none;"></div>
 </div>
 
 <section>
