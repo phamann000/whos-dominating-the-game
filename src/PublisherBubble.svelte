@@ -2,10 +2,7 @@
 <script>
   import { onMount } from 'svelte';
   import * as d3 from 'd3';
-  import {
-  forceCollide
-} from "d3-force";
-import { square_enix_data } from "./assets/square_enix_data.js"
+  import { square_enix_data } from "./assets/square_enix_data.js";
 
   
 
@@ -33,12 +30,14 @@ import { square_enix_data } from "./assets/square_enix_data.js"
     const forceStrength = 0.03;
 
     const simulation = d3.forceSimulation(nodes)
-      .force("charge", d3.forceManyBody())
+      .alphaDecay(0.02)
       .force("center", d3.forceCenter(center.x, center.y))
-      .force("collide", forceCollide().radius(d => bub_rad(d.total_sales)))
-      //.force("collide", forceCollide().radius(d => Math.sqrt(d.sales) * 100))
       .force('x', d3.forceX().strength(forceStrength).x(center.x))
-      .force('y', d3.forceY().strength(forceStrength).y(center.y));
+      .force('y', d3.forceY().strength(forceStrength).y(center.y))
+      .force("collide", d3.forceCollide().radius(d => bub_rad(d.total_sales)).iterations(3))
+      //.force("collide", d3.forceCollide().radius(d => Math.sqrt(d.sales)))
+      .force("charge", d3.forceManyBody().strength((d, i) => i ? 0 : 0.6))
+      .on("tick", ticked);
 
     const circles = svg.selectAll('circle')
       .data(nodes)
@@ -46,13 +45,14 @@ import { square_enix_data } from "./assets/square_enix_data.js"
       .append('circle')
       .attr('r', d => bub_rad(d.total_sales))
       //.attr('r', d => Math.sqrt(d.sales) * 100)
+      .attr('stroke', "grey")
       .attr('fill', d => color(d.genre));
       //.attr('fill', 'steelblue');
 
-    simulation.on("tick", () => {
+    function ticked() {
       circles.attr("cx", d => d.x)
       .attr("cy", d => d.y);
-    });
+    }
   });
 </script>
 
