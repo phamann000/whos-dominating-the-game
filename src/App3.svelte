@@ -374,7 +374,7 @@
 <div class="main-title">
   <span>🎮 Who's Dominating the Game:</span> A Temporal Analysis of Gaming Publishers 🎮
 </div>
-
+<h4> by Annie Pham, Phu Dang, and Sean Chan</h4>
 <br>
 
 <h1>⚔️  Genre Prevalence Combat  ⚔️</h1>
@@ -398,7 +398,10 @@
   <br>
   <br>
   <h2 align="left"> <br>A publisher wants...</h2>
-  <p>To create a brand!</p>
+  <p>
+    To create a brand! <br>
+    The following bubble plot is of games published by Square Enix
+  </p>
   <br>
   <PublisherBubble />
 </section>
