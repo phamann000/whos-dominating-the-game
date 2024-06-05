@@ -1,6 +1,12 @@
 export const square_enix_data = 
 [
-    {
+   {
+      "title":"'98 Koshien",
+      "total_sales":64.29,
+      "genre":"Sports",
+      "publisher":"Magical Company"
+   }, 
+   {
        "title":"Arkanoid DS",
        "total_sales":0.06,
        "genre":"Puzzle",
