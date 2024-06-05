@@ -10,31 +10,31 @@ export const square_enix_data =
        "title":"Arkanoid DS",
        "total_sales":0.06,
        "genre":"Puzzle",
-       "publisher":"Square Enix"
+       "publisher":"ABCDEF"
     },
     {
        "title":"Blood of Bahamut",
        "total_sales":0.09,
        "genre":"Role-Playing",
-       "publisher":"Square Enix"
+       "publisher":"ABCDEF"
     },
     {
        "title":"Bust-A-Move Universe",
        "total_sales":0.31,
        "genre":"Puzzle",
-       "publisher":"Square Enix"
+       "publisher":"Magical Company"
     },
     {
        "title":"Chaos Rings III",
        "total_sales":0.06,
        "genre":"Role-Playing",
-       "publisher":"Square Enix"
+       "publisher":"Magical Company"
     },
     {
        "title":"Chocobo to Mahou no Ehon: Majo to Shoujo to 5-Jin no Yuusha",
        "total_sales":0.05,
        "genre":"Role-Playing",
-       "publisher":"Square Enix"
+       "publisher":"Magical Company"
     },
     {
        "title":"Chocobo to Mahou no Ehon: Special Package",

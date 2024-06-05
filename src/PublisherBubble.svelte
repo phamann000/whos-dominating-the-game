@@ -18,61 +18,35 @@
         "#C89F04", "#EE3F8D", "#7BAC13", "#3F6D05", "#608AE5",
         "#55E1E6", "#55E688", "#5585E6", "#A1E3E6"
        ]);
-    const categories = ['Square Enix', 'Magical Company'];
+    const categories = ['Square Enix', 'Magical Company', 'ABCDEF'];
     // D3 code for creating the bubble plot
     const svg = d3.select('svg');
     const width = +svg.attr('width');
     const height = +svg.attr('height');
-    let selectedCategory;
+    let selectedCategory = "Square Enix";
 
     
     let data = square_enix_data;
-    let nodes = data.map(d => Object.create(d));
+    let nodes;
 
     const center = {x: width / 2, y: height/ 2};
     const forceStrength = 0.03;
 
-    const simulation = d3.forceSimulation(nodes)
-      .alpha(0.5)
-      .alphaTarget(0.3)
-      .alphaDecay(0.02)
-      .force("center", d3.forceCenter(center.x, center.y))
-      .force('x', d3.forceX().strength(forceStrength).x(center.x))
-      .force('y', d3.forceY().strength(forceStrength).y(center.y))
-      .force("collide", d3.forceCollide().radius(d => bub_rad(d.total_sales)))
-      //.force("collide", d3.forceCollide().radius(d => Math.sqrt(d.sales)))
-      .force("charge", d3.forceManyBody().strength(-8))
-      .on("tick", ticked);
-
-    const circles = svg.selectAll('circle')
-      .data(nodes)
-      .enter()
-      .append('circle')
-      .attr('r', d => bub_rad(d.total_sales))
-      //.attr('r', d => Math.sqrt(d.sales) * 100)
-      .attr('stroke', "grey")
-      .attr('fill', d => color(d.genre));
-      //.attr('fill', 'steelblue');
-
-    function ticked() {
-      circles.attr("cx", d => d.x)
-      .attr("cy", d => d.y);
-    }
+    update(selectedCategory);
 
     function update(selectedCategory) {
       // Filter data based on dropdown selection
       let filteredData = data.filter(d => d.publisher === selectedCategory);
-      let filteredNodes = filteredData.map(d => Object.create(d));
+      let nodes = filteredData.map(d => Object.create(d));
 
-      // Update SVG circles
+      // Remove SVG circles
       svg.selectAll('circle').remove();
       
-      simulation.alpha(1).restart(); 
+      //simulation.alpha(1).restart(); 
 
       // Update simulation with filtered data
-      simulation.nodes(filteredNodes);
-      
-      simulation
+    
+     let simulation = d3.forceSimulation(nodes)
         .force("center", d3.forceCenter(center.x, center.y))
         .force('x', d3.forceX().strength(forceStrength).x(center.x))
         .force('y', d3.forceY().strength(forceStrength).y(center.y))
@@ -80,17 +54,23 @@
         .force("charge", d3.forceManyBody().strength(-8))
         .on("tick", ticked);
 
-      
+      function ticked() {
+      //console.log(nodes[10]['x'])
+      circles.attr("cx", d => d.x)
+      .attr("cy", d => d.y);
+      }
 
       
- 
-      svg.selectAll('circle')
-        .data(filteredNodes)
-        .enter()
-        .append('circle')
-        .attr('r', d => bub_rad(d.total_sales))
-        .attr('stroke', "grey")
-        .attr('fill', d => color(d.genre));
+      // Update new circles
+      let circles = svg.selectAll('circle')
+      .data(nodes)
+      .enter()
+      .append('circle')
+      .attr('r', d => bub_rad(d.total_sales))
+      //.attr('r', d => Math.sqrt(d.sales) * 100)
+      .attr('stroke', "grey")
+      .attr('fill', d => color(d.genre));
+
     }
 
     function handleCategoryChange(event) {
