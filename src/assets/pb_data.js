@@ -1,61 +1,5 @@
-export const pb_data =
+export const pb_data = 
 [
-   {
-      "title":"Boulder Dash: Rocks!",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"10TACLE Studios",
-      "year":2007
-   },
-   {
-      "title":"Cubix Robots for Everyone: Clash 'n' Bash",
-      "total_sales":0.36,
-      "genre":"Action",
-      "publisher":"10TACLE Studios",
-      "year":2002
-   },
-   {
-      "title":"Cabela's Big Game Hunter",
-      "total_sales":1.51,
-      "genre":"Sports",
-      "publisher":"10TACLE Studios",
-      "year":2002
-   },
-   {
-      "title":"This War of Mine",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"11 bit studios",
-      "year":2016
-   },
-   {
-      "title":"Necrovision",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"1C Company",
-      "year":2009
-   },
-   {
-      "title":"King's Bounty: Armored Princess",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"1C Company",
-      "year":2009
-   },
-   {
-      "title":"Off-Road Drive",
-      "total_sales":0.04,
-      "genre":"Racing",
-      "publisher":"1C Company",
-      "year":2011
-   },
-   {
-      "title":"Men of War: Assault Squad",
-      "total_sales":0.06,
-      "genre":"Strategy",
-      "publisher":"1C Company",
-      "year":2011
-   },
    {
       "title":"24: The Game",
       "total_sales":0.3,
@@ -155,6 +99,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"Vietcong 2",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"2K Games",
+      "year":2005
+   },
+   {
       "title":"Prey",
       "total_sales":0.36,
       "genre":"Shooter",
@@ -188,6 +139,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"2K Games",
       "year":2014
+   },
+   {
+      "title":"Jade Empire: Special Edition",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"2K Games",
+      "year":2007
    },
    {
       "title":"Ford Racing 3",
@@ -302,6 +260,13 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"The Elder Scrolls IV: Oblivion - Game of the Year Edition",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"2K Games",
+      "year":2007
+   },
+   {
       "title":"XCOM 2",
       "total_sales":0.81,
       "genre":"Strategy",
@@ -323,6 +288,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Civilization IV: Beyond the Sword",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"2K Games",
+      "year":2007
+   },
+   {
       "title":"Motocross Mania 3",
       "total_sales":0.12,
       "genre":"Racing",
@@ -335,6 +307,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"2K Games",
       "year":2015
+   },
+   {
+      "title":"CivCity: Rome",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"2K Games",
+      "year":2006
    },
    {
       "title":"Call of Cthulhu: Dark Corners of the Earth",
@@ -1009,18 +988,32 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"BikkuriMan Daijiten",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"3 O'Clock",
-      "year":2007
-   },
-   {
       "title":"Aqua Aqua",
       "total_sales":0.11,
       "genre":"Puzzle",
       "publisher":"3DO",
       "year":2001
+   },
+   {
+      "title":"World Destruction League: Thunder Tanks",
+      "total_sales":0.34,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
+      "title":"Army Men 3D",
+      "total_sales":1.28,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1999
+   },
+   {
+      "title":"Army Men",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1998
    },
    {
       "title":"Portal Runner",
@@ -1030,11 +1023,39 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Army Men: Turf Wars",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"3DO",
+      "year":2002
+   },
+   {
+      "title":"Cubix Robots for Everyone: Showdown",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2003
+   },
+   {
+      "title":"Crusaders of Might and Magic",
+      "total_sales":0.25,
+      "genre":"Role-Playing",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
       "title":"WarJetz",
       "total_sales":0.04,
       "genre":"Shooter",
       "publisher":"3DO",
       "year":2001
+   },
+   {
+      "title":"Sammy Sosa High Heat Baseball 2001",
+      "total_sales":0.58,
+      "genre":"Sports",
+      "publisher":"3DO",
+      "year":2000
    },
    {
       "title":"High Heat Major League Baseball 2004",
@@ -1058,6 +1079,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"High Heat Major League Baseball 2002",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"3DO",
+      "year":2001
+   },
+   {
       "title":"High Heat Baseball 2002",
       "total_sales":0.04,
       "genre":"Sports",
@@ -1065,11 +1093,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Heroes of Might and Magic IV",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"3DO",
+      "year":2002
+   },
+   {
       "title":"Warriors of Might and Magic",
       "total_sales":0.3,
       "genre":"Adventure",
       "publisher":"3DO",
       "year":2001
+   },
+   {
+      "title":"Army Men: Sarge's Heroes 2",
+      "total_sales":0.83,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
+      "title":"Army Men: Sarge's Heroes",
+      "total_sales":1.37,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1999
    },
    {
       "title":"Army Men: RTS",
@@ -1086,11 +1135,53 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Army Men World War: Land, Sea, Air",
+      "total_sales":0.3,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
       "title":"Army Men World War: Team Assault",
       "total_sales":0.1,
       "genre":"Action",
       "publisher":"3DO",
       "year":2001
+   },
+   {
+      "title":"Army Men: Air Attack",
+      "total_sales":0.85,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1999
+   },
+   {
+      "title":"Army Men: Air Attack 2",
+      "total_sales":0.3,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
+      "title":"Army Men: Air Combat",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2000
+   },
+   {
+      "title":"Army Men Advance",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2001
+   },
+   {
+      "title":"Uprising X",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1998
    },
    {
       "title":"Dragon Rage",
@@ -1100,11 +1191,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"BattleTanx: Global Assault",
+      "total_sales":0.39,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1999
+   },
+   {
       "title":"Army Men: Air Combat - The Elite Missions",
       "total_sales":0.01,
       "genre":"Shooter",
       "publisher":"3DO",
       "year":2003
+   },
+   {
+      "title":"BattleTanx",
+      "total_sales":0.33,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":1998
    },
    {
       "title":"Shifters",
@@ -1128,11 +1233,11 @@ export const pb_data =
       "year":2001
    },
    {
-      "title":"Summer Athletics 2009",
-      "total_sales":0.03,
-      "genre":"Sports",
-      "publisher":"49Games",
-      "year":2009
+      "title":"Army Men: Operation Green",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"3DO",
+      "year":2001
    },
    {
       "title":"Assetto Corsa",
@@ -1149,11 +1254,25 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Buffy the Vampire Slayer: Sacrifice",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"505 Games",
+      "year":2009
+   },
+   {
       "title":"Top Gun: Hard Lock",
       "total_sales":0.09,
       "genre":"Action",
       "publisher":"505 Games",
       "year":2012
+   },
+   {
+      "title":"ArmA: Queen's Gambit",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"505 Games",
+      "year":2007
    },
    {
       "title":"Blackwater",
@@ -1233,6 +1352,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"I did it Mum! Picture Book",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"505 Games",
+      "year":2008
+   },
+   {
       "title":"IL-2 Sturmovik: Birds of Prey",
       "total_sales":1.45,
       "genre":"Simulation",
@@ -1261,6 +1387,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Pic Pic",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"505 Games",
+      "year":2008
+   },
+   {
       "title":"Payday 2",
       "total_sales":1.77,
       "genre":"Shooter",
@@ -1282,11 +1415,32 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"New Touch Party Game",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"505 Games",
+      "year":2007
+   },
+   {
+      "title":"Kira Kira Pop Princess",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"505 Games",
+      "year":2008
+   },
+   {
       "title":"Naval Assault: The Killing Tide",
       "total_sales":0.17,
       "genre":"Simulation",
       "publisher":"505 Games",
       "year":2010
+   },
+   {
+      "title":"Naughty Bear: Double Trouble",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"505 Games",
+      "year":2012
    },
    {
       "title":"Mind over Matter",
@@ -1296,11 +1450,32 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Mind, Body & Soul: Blend It!",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"505 Games",
+      "year":2010
+   },
+   {
+      "title":"Mind, Body & Soul: Spellbound 2",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"505 Games",
+      "year":2010
+   },
+   {
       "title":"Mean Girls",
       "total_sales":0.01,
       "genre":"Puzzle",
       "publisher":"505 Games",
       "year":2010
+   },
+   {
+      "title":"Maths Made Simple",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"505 Games",
+      "year":2008
    },
    {
       "title":"MorphX",
@@ -1329,6 +1504,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"505 Games",
       "year":2010
+   },
+   {
+      "title":"My Pet Dolphin",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"505 Games",
+      "year":2007
    },
    {
       "title":"Lupin III: Lupin ni wa Shi o, Zenigata ni wa Koi o",
@@ -1485,6 +1667,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Days of Thunder: NASCAR Edition",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"505 Games",
+      "year":2011
+   },
+   {
       "title":"Cats & Dogs: The Revenge of Kitty Galore",
       "total_sales":0.11,
       "genre":"Action",
@@ -1548,6 +1737,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Diva Girls: Diva Dancers",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"505 Games",
+      "year":2009
+   },
+   {
       "title":"Field & Stream: Total Outdoorsman Challenge",
       "total_sales":0.09,
       "genre":"Sports",
@@ -1583,6 +1779,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Subbuteo",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"505 Games",
+      "year":2008
+   },
+   {
       "title":"Don't Starve: Giant Edition",
       "total_sales":0.04,
       "genre":"Adventure",
@@ -1611,6 +1814,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"A-Train HX",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"505 Games",
+      "year":2008
+   },
+   {
       "title":"Zorro: Quest For Justice",
       "total_sales":0.01,
       "genre":"Action",
@@ -1625,620 +1835,214 @@ export const pb_data =
       "year":2017
    },
    {
-      "title":"Muv-Luv Alternative: Total Eclipse",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Muv-Luv Alternative",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Memories Off: Omoide ni Kawaru-Kun",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Eiyuu * Senki",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Memories Off: Innocent File",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2018
-   },
-   {
-      "title":"Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. & Zoku: Oatome Set",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Memories Off: AfterRain",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Muv-Luv",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Chaos;Head Noah",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Memories Off 6: Next Relation",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Psycho-Pass: Mandatory Happiness",
-      "total_sales":0.21,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Oretachi ni Tsubasa wa Nai",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. Zoku",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Memories Off 2nd",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Disorder 6",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"MuvLuv Double Pack",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Memories Off 6: T-Wave",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Memories Off: Sorekara",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Chaos;Head Dual",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"Taishou Yakyuujou: Otome Tatsuno Seishun Nikki",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Muv-luv Photonmelodies",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Memories Off: Yubikiri no Kioku",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Konoyo no Hate de Koi o Utau Shoujo: Yu-No",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Muv-luv Photonflowers",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"11eyes: CrossOver",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Prism Ark: Awake",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Kono Oozora ni, Tsubasa o Hirogete: Cruise Sign",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"DoDonPachi Dai-Oujou: Black Label Extra",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Memories Off: Yubikiri no Kikou",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2011
-   },
-   {
-      "title":"Yahari Game Demo Ore no Seishun Love-Kome Hamachi Gatteiru",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Corpse Party: Book of Shadows",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2011
-   },
-   {
-      "title":"Corpse Party: Blood Covered - Repeated Fear",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Bullet Soul",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Phantom Breaker",
-      "total_sales":0.05,
-      "genre":"Fighting",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Bullet Soul Infinite Burst",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"Chaos;Child",
-      "total_sales":0.11,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Chaos;Child: Love Chu Chu!!",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Chaos;Head - Love Chu*Chu!",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Tayutama: Kiss on my Deity",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Saenai Kanojo no Sodatekata: Blessing Flowers",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Ketsui: Kizuna Jigoku Tachi Extra",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Infinite Stratos 2: Ignition Hearts",
-      "total_sales":0.06,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2014
-   },
-   {
-      "title":"Gochuumon wa Usagi Desu ka?? Wonderful Party!",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Anohana: The Flower We Saw That Day",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Night Wizard the Video Game: Denial of the World",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Dunamis 15",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2011
-   },
-   {
-      "title":"Kanokon: Esuii",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Robotics;Notes",
-      "total_sales":0.15,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Skip Beat!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Meiji Toukyou Renka: Full Moon",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Akatsuki no Goei Trinity",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2012
-   },
-   {
-      "title":"Steins;Gate",
-      "total_sales":0.41,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Steins;Gate: Senkei Kousoku no Phonogram",
-      "total_sales":0.08,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Steins;Gate: Darling of Loving Vows",
-      "total_sales":0.16,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2011
-   },
-   {
-      "title":"Steins;Gate Elite",
-      "total_sales":0.06,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2018
-   },
-   {
-      "title":"Steins;Gate 0",
-      "total_sales":0.25,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Pastel Chime Continue",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Sharin no Kuni, Himawari no Shoujo",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Hanasaku Manimani",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Lucian Bee's: Resurrection Supernova",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Memories Off",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Nyaruko-San: Nafushigatai Game no You na Mono",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"5pb",
-      "year":2013
-   },
-   {
-      "title":"Occultic;Nine",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Lovely x Cation 1 & 2",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"Kamaitachi no Yoru: Rinne Saisei",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Plastic Memories",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2016
-   },
-   {
-      "title":"Memories Off #5: Togireta Film",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2009
-   },
-   {
-      "title":"Infinite Stratos 2: Love and Purge",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"New Game! The Challenge Stage!",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2017
-   },
-   {
-      "title":"Monochrome Fighter: Cross Road",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2008
-   },
-   {
-      "title":"Lucian Bee's: Justice Yellow \/ Evil Violet",
-      "total_sales":0.07,
-      "genre":"Visual Novel",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"W.L.O. Sekai Renai Kikousen",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2010
-   },
-   {
-      "title":"Kadenz fermata\/\/Akkord:fortissimo",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"5pb",
-      "year":2015
-   },
-   {
-      "title":"NASCAR Heat 3",
-      "total_sales":0.23,
-      "genre":"Racing",
-      "publisher":"704Games",
-      "year":2018
-   },
-   {
-      "title":"NASCAR Heat 2",
-      "total_sales":0.25,
-      "genre":"Racing",
-      "publisher":"704Games",
-      "year":2017
-   },
-   {
-      "title":"Germany's Next Topmodel 2011",
-      "total_sales":0.04,
+      "title":"Aces of War",
+      "total_sales":0.0,
       "genre":"Simulation",
-      "publisher":"7G\/\/AMES",
-      "year":2011
-   },
-   {
-      "title":"TV Total Events",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"7G\/\/AMES",
-      "year":2011
-   },
-   {
-      "title":"Know How 2",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"7G\/\/AMES",
-      "year":2010
-   },
-   {
-      "title":"Undertale",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"8-4",
-      "year":2017
-   },
-   {
-      "title":"Shooter: Starfighter Sanvein",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"A1 Games",
-      "year":2001
-   },
-   {
-      "title":"Pinball Tycoon",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"AIA",
-      "year":2003
-   },
-   {
-      "title":"Monster! Bass Fishing",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"AIA",
-      "year":2004
-   },
-   {
-      "title":"Suggoi! Arcana Heart 2",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"AQ Interactive",
-      "year":2009
-   },
-   {
-      "title":"Higurashi no Naku Koro ni: Jan",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"AQ Interactive",
-      "year":2009
-   },
-   {
-      "title":"Vampire Rain",
-      "total_sales":0.21,
-      "genre":"Action",
-      "publisher":"AQ Interactive",
+      "publisher":"505 Games",
       "year":2007
    },
    {
-      "title":"Playboy: The Mansion",
-      "total_sales":0.29,
+      "title":"NHL FaceOff 99",
+      "total_sales":0.43,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"NFL GameDay 99",
+      "total_sales":1.53,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"NFL GameDay 2000",
+      "total_sales":1.8,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Bust A Groove",
+      "total_sales":0.54,
+      "genre":"Misc",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"NCAA Gamebreaker 99",
+      "total_sales":0.45,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"NHL FaceOff 2000",
+      "total_sales":0.31,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"NCAA GameBreaker 2000",
+      "total_sales":0.4,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Cool Boarders 3",
+      "total_sales":2.31,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"NFL Xtreme 2",
+      "total_sales":0.48,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Rally Cross 2",
+      "total_sales":0.35,
+      "genre":"Racing",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"3Xtreme",
+      "total_sales":0.9,
+      "genre":"Action",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Twisted Metal III",
+      "total_sales":1.73,
+      "genre":"Action",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"Twisted Metal 4",
+      "total_sales":1.28,
+      "genre":"Racing",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"NBA ShootOut 2000",
+      "total_sales":0.4,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Cool Boarders 4",
+      "total_sales":1.17,
+      "genre":"Sports",
+      "publisher":"989 Studios",
+      "year":1999
+   },
+   {
+      "title":"Cardinal Syn",
+      "total_sales":0.15,
+      "genre":"Fighting",
+      "publisher":"989 Studios",
+      "year":1998
+   },
+   {
+      "title":"Syphon Filter 2",
+      "total_sales":2.15,
+      "genre":"Shooter",
+      "publisher":"989 Studios",
+      "year":2000
+   },
+   {
+      "title":"TNN Motor Sports Hardcore 4x4",
+      "total_sales":1.31,
+      "genre":"Racing",
+      "publisher":"ASC Games",
+      "year":1996
+   },
+   {
+      "title":"Mass Destruction",
+      "total_sales":0.11,
+      "genre":"Shooter",
+      "publisher":"ASC Games",
+      "year":1997
+   },
+   {
+      "title":"Dead in the Water",
+      "total_sales":0.05,
+      "genre":"Action",
+      "publisher":"ASC Games",
+      "year":1999
+   },
+   {
+      "title":"Grand Theft Auto",
+      "total_sales":2.56,
+      "genre":"Action",
+      "publisher":"ASC Games",
+      "year":1998
+   },
+   {
+      "title":"Perfect Weapon",
+      "total_sales":0.23,
+      "genre":"Action",
+      "publisher":"ASC Games",
+      "year":1996
+   },
+   {
+      "title":"Animaniacs Ten Pin Alley",
+      "total_sales":0.66,
+      "genre":"Sports",
+      "publisher":"ASC Games",
+      "year":1998
+   },
+   {
+      "title":"Moon",
+      "total_sales":0.23,
+      "genre":"Role-Playing",
+      "publisher":"ASCII Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Aero Gauge",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"ASCII Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Derby Stallion",
+      "total_sales":0.09,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Wizardry VI: Bane of the Cosmic Forge",
+      "total_sales":0.1,
+      "genre":"Role-Playing",
+      "publisher":"ASCII Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Armored Core: Project Phantasma",
+      "total_sales":0.28,
       "genre":"Simulation",
-      "publisher":"ARUSH Entertainment",
-      "year":2005
+      "publisher":"ASCII Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Clock Tower",
+      "total_sales":0.53,
+      "genre":"Adventure",
+      "publisher":"ASCII Entertainment",
+      "year":1997
    },
    {
       "title":"Seaman: Kindan no Pet - Gaze Hakushi no Jikken Shima",
@@ -2248,81 +2052,151 @@ export const pb_data =
       "year":2001
    },
    {
-      "title":"Marriage Royale: Prism Story",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2010
+      "title":"Master of Monsters: Disciples of Gaia",
+      "total_sales":0.03,
+      "genre":"Strategy",
+      "publisher":"ASCII Entertainment",
+      "year":1998
    },
    {
-      "title":"Durarara!! 3-way Standoff",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2010
+      "title":"Mini-Yonku GB: Let's & Go!!",
+      "total_sales":0.37,
+      "genre":"Strategy",
+      "publisher":"ASCII Entertainment",
+      "year":1997
    },
    {
-      "title":"Ookami to Koushinryou: Boku to Horo no Ichinen",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2008
-   },
-   {
-      "title":"Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2009
-   },
-   {
-      "title":"Dengeki Gakuen RPG: Cross of Venus",
-      "total_sales":0.05,
+      "title":"King's Field II",
+      "total_sales":0.26,
       "genre":"Role-Playing",
-      "publisher":"ASCII Media Works",
-      "year":2009
+      "publisher":"ASCII Entertainment",
+      "year":1996
    },
    {
-      "title":"Twinkle * Crusaders GoGo!",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2010
+      "title":"Derby Stallion 96",
+      "total_sales":1.05,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1996
    },
    {
-      "title":"Ookami to Koushinryou: Omiowataru Kaze",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2009
+      "title":"Mini-Yonku Shining Scorpion: Let's & Go!!",
+      "total_sales":0.9,
+      "genre":"Racing",
+      "publisher":"ASCII Entertainment",
+      "year":1996
    },
    {
-      "title":"Dengeki Gakuen RPG: Cross of Venus Special",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"ASCII Media Works",
-      "year":2011
+      "title":"Derby Stallion 98",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1998
    },
    {
-      "title":"Nogizaka Haruka no Himitsu Cosplay, Hajime Mashita",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"ASCII Media Works",
-      "year":2008
+      "title":"Derby Stallion 99",
+      "total_sales":1.13,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1999
    },
    {
-      "title":"Golden Time: Vivid Memories",
-      "total_sales":0.01,
+      "title":"Derby Stallion II",
+      "total_sales":0.87,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1994
+   },
+   {
+      "title":"Derby Stallion III",
+      "total_sales":1.15,
+      "genre":"Sports",
+      "publisher":"ASCII Entertainment",
+      "year":1995
+   },
+   {
+      "title":"R-Types",
+      "total_sales":0.06,
+      "genre":"Shooter",
+      "publisher":"ASCII Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Sound Novel Tsukuru",
+      "total_sales":0.08,
       "genre":"Misc",
-      "publisher":"ASCII Media Works",
-      "year":2014
+      "publisher":"ASCII Entertainment",
+      "year":1996
    },
    {
-      "title":"Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Abel",
-      "year":2009
+      "title":"King's Field",
+      "total_sales":0.16,
+      "genre":"Role-Playing",
+      "publisher":"ASCII Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Backstreet Billiards",
+      "total_sales":0.34,
+      "genre":"Misc",
+      "publisher":"ASCII Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Felony 11-79",
+      "total_sales":0.26,
+      "genre":"Racing",
+      "publisher":"ASCII Entertainment",
+      "year":1997
+   },
+   {
+      "title":"RPG Tsukuru 2",
+      "total_sales":0.31,
+      "genre":"Role-Playing",
+      "publisher":"ASCII Entertainment",
+      "year":1996
+   },
+   {
+      "title":"NFL Quarterback Club 97",
+      "total_sales":0.22,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"RC de GO!",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":2001
+   },
+   {
+      "title":"NHL Breakaway 99",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"South Park",
+      "total_sales":1.85,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"South Park Rally",
+      "total_sales":0.36,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"South Park: Chef's Luv Shack",
+      "total_sales":0.55,
+      "genre":"Misc",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
    },
    {
       "title":"Worms 3D",
@@ -2332,11 +2206,46 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Bust-A-Move 2 Arcade Edition",
+      "total_sales":0.28,
+      "genre":"Puzzle",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Extreme-G",
+      "total_sales":0.59,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Bust-A-Move '99",
+      "total_sales":0.38,
+      "genre":"Puzzle",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
       "title":"ZooCube",
       "total_sales":0.07,
       "genre":"Puzzle",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"HBO Boxing",
+      "total_sales":0.21,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Space Jam",
+      "total_sales":0.92,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
    },
    {
       "title":"Showdown: Legends of Wrestling",
@@ -2353,11 +2262,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Dave Mirra Freestyle BMX",
+      "total_sales":1.05,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
       "title":"Burnout 2: Point of Impact",
       "total_sales":1.24,
       "genre":"Racing",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"Super Bust-A-Move",
+      "total_sales":0.39,
+      "genre":"Puzzle",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Extreme-G: XG2",
+      "total_sales":0.39,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
    },
    {
       "title":"RC Revenge Pro",
@@ -2381,11 +2311,53 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Mortal Kombat II (JP sales)",
+      "total_sales":0.03,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1994
+   },
+   {
       "title":"Blast Lacrosse",
       "total_sales":0.06,
       "genre":"Sports",
       "publisher":"Acclaim Entertainment",
       "year":2001
+   },
+   {
+      "title":"Mortal Kombat II (US & Others sales)",
+      "total_sales":2.39,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1994
+   },
+   {
+      "title":"Forsaken",
+      "total_sales":0.24,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Forsaken 64",
+      "total_sales":0.29,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Batman Forever: The Arcade Game",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"D",
+      "total_sales":0.11,
+      "genre":"Adventure",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
    },
    {
       "title":"SX Superstar",
@@ -2395,11 +2367,67 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Batman & Robin",
+      "total_sales":0.11,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
       "title":"Shadow Man: 2econd Coming",
       "total_sales":0.16,
       "genre":"Adventure",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"Shadow Man",
+      "total_sales":0.52,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"NBA Jam",
+      "total_sales":5.19,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1993
+   },
+   {
+      "title":"NBA JAM Tournament Edition",
+      "total_sales":0.25,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Frank Thomas Big Hurt Baseball",
+      "total_sales":0.14,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Killing Zone",
+      "total_sales":0.06,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"NHL Breakaway 98",
+      "total_sales":0.46,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"College Slam",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
    },
    {
       "title":"ATV Quad Power Racing 2",
@@ -2437,11 +2465,95 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Crazy Taxi",
+      "total_sales":4.82,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Freestyle Street Soccer",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":2004
+   },
+   {
+      "title":"WWF Attitude",
+      "total_sales":2.47,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"WWF War Zone",
+      "total_sales":4.69,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
       "title":"Ecco the Dolphin: Defender of the Future",
       "total_sales":0.14,
       "genre":"Adventure",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"True Pinball",
+      "total_sales":0.04,
+      "genre":"Misc",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Re-Volt",
+      "total_sales":0.37,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"WWF Wrestlemania: The Arcade Game",
+      "total_sales":0.06,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
+   },
+   {
+      "title":"WWF in Your House",
+      "total_sales":0.62,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Psychic Force",
+      "total_sales":0.16,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Revolution X",
+      "total_sales":0.1,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Impact Racing",
+      "total_sales":0.06,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Magic: The Gathering - Battlemage",
+      "total_sales":0.12,
+      "genre":"Strategy",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
    },
    {
       "title":"BMX XXX",
@@ -2458,11 +2570,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Star Fighter",
+      "total_sales":0.06,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
       "title":"World Championship Rugby",
       "total_sales":0.11,
       "genre":"Sports",
       "publisher":"Acclaim Entertainment",
       "year":2004
+   },
+   {
+      "title":"All-Star Baseball 99",
+      "total_sales":0.48,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Jupiter Strike",
+      "total_sales":0.11,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
    },
    {
       "title":"All-Star Baseball 2005",
@@ -2479,11 +2612,53 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Turok: Rage Wars",
+      "total_sales":0.37,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
       "title":"Turok: Evolution",
       "total_sales":2.36,
       "genre":"Platform",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"Riven: The Sequel to Myst",
+      "total_sales":0.32,
+      "genre":"Adventure",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"ECW Anarchy Rulz",
+      "total_sales":0.11,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Turok: Dinosaur Hunter",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"ECW Hardcore Revolution",
+      "total_sales":0.7,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Turok 3: Shadow of Oblivion",
+      "total_sales":0.17,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
    },
    {
       "title":"Dave Mirra Freestyle BMX 2",
@@ -2493,11 +2668,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"McGrath Vs. Pastrana Freestyle Motocross",
+      "total_sales":0.26,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
       "title":"Aggressive Inline",
       "total_sales":0.48,
       "genre":"Sports",
       "publisher":"Acclaim Entertainment",
       "year":2002
+   },
+   {
+      "title":"All-Star Baseball 2000",
+      "total_sales":0.39,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"All-Star Baseball 2001",
+      "total_sales":0.23,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
    },
    {
       "title":"All-Star Baseball 2002",
@@ -2514,6 +2710,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Tunnel B1",
+      "total_sales":0.09,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Bubble Bobble also featuring Rainbow Islands",
+      "total_sales":0.06,
+      "genre":"Puzzle",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
       "title":"All-Star Baseball 2004",
       "total_sales":0.7,
       "genre":"Sports",
@@ -2521,11 +2731,39 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Galactic Attack",
+      "total_sales":0.25,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
+   },
+   {
       "title":"XGIII: Extreme G Racing",
       "total_sales":0.42,
       "genre":"Racing",
       "publisher":"Acclaim Entertainment",
       "year":2001
+   },
+   {
+      "title":"ATV: Quad Power Racing",
+      "total_sales":1.3,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"DragonHeart: Fire & Steel",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"NBA Jam Tournament Edition",
+      "total_sales":2.12,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
    },
    {
       "title":"Power Shovel",
@@ -2549,11 +2787,46 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Striker 96",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Iron Man \/ X-O Manowar in Heavy Metal",
+      "total_sales":0.08,
+      "genre":"Platform",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Darius Gaiden",
+      "total_sales":0.1,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
       "title":"Vexx",
       "total_sales":0.4,
       "genre":"Platform",
       "publisher":"Acclaim Entertainment",
       "year":2003
+   },
+   {
+      "title":"The Crow: City of Angels",
+      "total_sales":0.02,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Myst",
+      "total_sales":0.24,
+      "genre":"Adventure",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
    },
    {
       "title":"NBA Jam 2002",
@@ -2563,11 +2836,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"NFL QB Club 2001",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
       "title":"Jeremy McGrath Supercross World",
       "total_sales":0.35,
       "genre":"Racing",
       "publisher":"Acclaim Entertainment",
       "year":2001
+   },
+   {
+      "title":"Jeremy McGrath Supercross 98",
+      "total_sales":1.04,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Jeremy McGrath Supercross 2000",
+      "total_sales":1.0,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":2000
+   },
+   {
+      "title":"NFL Quarterback Club 2000",
+      "total_sales":0.4,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
    },
    {
       "title":"Paris-Dakar Rally",
@@ -2584,6 +2885,20 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"NBA Jam 2000",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
+      "title":"BattleSport",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
       "title":"NFL Quarterback Club 2002",
       "total_sales":0.27,
       "genre":"Sports",
@@ -2598,11 +2913,53 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"NBA Jam Extreme",
+      "total_sales":0.22,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Armorines: Project S.W.A.R.M.",
+      "total_sales":0.34,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1999
+   },
+   {
       "title":"Legends of Wrestling",
       "total_sales":1.03,
       "genre":"Fighting",
       "publisher":"Acclaim Entertainment",
       "year":2001
+   },
+   {
+      "title":"Alien Trilogy",
+      "total_sales":0.47,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
+   },
+   {
+      "title":"NBA Jam 99",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Robotica",
+      "total_sales":0.06,
+      "genre":"Shooter",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Mortal Kombat II",
+      "total_sales":1.93,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1994
    },
    {
       "title":"Mary-Kate and Ashley: Sweet 16 - Licenced to Drive",
@@ -2612,6 +2969,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Street Fighter: The Movie",
+      "total_sales":0.17,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Mortal Kombat",
+      "total_sales":5.4,
+      "genre":"Fighting",
+      "publisher":"Acclaim Entertainment",
+      "year":1993
+   },
+   {
       "title":"Dakar 2: The World's Ultimate Rally",
       "total_sales":0.05,
       "genre":"Racing",
@@ -2619,11 +2990,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"NFL Quarterback Club 99",
+      "total_sales":0.62,
+      "genre":"Sports",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
       "title":"Ducati World Racing Challenge",
       "total_sales":0.03,
       "genre":"Racing",
       "publisher":"Acclaim Entertainment",
       "year":2001
+   },
+   {
+      "title":"Iggy's Reckin' Balls",
+      "total_sales":0.08,
+      "genre":"Racing",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Fantastic Four",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"Acclaim Entertainment",
+      "year":1997
    },
    {
       "title":"Mary-Kate and Ashley: Crush Course",
@@ -2647,6 +3039,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"No One Can Stop Mr. Domino!",
+      "total_sales":0.08,
+      "genre":"Misc",
+      "publisher":"Acclaim Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Test Drive 5",
+      "total_sales":1.3,
+      "genre":"Racing",
+      "publisher":"Accolade",
+      "year":1998
+   },
+   {
       "title":"Bubsy: The Woolies Strike Back",
       "total_sales":0.05,
       "genre":"Platform",
@@ -2654,109 +3060,53 @@ export const pb_data =
       "year":2017
    },
    {
-      "title":"Ken to Mahou to Gakuen Mono. 2",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2009
+      "title":"Bubsy 3D",
+      "total_sales":0.19,
+      "genre":"Platform",
+      "publisher":"Accolade",
+      "year":1996
    },
    {
-      "title":"Zettai Geigeki Wars",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Acquire",
-      "year":2015
+      "title":"Test Drive 4",
+      "total_sales":1.21,
+      "genre":"Racing",
+      "publisher":"Accolade",
+      "year":1997
    },
    {
-      "title":"New Class of Heroes Mono: Toki no Gakuen",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2012
+      "title":"Test Drive: Off Road",
+      "total_sales":1.16,
+      "genre":"Racing",
+      "publisher":"Accolade",
+      "year":1997
    },
    {
-      "title":"Ken to Mahou to Gakuen Mono. 2G",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2010
+      "title":"Pitball",
+      "total_sales":0.03,
+      "genre":"Sports",
+      "publisher":"Accolade",
+      "year":1996
    },
    {
-      "title":"Wizardry Twin Pack",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2011
+      "title":"Big Air",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Accolade",
+      "year":1999
    },
    {
-      "title":"Ken to Mahou to Gakuen Mono. 3",
-      "total_sales":0.2,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2010
+      "title":"HardBall 5",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Accolade",
+      "year":1996
    },
    {
-      "title":"Akiba's Trip 2+A",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Acquire",
-      "year":2017
-   },
-   {
-      "title":"Akiba's Trip",
-      "total_sales":0.14,
-      "genre":"Adventure",
-      "publisher":"Acquire",
-      "year":2011
-   },
-   {
-      "title":"Dun\u2190Dam: Dungeons & Dam",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2009
-   },
-   {
-      "title":"Ken to Mahou to Gakuen Mono. 3D",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Acquire",
-      "year":2011
-   },
-   {
-      "title":"Way of the Samurai 4",
-      "total_sales":0.2,
-      "genre":"Action",
-      "publisher":"Acquire",
-      "year":2011
-   },
-   {
-      "title":"Akiba's Trip Plus",
-      "total_sales":0.08,
-      "genre":"Action-Adventure",
-      "publisher":"Acquire",
-      "year":2012
-   },
-   {
-      "title":"Ken to Mahou to Gakuen Mono. Final: Shinnyusei wa Ohimesama",
-      "total_sales":0.08,
-      "genre":"Strategy",
-      "publisher":"Acquire",
-      "year":2011
-   },
-   {
-      "title":"Kamiwaza",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Acquire",
-      "year":2006
-   },
-   {
-      "title":"Live-On DS",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Acquire",
-      "year":2009
+      "title":"PO'ed",
+      "total_sales":0.04,
+      "genre":"Shooter",
+      "publisher":"Accolade",
+      "year":1997
    },
    {
       "title":"iCarly 2: iJoin The Click!",
@@ -2764,6 +3114,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Activision",
       "year":2010
+   },
+   {
+      "title":"T'ai Fu: Wrath of the Tiger",
+      "total_sales":0.15,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1999
    },
    {
       "title":"Destiny: The Taken King",
@@ -2780,6 +3137,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Disney's The Lion King: Simba's Mighty Adventure",
+      "total_sales":0.15,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
       "title":"Destiny: The Collection",
       "total_sales":1.19,
       "genre":"Shooter",
@@ -2792,6 +3156,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Activision",
       "year":2007
+   },
+   {
+      "title":"Ice Hockey",
+      "total_sales":0.49,
+      "genre":"Sports",
+      "publisher":"Activision",
+      "year":1981
    },
    {
       "title":"SCORE International Baja 1000: The Official Game",
@@ -2813,6 +3184,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Activision",
       "year":2018
+   },
+   {
+      "title":"Disney's Tarzan",
+      "total_sales":0.2,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":2000
    },
    {
       "title":"007 Legends",
@@ -2899,6 +3277,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Pressure Cooker",
+      "total_sales":0.15,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1983
+   },
+   {
       "title":"DreamWorks Super Star Kartz",
       "total_sales":0.56,
       "genre":"Racing",
@@ -2932,6 +3317,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2008
+   },
+   {
+      "title":"Commando",
+      "total_sales":0.47,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1988
    },
    {
       "title":"Bomberman Tournament",
@@ -2969,6 +3361,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Civilization II",
+      "total_sales":0.28,
+      "genre":"Strategy",
+      "publisher":"Activision",
+      "year":1998
+   },
+   {
       "title":"The Voice",
       "total_sales":0.3,
       "genre":"Music",
@@ -2983,6 +3382,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Doom",
+      "total_sales":0.96,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1993
+   },
+   {
       "title":"Doom 3",
       "total_sales":1.34,
       "genre":"Shooter",
@@ -2995,6 +3401,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Activision",
       "year":2004
+   },
+   {
+      "title":"Nightmare Creatures",
+      "total_sales":0.89,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1997
    },
    {
       "title":"Doom 3: Resurrection of Evil",
@@ -3018,6 +3431,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Doom Collector's Edition",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":2001
+   },
+   {
+      "title":"Doom II",
+      "total_sales":3.65,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1994
+   },
+   {
       "title":"The Weakest Link",
       "total_sales":0.09,
       "genre":"Misc",
@@ -3025,11 +3452,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"A Bug's Life",
+      "total_sales":3.42,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":1998
+   },
+   {
       "title":"History Channel: Battle for the Pacific",
       "total_sales":0.17,
       "genre":"Shooter",
       "publisher":"Activision",
       "year":2007
+   },
+   {
+      "title":"Keystone Kapers",
+      "total_sales":0.66,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1983
    },
    {
       "title":"Moshi Monsters: Moshling Zoo",
@@ -3060,6 +3501,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Blast Chamber",
+      "total_sales":0.1,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1996
+   },
+   {
       "title":"SeaWorld Adventure Parks: Shamu's Deep Sea Adventure",
       "total_sales":0.39,
       "genre":"Adventure",
@@ -3074,6 +3522,20 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Double Dragon",
+      "total_sales":0.47,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1989
+   },
+   {
+      "title":"Dolphin",
+      "total_sales":0.29,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1983
+   },
+   {
       "title":"Big League Sports: Summer",
       "total_sales":0.2,
       "genre":"Sports",
@@ -3086,6 +3548,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Activision",
       "year":2008
+   },
+   {
+      "title":"A Collection of Activision Classic Games for the Atari 2600",
+      "total_sales":1.37,
+      "genre":"Misc",
+      "publisher":"Activision",
+      "year":1998
    },
    {
       "title":"Kelly Slater's Pro Surfer",
@@ -3114,6 +3583,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2008
+   },
+   {
+      "title":"Blue Stinger",
+      "total_sales":0.1,
+      "genre":"Adventure",
+      "publisher":"Activision",
+      "year":1999
    },
    {
       "title":"Secret Service",
@@ -3163,6 +3639,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Activision",
       "year":2016
+   },
+   {
+      "title":"Chopper Command",
+      "total_sales":0.5,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1982
    },
    {
       "title":"Return to Castle Wolfenstein: Operation Resurrection",
@@ -3235,6 +3718,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"A Collection of Intellivision Classic Games",
+      "total_sales":0.31,
+      "genre":"Misc",
+      "publisher":"Activision",
+      "year":1999
+   },
+   {
       "title":"Ty the Tasmanian Tiger 3: Night of the Quinkan",
       "total_sales":0.35,
       "genre":"Action",
@@ -3247,6 +3737,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Activision",
       "year":2014
+   },
+   {
+      "title":"Bridge",
+      "total_sales":0.27,
+      "genre":"Misc",
+      "publisher":"Activision",
+      "year":1980
+   },
+   {
+      "title":"Grand Prix",
+      "total_sales":0.48,
+      "genre":"Racing",
+      "publisher":"Activision",
+      "year":1982
    },
    {
       "title":"Cabela's Big Game Hunter 2012",
@@ -3480,6 +3984,20 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Tony Hawk's Pro Skater 2",
+      "total_sales":6.62,
+      "genre":"Sports",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
+      "title":"Tony Hawk's Pro Skater",
+      "total_sales":8.46,
+      "genre":"Sports",
+      "publisher":"Activision",
+      "year":1999
+   },
+   {
       "title":"Tony Hawk's Motion",
       "total_sales":0.21,
       "genre":"Sports",
@@ -3627,6 +4145,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"The Activision Decathlon",
+      "total_sales":0.55,
+      "genre":"Sports",
+      "publisher":"Activision",
+      "year":1983
+   },
+   {
       "title":"The Amazing Spider-Man (2012)",
       "total_sales":2.2,
       "genre":"Action-Adventure",
@@ -3639,6 +4164,13 @@ export const pb_data =
       "genre":"Action-Adventure",
       "publisher":"Activision",
       "year":2014
+   },
+   {
+      "title":"Laser Blast",
+      "total_sales":0.39,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1981
    },
    {
       "title":"Activision Anthology",
@@ -3844,6 +4376,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"The Fifth Element",
+      "total_sales":0.14,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1998
+   },
+   {
       "title":"Transformers: Revenge of the Fallen -- Decepticons",
       "total_sales":0.33,
       "genre":"Action",
@@ -3858,6 +4397,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Guardian's Crusade",
+      "total_sales":0.12,
+      "genre":"Role-Playing",
+      "publisher":"Activision",
+      "year":1999
+   },
+   {
       "title":"Transformers: Revenge of the Fallen -- Autobots",
       "total_sales":0.44,
       "genre":"Action",
@@ -3870,6 +4416,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2009
+   },
+   {
+      "title":"Quake II",
+      "total_sales":0.71,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1999
    },
    {
       "title":"Transformers: Prime",
@@ -3984,6 +4537,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Ghostbusters",
+      "total_sales":0.45,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1985
+   },
+   {
       "title":"Nascar Unleashed",
       "total_sales":0.6,
       "genre":"Racing",
@@ -3998,6 +4558,20 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Boxing",
+      "total_sales":0.84,
+      "genre":"Fighting",
+      "publisher":"Activision",
+      "year":1980
+   },
+   {
+      "title":"The Mystery Collection",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Activision",
+      "year":1995
+   },
+   {
       "title":"[Prototype]",
       "total_sales":2.55,
       "genre":"Action",
@@ -4010,6 +4584,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2009
+   },
+   {
+      "title":"Time Commando",
+      "total_sales":0.17,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1996
+   },
+   {
+      "title":"Covert Ops: Nuclear Dawn",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":2000
    },
    {
       "title":"Geometry Wars 3: Dimensions Evolved",
@@ -4166,6 +4754,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"River Raid",
+      "total_sales":1.6,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1982
+   },
+   {
       "title":"Guitar Hero 5",
       "total_sales":4.9,
       "genre":"Misc",
@@ -4185,6 +4780,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Activision",
       "year":2011
+   },
+   {
+      "title":"Buzz Lightyear of Star Command",
+      "total_sales":0.63,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":2000
    },
    {
       "title":"Madagascar: Operation Penguin",
@@ -4213,6 +4815,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Activision",
       "year":2010
+   },
+   {
+      "title":"River Raid II",
+      "total_sales":0.51,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1988
    },
    {
       "title":"Tony Hawk: Shred",
@@ -4250,11 +4859,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Kung-Fu Master",
+      "total_sales":0.65,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1987
+   },
+   {
       "title":"Teenage Mutant Ninja Turtles (3DS)",
       "total_sales":0.01,
       "genre":"Action",
       "publisher":"Activision",
       "year":2013
+   },
+   {
+      "title":"Toy Story 2: Buzz Lightyear to the Rescue!",
+      "total_sales":2.64,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":1999
    },
    {
       "title":"NASCAR The Game: Inside Line",
@@ -4292,6 +4915,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Tenchu 2: Birth of the Stealth Assassins",
+      "total_sales":0.58,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
       "title":"NPPL Championship Paintball 2009",
       "total_sales":0.66,
       "genre":"Shooter",
@@ -4304,6 +4934,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2004
+   },
+   {
+      "title":"Day of Defeat",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":2003
    },
    {
       "title":"The Hustle: Detroit Streets",
@@ -4325,6 +4962,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2006
+   },
+   {
+      "title":"Tenchu: Stealth Assassins",
+      "total_sales":1.99,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1998
    },
    {
       "title":"Tenchu: Wrath of Heaven",
@@ -4425,6 +5069,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Barnstorming",
+      "total_sales":0.43,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1982
+   },
+   {
       "title":"Monkey Mischief! Party Time",
       "total_sales":0.1,
       "genre":"Misc",
@@ -4432,11 +5083,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Kaboom!",
+      "total_sales":1.15,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1981
+   },
+   {
       "title":"Skylanders Giants",
       "total_sales":5.52,
       "genre":"Misc",
       "publisher":"Activision",
       "year":2012
+   },
+   {
+      "title":"Pitfall 3D: Beyond the Jungle",
+      "total_sales":0.33,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":1998
    },
    {
       "title":"Barbie in The 12 Dancing Princesses",
@@ -4509,6 +5174,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Pitfall II: Lost Caverns",
+      "total_sales":1.31,
+      "genre":"Platform",
+      "publisher":"Activision",
+      "year":1983
+   },
+   {
       "title":"Soldier of Fortune II: Double Helix",
       "total_sales":0.23,
       "genre":"Shooter",
@@ -4516,11 +5188,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Sky Odyssey",
+      "total_sales":0.32,
+      "genre":"Simulation",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
+      "title":"Megamania",
+      "total_sales":1.1,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1982
+   },
+   {
       "title":"Animal Planet: Vet Life",
       "total_sales":0.2,
       "genre":"Simulation",
       "publisher":"Activision",
       "year":2009
+   },
+   {
+      "title":"Frostbite",
+      "total_sales":0.34,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1983
    },
    {
       "title":"Fast & Furious: Showdown",
@@ -4544,11 +5237,32 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Vigilante 8",
+      "total_sales":1.54,
+      "genre":"Racing",
+      "publisher":"Activision",
+      "year":1998
+   },
+   {
       "title":"Wolfenstein",
       "total_sales":1.23,
       "genre":"Shooter",
       "publisher":"Activision",
       "year":2009
+   },
+   {
+      "title":"Vigilante 8: 2nd Offense",
+      "total_sales":0.59,
+      "genre":"Racing",
+      "publisher":"Activision",
+      "year":1999
+   },
+   {
+      "title":"Apocalypse",
+      "total_sales":0.45,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1998
    },
    {
       "title":"ZhuZhu Pets: Featuring The Wild Bunch",
@@ -4747,11 +5461,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Enduro",
+      "total_sales":0.87,
+      "genre":"Racing",
+      "publisher":"Activision",
+      "year":1983
+   },
+   {
       "title":"SpongeBob SquarePants: Plankton's Robotic Revenge",
       "total_sales":0.17,
       "genre":"Platform",
       "publisher":"Activision",
       "year":2013
+   },
+   {
+      "title":"Empires: Dawn of the Modern World",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Activision",
+      "year":2003
    },
    {
       "title":"SpongeBob: HeroPants",
@@ -4789,6 +5517,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Orphen: Scion of Sorcery",
+      "total_sales":0.31,
+      "genre":"Role-Playing",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
       "title":"ZhuZhu Pets: Quest for Zhu",
       "total_sales":0.07,
       "genre":"Misc",
@@ -4803,11 +5538,39 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Freeway",
+      "total_sales":0.34,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1981
+   },
+   {
       "title":"Spider-Man: Battle for New York",
       "total_sales":0.13,
       "genre":"Platform",
       "publisher":"Activision",
       "year":2006
+   },
+   {
+      "title":"Star Trek Voyager: Elite Force",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
+      "title":"Medieval: Total War",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Activision",
+      "year":2002
+   },
+   {
+      "title":"MechWarrior 2: 31st Century Combat",
+      "total_sales":0.36,
+      "genre":"Simulation",
+      "publisher":"Activision",
+      "year":1997
    },
    {
       "title":"Jurassic: The Hunted",
@@ -4866,6 +5629,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Space Invaders",
+      "total_sales":0.73,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1997
+   },
+   {
+      "title":"Judge Dredd",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1998
+   },
+   {
       "title":"Spanish for Everyone!",
       "total_sales":0.02,
       "genre":"Puzzle",
@@ -4901,6 +5678,27 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Asteroids",
+      "total_sales":5.46,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1981
+   },
+   {
+      "title":"Spider-Man",
+      "total_sales":4.59,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1982
+   },
+   {
+      "title":"Star Trek: Invasion",
+      "total_sales":0.26,
+      "genre":"Simulation",
+      "publisher":"Activision",
+      "year":2000
+   },
+   {
       "title":"Spider-Man 2",
       "total_sales":7.63,
       "genre":"Action",
@@ -4920,6 +5718,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Activision",
       "year":2007
+   },
+   {
+      "title":"Star Trek: Bridge Commander",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Activision",
+      "year":2002
    },
    {
       "title":"Animal Planet: Vet Collection",
@@ -4955,6 +5760,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2009
+   },
+   {
+      "title":"Alundra 2: A New Legend Begins",
+      "total_sales":0.27,
+      "genre":"Role-Playing",
+      "publisher":"Activision",
+      "year":2000
    },
    {
       "title":"X-Men Origins: Wolverine - Uncaged Edition",
@@ -5020,6 +5832,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Fishing Derby",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Activision",
+      "year":1980
+   },
+   {
       "title":"American Chopper",
       "total_sales":0.57,
       "genre":"Racing",
@@ -5076,6 +5895,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Wu-Tang: Shaolin Style",
+      "total_sales":0.48,
+      "genre":"Fighting",
+      "publisher":"Activision",
+      "year":1999
+   },
+   {
       "title":"Wreckless: ThE YaKuza MisSiOns",
       "total_sales":0.85,
       "genre":"Racing",
@@ -5118,6 +5944,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Alter Ego",
+      "total_sales":0.03,
+      "genre":"Simulation",
+      "publisher":"Activision",
+      "year":1986
+   },
+   {
       "title":"Shrek Smash n' Crash Racing",
       "total_sales":0.22,
       "genre":"Racing",
@@ -5151,6 +5984,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Activision",
       "year":2005
+   },
+   {
+      "title":"Rampage",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Activision",
+      "year":1989
    },
    {
       "title":"Rapala Tournament Fishing!",
@@ -5209,6 +6049,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Beamrider",
+      "total_sales":0.27,
+      "genre":"Shooter",
+      "publisher":"Activision",
+      "year":1984
+   },
+   {
       "title":"Angry Birds: Star Wars",
       "total_sales":1.77,
       "genre":"Puzzle",
@@ -5258,48 +6105,6 @@ export const pb_data =
       "year":2006
    },
    {
-      "title":"Cabela's Big Game Hunter: Ultimate Challenge",
-      "total_sales":0.21,
-      "genre":"Sports",
-      "publisher":"Activision Value",
-      "year":2001
-   },
-   {
-      "title":"Ray Gigant",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Acttil",
-      "year":2016
-   },
-   {
-      "title":"X-Plane 11",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Aerosoft",
-      "year":2017
-   },
-   {
-      "title":"X-Plane 10 Global",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Aerosoft",
-      "year":2013
-   },
-   {
-      "title":"Farming Simulator 17: Straw Harvest",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Aerosoft",
-      "year":2017
-   },
-   {
-      "title":"Anpanman Niko Niko Party",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Agatsuma Entertainment",
-      "year":2010
-   },
-   {
       "title":"Kuon",
       "total_sales":0.02,
       "genre":"Adventure",
@@ -5326,6 +6131,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Agetec",
       "year":2001
+   },
+   {
+      "title":"Touch Darts",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Agetec",
+      "year":2008
    },
    {
       "title":"The King of Fighters '99",
@@ -5363,6 +6175,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Rhythm 'n Notes: Improve Your Music Skills",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Agetec",
+      "year":2007
+   },
+   {
       "title":"Cookie & Cream",
       "total_sales":0.02,
       "genre":"Platform",
@@ -5398,6 +6217,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Shadow Tower",
+      "total_sales":0.1,
+      "genre":"Role-Playing",
+      "publisher":"Agetec",
+      "year":1999
+   },
+   {
       "title":"Way of the Samurai 3",
       "total_sales":0.73,
       "genre":"Action",
@@ -5426,6 +6252,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Strikers 1945",
+      "total_sales":0.17,
+      "genre":"Shooter",
+      "publisher":"Agetec",
+      "year":1996
+   },
+   {
       "title":"PoPoLoCrois",
       "total_sales":0.06,
       "genre":"Role-Playing",
@@ -5438,6 +6271,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Agetec",
       "year":2005
+   },
+   {
+      "title":"RPG Maker",
+      "total_sales":0.79,
+      "genre":"Role-Playing",
+      "publisher":"Agetec",
+      "year":2000
    },
    {
       "title":"RPG Maker 3",
@@ -5482,11 +6322,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Shooter: Space Shot",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Agetec",
+      "year":2001
+   },
+   {
       "title":"3D Tank Warfare Simulator Panzer Front",
       "total_sales":0.1,
       "genre":"Simulation",
       "publisher":"Agetec",
       "year":2001
+   },
+   {
+      "title":"Fighter Maker",
+      "total_sales":0.17,
+      "genre":"Fighting",
+      "publisher":"Agetec",
+      "year":1999
    },
    {
       "title":"Battle Hunter",
@@ -5503,6 +6357,27 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Eternal Ring",
+      "total_sales":0.3,
+      "genre":"Role-Playing",
+      "publisher":"Agetec",
+      "year":2000
+   },
+   {
+      "title":"Echo Night",
+      "total_sales":0.12,
+      "genre":"Adventure",
+      "publisher":"Agetec",
+      "year":1999
+   },
+   {
+      "title":"Bass Landing",
+      "total_sales":0.62,
+      "genre":"Sports",
+      "publisher":"Agetec",
+      "year":2000
+   },
+   {
       "title":"Fire Pro Wrestling Returns",
       "total_sales":0.09,
       "genre":"Fighting",
@@ -5517,11 +6392,32 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"LOL",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Agetec",
+      "year":2008
+   },
+   {
       "title":"Raw Danger!",
       "total_sales":0.03,
       "genre":"Action",
       "publisher":"Agetec",
       "year":2007
+   },
+   {
+      "title":"EverGrace",
+      "total_sales":0.35,
+      "genre":"Role-Playing",
+      "publisher":"Agetec",
+      "year":2000
+   },
+   {
+      "title":"Armored Core 2",
+      "total_sales":0.79,
+      "genre":"Simulation",
+      "publisher":"Agetec",
+      "year":2000
    },
    {
       "title":"Echo Night Beyond",
@@ -5543,6 +6439,27 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Agetec",
       "year":2004
+   },
+   {
+      "title":"Armored Core: Master of Arena",
+      "total_sales":0.26,
+      "genre":"Simulation",
+      "publisher":"Agetec",
+      "year":2000
+   },
+   {
+      "title":"Clock Tower II: The Struggle Within",
+      "total_sales":0.17,
+      "genre":"Adventure",
+      "publisher":"Agetec",
+      "year":1999
+   },
+   {
+      "title":"Rising Zan: The Samurai Gunman",
+      "total_sales":0.02,
+      "genre":"Action",
+      "publisher":"Agetec",
+      "year":1999
    },
    {
       "title":"Fisherman's Bass Club",
@@ -6161,853 +7078,6 @@ export const pb_data =
       "year":2018
    },
    {
-      "title":"Farm Frenzy 3",
-      "total_sales":0.06,
-      "genre":"Puzzle",
-      "publisher":"Alawar Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Paranormal Pursuit: The Gifted One",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Alawar Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Vampire Saga: Welcome to Hell Lock",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alawar Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Twisted Lands: Insomniac",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alawar Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Kono Aozora ni Yakusoku o: Melody of the Sun and Sea",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2007
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Kizuna: Dai-Yon-Kan - Kizuna",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Kizuna: Dai-San-Kan - Rasen",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2009
-   },
-   {
-      "title":"Saki Achiga-hen episode of side-A Portable",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2013
-   },
-   {
-      "title":"Higurashi Daybreak Portable Mega Edition",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2009
-   },
-   {
-      "title":"Higurashi Daybreak Portable",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Chibi * Devi!",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2012
-   },
-   {
-      "title":"Gal Gun",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Hana to Otome ni Shukufuku o: Harekaze no Okurimono",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Saka Agari Hurricane Portable",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Nicola Kanshuu: Model Oshare * Audition Platinum",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Alchemist",
-      "year":2012
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Matsuri",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2007
-   },
-   {
-      "title":"Suzunone Seven: Rebirth Knot",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Akai Ito Destiny DS",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2009
-   },
-   {
-      "title":"Otome wa Oanesama ni Koi Shiteru Portable: 2-Jin no Elder",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Downtown no Gaki no Tsukai Yaarahen de!! Zettai ni Tsukamatte Haikenai Gasu Kurobikari Land",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Alchemist",
-      "year":2015
-   },
-   {
-      "title":"Ren'ai 0 Kilometer",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Alchemist",
-      "year":2013
-   },
-   {
-      "title":"Gaku * Ou: The Royal Seven Stars + Meteor",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Alchemist",
-      "year":2013
-   },
-   {
-      "title":"Sugar + Spice! Anoko no Suteki na Nanimokamo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Model * Oshare Audition: Dream Girl",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Alchemist",
-      "year":2013
-   },
-   {
-      "title":"Nicola Kanshuu: Model * Oshare Audition 2",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Matsuri: Kakera Asobi",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2007
-   },
-   {
-      "title":"Saki Portable",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Akai Ito DS",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Onigokko! Portable",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Alchemist",
-      "year":2013
-   },
-   {
-      "title":"Koisuru Otome to Shugo no Tate: The Shield of AIGIS",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Koisuru Otome to Shugo no Tate Portable",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Pachi-Slot Higrashi no Naku Koro ni Matsuri",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Aria: The Origination ~Aoi Wakusei no El Cielo~",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Higurashi no Nakukoru ni Kizuna: Dai-Ni-Kan - Sou",
-      "total_sales":0.1,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Aria: The Natural ~Tooi Yume no Mirage~",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2006
-   },
-   {
-      "title":"Otome wa Oanesama Boku ni Koi Shiteru Portable",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Parfait: Chocolat Second Style",
-      "total_sales":1.22,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2006
-   },
-   {
-      "title":"Higurashi no Nakukoru ni Kizuna: Dai-Ichi-Kan - Tatari",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2008
-   },
-   {
-      "title":"Ouka Sengoku Portable",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2012
-   },
-   {
-      "title":"Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"No Fate! Only the Power of Will",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Sekirei: Mirai Kara no Okurimono",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2009
-   },
-   {
-      "title":"Umineko no Naku Koro ni Portable 1",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Princess Frontier Portable",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Alchemist",
-      "year":2011
-   },
-   {
-      "title":"Umineko no Naku Koro ni: Majo to Suiri no Rinbukyoku",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Triggerheart Excelica Enhanced",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Alchemist",
-      "year":2009
-   },
-   {
-      "title":"Nicola Kanshuu: Model * Oshare Audition",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2010
-   },
-   {
-      "title":"Dream Girl Premier",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Alchemist",
-      "year":2015
-   },
-   {
-      "title":"Stern Pinball Arcade",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Alliance Digital Media",
-      "year":2017
-   },
-   {
-      "title":"Rugby League Team Manager 2015",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"Alternative Software",
-      "year":2015
-   },
-   {
-      "title":"Rugby Union Team Manager 2017",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Alternative Software",
-      "year":2016
-   },
-   {
-      "title":"Rugby League 3",
-      "total_sales":0.07,
-      "genre":"Sports",
-      "publisher":"Alternative Software",
-      "year":2010
-   },
-   {
-      "title":"Rugby Challenge 3",
-      "total_sales":0.13,
-      "genre":"Sports",
-      "publisher":"Alternative Software",
-      "year":2016
-   },
-   {
-      "title":"Poupee Girl DS 2: Elegant Mint \/ Sweet Pink Style",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Alvion",
-      "year":2010
-   },
-   {
-      "title":"Poupee Girl DS",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Alvion",
-      "year":2009
-   },
-   {
-      "title":"Syberia III",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"Anuman",
-      "year":2016
-   },
-   {
-      "title":"To Heart 2: Dungeon Travelers",
-      "total_sales":0.17,
-      "genre":"Adventure",
-      "publisher":"Aqua Plus",
-      "year":2011
-   },
-   {
-      "title":"To Heart 2: Another Days",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Aqua Plus",
-      "year":2009
-   },
-   {
-      "title":"Dungeon Travelers 2: The Royal Library & the Monster Seal",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Aqua Plus",
-      "year":2013
-   },
-   {
-      "title":"Heartful Simulator Pachi-Slot: To Heart 2",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Aqua Plus",
-      "year":2012
-   },
-   {
-      "title":"Utawarerumono: Mask of Truth",
-      "total_sales":0.27,
-      "genre":"Visual Novel",
-      "publisher":"Aqua Plus",
-      "year":2016
-   },
-   {
-      "title":"White Album 2: Shiawase no Mukougawa",
-      "total_sales":0.06,
-      "genre":"Visual Novel",
-      "publisher":"Aqua Plus",
-      "year":2012
-   },
-   {
-      "title":"Utawarerumono: Mask of Deception",
-      "total_sales":0.3,
-      "genre":"Adventure",
-      "publisher":"Aqua Plus",
-      "year":2015
-   },
-   {
-      "title":"Utawarerumono: Chiriyukusha e no Komoriuta",
-      "total_sales":0.16,
-      "genre":"Adventure",
-      "publisher":"Aqua Plus",
-      "year":2006
-   },
-   {
-      "title":"Utawarerumono Zan",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Aquaplus",
-      "year":2018
-   },
-   {
-      "title":"White Album: Tsuzurareru Fuyu no Omoide",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2010
-   },
-   {
-      "title":"Routes PE",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2007
-   },
-   {
-      "title":"Tears to Tiara: Kakan no Daichi Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2010
-   },
-   {
-      "title":"Tears to Tiara: Kakan no Daichi",
-      "total_sales":0.08,
-      "genre":"Strategy",
-      "publisher":"Aquaplus",
-      "year":2008
-   },
-   {
-      "title":"Utawarerumono Portable",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Aquaplus",
-      "year":2009
-   },
-   {
-      "title":"To Heart Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2011
-   },
-   {
-      "title":"To Heart 2 Portable",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2009
-   },
-   {
-      "title":"Dungeon Travelers 2-2: The Maiden Who Fell into Darkness and the Book of Beginnings",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Aquaplus",
-      "year":2017
-   },
-   {
-      "title":"To Heart 2 DX Plus",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Aquaplus",
-      "year":2011
-   },
-   {
-      "title":"Tears to Tiara Gaiden: Avalon no Nazo",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Aquaplus",
-      "year":2009
-   },
-   {
-      "title":"Cube Creator DX",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2017
-   },
-   {
-      "title":"Cube Creator X",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2018
-   },
-   {
-      "title":"DJ Max Respect",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2017
-   },
-   {
-      "title":"Stardust Amazoness",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Arc System Works",
-      "year":2013
-   },
-   {
-      "title":"Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai All-Star Special",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Arc System Works",
-      "year":2015
-   },
-   {
-      "title":"World End Syndrome",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Arc System Works",
-      "year":2019
-   },
-   {
-      "title":"Jake Hunter Detective Story: Prism of Eyes",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2018
-   },
-   {
-      "title":"Getsuei Gakuen: kou",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2013
-   },
-   {
-      "title":"Skullgirls: 2nd Encore",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Arc System Works",
-      "year":2016
-   },
-   {
-      "title":"BlazBlue: Cross Tag Battle",
-      "total_sales":0.15,
-      "genre":"Fighting",
-      "publisher":"Arc System Works",
-      "year":2018
-   },
-   {
-      "title":"BlazBlue: Chrono Phantasma",
-      "total_sales":0.4,
-      "genre":"Fighting",
-      "publisher":"Arc System Works",
-      "year":2014
-   },
-   {
-      "title":"Jake Hunter: Round of Revenge",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Arc System Works",
-      "year":2012
-   },
-   {
-      "title":"Phi Brain: Kizuna no Puzzle",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2012
-   },
-   {
-      "title":"Downtown Nekketsu Jidaigek",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Arc System Works",
-      "year":2015
-   },
-   {
-      "title":"Nekketsu Kouha Kunio-Kun SP Kyousoukyoku",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Arc System Works",
-      "year":2013
-   },
-   {
-      "title":"River City Ransom SP",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Arc System Works",
-      "year":2016
-   },
-   {
-      "title":"Tantei Jinguuji Saburo DS: Kienai Kokoro",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2008
-   },
-   {
-      "title":"Kunio-kun: The World Classics Collection",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2018
-   },
-   {
-      "title":"Jinguuji Saburou DS: Akai Chou",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2010
-   },
-   {
-      "title":"Tantei Jinguuji Saburo: Hai to Diamond",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2009
-   },
-   {
-      "title":"Kunio-kun Nekketsu: Complete Famicom Edition",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Arc System Works",
-      "year":2016
-   },
-   {
-      "title":"Tantei Jinguuji Saburo DS: Fuserareta Shinjitsu",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Arc System Works",
-      "year":2009
-   },
-   {
-      "title":"Guild Wars 2 - Path of Fire",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"ArenaNet",
-      "year":2017
-   },
-   {
-      "title":"Yoake Yori Ruriiro na: Brighter than Dawning Blue",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Aria",
-      "year":2006
-   },
-   {
-      "title":"Ketsui Death Label",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Arika",
-      "year":2008
-   },
-   {
-      "title":"Lunatic Dawn Tempest",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"ArtDink",
-      "year":2001
-   },
-   {
-      "title":"A Ressha de Ikou DS",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"ArtDink",
-      "year":2009
-   },
-   {
-      "title":"Carnage Heart EXA",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"ArtDink",
-      "year":2013
-   },
-   {
-      "title":"Neo Atlas 1469",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"ArtDink",
-      "year":2016
-   },
-   {
-      "title":"A Ressha de Gyoukou 2001",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"ArtDink",
-      "year":2001
-   },
-   {
-      "title":"A-Train 3D: City Simulator Neo",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"ArtDink",
-      "year":2016
-   },
-   {
-      "title":"A-Train Exp.",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"ArtDink",
-      "year":2017
-   },
-   {
-      "title":"Port Royale 2",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Ascaron Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Blitzkrieg 2 Anthology",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Ascaron Entertainment",
-      "year":2008
-   },
-   {
-      "title":"The Train Giant",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Ascaron Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Starry * Sky: In Summer - PSP Edition",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Asgard",
-      "year":2010
-   },
-   {
-      "title":"Unending Bloody Call",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Asgard",
-      "year":2012
-   },
-   {
-      "title":"Starry * Sky: In Spring - PSP Edition",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Asgard",
-      "year":2010
-   },
-   {
-      "title":"Starry * Sky: In Winter - PSP Edition",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Asgard",
-      "year":2011
-   },
-   {
-      "title":"Abunai: Koi no Sousa Shitsu",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Asgard",
-      "year":2012
-   },
-   {
-      "title":"Starry * Sky: After Summer Portable",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Asgard",
-      "year":2013
-   },
-   {
-      "title":"Megpoid the Music#",
-      "total_sales":0.03,
-      "genre":"Music",
-      "publisher":"Asgard",
-      "year":2013
-   },
-   {
-      "title":"Starry * Sky: In Autumn - PSP Edition",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Asgard",
-      "year":2010
-   },
-   {
-      "title":"Iza, Shutshjin! Koisen Dai-ni-maku",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Asgard",
-      "year":2014
-   },
-   {
-      "title":"Tenshou Gakuen Gekkouroku",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Asmik Ace Entertainment",
-      "year":2006
-   },
-   {
       "title":"Supreme Commander",
       "total_sales":0.13,
       "genre":"Strategy",
@@ -7015,9 +7085,23 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"SpellForce 2: Shadow Wars",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Aspyr",
+      "year":2006
+   },
+   {
       "title":"Fighting Fantasy: The Warlock of Firetop Mountain",
       "total_sales":0.09,
       "genre":"Role-Playing",
+      "publisher":"Aspyr",
+      "year":2009
+   },
+   {
+      "title":"4x4 Hummer",
+      "total_sales":0.0,
+      "genre":"Racing",
       "publisher":"Aspyr",
       "year":2009
    },
@@ -7057,6 +7141,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Men of War: Red Tide",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Aspyr",
+      "year":2009
+   },
+   {
       "title":"BCFX: The Black College Football Xperience, The Doug Williams Edition",
       "total_sales":0.16,
       "genre":"Sports",
@@ -7078,9 +7169,23 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Emma in the Mountains",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Aspyr",
+      "year":2008
+   },
+   {
       "title":"Treasure World",
       "total_sales":0.2,
       "genre":"Simulation",
+      "publisher":"Aspyr",
+      "year":2009
+   },
+   {
+      "title":"Cryostasis: Sleep of Reason",
+      "total_sales":0.0,
+      "genre":"Shooter",
       "publisher":"Aspyr",
       "year":2009
    },
@@ -7104,41 +7209,6 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Aspyr",
       "year":2005
-   },
-   {
-      "title":"Leisure Suit Larry: Wet Dreams Don't Dry",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Assemble Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Dark Parables: The Little Mermaid and the Purple Tide",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Astragon",
-      "year":2016
-   },
-   {
-      "title":"Doctor Who: Return to Earth",
-      "total_sales":0.18,
-      "genre":"Adventure",
-      "publisher":"Asylum Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Horrid Henry's Horrid Adventure",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Asylum Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Horrid Henry: The Good, The Bad and The Bugly",
-      "total_sales":0.07,
-      "genre":"Platform",
-      "publisher":"Asylum Entertainment",
-      "year":2011
    },
    {
       "title":"Champions Online",
@@ -7174,6 +7244,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Atari",
       "year":2002
+   },
+   {
+      "title":"Gravitar",
+      "total_sales":0.38,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1983
    },
    {
       "title":"4 Game Fun Pack: Monopoly \/ Boggle \/ Yahtzee \/ Battleship",
@@ -7225,6 +7302,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"RealSports Volleyball",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"Deer Hunter",
       "total_sales":0.28,
       "genre":"Sports",
@@ -7274,6 +7358,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Mario Bros.",
+      "total_sales":1.59,
+      "genre":"Platform",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
       "title":"The Kore Gang",
       "total_sales":0.04,
       "genre":"Platform",
@@ -7288,11 +7379,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Yars' Revenge",
+      "total_sales":0.78,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
+      "title":"Jagged Alliance",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":1994
+   },
+   {
+      "title":"Crystal Castles",
+      "total_sales":0.77,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1984
+   },
+   {
       "title":"Furious Karting",
       "total_sales":0.01,
       "genre":"Racing",
       "publisher":"Atari",
       "year":2003
+   },
+   {
+      "title":"Gremlins",
+      "total_sales":0.46,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1984
    },
    {
       "title":"Backyard NFL Football 2006",
@@ -7314,6 +7433,27 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Atari",
       "year":2009
+   },
+   {
+      "title":"Krull",
+      "total_sales":0.14,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
+      "title":"Flag Capture",
+      "total_sales":0.27,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1978
+   },
+   {
+      "title":"Backyard NFL Football 2007",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":2006
    },
    {
       "title":"Kao Challengers",
@@ -7351,6 +7491,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Moon Patrol",
+      "total_sales":1.12,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
       "title":"N+",
       "total_sales":0.1,
       "genre":"Platform",
@@ -7379,6 +7526,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Centipede",
+      "total_sales":2.01,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
+      "title":"Crazy Climber",
+      "total_sales":0.22,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"Centipede: Infestation",
       "total_sales":0.1,
       "genre":"Shooter",
@@ -7391,6 +7552,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Atari",
       "year":2004
+   },
+   {
+      "title":"Bridge Training",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":2009
+   },
+   {
+      "title":"Death to Spies",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Atari",
+      "year":2007
    },
    {
       "title":"Dragon Ball Z: Burst Limit",
@@ -7435,6 +7610,27 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Tactical Ops: Assault on Terror",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":2002
+   },
+   {
+      "title":"Desperados: Wanted Dead or Alive",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2001
+   },
+   {
+      "title":"Raiders of the Lost Ark",
+      "total_sales":0.5,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"The Witcher 2: Assassins of Kings",
       "total_sales":1.88,
       "genre":"Role-Playing",
@@ -7470,6 +7666,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Chris Sawyer's Locomotion",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2004
+   },
+   {
       "title":"Haunted House",
       "total_sales":0.13,
       "genre":"Adventure",
@@ -7491,11 +7694,32 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Pole Position",
+      "total_sales":1.18,
+      "genre":"Racing",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
       "title":"BattleZone",
       "total_sales":0.03,
       "genre":"Action",
       "publisher":"Atari",
       "year":2006
+   },
+   {
+      "title":"Midnight Magic",
+      "total_sales":0.5,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1984
+   },
+   {
+      "title":"Berzerk",
+      "total_sales":0.73,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1982
    },
    {
       "title":"Backyard Baseball",
@@ -7505,11 +7729,46 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Circus Atari",
+      "total_sales":0.46,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1978
+   },
+   {
       "title":"Magic: The Gathering - Battlegrounds",
       "total_sales":0.16,
       "genre":"Strategy",
       "publisher":"Atari",
       "year":2003
+   },
+   {
+      "title":"Battlezone",
+      "total_sales":0.78,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
+      "title":"Driving Theory Training 2009\/2010 Edition",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":2009
+   },
+   {
+      "title":"The Smurfs",
+      "total_sales":0.45,
+      "genre":"Adventure",
+      "publisher":"Atari",
+      "year":1999
+   },
+   {
+      "title":"Desert Falcon",
+      "total_sales":0.26,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1987
    },
    {
       "title":"Driver: Parallel Lines",
@@ -7547,6 +7806,20 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Glover",
+      "total_sales":1.08,
+      "genre":"Platform",
+      "publisher":"Atari",
+      "year":1998
+   },
+   {
+      "title":"Driver 2",
+      "total_sales":4.73,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":2000
+   },
+   {
       "title":"Godzilla: Destroy All Monsters Melee",
       "total_sales":0.83,
       "genre":"Fighting",
@@ -7559,6 +7832,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Atari",
       "year":2007
+   },
+   {
+      "title":"The Sun Crossword Challenge",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":2008
    },
    {
       "title":"Driv3r",
@@ -7589,6 +7869,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"The Times Crossword Challenge",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":2009
+   },
+   {
       "title":"Ikaruga",
       "total_sales":0.09,
       "genre":"Shooter",
@@ -7601,6 +7888,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Atari",
       "year":2004
+   },
+   {
+      "title":"Combat",
+      "total_sales":1.25,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1977
+   },
+   {
+      "title":"World of RollerCoaster Tycoon",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2006
    },
    {
       "title":"Grand Prix Challenge",
@@ -7652,6 +7953,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Checkers",
+      "total_sales":0.24,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":1980
+   },
+   {
       "title":"Alone in the Dark: Inferno",
       "total_sales":0.13,
       "genre":"Adventure",
@@ -7659,11 +7967,32 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"The Next Tetris",
+      "total_sales":0.81,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1999
+   },
+   {
+      "title":"Kangaroo",
+      "total_sales":0.72,
+      "genre":"Platform",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
       "title":"RollerCoaster Tycoon 2",
       "total_sales":1.25,
       "genre":"Strategy",
       "publisher":"Atari",
       "year":2002
+   },
+   {
+      "title":"RollerCoaster Tycoon",
+      "total_sales":0.17,
+      "genre":"Simulation",
+      "publisher":"Atari",
+      "year":1999
    },
    {
       "title":"Big Air Freestyle",
@@ -7708,6 +8037,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Duke Nukem: Land of the Babes",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":2000
+   },
+   {
       "title":"Alone in the Dark (2008)",
       "total_sales":0.01,
       "genre":"Adventure",
@@ -7729,6 +8065,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Millipede",
+      "total_sales":0.48,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1984
+   },
+   {
       "title":"Duel Masters: Kaijudo Showdown",
       "total_sales":0.22,
       "genre":"Misc",
@@ -7736,11 +8079,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Phoenix",
+      "total_sales":0.45,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"BeyBlade VForce: Super Tournament Battle",
       "total_sales":0.21,
       "genre":"Action",
       "publisher":"Atari",
       "year":2003
+   },
+   {
+      "title":"Home Run",
+      "total_sales":0.15,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1978
    },
    {
       "title":"Backyard Baseball 2006",
@@ -7785,11 +8142,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Defender II",
+      "total_sales":0.45,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1988
+   },
+   {
       "title":"Beyblade G-Revolution",
       "total_sales":0.2,
       "genre":"Action",
       "publisher":"Atari",
       "year":2004
+   },
+   {
+      "title":"Defender",
+      "total_sales":1.66,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1981
    },
    {
       "title":"Alone In The Dark",
@@ -7876,6 +8247,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Super Breakout",
+      "total_sales":0.44,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1978
+   },
+   {
       "title":"Retro Atari Classics",
       "total_sales":0.13,
       "genre":"Misc",
@@ -7888,6 +8266,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Atari",
       "year":2006
+   },
+   {
+      "title":"Air-Sea Battle",
+      "total_sales":0.98,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1977
    },
    {
       "title":"Forgotten Realms: Demon Stone",
@@ -7911,6 +8296,27 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"KLAX",
+      "total_sales":0.15,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1990
+   },
+   {
+      "title":"RealSports Boxing",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1987
+   },
+   {
+      "title":"Hangman",
+      "total_sales":0.38,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1978
+   },
+   {
       "title":"Neverwinter Nights Diamond",
       "total_sales":0.02,
       "genre":"Role-Playing",
@@ -7918,11 +8324,32 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Jeopardy!",
+      "total_sales":2.06,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":1998
+   },
+   {
       "title":"Jenga World Tour",
       "total_sales":0.14,
       "genre":"Misc",
       "publisher":"Atari",
       "year":2007
+   },
+   {
+      "title":"Slot Machine",
+      "total_sales":0.31,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1979
+   },
+   {
+      "title":"Dungeons & Dragons: Daggerdale",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atari",
+      "year":2011
    },
    {
       "title":"Dungeons & Dragons: Eye of the Beholder",
@@ -7946,11 +8373,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Dora the Explorer: Dance to the Rescue",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":2005
+   },
+   {
       "title":"Atari's Greatest Hits: Volume 2",
       "total_sales":0.06,
       "genre":"Misc",
       "publisher":"Atari",
       "year":2011
+   },
+   {
+      "title":"Test Drive 6",
+      "total_sales":0.72,
+      "genre":"Racing",
+      "publisher":"Atari",
+      "year":1999
    },
    {
       "title":"Shadow Ops: Red Mercury",
@@ -7972,6 +8413,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Atari",
       "year":2002
+   },
+   {
+      "title":"Super Baseball",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1988
    },
    {
       "title":"Terminator 3: The Redemption",
@@ -8002,6 +8450,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"ArmA: Gold",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2008
+   },
+   {
+      "title":"Act of War: High Treason",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2006
+   },
+   {
       "title":"Zoids: Battle Legends",
       "total_sales":0.15,
       "genre":"Action",
@@ -8009,11 +8471,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"RealSports Baseball",
+      "total_sales":0.21,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"My Horse & Me",
       "total_sales":0.67,
       "genre":"Sports",
       "publisher":"Atari",
       "year":2008
+   },
+   {
+      "title":"Ballistic",
+      "total_sales":0.04,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1999
+   },
+   {
+      "title":"Jungle Hunt",
+      "total_sales":1.1,
+      "genre":"Platform",
+      "publisher":"Atari",
+      "year":1983
    },
    {
       "title":"Race Pro",
@@ -8044,11 +8527,46 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Jr. Pac-Man",
+      "total_sales":0.78,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1984
+   },
+   {
+      "title":"Driving Theory Training",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":2008
+   },
+   {
+      "title":"Asterix at the Olympic Games",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":2008
+   },
+   {
+      "title":"Joust",
+      "total_sales":1.08,
+      "genre":"Platform",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
       "title":"Superman: Countdown to Apokolips",
       "total_sales":0.04,
       "genre":"Platform",
       "publisher":"Atari",
       "year":2003
+   },
+   {
+      "title":"Galaxian",
+      "total_sales":0.77,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1983
    },
    {
       "title":"Superman: Shadow of Apokolips",
@@ -8065,11 +8583,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Dawn of Magic",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atari",
+      "year":2007
+   },
+   {
       "title":"What's Cooking? Jamie Oliver",
       "total_sales":0.23,
       "genre":"Simulation",
       "publisher":"Atari",
       "year":2008
+   },
+   {
+      "title":"Wheel of Fortune",
+      "total_sales":3.63,
+      "genre":"Misc",
+      "publisher":"Atari",
+      "year":1998
    },
    {
       "title":"Atari Anthology",
@@ -8093,6 +8625,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Indy 500",
+      "total_sales":0.27,
+      "genre":"Racing",
+      "publisher":"Atari",
+      "year":1977
+   },
+   {
       "title":"Indigo Prophecy",
       "total_sales":0.27,
       "genre":"Adventure",
@@ -8100,11 +8639,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Solaris",
+      "total_sales":0.37,
+      "genre":"Shooter",
+      "publisher":"Atari",
+      "year":1986
+   },
+   {
+      "title":"E.T.: The Extra Terrestrial",
+      "total_sales":1.97,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
+      "title":"Super Football",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1988
+   },
+   {
       "title":"Freddi Fish: ABC under the sea",
       "total_sales":0.13,
       "genre":"Misc",
       "publisher":"Atari",
       "year":2010
+   },
+   {
+      "title":"My Horse & Me 2: Riding for Gold",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":2008
    },
    {
       "title":"Yu Yu Hakusho: Tournament Tactics",
@@ -8119,6 +8686,20 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Atari",
       "year":2003
+   },
+   {
+      "title":"Maze Craze: A Game of Cops 'n Robbers",
+      "total_sales":0.45,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1978
+   },
+   {
+      "title":"King's Bounty: The Legend",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2008
    },
    {
       "title":"Risk: Global Domination",
@@ -8156,6 +8737,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Fantasy Wars",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2007
+   },
+   {
       "title":"Dead Man's Hand",
       "total_sales":0.11,
       "genre":"Shooter",
@@ -8177,11 +8765,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"RealSports Football",
+      "total_sales":0.26,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
       "title":"Backyard Sports Baseball 2007",
       "total_sales":0.01,
       "genre":"Sports",
       "publisher":"Atari",
       "year":2006
+   },
+   {
+      "title":"Equestrian Training: Stages 1-4",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Atari",
+      "year":2008
    },
    {
       "title":"Test Drive Unlimited 2",
@@ -8196,6 +8798,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Atari",
       "year":2002
+   },
+   {
+      "title":"Dig Dug",
+      "total_sales":2.05,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1983
    },
    {
       "title":"Test Drive: Eve of Destruction",
@@ -8275,6 +8884,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Mission: Impossible",
+      "total_sales":1.69,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1998
+   },
+   {
       "title":"Sam & Max: Beyond Time and Space",
       "total_sales":0.05,
       "genre":"Adventure",
@@ -8303,6 +8919,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Act of War: Direct Action",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atari",
+      "year":2005
+   },
+   {
       "title":"Nickelodeon Party Blast",
       "total_sales":0.47,
       "genre":"Misc",
@@ -8317,17 +8940,31 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Ms. Pac-Man",
+      "total_sales":1.65,
+      "genre":"Puzzle",
+      "publisher":"Atari",
+      "year":1982
+   },
+   {
+      "title":"RealSports Tennis",
+      "total_sales":0.5,
+      "genre":"Sports",
+      "publisher":"Atari",
+      "year":1983
+   },
+   {
+      "title":"Pengo",
+      "total_sales":0.4,
+      "genre":"Action",
+      "publisher":"Atari",
+      "year":1984
+   },
+   {
       "title":"Monopoly Tycoon",
       "total_sales":0.01,
       "genre":"Simulation",
       "publisher":"Atari",
-      "year":2001
-   },
-   {
-      "title":"Gambler Densetsu Tetsuya",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Athena",
       "year":2001
    },
    {
@@ -8343,6 +8980,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2008
+   },
+   {
+      "title":"Devil Summoner: Soul Hackers",
+      "total_sales":0.46,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1997
    },
    {
       "title":"Shin Megami Tensei: Strange Journey Redux",
@@ -8408,6 +9052,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Steal Princess (JP sales)",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2009
+   },
+   {
       "title":"Dragon's Crown Pro",
       "total_sales":0.19,
       "genre":"Role-Playing",
@@ -8448,6 +9099,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Atlus",
       "year":2003
+   },
+   {
+      "title":"Ogre Battle Series: Tactics Ogre",
+      "total_sales":0.08,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1998
    },
    {
       "title":"Samurai Western",
@@ -8562,6 +9220,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"The Dark Spire (JP sales)",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2009
+   },
+   {
       "title":"Super Robot Taisen OG Saga: Endless Frontier (JP sales)",
       "total_sales":0.14,
       "genre":"Role-Playing",
@@ -8602,6 +9267,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2017
+   },
+   {
+      "title":"Space Griffon VF-9",
+      "total_sales":0.17,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1995
    },
    {
       "title":"Etrian Odyssey II: Heroes of Lagaard",
@@ -8681,11 +9353,32 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Shin Megami Tensei: Devil Summoner",
+      "total_sales":0.38,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1995
+   },
+   {
+      "title":"Snowboard Kids 2",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"Atlus",
+      "year":1999
+   },
+   {
       "title":"Shin Megami Tensei",
       "total_sales":0.09,
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2001
+   },
+   {
+      "title":"Shin Megami Tensei II",
+      "total_sales":0.37,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1994
    },
    {
       "title":"Shin Megami Tensei: Devil Survivor 2 Record Breaker",
@@ -8786,6 +9479,13 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Shin Megami Tensei IV Double Hero Pack",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Atlus",
+      "year":2018
+   },
+   {
       "title":"Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army",
       "total_sales":0.09,
       "genre":"Role-Playing",
@@ -8798,6 +9498,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2016
+   },
+   {
+      "title":"Zoids Assault (JP sales)",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Atlus",
+      "year":2008
    },
    {
       "title":"The King of Fighters XIII",
@@ -8905,6 +9612,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Izuna: Legend of the Unemployed Ninja",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2007
+   },
+   {
       "title":"Puyo Pop Fever(us sales)",
       "total_sales":0.03,
       "genre":"Puzzle",
@@ -8917,6 +9631,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Atlus",
       "year":2005
+   },
+   {
+      "title":"Snowboard Kids",
+      "total_sales":0.2,
+      "genre":"Sports",
+      "publisher":"Atlus",
+      "year":1997
    },
    {
       "title":"Naruto Shippuden: Naruto vs. Sasuke",
@@ -8940,6 +9661,20 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Persona",
+      "total_sales":0.45,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1996
+   },
+   {
+      "title":"Tail Concerto",
+      "total_sales":0.03,
+      "genre":"Adventure",
+      "publisher":"Atlus",
+      "year":1999
+   },
+   {
       "title":"Draglade (JP sales)",
       "total_sales":0.04,
       "genre":"Fighting",
@@ -8947,11 +9682,32 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Ogre Battle Saga Episode Five: The March of the Black Queen",
+      "total_sales":0.2,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1997
+   },
+   {
+      "title":"Peak Performance",
+      "total_sales":0.03,
+      "genre":"Racing",
+      "publisher":"Atlus",
+      "year":1997
+   },
+   {
       "title":"Steambot Chronicles: Battle Tournament",
       "total_sales":0.07,
       "genre":"Fighting",
       "publisher":"Atlus",
       "year":2009
+   },
+   {
+      "title":"Ogre Battle 64: Person of Lordly Caliber",
+      "total_sales":0.41,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2000
    },
    {
       "title":"The Alliance Alive",
@@ -9017,6 +9773,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"Kartia: The Word of Fate",
+      "total_sales":0.22,
+      "genre":"Strategy",
+      "publisher":"Atlus",
+      "year":1998
+   },
+   {
       "title":"Contact",
       "total_sales":0.1,
       "genre":"Role-Playing",
@@ -9029,6 +9792,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Atlus",
       "year":2010
+   },
+   {
+      "title":"Dokapon Kingdom (JP sales)",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2008
    },
    {
       "title":"Dokapon Kingdom",
@@ -9059,6 +9829,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Persona 2: Eternal Punishment",
+      "total_sales":0.35,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2000
+   },
+   {
       "title":"Game of Thrones",
       "total_sales":0.5,
       "genre":"Role-Playing",
@@ -9071,6 +9848,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Atlus",
       "year":2003
+   },
+   {
+      "title":"Bomberman Fantasy Race",
+      "total_sales":0.02,
+      "genre":"Racing",
+      "publisher":"Atlus",
+      "year":1999
    },
    {
       "title":"Trauma Center: Second Opinion",
@@ -9122,6 +9906,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Rhapsody: A Musical Adventure",
+      "total_sales":0.09,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":2000
+   },
+   {
       "title":"Luminous Arc 2 (JP sales)",
       "total_sales":0.1,
       "genre":"Role-Playing",
@@ -9134,6 +9925,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Atlus",
       "year":2011
+   },
+   {
+      "title":"Bomberman World",
+      "total_sales":0.33,
+      "genre":"Puzzle",
+      "publisher":"Atlus",
+      "year":1998
    },
    {
       "title":"Bomberman Land Touch!",
@@ -9155,6 +9953,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2007
+   },
+   {
+      "title":"High Velocity: Mountain Racing Challenge",
+      "total_sales":0.12,
+      "genre":"Racing",
+      "publisher":"Atlus",
+      "year":1996
    },
    {
       "title":"Metal Slug XX",
@@ -9206,11 +10011,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Thousand Arms",
+      "total_sales":0.12,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1999
+   },
+   {
       "title":"Choro Q",
       "total_sales":0.02,
       "genre":"Racing",
       "publisher":"Atlus",
       "year":2004
+   },
+   {
+      "title":"Gouketuji Ichizoku 2: Chottodake Saikyou Densetsu",
+      "total_sales":0.1,
+      "genre":"Fighting",
+      "publisher":"Atlus",
+      "year":1995
    },
    {
       "title":"Monster Kingdom: Jewel Summoner",
@@ -9234,11 +10053,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Trap Gunner: Countdown to Oblivion",
+      "total_sales":0.03,
+      "genre":"Strategy",
+      "publisher":"Atlus",
+      "year":1998
+   },
+   {
       "title":"Wizardry: Tale of the Forsaken Land",
       "total_sales":0.09,
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2001
+   },
+   {
+      "title":"Brigandine: The Legend of Forsena",
+      "total_sales":0.09,
+      "genre":"Strategy",
+      "publisher":"Atlus",
+      "year":1998
    },
    {
       "title":"Hard Hitter Tennis",
@@ -9374,6 +10207,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Guilty Gear",
+      "total_sales":0.14,
+      "genre":"Fighting",
+      "publisher":"Atlus",
+      "year":1998
+   },
+   {
       "title":"Riviera: The Promised Land",
       "total_sales":0.19,
       "genre":"Role-Playing",
@@ -9409,11 +10249,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Gunbird",
+      "total_sales":0.06,
+      "genre":"Shooter",
+      "publisher":"Atlus",
+      "year":1995
+   },
+   {
       "title":"TrackMania DS",
       "total_sales":0.08,
       "genre":"Racing",
       "publisher":"Atlus",
       "year":2009
+   },
+   {
+      "title":"Lunacy",
+      "total_sales":0.11,
+      "genre":"Adventure",
+      "publisher":"Atlus",
+      "year":1997
    },
    {
       "title":"Tokyo Mono Harashi: Karasu no Mori Gakuen Kitan",
@@ -9430,11 +10284,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Majin Tensei",
+      "total_sales":0.08,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1994
+   },
+   {
       "title":"Rondo of Swords (jp sales)",
       "total_sales":0.01,
       "genre":"Role-Playing",
       "publisher":"Atlus",
       "year":2008
+   },
+   {
+      "title":"Virtual Hydlide",
+      "total_sales":0.11,
+      "genre":"Role-Playing",
+      "publisher":"Atlus",
+      "year":1995
    },
    {
       "title":"Hammerin' Hero",
@@ -9469,111 +10337,6 @@ export const pb_data =
       "total_sales":0.18,
       "genre":"Role-Playing",
       "publisher":"Atlus",
-      "year":2015
-   },
-   {
-      "title":"Fifi and the Flowertots",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Avanquest",
-      "year":2009
-   },
-   {
-      "title":"Mahjong 300",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"Avanquest",
-      "year":2011
-   },
-   {
-      "title":"Timmy Time",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Avanquest",
-      "year":2011
-   },
-   {
-      "title":"Roary the Racing Car",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Avanquest",
-      "year":2009
-   },
-   {
-      "title":"Dino Dini's Kick Off Revival",
-      "total_sales":0.03,
-      "genre":"Sports",
-      "publisher":"Avanquest",
-      "year":2016
-   },
-   {
-      "title":"Supermodel Makeover by Lauren Luke",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Avanquest",
-      "year":2009
-   },
-   {
-      "title":"Jewel Quest Mysteries: Curse of the Emerald Tear",
-      "total_sales":0.28,
-      "genre":"Puzzle",
-      "publisher":"Avanquest",
-      "year":2010
-   },
-   {
-      "title":"Atlantic Quest",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Avanquest",
-      "year":2011
-   },
-   {
-      "title":"Coronation Street: The Mystery of the Missing Hotpot Recipe",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Avanquest",
-      "year":2011
-   },
-   {
-      "title":"4 Play Collection - Dark Mysteries",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Avanquest Software",
-      "year":2014
-   },
-   {
-      "title":"7 Roses: A Darkness Rises",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Avanquest Software",
-      "year":2015
-   },
-   {
-      "title":"Secrets of the Titanic",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Avanquest Software",
-      "year":2012
-   },
-   {
-      "title":"Jewel Quest 6: The Sapphire Dragon",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Avanquest Software",
-      "year":2012
-   },
-   {
-      "title":"4 Play Collection: Treasure Hunters",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Avanquest Software",
-      "year":2014
-   },
-   {
-      "title":"Thomas and Friends: Steaming around Sodor",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Avanquest Software",
       "year":2015
    },
    {
@@ -9689,6 +10452,20 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"A Sound of Thunder",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"BAM! Entertainment",
+      "year":2005
+   },
+   {
+      "title":"Dexter's Lab \/ Powerpuff Girls Bundle",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"BAM! Entertainment",
+      "year":2003
+   },
+   {
       "title":"Way of the Samurai",
       "total_sales":0.51,
       "genre":"Action",
@@ -9717,11 +10494,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Transformers: Beast Wars Transmetals",
+      "total_sales":0.11,
+      "genre":"Fighting",
+      "publisher":"BAM! Entertainment",
+      "year":2000
+   },
+   {
       "title":"Sports Illustrated for Kids: Baseball",
       "total_sales":0.17,
       "genre":"Sports",
       "publisher":"BAM! Entertainment",
       "year":2001
+   },
+   {
+      "title":"Contender 2",
+      "total_sales":0.55,
+      "genre":"Fighting",
+      "publisher":"BAM! Entertainment",
+      "year":2000
    },
    {
       "title":"Kong: The Animated Series",
@@ -9787,25 +10578,18 @@ export const pb_data =
       "year":2003
    },
    {
-      "title":"The Sexy Brutale",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Badland Games",
-      "year":2017
-   },
-   {
-      "title":"OlliOlli: Epic Combo Edition",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Badland Studio",
-      "year":2016
-   },
-   {
       "title":"Gundam Battle Tactics",
       "total_sales":0.07,
       "genre":"Action",
       "publisher":"Bandai",
       "year":2005
+   },
+   {
+      "title":"Tamagotchi",
+      "total_sales":1.45,
+      "genre":"Simulation",
+      "publisher":"Bandai",
+      "year":1997
    },
    {
       "title":"Jitsumei Jikkyou Keiba Dream Classic 2002",
@@ -9850,11 +10634,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"PD Ultraman Battle Collection 64",
+      "total_sales":0.04,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1999
+   },
+   {
+      "title":"SD Gundam: Over Galaxian",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Bandai",
+      "year":1996
+   },
+   {
       "title":"SD Gundam: Scad Hammers",
       "total_sales":0.05,
       "genre":"Strategy",
       "publisher":"Bandai",
       "year":2006
+   },
+   {
+      "title":"Mobile Suit Gundam",
+      "total_sales":0.86,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1995
+   },
+   {
+      "title":"Space Battleship Yamato: Harukanaru Hoshi Iscandar",
+      "total_sales":0.17,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1999
    },
    {
       "title":"Gegege no Kitarou: Youkai Daiundoukai",
@@ -9864,11 +10676,32 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Gegege no Kitarou 2: Youkai Gundan no Chousen",
+      "total_sales":1.25,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1987
+   },
+   {
+      "title":"Silent Bomber",
+      "total_sales":0.02,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
       "title":"DICE: DNA Integrated Cybernetic Enterprises",
       "total_sales":0.03,
       "genre":"Shooter",
       "publisher":"Bandai",
       "year":2005
+   },
+   {
+      "title":"Sailor Moon",
+      "total_sales":0.22,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1994
    },
    {
       "title":"InuYasha: The Secret of the Cursed Mask",
@@ -9892,6 +10725,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mobile Suit Gundam Side Story I: Senritsu no Blue",
+      "total_sales":0.28,
+      "genre":"Shooter",
+      "publisher":"Bandai",
+      "year":1996
+   },
+   {
+      "title":"Captain Tsubasa J: The Way to World Youth",
+      "total_sales":0.03,
+      "genre":"Sports",
+      "publisher":"Bandai",
+      "year":1995
+   },
+   {
       "title":"Captain Tsubasa",
       "total_sales":0.08,
       "genre":"Sports",
@@ -9906,11 +10753,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mobile Suit Gundam: Giren no Yabou- Zeon no Keifu",
+      "total_sales":0.57,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
       "title":"Mobile Suit Gundam: Giren no Yabou Zeon Dokuritsu Sensouden",
       "total_sales":0.38,
       "genre":"Strategy",
       "publisher":"Bandai",
       "year":2002
+   },
+   {
+      "title":"Macross Digital Mission VF-X",
+      "total_sales":0.3,
+      "genre":"Simulation",
+      "publisher":"Bandai",
+      "year":1997
    },
    {
       "title":"Mobile Suit Gundam: Federation vs. Zeon",
@@ -9927,11 +10788,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Gundam Battle Assault",
+      "total_sales":0.23,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
       "title":"InuYasha: A Feudal Fairy Tale",
       "total_sales":0.11,
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2003
+   },
+   {
+      "title":"Mobile Suit Gundam version 2.0",
+      "total_sales":0.38,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1996
    },
    {
       "title":"InuYasha: Feudal Combat",
@@ -9948,6 +10823,27 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Mobile Suit Gundam Side Story III: Sabakareshi Mono",
+      "total_sales":0.15,
+      "genre":"Shooter",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
+      "title":"Game de Hakken!! Tamagotchi 2",
+      "total_sales":1.45,
+      "genre":"Simulation",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
+      "title":"Mobile Suit Gundam Side Story II: Aoi o Uketsugu Mono",
+      "total_sales":0.2,
+      "genre":"Shooter",
+      "publisher":"Bandai",
+      "year":1996
+   },
+   {
       "title":"Mobile Suit Gundam: Climax U.C.",
       "total_sales":0.23,
       "genre":"Action",
@@ -9960,6 +10856,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Bandai",
       "year":2006
+   },
+   {
+      "title":"Mobile Suit Z-Gundam",
+      "total_sales":0.36,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1997
    },
    {
       "title":"Jojo no Kimyou na Bouken: Phantom Blood",
@@ -9976,6 +10879,34 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Dragon Ball Z",
+      "total_sales":1.45,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1999
+   },
+   {
+      "title":"Dragon Ball GT: Final Bout",
+      "total_sales":0.27,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
+      "title":"Bishoujo Senshi Sailormoon R",
+      "total_sales":0.27,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1993
+   },
+   {
+      "title":"Bass Rise",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Bandai",
+      "year":1999
+   },
+   {
       "title":"Sugar Sugar Rune: Queen Shiken wa Dai Panic",
       "total_sales":0.01,
       "genre":"Action",
@@ -9983,11 +10914,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Dragon Ball Z Hyper Dimension",
+      "total_sales":0.21,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1996
+   },
+   {
       "title":".hack\/\/Mutation Part 2",
       "total_sales":0.68,
       "genre":"Role-Playing",
       "publisher":"Bandai",
       "year":2003
+   },
+   {
+      "title":"Kidou Senshi Gundam F91: Formula Senki 0122",
+      "total_sales":0.33,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1991
    },
    {
       "title":"Kidou Senshi Gundam Vol.3 -A Baoa Qu-",
@@ -10002,6 +10947,20 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2011
+   },
+   {
+      "title":"Kidou Senshi Gundam: Giren no Yabou",
+      "total_sales":0.25,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1998
+   },
+   {
+      "title":"Kidou Senshi V Gundam",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1994
    },
    {
       "title":"Summon Night 2",
@@ -10023,6 +10982,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2003
+   },
+   {
+      "title":"Dragon Ball Z Super Gokuden: Kakusei-Hen",
+      "total_sales":0.11,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1995
    },
    {
       "title":"Style Book: Cinnamoroll",
@@ -10067,11 +11033,46 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Dragon Ball: Daimaou Fukkatsu",
+      "total_sales":1.25,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1988
+   },
+   {
       "title":"Style Book: Junior City",
       "total_sales":0.02,
       "genre":"Misc",
       "publisher":"Bandai",
       "year":2006
+   },
+   {
+      "title":"Dragon Ball Z: Ultime Menace",
+      "total_sales":0.73,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1994
+   },
+   {
+      "title":"Dragon Ball Z: Shin Butouden",
+      "total_sales":0.09,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1995
+   },
+   {
+      "title":"Dragon Ball Z: La Legende Saien",
+      "total_sales":1.2,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1994
+   },
+   {
+      "title":"Dragon Ball Z: Idainaru Dragon Ball Densetsu",
+      "total_sales":0.34,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1996
    },
    {
       "title":"Usavichi: Game no Jikan",
@@ -10081,11 +11082,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Dragon Ball Z: Chou Saiya Densetsu",
+      "total_sales":0.58,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1992
+   },
+   {
       "title":"Kamen Rider: Climax Heroes Fourze",
       "total_sales":0.17,
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2011
+   },
+   {
+      "title":"Power Rangers Zeo Full Tilt Battle Pinball",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Bandai",
+      "year":1996
    },
    {
       "title":"Mobile Suit Gundam: Lost War Chronicles",
@@ -10102,11 +11117,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Neon Genesis Evangelion",
+      "total_sales":0.5,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1996
+   },
+   {
       "title":"Digimon Battle Spirit 2",
       "total_sales":0.15,
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2003
+   },
+   {
+      "title":"Digimon Adventure: Anode Tamer",
+      "total_sales":0.28,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1999
    },
    {
       "title":"Ms Saga: A New Dawn",
@@ -10151,6 +11180,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Gundam: The Battle Master",
+      "total_sales":0.14,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
       "title":"Gundam Seed: Battle Assault",
       "total_sales":0.08,
       "genre":"Fighting",
@@ -10163,6 +11199,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Bandai",
       "year":2005
+   },
+   {
+      "title":"Mobile Suit Gundam: Perfect One Year War",
+      "total_sales":0.15,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
+      "title":"Tag Team Match M.U.S.C.L.E.",
+      "total_sales":1.05,
+      "genre":"Fighting",
+      "publisher":"Bandai",
+      "year":1986
    },
    {
       "title":"Mobile Suit Gundam: One Year War",
@@ -10221,11 +11271,39 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Famicom Jump: Eiyuu Retsuden",
+      "total_sales":1.1,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1989
+   },
+   {
+      "title":"Super Robot Taisen Compact 2 Dai-1-Bu",
+      "total_sales":0.17,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
+      "title":"Slam Dunk: Yonkyo Taiketsu!!",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Bandai",
+      "year":1994
+   },
+   {
       "title":"Digimon Rumble Arena",
       "total_sales":0.02,
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2002
+   },
+   {
+      "title":"Slam Dunk SD Heat Up!!",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Bandai",
+      "year":1995
    },
    {
       "title":"From TV Animation One Piece: Grand Battle! 3",
@@ -10256,6 +11334,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Digimon World",
+      "total_sales":1.3,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
       "title":".hack\/\/Infection Part 1",
       "total_sales":1.27,
       "genre":"Role-Playing",
@@ -10268,6 +11353,20 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Bandai",
       "year":2008
+   },
+   {
+      "title":"SD Gundam GX",
+      "total_sales":0.19,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1994
+   },
+   {
+      "title":"Extra Bases",
+      "total_sales":0.33,
+      "genre":"Sports",
+      "publisher":"Bandai",
+      "year":1991
    },
    {
       "title":"99 no Namida",
@@ -10284,6 +11383,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"SD Gundam G Generation-F",
+      "total_sales":0.38,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":2000
+   },
+   {
       "title":"SD Gundam G Generation-F.I.F",
       "total_sales":0.12,
       "genre":"Strategy",
@@ -10296,6 +11402,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Bandai",
       "year":2001
+   },
+   {
+      "title":"Crayon Shin-Chan: Arashi o Yobu Enji",
+      "total_sales":0.46,
+      "genre":"Platform",
+      "publisher":"Bandai",
+      "year":1993
    },
    {
       "title":"The Idolm@ster 2",
@@ -10312,11 +11425,32 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Choujikuu Yousai Macross: Ai Oboete Imasu ka",
+      "total_sales":0.15,
+      "genre":"Action",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
       "title":"Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!!",
       "total_sales":0.02,
       "genre":"Action",
       "publisher":"Bandai",
       "year":2011
+   },
+   {
+      "title":"SD Gundam G Century",
+      "total_sales":0.29,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1997
+   },
+   {
+      "title":"Countdown Vampires",
+      "total_sales":0.04,
+      "genre":"Adventure",
+      "publisher":"Bandai",
+      "year":2000
    },
    {
       "title":"Lupin the 3rd: Treasure of the Sorcerer King",
@@ -10331,6 +11465,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Bandai",
       "year":2002
+   },
+   {
+      "title":"SD Gundam GNext",
+      "total_sales":0.2,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1995
+   },
+   {
+      "title":"64 de Hakken! Tamagotchi Minna de Tamagotchi World",
+      "total_sales":0.22,
+      "genre":"Misc",
+      "publisher":"Bandai",
+      "year":1997
    },
    {
       "title":"Shinseiki Evangelion 2: Tsukurareshi Sekai - Another Cases",
@@ -10354,6 +11502,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"SD Gundam G Generation Zero",
+      "total_sales":0.55,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1999
+   },
+   {
       "title":"SD Gundam Force",
       "total_sales":0.02,
       "genre":"Shooter",
@@ -10366,6 +11521,20 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Bandai",
       "year":2005
+   },
+   {
+      "title":"SD Gundam G Generation",
+      "total_sales":0.72,
+      "genre":"Strategy",
+      "publisher":"Bandai",
+      "year":1998
+   },
+   {
+      "title":"Chocobo no Fushigi Dungeon for WonderSwan",
+      "total_sales":0.18,
+      "genre":"Role-Playing",
+      "publisher":"Bandai",
+      "year":1999
    },
    {
       "title":"Ghost in the Shell: Stand Alone Complex",
@@ -10382,319 +11551,18 @@ export const pb_data =
       "year":2005
    },
    {
-      "title":"Little Witch Academia: Chamber of Time",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2017
+      "title":"Dai-4-Ji Super Robot Taisen S",
+      "total_sales":0.51,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1996
    },
    {
-      "title":"One Piece: Pirate Warriors 3 - Deluxe Edition",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"The Seven Deadly Sins: Knights of Britannia",
-      "total_sales":0.1,
-      "genre":"Fighting",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Full Metal Panic! Fight: Who Dares Wins",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Black Clover: Quartet Knights",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Little Nightmares",
-      "total_sales":0.6,
-      "genre":"Platform",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2017
-   },
-   {
-      "title":"Namco Museum Arcade Pac",
-      "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Dark Souls Trilogy",
-      "total_sales":0.13,
-      "genre":"Action",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Divinity: Original Sin II",
-      "total_sales":0.16,
-      "genre":"Role-Playing",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Dark Souls: Remastered",
-      "total_sales":0.11,
-      "genre":"Role-Playing",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"My Hero One's Justice",
-      "total_sales":0.7,
-      "genre":"Fighting",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"IDOLiSH7 Twelve Fantasia!",
-      "total_sales":0.03,
-      "genre":"Music",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Katamari Damacy Reroll",
-      "total_sales":0.17,
-      "genre":"Action",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Ride 3",
-      "total_sales":0.1,
-      "genre":"Racing",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2018
-   },
-   {
-      "title":"God Eater 3",
-      "total_sales":0.19,
-      "genre":"Role-Playing",
-      "publisher":"Bandai Namco Entertainment",
-      "year":2019
-   },
-   {
-      "title":"Project CARS",
-      "total_sales":1.82,
-      "genre":"Racing",
-      "publisher":"Bandai Namco Games",
-      "year":2015
-   },
-   {
-      "title":"Pro Yakyuu Famista Evolution",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Tamagotchi no Puchi Puchi Omisechi: Ninki no Omise Atsume Maseta",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Bandai Namco Games",
-      "year":2017
-   },
-   {
-      "title":"Girls und Panzer: Dream Tank Match",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Mobile Suit GUNDAM SEED BATTLE DESTINY",
-      "total_sales":0.12,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2012
-   },
-   {
-      "title":"Aikatsu! 365 Idol Days",
-      "total_sales":0.13,
-      "genre":"Adventure",
-      "publisher":"Bandai Namco Games",
-      "year":2014
-   },
-   {
-      "title":"Chou Sentouchuu: Kyuukyoku no Shinobu to Battle Player Choujou Kessen!",
+      "title":"Kenyuu Densetsu Yaiba",
       "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"Gotouchi Tetsudou for Nintendo Switch!!",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2015
-   },
-   {
-      "title":"All Kamen Rider: Rider Revolution",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"SD Gundam G Generation Genesis",
-      "total_sales":0.27,
-      "genre":"Strategy",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"Lost Heroes 2",
-      "total_sales":0.08,
       "genre":"Role-Playing",
-      "publisher":"Bandai Namco Games",
-      "year":2015
-   },
-   {
-      "title":"Aikatsu! My No.1 Stage!",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Bandai Namco Games",
-      "year":2015
-   },
-   {
-      "title":"AKB1\/48: Idol to Guam de Koishitara...",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Bandai Namco Games",
-      "year":2011
-   },
-   {
-      "title":"Billion Road",
-      "total_sales":0.01,
-      "genre":"Board Game",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Aikatsu Stars! My Special Appeal",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"Super Run For Money Tousouchuu & Sentouchuu",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Kamen Rider: Climax Scramble Zi-O",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"SoulCalibur VI",
-      "total_sales":0.3,
-      "genre":"Fighting",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Kuroko no Basuke: Game of Miracles",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Bandai Namco Games",
-      "year":2012
-   },
-   {
-      "title":"Haikyu!! Cross Team Match!",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"Armored Core: Verdict Day",
-      "total_sales":0.13,
-      "genre":"Shooter",
-      "publisher":"Bandai Namco Games",
-      "year":2013
-   },
-   {
-      "title":"Super Robot Wars X",
-      "total_sales":0.2,
-      "genre":"Strategy",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"The IdolM@ster: Gravure For You! Vol. 6",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Bandai Namco Games",
-      "year":2012
-   },
-   {
-      "title":"Cats Together",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Gintama Ranbu",
-      "total_sales":0.1,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Kamen Rider Travelers Record",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Bandai Namco Games",
-      "year":2013
-   },
-   {
-      "title":"Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2016
-   },
-   {
-      "title":"Record of Grancrest War",
-      "total_sales":0.03,
-      "genre":"Action-Adventure",
-      "publisher":"Bandai Namco Games",
-      "year":2018
-   },
-   {
-      "title":"Nari Kids Park: Hugtto! PreCure",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Bandai Namco Games",
-      "year":2018
+      "publisher":"Banpresto",
+      "year":1994
    },
    {
       "title":"Kimi ni Todoke: Sodateru Omoi",
@@ -10709,6 +11577,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Banpresto",
       "year":2011
+   },
+   {
+      "title":"Super Robot Taisen Complete Box",
+      "total_sales":0.31,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1999
    },
    {
       "title":"Dai-2-Ji Super Robot Taisen Z: Hakai-hen",
@@ -10739,6 +11614,20 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Doki Oki",
+      "total_sales":0.03,
+      "genre":"Adventure",
+      "publisher":"Banpresto",
+      "year":1995
+   },
+   {
+      "title":"Dai-4-Ji Super Robot Taisen",
+      "total_sales":0.38,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1995
+   },
+   {
       "title":"Ultraman Fighting Evolution 0",
       "total_sales":0.01,
       "genre":"Fighting",
@@ -10767,11 +11656,39 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Super Robot Taisen EX",
+      "total_sales":0.37,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1994
+   },
+   {
       "title":"Summon Night 3",
       "total_sales":0.36,
       "genre":"Role-Playing",
       "publisher":"Banpresto",
       "year":2003
+   },
+   {
+      "title":"Super Robot Spirits",
+      "total_sales":0.07,
+      "genre":"Fighting",
+      "publisher":"Banpresto",
+      "year":1998
+   },
+   {
+      "title":"Super Puyo Puyo",
+      "total_sales":1.7,
+      "genre":"Puzzle",
+      "publisher":"Banpresto",
+      "year":1993
+   },
+   {
+      "title":"Super Robot Taisen 64",
+      "total_sales":0.2,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1999
    },
    {
       "title":"Super Robot Taisen A",
@@ -10788,6 +11705,34 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Battle Soccer: Field no Hasha",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"Banpresto",
+      "year":1992
+   },
+   {
+      "title":"Battle Dodge Ball",
+      "total_sales":0.33,
+      "genre":"Sports",
+      "publisher":"Banpresto",
+      "year":1991
+   },
+   {
+      "title":"Slayers",
+      "total_sales":0.12,
+      "genre":"Role-Playing",
+      "publisher":"Banpresto",
+      "year":1994
+   },
+   {
+      "title":"Super Nazo Puyo: Ruruu no Ruu",
+      "total_sales":0.27,
+      "genre":"Puzzle",
+      "publisher":"Banpresto",
+      "year":1995
+   },
+   {
       "title":"Summon Night Craft Sword Monogatari: Hajimari no Ishi",
       "total_sales":0.04,
       "genre":"Role-Playing",
@@ -10800,6 +11745,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Banpresto",
       "year":2007
+   },
+   {
+      "title":"Battle Commander: Hachibushu Shura no Heihou",
+      "total_sales":0.18,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1991
    },
    {
       "title":"Ultraman Fighting Evolution 3",
@@ -10828,6 +11780,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Banpresto",
       "year":2006
+   },
+   {
+      "title":"Shin Super Robot Taisen",
+      "total_sales":0.55,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1996
    },
    {
       "title":"Super Robot Taisen J",
@@ -10879,11 +11838,32 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Gaia Saver Hero Saidai no Sakusen",
+      "total_sales":0.03,
+      "genre":"Role-Playing",
+      "publisher":"Banpresto",
+      "year":1994
+   },
+   {
+      "title":"Super Robot Taisen \u03b1",
+      "total_sales":0.8,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":2000
+   },
+   {
       "title":"Suzumiya Haruhi no Tomadoi",
       "total_sales":0.13,
       "genre":"Adventure",
       "publisher":"Banpresto",
       "year":2008
+   },
+   {
+      "title":"Zen-Nippon GT Senshuken",
+      "total_sales":0.04,
+      "genre":"Racing",
+      "publisher":"Banpresto",
+      "year":1995
    },
    {
       "title":"A.C.E.: Another Century's Episode 2 - Special Vocal Version",
@@ -10928,6 +11908,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Real Robots Final Attack",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Banpresto",
+      "year":1998
+   },
+   {
+      "title":"The Great Battle Gaiden 2: Matsuri da Wasshoi",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Banpresto",
+      "year":1994
+   },
+   {
       "title":"Super Robot Taisen Impact",
       "total_sales":0.65,
       "genre":"Strategy",
@@ -10949,6 +11943,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Super Robot Taisen F",
+      "total_sales":0.55,
+      "genre":"Action",
+      "publisher":"Banpresto",
+      "year":1997
+   },
+   {
       "title":"Rurouni Kenshin: Enjou! Kyoto Rinne",
       "total_sales":0.13,
       "genre":"Action",
@@ -10956,67 +11957,25 @@ export const pb_data =
       "year":2006
    },
    {
-      "title":"Kikiite Hajimaru: Eigo Kaiwa Training - KikiTore",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Benesse",
-      "year":2008
+      "title":"Super Robot Taisen F Kanketsuhen",
+      "total_sales":0.78,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1998
    },
    {
-      "title":"Fushigi? Kagaku: Nazotoki Quiz Training - NazoTore",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Benesse",
-      "year":2008
+      "title":"Shin Super Robot Taisen Special Disk",
+      "total_sales":0.32,
+      "genre":"Strategy",
+      "publisher":"Banpresto",
+      "year":1997
    },
    {
-      "title":"Kuukan * Zukei: Hirameki Training - KuuTore",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Benesse",
-      "year":2008
-   },
-   {
-      "title":"Reading Training",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"Benesse",
-      "year":2007
-   },
-   {
-      "title":"Kiku! Kaku! Kotoba o Fuyasu! Hajimete no Eigo Training",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Benesse",
-      "year":2007
-   },
-   {
-      "title":"Motto Hayaku! Seikaku Ni! Suu Sense Keisan Ryuoku Up Training - SuuTore",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Benesse",
-      "year":2008
-   },
-   {
-      "title":"Hello Kitty Kruisers",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Bergsala Lightweight",
-      "year":2014
-   },
-   {
-      "title":"M&Ms Shell Shocked",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Berkeley",
-      "year":2001
-   },
-   {
-      "title":"Oretachi no Sabage Portable",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Best Media",
-      "year":2008
+      "title":"Go Go Ackman 3",
+      "total_sales":0.04,
+      "genre":"Platform",
+      "publisher":"Banpresto",
+      "year":1995
    },
    {
       "title":"Star Trek: Tactical Assault",
@@ -11299,6 +12258,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Sea Dogs",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Bethesda Softworks",
+      "year":2000
+   },
+   {
       "title":"Dishonored 2",
       "total_sales":3.09,
       "genre":"Action",
@@ -11383,237 +12349,6 @@ export const pb_data =
       "year":2005
    },
    {
-      "title":"TT Isle of Man: Ride on the Edge",
-      "total_sales":0.25,
-      "genre":"Racing",
-      "publisher":"Big Ben Interactive",
-      "year":2018
-   },
-   {
-      "title":"Rugby World Cup 2015",
-      "total_sales":0.2,
-      "genre":"Sports",
-      "publisher":"Big Ben Interactive",
-      "year":2015
-   },
-   {
-      "title":"Aladdin Magic Racer",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Big Ben Interactive",
-      "year":2011
-   },
-   {
-      "title":"Bella Sara 2 - The Magic of Drasilmare",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Big Ben Interactive",
-      "year":2013
-   },
-   {
-      "title":"Aqua Moto Racing Utopia",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Big Ben Interactive",
-      "year":2018
-   },
-   {
-      "title":"My Body Coach",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Big Ben Interactive",
-      "year":2009
-   },
-   {
-      "title":"Snow Moto Racing Freedom",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Big Ben Interactive",
-      "year":2018
-   },
-   {
-      "title":"Living Legends: Frozen Beauty",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Big Fish Games",
-      "year":2014
-   },
-   {
-      "title":"Dark Tales: Edgar Allan Poe's The Premature Burial",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Big Fish Games",
-      "year":2019
-   },
-   {
-      "title":"Haunted Hotel: Ancient Curse",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Big Fish Games",
-      "year":2016
-   },
-   {
-      "title":"Mystery Case Files: Ravenhearst",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"Big Fish Games",
-      "year":2007
-   },
-   {
-      "title":"The Dark Hills of Cherai",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Big Fish Games",
-      "year":2009
-   },
-   {
-      "title":"Fabled Legends: The Dark Piper",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Big Fish Games",
-      "year":2014
-   },
-   {
-      "title":"Gothic Fiction: Dark Saga",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Big Fish Games",
-      "year":2015
-   },
-   {
-      "title":"Mystic Gateways: The Celestial Quest",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Big Fish Games",
-      "year":2015
-   },
-   {
-      "title":"Hallowed Legends: Templar",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Big Fish Games",
-      "year":2015
-   },
-   {
-      "title":"Witch Hunters: Stolen Beauty",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Big Fish Games",
-      "year":2015
-   },
-   {
-      "title":"WRC 7",
-      "total_sales":0.12,
-      "genre":"Racing",
-      "publisher":"Bigben Interactive",
-      "year":2017
-   },
-   {
-      "title":"V-Rally 4",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Bigben Interactive",
-      "year":2018
-   },
-   {
-      "title":"Hunting Simulator",
-      "total_sales":0.15,
-      "genre":"Shooter",
-      "publisher":"Bigben Interactive",
-      "year":2017
-   },
-   {
-      "title":"Rugby 15",
-      "total_sales":0.38,
-      "genre":"Sports",
-      "publisher":"Bigben Interactive",
-      "year":2015
-   },
-   {
-      "title":"Sherlock Holmes: The Devil's Daughter",
-      "total_sales":0.12,
-      "genre":"Adventure",
-      "publisher":"Bigben Interactive",
-      "year":2016
-   },
-   {
-      "title":"Tennis World Tour",
-      "total_sales":0.1,
-      "genre":"Sports",
-      "publisher":"Bigben Interactive",
-      "year":2018
-   },
-   {
-      "title":"WRC 5: FIA World Rally Championship",
-      "total_sales":0.24,
-      "genre":"Racing",
-      "publisher":"Bigben Interactive",
-      "year":2015
-   },
-   {
-      "title":"Handball 16",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Bigben Interactive",
-      "year":2015
-   },
-   {
-      "title":"SBK09 Superbike World Championship",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Black Bean Games",
-      "year":2009
-   },
-   {
-      "title":"SBK 2011: FIM Superbike World Championship",
-      "total_sales":0.22,
-      "genre":"Racing",
-      "publisher":"Black Bean Games",
-      "year":2011
-   },
-   {
-      "title":"National Geographic Challenge!",
-      "total_sales":0.22,
-      "genre":"Misc",
-      "publisher":"Black Bean Games",
-      "year":2011
-   },
-   {
-      "title":"Let's Dance with Mel B",
-      "total_sales":0.08,
-      "genre":"Sports",
-      "publisher":"Black Bean Games",
-      "year":2012
-   },
-   {
-      "title":"Superstars V8 Racing",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Black Bean Games",
-      "year":2009
-   },
-   {
-      "title":"The Lord of the Rings: The Fellowship of the Ring",
-      "total_sales":1.73,
-      "genre":"Action",
-      "publisher":"Black Label Games",
-      "year":2002
-   },
-   {
-      "title":"Mr Bean's Wacky World of Wii",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Blast! Entertainment Ltd",
-      "year":2009
-   },
-   {
-      "title":"Bob the Builder: Festival of Fun",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Blast! Entertainment Ltd",
-      "year":2008
-   },
-   {
       "title":"StarCraft II: Legacy of the Void",
       "total_sales":0.57,
       "genre":"Strategy",
@@ -11642,6 +12377,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"StarCraft Battle Chest",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Blizzard Entertainment",
+      "year":1999
+   },
+   {
       "title":"Rock 'N Roll Racing",
       "total_sales":0.05,
       "genre":"Racing",
@@ -11668,293 +12410,6 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Blizzard Entertainment",
       "year":2014
-   },
-   {
-      "title":"Kidz Sports: Basketball",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Bold Games",
-      "year":2008
-   },
-   {
-      "title":"Kidz Sports: Ice Hockey",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Bold Games",
-      "year":2008
-   },
-   {
-      "title":"Monster Trux Offroad",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Bold Games",
-      "year":2007
-   },
-   {
-      "title":"I Love Horses",
-      "total_sales":0.23,
-      "genre":"Simulation",
-      "publisher":"Bold Games",
-      "year":2009
-   },
-   {
-      "title":"Aquarium by DS",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Bold Games",
-      "year":2008
-   },
-   {
-      "title":"Kidz Sports International Soccer",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Bold Games",
-      "year":2008
-   },
-   {
-      "title":"Myth Makers: Orbs of Doom",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Bold Games",
-      "year":2007
-   },
-   {
-      "title":"Rig Racer 2",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Bold Games",
-      "year":2008
-   },
-   {
-      "title":"Isshoni Gohan. Portable",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Boost On",
-      "year":2013
-   },
-   {
-      "title":"Six Flags Fun Park",
-      "total_sales":0.58,
-      "genre":"Misc",
-      "publisher":"Brash Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Alvin and the Chipmunks",
-      "total_sales":0.26,
-      "genre":"Misc",
-      "publisher":"Brash Entertainment",
-      "year":2007
-   },
-   {
-      "title":"The Tale of Despereaux",
-      "total_sales":0.46,
-      "genre":"Platform",
-      "publisher":"Brash Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Space Chimps",
-      "total_sales":0.38,
-      "genre":"Platform",
-      "publisher":"Brash Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Jumper: Griffin's Story",
-      "total_sales":0.22,
-      "genre":"Action",
-      "publisher":"Brash Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Koi Sentai Love & Peace the P.S.P: Power Zenkai! Special Youso Tenkomori de Portable Ka Daisakusen de Aru!",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Broccoli",
-      "year":2012
-   },
-   {
-      "title":"Kamigami no Asobi InFinite",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2016
-   },
-   {
-      "title":"Uta no Prince-Sama: Music",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Broccoli",
-      "year":2011
-   },
-   {
-      "title":"Killer and Strawberry",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Broccoli",
-      "year":2018
-   },
-   {
-      "title":"Uta no Prince-Sama: Music 3",
-      "total_sales":0.06,
-      "genre":"Music",
-      "publisher":"Broccoli",
-      "year":2016
-   },
-   {
-      "title":"Game Book DS: Aquarian Age Perpetual Period",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Broccoli",
-      "year":2010
-   },
-   {
-      "title":"Shinseiki Evangelion Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Broccoli",
-      "year":2008
-   },
-   {
-      "title":"Game Book DS: Sword World 2.0",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Broccoli",
-      "year":2009
-   },
-   {
-      "title":"Shinseiki Evangelion: Battle Orchestra Portable",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"Broccoli",
-      "year":2009
-   },
-   {
-      "title":"Uta no Prince-sama: Amazing Aria & Sweet Serenade Love",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2017
-   },
-   {
-      "title":"Galaxy Angel II: Eigou Kaiki no Koku",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Broccoli",
-      "year":2009
-   },
-   {
-      "title":"Uta no Prince-Sama: Repeat Love",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2017
-   },
-   {
-      "title":"Galaxy Angel II: Mugen Kairou no Kagi",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Broccoli",
-      "year":2007
-   },
-   {
-      "title":"Maji-Kyun! Renaissance",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2016
-   },
-   {
-      "title":"Meiji Tokyo Renka",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Broccoli",
-      "year":2013
-   },
-   {
-      "title":"Uta no Prince-Sama: Debut",
-      "total_sales":0.09,
-      "genre":"Visual Novel",
-      "publisher":"Broccoli",
-      "year":2012
-   },
-   {
-      "title":"Uta no Prince-Sama: All Star After Secret",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Broccoli",
-      "year":2015
-   },
-   {
-      "title":"Uta no * Prince-Sama: Sweet Serenade",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2011
-   },
-   {
-      "title":"Uta no * Prince-Sama: Repeat",
-      "total_sales":0.14,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2011
-   },
-   {
-      "title":"Meitantei Evangelion",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2007
-   },
-   {
-      "title":"Uta no?Prince-sama? MUSIC 2",
-      "total_sales":0.09,
-      "genre":"Music",
-      "publisher":"Broccoli",
-      "year":2013
-   },
-   {
-      "title":"Uta no * Prince-Sama",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Broccoli",
-      "year":2010
-   },
-   {
-      "title":"Galaxy Angel II: Zettairyouiki no Tobira",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Broccoli",
-      "year":2006
-   },
-   {
-      "title":"Kamigami no Asobi: Ludere Deorum",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Broccoli",
-      "year":2013
-   },
-   {
-      "title":"Uta no * Prince-Sama: All Star",
-      "total_sales":0.12,
-      "genre":"Music",
-      "publisher":"Broccoli",
-      "year":2013
-   },
-   {
-      "title":"Meiji Toukyou Renka: Twilight Kiss",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Broccoli",
-      "year":2015
-   },
-   {
-      "title":"Shinseiki Evangelion: Battle Orchestra",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Broccoli",
-      "year":2007
    },
    {
       "title":"Disney's Lilo & Stitch 2: Hamsterveil Havoc",
@@ -12055,6 +12510,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"TRON 2.0",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Buena Vista",
+      "year":2003
+   },
+   {
       "title":"Walt Disney Pictures Presents: The Wild",
       "total_sales":0.13,
       "genre":"Platform",
@@ -12125,88 +12587,11 @@ export const pb_data =
       "year":2006
    },
    {
-      "title":"Detective Opera: Milky Holmes 2",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"BushiRoad",
-      "year":2012
-   },
-   {
-      "title":"Theatre Of War",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"CDV Software Entertainment",
-      "year":2008
-   },
-   {
-      "title":"War Leaders: Clash of Nations",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"CDV Software Entertainment",
-      "year":2009
-   },
-   {
-      "title":"My Little Baby",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"CDV Software Entertainment",
-      "year":2008
-   },
-   {
-      "title":"City Life: World Edition",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"CDV Software Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Sacred 2: Fallen Angel",
-      "total_sales":1.21,
-      "genre":"Role-Playing",
-      "publisher":"CDV Software Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Codename: Panzers Phase Two",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"CDV Software Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Divinity II: Ego Draconis",
-      "total_sales":0.31,
-      "genre":"Role-Playing",
-      "publisher":"CDV Software Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Catan",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"CDV Software Entertainment",
-      "year":2009
-   },
-   {
-      "title":"DarkStar One",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"CDV Software Entertainment",
+      "title":"Phil of the Future",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Buena Vista",
       "year":2006
-   },
-   {
-      "title":"I Heart Geeks",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"CDV Software Entertainment",
-      "year":2011
-   },
-   {
-      "title":"QUIZ PARTY",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"CK Games",
-      "year":2012
    },
    {
       "title":"Street Fighter Alpha 3 MAX",
@@ -12244,6 +12629,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Dino Crisis 2",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Capcom",
+      "year":2002
+   },
+   {
+      "title":"Mega Man 8 Anniversary Collector's Edition",
+      "total_sales":0.94,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1997
+   },
+   {
       "title":"Dragon's Dogma",
       "total_sales":2.56,
       "genre":"Role-Playing",
@@ -12258,6 +12657,20 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Resident Evil: Survivor",
+      "total_sales":0.71,
+      "genre":"Shooter",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
+      "title":"Super Street Fighter II",
+      "total_sales":0.15,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1994
+   },
+   {
       "title":"Super Street Fighter IV: Arcade Edition",
       "total_sales":0.08,
       "genre":"Fighting",
@@ -12265,11 +12678,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Street Fighter II': Special Champion Edition (JP weekly sales)",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"Capcom",
+      "year":1993
+   },
+   {
       "title":"Viewtiful Joe: Double Trouble!",
       "total_sales":0.11,
       "genre":"Action",
       "publisher":"Capcom",
       "year":2005
+   },
+   {
+      "title":"Street Fighter EX3",
+      "total_sales":0.85,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":2000
    },
    {
       "title":"Tropix",
@@ -12291,6 +12718,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Capcom",
       "year":2016
+   },
+   {
+      "title":"X-Men vs. Street Fighter",
+      "total_sales":0.68,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1997
    },
    {
       "title":"Street Fighter Alpha 3",
@@ -12377,6 +12811,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Strider 2",
+      "total_sales":0.08,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
       "title":"Strider (2014)",
       "total_sales":0.01,
       "genre":"Platform",
@@ -12454,6 +12895,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Street Fighter Alpha: Warriors' Dreams",
+      "total_sales":1.11,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1995
+   },
+   {
       "title":"Monster Hunter Stories",
       "total_sales":0.7,
       "genre":"Role-Playing",
@@ -12473,6 +12921,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Capcom",
       "year":2004
+   },
+   {
+      "title":"Street Fighter Collection",
+      "total_sales":0.21,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1997
    },
    {
       "title":"Dino Stalker",
@@ -12538,6 +12993,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Marvel vs. Capcom: Clash of Super Heroes",
+      "total_sales":0.88,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1999
+   },
+   {
       "title":"Marvel vs. Capcom 3: Fate of Two Worlds",
       "total_sales":2.43,
       "genre":"Fighting",
@@ -12552,6 +13014,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Marvel vs. Capcom 2",
+      "total_sales":1.04,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
       "title":"Ultimate Ghosts 'n Goblins",
       "total_sales":0.08,
       "genre":"Platform",
@@ -12564,6 +13033,27 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Capcom",
       "year":2006
+   },
+   {
+      "title":"Mega Man X4",
+      "total_sales":1.11,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1997
+   },
+   {
+      "title":"Mega Man X3",
+      "total_sales":0.35,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1995
+   },
+   {
+      "title":"Mega Man X2",
+      "total_sales":0.56,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1994
    },
    {
       "title":"Ultimate Marvel vs. Capcom 3",
@@ -12599,6 +13089,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Capcom",
       "year":2003
+   },
+   {
+      "title":"Marvel Super Heroes vs. Street Fighter",
+      "total_sales":0.26,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1999
    },
    {
       "title":"Mega Man X: Command Mission",
@@ -12699,6 +13196,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"MotoGP",
+      "total_sales":0.63,
+      "genre":"Racing",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
       "title":"DmC Devil May Cry: Definitive Edition",
       "total_sales":0.46,
       "genre":"Action",
@@ -12713,11 +13217,32 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"UN Squadron",
+      "total_sales":0.12,
+      "genre":"Shooter",
+      "publisher":"Capcom",
+      "year":1991
+   },
+   {
+      "title":"Vampire Savior: The Lord of Vampire",
+      "total_sales":0.18,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
       "title":"Steel Battalion: Heavy Armor",
       "total_sales":0.13,
       "genre":"Simulation",
       "publisher":"Capcom",
       "year":2012
+   },
+   {
+      "title":"Mega Man Legends",
+      "total_sales":0.83,
+      "genre":"Adventure",
+      "publisher":"Capcom",
+      "year":1998
    },
    {
       "title":"Super Ghouls 'n Ghosts",
@@ -12739,6 +13264,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Capcom",
       "year":2002
+   },
+   {
+      "title":"Mega Man Legends 2",
+      "total_sales":0.42,
+      "genre":"Adventure",
+      "publisher":"Capcom",
+      "year":2000
    },
    {
       "title":"Mega Man X Legacy Collection 2",
@@ -12797,6 +13329,13 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Power Stone",
+      "total_sales":0.14,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1999
+   },
+   {
       "title":"Mega Man Star Force Dragon \/ Leo \/ Pegasus",
       "total_sales":0.95,
       "genre":"Role-Playing",
@@ -12839,6 +13378,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Bionic Commando",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Capcom",
+      "year":2009
+   },
+   {
       "title":"Mega Man Zero Collection",
       "total_sales":0.31,
       "genre":"Platform",
@@ -12860,6 +13406,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Mega Man: Battle & Chase",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
       "title":"Monster Hunter Frontier Online: Forward 1",
       "total_sales":0.03,
       "genre":"Role-Playing",
@@ -12874,6 +13427,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"Night Warriors: Darkstalkers' Revenge",
+      "total_sales":0.34,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1996
+   },
+   {
       "title":"Black Cat",
       "total_sales":0.01,
       "genre":"Action",
@@ -12886,6 +13446,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Capcom",
       "year":2015
+   },
+   {
+      "title":"Value Pack: Street Fighter Zero 3 Double Upper \/ Vampire Chronicle: The Chaos Tower",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":2009
+   },
+   {
+      "title":"Marvel Super Heroes",
+      "total_sales":0.4,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1997
    },
    {
       "title":"Monster Hunter",
@@ -12916,6 +13490,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Super Puzzle Fighter II Turbo",
+      "total_sales":0.14,
+      "genre":"Puzzle",
+      "publisher":"Capcom",
+      "year":1996
+   },
+   {
       "title":"Monster Hunter 2",
       "total_sales":0.63,
       "genre":"Role-Playing",
@@ -12935,6 +13516,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Capcom",
       "year":2004
+   },
+   {
+      "title":"Street Fighter Alpha 2",
+      "total_sales":1.34,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1996
    },
    {
       "title":"Under the Skin",
@@ -12979,6 +13567,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Mega Man Soccer",
+      "total_sales":0.18,
+      "genre":"Sports",
+      "publisher":"Capcom",
+      "year":1994
+   },
+   {
       "title":"Mega Man Xtreme 2",
       "total_sales":0.07,
       "genre":"Platform",
@@ -13014,6 +13609,13 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Street Fighter EX Plus Alpha",
+      "total_sales":0.75,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1997
+   },
+   {
       "title":"Final Fight: Streetwise",
       "total_sales":0.07,
       "genre":"Action",
@@ -13026,6 +13628,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Capcom",
       "year":2008
+   },
+   {
+      "title":"Star Gladiator Episode: I Final Crusade",
+      "total_sales":0.3,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1996
    },
    {
       "title":"Pro Cast Sports Fishing",
@@ -13117,6 +13726,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Capcom",
       "year":2012
+   },
+   {
+      "title":"RockMan & Forte",
+      "total_sales":0.14,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
+      "title":"Resident Evil 5: Gold Edition",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Capcom",
+      "year":2010
    },
    {
       "title":"Capcom Beat 'Em Up Bundle",
@@ -13224,6 +13847,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Resident Evil Zero",
+      "total_sales":0.0,
+      "genre":"Action-Adventure",
+      "publisher":"Capcom",
+      "year":2016
+   },
+   {
+      "title":"X-Men: Children of the Atom",
+      "total_sales":0.31,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1996
+   },
+   {
       "title":"Dead Rising: Chop Till You Drop",
       "total_sales":0.29,
       "genre":"Action",
@@ -13294,6 +13931,27 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Rival Schools: United By Fate",
+      "total_sales":0.52,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
+      "title":"Jojo's Bizarre Adventure",
+      "total_sales":0.03,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
+      "title":"Buster Bros. Collection",
+      "total_sales":0.07,
+      "genre":"Puzzle",
+      "publisher":"Capcom",
+      "year":1997
+   },
+   {
       "title":"Sengoku Basara X",
       "total_sales":0.05,
       "genre":"Fighting",
@@ -13313,6 +13971,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Capcom",
       "year":2009
+   },
+   {
+      "title":"Capcom Classics Mini Mix",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Capcom",
+      "year":2006
    },
    {
       "title":"Capcom Digital Collection",
@@ -13341,6 +14006,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Capcom",
       "year":2003
+   },
+   {
+      "title":"Mega Man",
+      "total_sales":0.81,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1987
    },
    {
       "title":"Mega Man & Bass",
@@ -13392,6 +14064,20 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Pocket Fighter",
+      "total_sales":0.26,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
+      "title":"Mega Man 4",
+      "total_sales":0.93,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1992
+   },
+   {
       "title":"We Love Golf!",
       "total_sales":0.24,
       "genre":"Sports",
@@ -13411,6 +14097,20 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Capcom",
       "year":2008
+   },
+   {
+      "title":"Mega Man 5",
+      "total_sales":0.79,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1992
+   },
+   {
+      "title":"Resident Evil",
+      "total_sales":0.17,
+      "genre":"Action",
+      "publisher":"Capcom",
+      "year":1997
    },
    {
       "title":"The Great Ace Attorney - The Adventures of Ryuunosuke Naruhodou",
@@ -13441,6 +14141,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Mega Man 7",
+      "total_sales":0.28,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1995
+   },
+   {
       "title":"Crimson Tears",
       "total_sales":0.03,
       "genre":"Role-Playing",
@@ -13462,6 +14169,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Resident Evil 2",
+      "total_sales":0.62,
+      "genre":"Action",
+      "publisher":"Capcom",
+      "year":1999
+   },
+   {
       "title":"Ashita no Joe 2: The Anime Super Remix",
       "total_sales":0.01,
       "genre":"Fighting",
@@ -13474,6 +14188,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Capcom",
       "year":2007
+   },
+   {
+      "title":"Capcom vs. SNK",
+      "total_sales":0.22,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":2000
    },
    {
       "title":"Sally's Salon",
@@ -13532,11 +14253,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"1942",
+      "total_sales":1.0,
+      "genre":"Shooter",
+      "publisher":"Capcom",
+      "year":1986
+   },
+   {
       "title":"Capcom vs. SNK: Millennium Fight 2000 Pro",
       "total_sales":0.05,
       "genre":"Fighting",
       "publisher":"Capcom",
       "year":2001
+   },
+   {
+      "title":"Capcom's Soccer Shootout",
+      "total_sales":0.8,
+      "genre":"Sports",
+      "publisher":"Capcom",
+      "year":1994
    },
    {
       "title":"Remember Me",
@@ -13623,6 +14358,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Darkstalkers 3",
+      "total_sales":0.19,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
       "title":"Without Warning",
       "total_sales":0.06,
       "genre":"Shooter",
@@ -13637,11 +14379,39 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Breath of Fire III",
+      "total_sales":1.04,
+      "genre":"Role-Playing",
+      "publisher":"Capcom",
+      "year":1998
+   },
+   {
       "title":"Sengoku Basara 2 Heroes",
       "total_sales":0.21,
       "genre":"Action",
       "publisher":"Capcom",
       "year":2007
+   },
+   {
+      "title":"Mega Man IV",
+      "total_sales":0.13,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1993
+   },
+   {
+      "title":"Breath of Fire II",
+      "total_sales":0.55,
+      "genre":"Role-Playing",
+      "publisher":"Capcom",
+      "year":1995
+   },
+   {
+      "title":"The Misadventures of Tron Bonne",
+      "total_sales":0.05,
+      "genre":"Adventure",
+      "publisher":"Capcom",
+      "year":2000
    },
    {
       "title":"Gaist Crusher God",
@@ -13735,6 +14505,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mega Man III",
+      "total_sales":0.18,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1992
+   },
+   {
       "title":"Devil May Cry 4",
       "total_sales":2.92,
       "genre":"Action",
@@ -13812,6 +14589,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Lost Planet: Extreme Condition Colonies Edition",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Capcom",
+      "year":2008
+   },
+   {
       "title":"Breath of Fire: Dragon Quarter",
       "total_sales":0.19,
       "genre":"Role-Playing",
@@ -13824,6 +14608,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Capcom",
       "year":2001
+   },
+   {
+      "title":"Breath of Fire IV",
+      "total_sales":0.56,
+      "genre":"Role-Playing",
+      "publisher":"Capcom",
+      "year":2000
+   },
+   {
+      "title":"Magical Tetris Challenge",
+      "total_sales":0.2,
+      "genre":"Puzzle",
+      "publisher":"Capcom",
+      "year":1998
    },
    {
       "title":"MonHun Nikki: Poka Poka Ailu Mura G",
@@ -13903,11 +14701,32 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Street Fighter EX2 Plus",
+      "total_sales":0.23,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1999
+   },
+   {
       "title":"Lost Planet: Extreme Condition",
       "total_sales":0.64,
       "genre":"Shooter",
       "publisher":"Capcom",
       "year":2007
+   },
+   {
+      "title":"The Magical Quest starring Mickey Mouse (weekly jp sales)",
+      "total_sales":0.52,
+      "genre":"Platform",
+      "publisher":"Capcom",
+      "year":1992
+   },
+   {
+      "title":"Saturday Night Slam Masters",
+      "total_sales":0.16,
+      "genre":"Fighting",
+      "publisher":"Capcom",
+      "year":1994
    },
    {
       "title":"Megami Meguri",
@@ -13922,132 +14741,6 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Capcom",
       "year":2004
-   },
-   {
-      "title":"WildStar",
-      "total_sales":0.16,
-      "genre":"MMO",
-      "publisher":"Carbine Studios",
-      "year":2014
-   },
-   {
-      "title":"Mushihimesama",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2012
-   },
-   {
-      "title":"Mushihimesama Futari Ver 1.5",
-      "total_sales":0.03,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2009
-   },
-   {
-      "title":"Akai Katana",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2012
-   },
-   {
-      "title":"DoDonPachi Saidaioujou",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2013
-   },
-   {
-      "title":"DeathSmiles II X",
-      "total_sales":0.03,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2010
-   },
-   {
-      "title":"DoDonPachi Daifukkatsu: Black Label",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2011
-   },
-   {
-      "title":"Espgaluda II Black Label",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2010
-   },
-   {
-      "title":"Muchi Muchi Pork & Pink Sweets",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Cave",
-      "year":2011
-   },
-   {
-      "title":"Instant Brain",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Cave",
-      "year":2011
-   },
-   {
-      "title":"Machi: Unmei no Kousaten",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"ChunSoft",
-      "year":2006
-   },
-   {
-      "title":"Fushigi no Dungeon: Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"ChunSoft",
-      "year":2010
-   },
-   {
-      "title":"Kamaitachi no Yoru 2: Tokubetsu Hen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"ChunSoft",
-      "year":2006
-   },
-   {
-      "title":"Zombi Daisuki",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"ChunSoft",
-      "year":2011
-   },
-   {
-      "title":"Shin Kamaitachi no Yoru: 11 Hitome no Suspect",
-      "total_sales":0.16,
-      "genre":"Adventure",
-      "publisher":"ChunSoft",
-      "year":2011
-   },
-   {
-      "title":"Kamaitachi no Yoru 2",
-      "total_sales":0.36,
-      "genre":"Adventure",
-      "publisher":"ChunSoft",
-      "year":2002
-   },
-   {
-      "title":"Entaku no Seito: Students of Round",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"ChunSoft",
-      "year":2011
-   },
-   {
-      "title":"Kyokugen Dasshutsu ADV: Zennin Shiboudesu",
-      "total_sales":0.06,
-      "genre":"Visual Novel",
-      "publisher":"ChunSoft",
-      "year":2012
    },
    {
       "title":"Murder in Venice",
@@ -14120,11 +14813,25 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Combat Wings: The Great Battles of WWII",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"City Interactive",
+      "year":2012
+   },
+   {
       "title":"Sniper: Art of Victory",
       "total_sales":0.49,
       "genre":"Shooter",
       "publisher":"City Interactive",
       "year":2008
+   },
+   {
+      "title":"Chronicles of Mystery: The Tree of Life",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"City Interactive",
+      "year":2009
    },
    {
       "title":"Sushi Academy",
@@ -14139,6 +14846,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"City Interactive",
       "year":2011
+   },
+   {
+      "title":"Art of Murder: FBI Confidential",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"City Interactive",
+      "year":2008
    },
    {
       "title":"Sniper: Ghost Warrior 2",
@@ -14169,6 +14883,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Art of Murder: Hunt for the Puppeteer",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"City Interactive",
+      "year":2009
+   },
+   {
       "title":"Sniper: Ghost Warrior",
       "total_sales":1.99,
       "genre":"Shooter",
@@ -14181,6 +14902,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"City Interactive",
       "year":2010
+   },
+   {
+      "title":"SAS: Secure Tomorrow",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"City Interactive",
+      "year":2008
    },
    {
       "title":"TOCA Race Driver 2: Ultimate Racing Simulator & Colin McRae Rally 04",
@@ -14267,6 +14995,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"No Fear Downhill Mountain Biking",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Codemasters",
+      "year":1999
+   },
+   {
       "title":"Clive Barker's Jericho",
       "total_sales":0.53,
       "genre":"Shooter",
@@ -14337,6 +15072,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Perimeter",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Codemasters",
+      "year":2004
+   },
+   {
       "title":"DiRT Rally",
       "total_sales":0.76,
       "genre":"Racing",
@@ -14351,9 +15093,23 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"MTV Music Generator",
+      "total_sales":0.47,
+      "genre":"Misc",
+      "publisher":"Codemasters",
+      "year":1999
+   },
+   {
       "title":"Powerplay Tennis",
       "total_sales":0.01,
       "genre":"Sports",
+      "publisher":"Codemasters",
+      "year":2008
+   },
+   {
+      "title":"James Pond: Codename RoboCod",
+      "total_sales":0.0,
+      "genre":"Platform",
       "publisher":"Codemasters",
       "year":2008
    },
@@ -14370,6 +15126,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Codemasters",
       "year":2004
+   },
+   {
+      "title":"IGI 2: Covert Strike",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Codemasters",
+      "year":2003
    },
    {
       "title":"GRID: Autosport",
@@ -14414,6 +15177,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Operation Flashpoint: Resistance",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Codemasters",
+      "year":2002
+   },
+   {
       "title":"Bubble Bobble Evolution",
       "total_sales":0.03,
       "genre":"Puzzle",
@@ -14433,6 +15203,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Codemasters",
       "year":2011
+   },
+   {
+      "title":"FoxKids.com Micro Maniacs Racing",
+      "total_sales":0.11,
+      "genre":"Racing",
+      "publisher":"Codemasters",
+      "year":2000
    },
    {
       "title":"Micro Machines: World Series",
@@ -14484,11 +15261,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Rafa Nadal Tennis",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Codemasters",
+      "year":2007
+   },
+   {
       "title":"Damnation",
       "total_sales":0.17,
       "genre":"Shooter",
       "publisher":"Codemasters",
       "year":2009
+   },
+   {
+      "title":"Brian Lara Cricket",
+      "total_sales":1.26,
+      "genre":"Sports",
+      "publisher":"Codemasters",
+      "year":1998
    },
    {
       "title":"Rainbow Islands Revolution",
@@ -14589,6 +15380,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Colin McRae Rally 2.0",
+      "total_sales":0.93,
+      "genre":"Racing",
+      "publisher":"Codemasters",
+      "year":2000
+   },
+   {
+      "title":"TOCA 2 Touring Car Championship",
+      "total_sales":1.32,
+      "genre":"Racing",
+      "publisher":"Codemasters",
+      "year":1999
+   },
+   {
       "title":"F1 2018",
       "total_sales":0.71,
       "genre":"Racing",
@@ -14613,6 +15418,13 @@ export const pb_data =
       "title":"Race Driver 2006",
       "total_sales":0.03,
       "genre":"Racing",
+      "publisher":"Codemasters",
+      "year":2006
+   },
+   {
+      "title":"Bliss Island",
+      "total_sales":0.0,
+      "genre":"Puzzle",
       "publisher":"Codemasters",
       "year":2006
    },
@@ -14666,6 +15478,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"TOCA Race Driver 3 Challenge",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Codemasters",
+      "year":2007
+   },
+   {
       "title":"Mike Tyson Heavyweight Boxing",
       "total_sales":0.05,
       "genre":"Sports",
@@ -14680,235 +15499,11 @@ export const pb_data =
       "year":2012
    },
    {
-      "title":"Yonder: The Cloud Catcher Chronicles",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"CokeM Interactive",
-      "year":2017
-   },
-   {
-      "title":"Dr. Seuss: How the Grinch Stole Christmas",
-      "total_sales":0.31,
-      "genre":"Action",
-      "publisher":"CokeM Interactive",
+      "title":"Offroad Extreme! Special Edition",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Conspiracy Entertainment",
       "year":2007
-   },
-   {
-      "title":"Loving Life with Hello Kitty & Friends",
-      "total_sales":0.24,
-      "genre":"Misc",
-      "publisher":"CokeM Interactive",
-      "year":2011
-   },
-   {
-      "title":"ef - a fairy tale of the two.",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Comfort",
-      "year":2010
-   },
-   {
-      "title":"Princess Saver! Eternal Love for My Lady",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Comfort",
-      "year":2010
-   },
-   {
-      "title":"Arcana Famiglia 2",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Comfort",
-      "year":2013
-   },
-   {
-      "title":"Mashiro Iro Symphony: *mutsu-no-hana",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Comfort",
-      "year":2011
-   },
-   {
-      "title":"Arcana Famiglia: La storia della Aracana Famiglia",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Comfort",
-      "year":2011
-   },
-   {
-      "title":"Arcana Famiglia: Vascello Phantasma no Majutsushi",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Comfort",
-      "year":2012
-   },
-   {
-      "title":"Juggler DS",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Commseed",
-      "year":2008
-   },
-   {
-      "title":"Majin Tantei Nougami Neuro: Battle de Yo!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Compile",
-      "year":2008
-   },
-   {
-      "title":"Dragon Star Varnir",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2019
-   },
-   {
-      "title":"Moe Chronicle",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2014
-   },
-   {
-      "title":"Rosario to Vampire CAPU 2: Koi to Yume no Kyousoukyoku",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Compile Heart",
-      "year":2009
-   },
-   {
-      "title":"Genkai Tokki: Castle Panzers",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2017
-   },
-   {
-      "title":"Cross Edge Dash",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2009
-   },
-   {
-      "title":"Date A Live: Rine Utopia",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"Compile Heart",
-      "year":2013
-   },
-   {
-      "title":"Hyperdimension Neptunia Victory",
-      "total_sales":0.17,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2013
-   },
-   {
-      "title":"Gun Gun Pixies",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Compile Heart",
-      "year":2017
-   },
-   {
-      "title":"Record of Agarest War Mariage",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2012
-   },
-   {
-      "title":"Genkai Tokki: Moero Crystal",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2015
-   },
-   {
-      "title":"Hyperdimension Neptunia Re;Birth2: Sisters Generation",
-      "total_sales":0.1,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2014
-   },
-   {
-      "title":"Hyperdimension Neptunia Re;Birth1 Plus",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2018
-   },
-   {
-      "title":"Chou Jigen Game Neptune Mk-II",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2011
-   },
-   {
-      "title":"Date A Live: Rio Reincarnation HD",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Compile Heart",
-      "year":2017
-   },
-   {
-      "title":"Date-A-Live Twin Edition: Rio Reincarnation",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Compile Heart",
-      "year":2015
-   },
-   {
-      "title":"Tokyo Clanpool",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2017
-   },
-   {
-      "title":"Omega Quintet",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2015
-   },
-   {
-      "title":"So-Ra-No-Wo-To: Otome no Gojuusou",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Compile Heart",
-      "year":2010
-   },
-   {
-      "title":"Date A Live: Arusu Install",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Compile Heart",
-      "year":2014
-   },
-   {
-      "title":"Mary Skelter: Nightmares 2",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2018
-   },
-   {
-      "title":"Genkai Tokki: Seven Pirates",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Compile Heart",
-      "year":2016
-   },
-   {
-      "title":"Touch Shot! Love Application",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Compile Heart",
-      "year":2012
    },
    {
       "title":"Octomania",
@@ -15030,6 +15625,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Marine Life Rescue",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Conspiracy Entertainment",
+      "year":2011
+   },
+   {
       "title":"Monster Trux Arenas: Special Edition",
       "total_sales":0.04,
       "genre":"Racing",
@@ -15140,6 +15742,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Conspiracy Entertainment",
       "year":2007
+   },
+   {
+      "title":"Doctor Fizzwizzle's Animal Rescue",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Conspiracy Entertainment",
+      "year":2009
    },
    {
       "title":"Mini Desktop Racing",
@@ -15268,6 +15877,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Virtual Pool 64",
+      "total_sales":0.1,
+      "genre":"Sports",
+      "publisher":"Crave Entertainment",
+      "year":1998
+   },
+   {
       "title":"Pinball Hall of Fame: The Williams Collection",
       "total_sales":1.04,
       "genre":"Misc",
@@ -15338,6 +15954,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Eternal Eyes",
+      "total_sales":0.14,
+      "genre":"Role-Playing",
+      "publisher":"Crave Entertainment",
+      "year":2000
+   },
+   {
       "title":"Bad Boys: Miami Takedown",
       "total_sales":1.38,
       "genre":"Shooter",
@@ -15373,6 +15996,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"NRA Gun Club",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Crave Entertainment",
+      "year":2006
+   },
+   {
+      "title":"Gex 3: Deep Cover Gecko",
+      "total_sales":0.74,
+      "genre":"Platform",
+      "publisher":"Crave Entertainment",
+      "year":1999
+   },
+   {
       "title":"Trigger Man",
       "total_sales":0.23,
       "genre":"Shooter",
@@ -15401,11 +16038,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Galerians",
+      "total_sales":0.15,
+      "genre":"Adventure",
+      "publisher":"Crave Entertainment",
+      "year":2000
+   },
+   {
       "title":"Baby Pals",
       "total_sales":0.28,
       "genre":"Simulation",
       "publisher":"Crave Entertainment",
       "year":2007
+   },
+   {
+      "title":"X-Bladez: In-Line Skater",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Crave Entertainment",
+      "year":2002
    },
    {
       "title":"Kabuki Warriors",
@@ -15420,6 +16071,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Crave Entertainment",
       "year":2004
+   },
+   {
+      "title":"Shadow Madness",
+      "total_sales":0.18,
+      "genre":"Role-Playing",
+      "publisher":"Crave Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Milo's Astro Lanes",
+      "total_sales":0.1,
+      "genre":"Sports",
+      "publisher":"Crave Entertainment",
+      "year":1998
    },
    {
       "title":"Santa Claus Is Comin' to Town!",
@@ -15448,6 +16113,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Crave Entertainment",
       "year":2003
+   },
+   {
+      "title":"Tokyo Xtreme Racer",
+      "total_sales":0.17,
+      "genre":"Racing",
+      "publisher":"Crave Entertainment",
+      "year":1999
    },
    {
       "title":"World Championship Cards",
@@ -15499,6 +16171,27 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Jade Cocoon: Story of the Tamamayu",
+      "total_sales":0.27,
+      "genre":"Role-Playing",
+      "publisher":"Crave Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Razor Freestyle Scooter",
+      "total_sales":0.47,
+      "genre":"Sports",
+      "publisher":"Crave Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Tokyo Highway Battle",
+      "total_sales":0.33,
+      "genre":"Racing",
+      "publisher":"Crave Entertainment",
+      "year":1996
+   },
+   {
       "title":"Tokyo Xtreme Racer DRIFT",
       "total_sales":0.18,
       "genre":"Racing",
@@ -15541,11 +16234,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Fighting Force 64",
+      "total_sales":0.11,
+      "genre":"Action",
+      "publisher":"Crave Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Killer Loop",
+      "total_sales":0.06,
+      "genre":"Racing",
+      "publisher":"Crave Entertainment",
+      "year":1999
+   },
+   {
       "title":"PBR: Out of the Chute",
       "total_sales":0.32,
       "genre":"Sports",
       "publisher":"Crave Entertainment",
       "year":2008
+   },
+   {
+      "title":"Broken Sword II: The Smoking Mirror",
+      "total_sales":0.06,
+      "genre":"Adventure",
+      "publisher":"Crave Entertainment",
+      "year":1999
    },
    {
       "title":"Blaster Master: Blasting Again",
@@ -15555,11 +16269,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Robotron 64",
+      "total_sales":0.09,
+      "genre":"Shooter",
+      "publisher":"Crave Entertainment",
+      "year":1998
+   },
+   {
       "title":"eJay Clubworld",
       "total_sales":0.15,
       "genre":"Misc",
       "publisher":"Crave Entertainment",
       "year":2003
+   },
+   {
+      "title":"Asteroids Hyper 64",
+      "total_sales":0.16,
+      "genre":"Shooter",
+      "publisher":"Crave Entertainment",
+      "year":1999
    },
    {
       "title":"Casper's Scare School: Spooky Sports Day",
@@ -15609,6 +16337,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Crave Entertainment",
       "year":2011
+   },
+   {
+      "title":"Ultimate Fighting Championship",
+      "total_sales":0.25,
+      "genre":"Fighting",
+      "publisher":"Crave Entertainment",
+      "year":2000
    },
    {
       "title":"Cartoon Network: Punch Time Explosion",
@@ -15667,11 +16402,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Battlezone: Rise of the Black Dogs",
+      "total_sales":0.07,
+      "genre":"Strategy",
+      "publisher":"Crave Entertainment",
+      "year":2000
+   },
+   {
       "title":"George of the Jungle and the Search for the Secret",
       "total_sales":0.02,
       "genre":"Platform",
       "publisher":"Crave Entertainment",
       "year":2008
+   },
+   {
+      "title":"SnoCross Championship Racing",
+      "total_sales":0.93,
+      "genre":"Racing",
+      "publisher":"Crave Entertainment",
+      "year":2000
    },
    {
       "title":"Man vs. Wild",
@@ -15686,6 +16435,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Crave Entertainment",
       "year":2011
+   },
+   {
+      "title":"Freedom Force",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Crave Entertainment",
+      "year":2002
    },
    {
       "title":"Intellivision Lives!",
@@ -15730,186 +16486,11 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"Kintaihi Shounen no Jiken: Kyakusen Eris-Gou no Sangeki",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Creative Core",
-      "year":2009
-   },
-   {
-      "title":"Qupu!! Mame Goma!",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Creative Core",
-      "year":2009
-   },
-   {
-      "title":"Mame Goma 2: Uchi no Ko ga Ichiban!",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Creative Core",
-      "year":2008
-   },
-   {
-      "title":"Nakayoshi All-Stars: Mezase Gakuen Idol",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Creative Core",
-      "year":2008
-   },
-   {
-      "title":"The Book of Unwritten Tales: The Critter Chronicles",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Crimson Cow",
-      "year":2011
-   },
-   {
-      "title":"Uchi no 3 Shimai DS",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Culture Brain",
-      "year":2008
-   },
-   {
-      "title":"Uchi no 3 Shimai DS 2: 3 Shimai no Dekake Daisakusen",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Culture Brain",
-      "year":2009
-   },
-   {
-      "title":"Ginga Tetsudou 999 DS",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Culture Brain",
-      "year":2010
-   },
-   {
-      "title":"Shinseiki Evangelion: Koutetsu no Girlfriend 2nd Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2009
-   },
-   {
-      "title":"Cross \u2020 Channel",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"Ever17 \u301cthe out of infinity\u301c Premium Edition",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2009
-   },
-   {
-      "title":"Cross Channel: In Memory of All People",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2011
-   },
-   {
-      "title":"Princess Evangile Portable",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"CyberFront",
-      "year":2012
-   },
-   {
-      "title":"Hoshizora * Planet: One Small Step For...",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2011
-   },
-   {
-      "title":"Akatsuki no Amaneka to Aoi Kyojin",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"DJ Max Technika Tune",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"CyberFront",
-      "year":2012
-   },
-   {
-      "title":"Nizu no Senritsu Portable 2: Hi no Kioku",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"Labyrinth Cross Blood: Infinity",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"CyberFront",
-      "year":2013
-   },
-   {
-      "title":"Memories Off #5: Encore",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2007
-   },
-   {
-      "title":"Kazoku Keikaku",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"Shinseiki Evangelion: Koutetsu no Girlfriend Tokubetsu-Hen Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2009
-   },
-   {
-      "title":"Seinaru Kana: Orichalcum no Na no Motoni",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"CyberFront",
-      "year":2012
-   },
-   {
-      "title":"Kana: Imouto",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"Strike Witches: Shirogane no Tsubasa",
-      "total_sales":0.04,
+      "title":"Men in Black: The Series",
+      "total_sales":0.0,
       "genre":"Shooter",
-      "publisher":"CyberFront",
-      "year":2010
-   },
-   {
-      "title":"12Riven: The Psi-Climinal of Integral",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"CyberFront",
-      "year":2008
-   },
-   {
-      "title":"Wondership Q",
-      "total_sales":0.04,
-      "genre":"Platform",
-      "publisher":"Cygames",
-      "year":2015
+      "publisher":"Crave Entertainment",
+      "year":2001
    },
    {
       "title":"Simple DS Series Vol. 14: The Jidousha Kyoushuujo DS",
@@ -15931,6 +16512,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"D3 Publisher",
       "year":2009
+   },
+   {
+      "title":"Simple 1500 Series Vol. 1: The Mahjong",
+      "total_sales":1.06,
+      "genre":"Misc",
+      "publisher":"D3 Publisher",
+      "year":1998
    },
    {
       "title":"Simple 1500 Series Vol. 73: The Invaders ~Space Invaders 1500~",
@@ -15980,6 +16568,27 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"D3 Publisher",
       "year":2008
+   },
+   {
+      "title":"Simple DS Series Vol. 40: The Gekai",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
+      "title":"Kutsushita Nyonko: Kutsushita o Haita Neko to Kurashi Hajime Mashita",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"D3 Publisher",
+      "year":2009
+   },
+   {
+      "title":"Ed, Edd n Eddy: Scam of the Century",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"D3 Publisher",
+      "year":2007
    },
    {
       "title":"Hisshou Pachinko*Pachi-Slot Kouryaku Series Vol. 14: CR Shinseiki Evangelion: Saigo no Mono",
@@ -16050,6 +16659,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"D3 Publisher",
       "year":2018
+   },
+   {
+      "title":"Saikin Koishiteru?",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"D3 Publisher",
+      "year":2009
    },
    {
       "title":"Astro Boy: The Video Game",
@@ -16311,11 +16927,25 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Fossil League: Dino Tournament Championship",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"D3 Publisher",
+      "year":2007
+   },
+   {
       "title":"Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo",
       "total_sales":0.03,
       "genre":"Adventure",
       "publisher":"D3 Publisher",
       "year":2006
+   },
+   {
+      "title":"Simple DS Series Vol. 48: The Saibanin: 1-tsu no Shinjitsu 6-tsu no Kotae",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"D3 Publisher",
+      "year":2009
    },
    {
       "title":"Kidz Bop Dance Party! The Video Game",
@@ -16367,6 +16997,27 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Magical Zunou Power!!",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
+      "title":"Shaun the Sheep: Off His Head",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"D3 Publisher",
+      "year":2009
+   },
+   {
+      "title":"Unknown Soldier: Mokuba no Houkou",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
       "title":"Coraline",
       "total_sales":0.2,
       "genre":"Adventure",
@@ -16393,6 +17044,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"D3 Publisher",
       "year":2011
+   },
+   {
+      "title":"Matt Hazard: Blood Bath and Beyond",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"D3 Publisher",
+      "year":2010
    },
    {
       "title":"Puzzle Quest: Galactrix",
@@ -16482,6 +17140,13 @@ export const pb_data =
       "title":"Kamen Rider: Dragon Knight",
       "total_sales":0.11,
       "genre":"Fighting",
+      "publisher":"D3 Publisher",
+      "year":2009
+   },
+   {
+      "title":"Saru Saru DS",
+      "total_sales":0.0,
+      "genre":"Simulation",
       "publisher":"D3 Publisher",
       "year":2009
    },
@@ -16577,9 +17242,30 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Mori no Cafeteria DS: Oshare na Cafe Recipe",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
       "title":"Naruto: Ninja Destiny (US sales)",
       "total_sales":0.3,
       "genre":"Fighting",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
+      "title":"Hajime no Ippo: The Fighting! DS",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"D3 Publisher",
+      "year":2008
+   },
+   {
+      "title":"Simple DS Series Vol. 44: The Gal Mahjong",
+      "total_sales":0.0,
+      "genre":"Puzzle",
       "publisher":"D3 Publisher",
       "year":2008
    },
@@ -16645,6 +17331,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"D3 Publisher",
       "year":2011
+   },
+   {
+      "title":"Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"D3 Publisher",
+      "year":2009
    },
    {
       "title":"Ben 10: Alien Force",
@@ -16738,6 +17431,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Simple DS Series Vol. 46: The Hikyou Tankentai: Choutoko Special",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"D3 Publisher",
+      "year":2009
+   },
+   {
       "title":"Naruto: Ninja Council 3 (JP sales)",
       "total_sales":0.14,
       "genre":"Action",
@@ -16827,209 +17527,6 @@ export const pb_data =
       "genre":"Action",
       "publisher":"D3 Publisher",
       "year":2007
-   },
-   {
-      "title":"Dream C Club: GoGo.",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"D3Publisher",
-      "year":2014
-   },
-   {
-      "title":"Custom Drive",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2012
-   },
-   {
-      "title":"Storm Lover 2nd",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Tiger & Bunny: Hero's Day",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"The Croods: Prehistoric Party!",
-      "total_sales":0.22,
-      "genre":"Action",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Storm Lover Kai!!",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2012
-   },
-   {
-      "title":"Turbo: Super Stunt Squad",
-      "total_sales":0.14,
-      "genre":"Misc",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Adventure Time: Explore the Dungeon Because I Don't Know!",
-      "total_sales":0.33,
-      "genre":"Action-Adventure",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Idol Death Game TV",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"D3Publisher",
-      "year":2016
-   },
-   {
-      "title":"Storm Lover 2nd V",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"D3Publisher",
-      "year":2016
-   },
-   {
-      "title":"Vamwolf Cross",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"D3Publisher",
-      "year":2015
-   },
-   {
-      "title":"Earth Defense Force 2017 Portable",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Vitamin R",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Otoko Yukaku",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2015
-   },
-   {
-      "title":"Hyakka Hyakurou: Sengoku Ninpoujou",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"D3Publisher",
-      "year":2016
-   },
-   {
-      "title":"Vitamin X: Detective B6",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"D3Publisher",
-      "year":2012
-   },
-   {
-      "title":"Naruto: Ninja Destiny",
-      "total_sales":0.19,
-      "genre":"Fighting",
-      "publisher":"D3Publisher",
-      "year":2008
-   },
-   {
-      "title":"Bullet Girls 2",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"D3Publisher",
-      "year":2016
-   },
-   {
-      "title":"Bullet Girls",
-      "total_sales":0.07,
-      "genre":"Shooter",
-      "publisher":"D3Publisher",
-      "year":2014
-   },
-   {
-      "title":"Vitamin X: Destination",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"D3Publisher",
-      "year":2018
-   },
-   {
-      "title":"Regular Show: Mordecai & Rigby in 8-Bit Land",
-      "total_sales":0.01,
-      "genre":"Action-Adventure",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Teikoku Kaigun Renbojou: Meiji Yokosuka Koushinkyoku",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"D3Publisher",
-      "year":2015
-   },
-   {
-      "title":"Omega Labyrinth",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"D3Publisher",
-      "year":2015
-   },
-   {
-      "title":"Omega Labyrinth Z",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"D3Publisher",
-      "year":2017
-   },
-   {
-      "title":"OneeChanbara Z Kagura With NoNoNo!",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Onna no Ko to Misshitsu ni Itara **shichau Kamoshirenai",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"D3Publisher",
-      "year":2012
-   },
-   {
-      "title":"Earth Defense Force 2025",
-      "total_sales":0.51,
-      "genre":"Shooter",
-      "publisher":"D3Publisher",
-      "year":2014
-   },
-   {
-      "title":"Vitamin Z: Graduation",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"D3Publisher",
-      "year":2013
-   },
-   {
-      "title":"Natsuiro High School: Seishun Hakusho",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"D3Publisher",
-      "year":2015
    },
    {
       "title":"Jeep Thrills",
@@ -17193,6 +17690,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Matchbox Missions: 2 Game Pack!",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"DSI Games",
+      "year":2006
+   },
+   {
       "title":"Spy Hunter \/ Super Sprint",
       "total_sales":0.02,
       "genre":"Racing",
@@ -17205,6 +17709,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"DSI Games",
       "year":2005
+   },
+   {
+      "title":"Road Rash: Jailbreak",
+      "total_sales":0.5,
+      "genre":"Racing",
+      "publisher":"DSI Games",
+      "year":1999
    },
    {
       "title":"B-17: Fortress in the Sky",
@@ -17230,6 +17741,13 @@ export const pb_data =
    {
       "title":"UNO 52",
       "total_sales":0.02,
+      "genre":"Misc",
+      "publisher":"DSI Games",
+      "year":2006
+   },
+   {
+      "title":"UNO \/ Skip-Bo",
+      "total_sales":0.0,
       "genre":"Misc",
       "publisher":"DSI Games",
       "year":2006
@@ -17282,160 +17800,6 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"DSI Games",
       "year":2007
-   },
-   {
-      "title":"15 Days",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DTP Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Stronghold Kingdoms",
-      "total_sales":0.1,
-      "genre":"Strategy",
-      "publisher":"DTP Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Divinity II: Flames of Vengeance",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"DTP Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Winter Sports 2011",
-      "total_sales":0.14,
-      "genre":"Sports",
-      "publisher":"DTP Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Summer Athletics",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"DTP Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Wedding Planner: Dream Weddings Guaranteed",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"DTP Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Fantastic Football Fan Party",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"DTP Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Black Mirror 2",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"DTP Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Riding Stables: The Whitakers present Milton and Friends",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"DTP Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Element Girl: Love, Fashion and Friends",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DTP Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Gray Matter",
-      "total_sales":0.12,
-      "genre":"Adventure",
-      "publisher":"DTP Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Crazy Machines",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"DTP Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Ghost Pirates of Vooju Island",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"DTP Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Dance! It's Your Stage",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"DTP Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Tale of a Hero",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Daedalic",
-      "year":2010
-   },
-   {
-      "title":"The Rabbit's Apprentice",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Daedalic Entertainment",
-      "year":2013
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou Portable",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Daito",
-      "year":2006
-   },
-   {
-      "title":"Daito Giken Premium Pachi-Slot Collection: Yoshimune",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Daito",
-      "year":2006
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Hihouden",
-      "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Daito",
-      "year":2006
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Yoshimune Portable",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Daito",
-      "year":2006
-   },
-   {
-      "title":"Soshite Kono Uchuu ni Kirameku Kimi no Shi XXX",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Datam Polystar",
-      "year":2007
-   },
-   {
-      "title":"Roommate Asami: Okusama wa Joshikousei",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Datam Polystar",
-      "year":2002
    },
    {
       "title":"DJ Star",
@@ -17536,6 +17900,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Let's Play Fashion Designer",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Deep Silver",
+      "year":2009
+   },
+   {
       "title":"Onrush",
       "total_sales":0.08,
       "genre":"Racing",
@@ -17599,11 +17970,25 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"The Magic Roundabout",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Deep Silver",
+      "year":2008
+   },
+   {
       "title":"NASCAR '15",
       "total_sales":0.17,
       "genre":"Sports",
       "publisher":"Deep Silver",
       "year":2015
+   },
+   {
+      "title":"Let's Play: Pet Hospitals",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Deep Silver",
+      "year":2009
    },
    {
       "title":"Let's Play Garden",
@@ -17669,11 +18054,25 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Wildlife Park 2",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Deep Silver",
+      "year":2006
+   },
+   {
       "title":"Superstars V8 Next Challenge",
       "total_sales":0.01,
       "genre":"Racing",
       "publisher":"Deep Silver",
       "year":2011
+   },
+   {
+      "title":"Wildlife Park: Gold Edition",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Deep Silver",
+      "year":2004
    },
    {
       "title":"3 in 1: Solitaire, Mahjong & Tangram",
@@ -17723,6 +18122,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Deep Silver",
       "year":2017
+   },
+   {
+      "title":"Emergency 2016",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Deep Silver",
+      "year":2015
    },
    {
       "title":"Wasteland 2",
@@ -17779,6 +18185,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Deep Silver",
       "year":2006
+   },
+   {
+      "title":"Ferrari: The Race Experience",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Deep Silver",
+      "year":2011
    },
    {
       "title":"Mighty No. 9",
@@ -17851,6 +18264,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Need for Speed: Porsche Unleashed",
+      "total_sales":1.25,
+      "genre":"Racing",
+      "publisher":"Destination Software, Inc",
+      "year":2000
+   },
+   {
       "title":"Wordmaster",
       "total_sales":0.09,
       "genre":"Strategy",
@@ -17872,6 +18292,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Smuggler's Run",
+      "total_sales":1.57,
+      "genre":"Racing",
+      "publisher":"Destination Software, Inc",
+      "year":2000
+   },
+   {
       "title":"Double Sequence: The Q-Virus Invasion",
       "total_sales":0.01,
       "genre":"Puzzle",
@@ -17886,11 +18313,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Midnight Club: Street Racing",
+      "total_sales":3.11,
+      "genre":"Racing",
+      "publisher":"Destination Software, Inc",
+      "year":2000
+   },
+   {
       "title":"Connect Four \/ Perfection \/ Trouble",
       "total_sales":0.27,
       "genre":"Misc",
       "publisher":"Destination Software, Inc",
       "year":2005
+   },
+   {
+      "title":"Medal of Honor: Underground",
+      "total_sales":1.05,
+      "genre":"Shooter",
+      "publisher":"Destination Software, Inc",
+      "year":2000
    },
    {
       "title":"Battleship \/ Connect Four \/ Sorry! \/ Trouble",
@@ -17933,6 +18374,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Destination Software, Inc",
       "year":2007
+   },
+   {
+      "title":"Ms. Pac-Man Maze Madness",
+      "total_sales":1.0,
+      "genre":"Puzzle",
+      "publisher":"Destination Software, Inc",
+      "year":2000
    },
    {
       "title":"Wiffle Ball Advance",
@@ -18236,6 +18684,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Giana Sisters DS",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Destineer",
+      "year":2011
+   },
+   {
       "title":"Homie Rollerz",
       "total_sales":0.07,
       "genre":"Racing",
@@ -18471,55 +18926,6 @@ export const pb_data =
       "total_sales":0.08,
       "genre":"Misc",
       "publisher":"Destineer",
-      "year":2009
-   },
-   {
-      "title":"Speed Zone",
-      "total_sales":0.07,
-      "genre":"Racing",
-      "publisher":"Detn8 Games",
-      "year":2009
-   },
-   {
-      "title":"Ultimate Duck Hunting: Hunting & Retrieving Ducks",
-      "total_sales":0.22,
-      "genre":"Sports",
-      "publisher":"Detn8 Games",
-      "year":2007
-   },
-   {
-      "title":"Serious Sam HD: Gold Edition",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Devolver Digital",
-      "year":2010
-   },
-   {
-      "title":"Shadow Warrior (2013)",
-      "total_sales":0.15,
-      "genre":"Shooter",
-      "publisher":"Devolver Digital",
-      "year":2014
-   },
-   {
-      "title":"Eikan wa Kimini 2002: Koshien no Kodou",
-      "total_sales":0.06,
-      "genre":"Sports",
-      "publisher":"DigiCube",
-      "year":2002
-   },
-   {
-      "title":"Phantom: Phantom of Inferno",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Digiturbo",
-      "year":2012
-   },
-   {
-      "title":"Under the Moon: Crescent",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dimple Entertainment",
       "year":2009
    },
    {
@@ -18873,6 +19279,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Disney Princess: My Fairytale Adventure",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Disney Interactive Studios",
+      "year":2012
+   },
+   {
       "title":"Disney Princess: Magical Jewels",
       "total_sales":1.44,
       "genre":"Adventure",
@@ -19048,11 +19461,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Disney Violetta: Rhythm & Music",
+      "total_sales":0.0,
+      "genre":"Music",
+      "publisher":"Disney Interactive Studios",
+      "year":2014
+   },
+   {
       "title":"Brave: The Video Game",
       "total_sales":0.02,
       "genre":"Action-Adventure",
       "publisher":"Disney Interactive Studios",
       "year":2012
+   },
+   {
+      "title":"Pure (JP sales)",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Disney Interactive Studios",
+      "year":2009
    },
    {
       "title":"Travel Coach: Europe 1",
@@ -19167,538 +19594,6 @@ export const pb_data =
       "year":2007
    },
    {
-      "title":"Soldam: Drop, Connect, Erase",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Dispatch Games",
-      "year":2017
-   },
-   {
-      "title":"Minna de Dokusho: Keatai Shousetsu Desu",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Dorart",
-      "year":2008
-   },
-   {
-      "title":"Slotter Up Mania 11: 2027 vs 2027 II",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Dorart",
-      "year":2009
-   },
-   {
-      "title":"Slotter Mania P: Tetsuya Shinjuku vs Ueno",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Dorart",
-      "year":2010
-   },
-   {
-      "title":"Wonder Boy: The Dragon's Trap (Remake)",
-      "total_sales":0.09,
-      "genre":"Platform",
-      "publisher":"DotEmu",
-      "year":2017
-   },
-   {
-      "title":"Fishing Sim World",
-      "total_sales":0.1,
-      "genre":"Simulation",
-      "publisher":"Dovetail Games",
-      "year":2018
-   },
-   {
-      "title":"Train Simulator 2016",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Dovetail Games",
-      "year":2015
-   },
-   {
-      "title":"Chou Ezaru wa Akai Hana: Koi wa Tsuki ni Shirube Kareru",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Dramatic Create",
-      "year":2016
-   },
-   {
-      "title":"Steam Prison: Nanatsu no Bitoku",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Alia's Carnival! Sacrament",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2015
-   },
-   {
-      "title":"Astraea no Shiroki Eien: White Eternity",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2016
-   },
-   {
-      "title":"Orfleurs: Koufuku no Hanataba",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Otome Riron to Sono Shuuhen: Bon Voyage",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2016
-   },
-   {
-      "title":"OZMAFIA!! -vivace-",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2015
-   },
-   {
-      "title":"Akai Suna Ochiru Tsuki",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2016
-   },
-   {
-      "title":"Tokyo Onmyouji: Tengen Jibashi - Rei no Baai - V Edition",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Dramatic Create",
-      "year":2015
-   },
-   {
-      "title":"Teikoku Kaleido: Kakumei no Rondo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Koshotengai no Hashihime Noma",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Dramatic Create",
-      "year":2018
-   },
-   {
-      "title":"Fata Morgana no Kan: Collected Edition",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2015
-   },
-   {
-      "title":"Taishou Mebiusline: Teito Bibouroku Hare",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Koezaru wa Akai Hana: Taiga wa Mirai o Tsugumu",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Dramatic Create",
-      "year":2014
-   },
-   {
-      "title":"Tokeijikake no Ley Line: Kagerou ni Samayou Majo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Tsumigui: Sen no Noroi, Sen no Inori for V",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2017
-   },
-   {
-      "title":"Aiyoku no Eustia",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Dramatic Create",
-      "year":2014
-   },
-   {
-      "title":"Sweet Pool",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Dramatic Create",
-      "year":2018
-   },
-   {
-      "title":"Taishou Moebius Line Vitable",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Dramatic Create",
-      "year":2016
-   },
-   {
-      "title":"In Cold Blood",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2001
-   },
-   {
-      "title":"Painkiller: Hell Wars",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"DreamCatcher Interactive",
-      "year":2006
-   },
-   {
-      "title":"World Party Games",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Arx Fatalis",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"DreamCatcher Interactive",
-      "year":2002
-   },
-   {
-      "title":"Zoo Quest: Puzzle Fun!",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Dreamer Series: Teacher",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Woody Woodpecker: Escape from Buzz Buzzard Park",
-      "total_sales":0.05,
-      "genre":"Platform",
-      "publisher":"DreamCatcher Interactive",
-      "year":2002
-   },
-   {
-      "title":"TrackMania Turbo: Build to Race",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"DreamCatcher Interactive",
-      "year":2011
-   },
-   {
-      "title":"Nancy Drew: Message in a Haunted Mansion",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2001
-   },
-   {
-      "title":"Nancy Drew: Secret of the Scarlet Hand",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2002
-   },
-   {
-      "title":"Agatha Christie: Death on the Nile",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Agatha Christie: Peril at End House",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Cold War",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"DreamCatcher Interactive",
-      "year":2005
-   },
-   {
-      "title":"Agatha Christie: The ABC Murders",
-      "total_sales":0.12,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Gothic Universe",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"DreamCatcher Interactive",
-      "year":2007
-   },
-   {
-      "title":"Sarah: Keeper of the Unicorn",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Agassi Tennis Generation",
-      "total_sales":0.09,
-      "genre":"Sports",
-      "publisher":"DreamCatcher Interactive",
-      "year":2003
-   },
-   {
-      "title":"Painkiller",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"DreamCatcher Interactive",
-      "year":2004
-   },
-   {
-      "title":"Spirits & Spells",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"DreamCatcher Interactive",
-      "year":2003
-   },
-   {
-      "title":"Obscure",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2005
-   },
-   {
-      "title":"Dreamer Series: Horse Trainer",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Playmobil Circus",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Sherlock Holmes vs. Jack the Ripper",
-      "total_sales":0.17,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Dreamer Series: Pop Star",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Inkheart",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Dreamer Series: Puppy Trainer",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Monster Band",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"SafeCracker: The Ultimate Puzzle Adventure",
-      "total_sales":0.22,
-      "genre":"Puzzle",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Drivers Ed Portable",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Dreamer Series: Zoo Keeper",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2010
-   },
-   {
-      "title":"Dreamer Series: Top Model",
-      "total_sales":0.1,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Curse: The Eye of Isis",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2003
-   },
-   {
-      "title":"Dreamer Series: Shop Owner",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Dreamer Series: Babysitter",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Ultimate Beach Soccer",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"DreamCatcher Interactive",
-      "year":2003
-   },
-   {
-      "title":"Learn Math",
-      "total_sales":0.13,
-      "genre":"Puzzle",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"LifeSigns: Surgical Unit",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2007
-   },
-   {
-      "title":"The Hardy Boys: The Hidden Theft",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Matchstick",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"DreamCatcher Interactive",
-      "year":2008
-   },
-   {
-      "title":"Sherlock Holmes: Secret of The Silver Earring",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2010
-   },
-   {
-      "title":"AniMates!",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"DreamCatcher Interactive",
-      "year":2007
-   },
-   {
-      "title":"Playmobil Knights",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"DreamCatcher Interactive",
-      "year":2010
-   },
-   {
-      "title":"Playmobil Pirates",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"The Book of Unwritten Tales",
-      "total_sales":0.1,
-      "genre":"Adventure",
-      "publisher":"DreamCatcher Interactive",
-      "year":2011
-   },
-   {
-      "title":"Learn Science",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2010
-   },
-   {
-      "title":"Yoga: The first 100% Experience",
-      "total_sales":0.2,
-      "genre":"Sports",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Learn Geography",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"Learn Chess",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"DreamCatcher Interactive",
-      "year":2009
-   },
-   {
-      "title":"NASCAR Heat Evolution",
-      "total_sales":0.25,
-      "genre":"Racing",
-      "publisher":"Dusenberry Martin Racing",
-      "year":2016
-   },
-   {
       "title":"Rugby 2005",
       "total_sales":0.14,
       "genre":"Sports",
@@ -19718,6 +19613,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2012
+   },
+   {
+      "title":"SSX",
+      "total_sales":3.29,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
    },
    {
       "title":"Football Academy",
@@ -19748,6 +19650,27 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"FIFA 2000: Major League Soccer",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
+      "title":"NBA Live 2001",
+      "total_sales":2.35,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"NASCAR 2001",
+      "total_sales":1.51,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
       "title":"NHL 16",
       "total_sales":1.19,
       "genre":"Sports",
@@ -19760,6 +19683,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2016
+   },
+   {
+      "title":"NASCAR 2000",
+      "total_sales":2.12,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":1999
    },
    {
       "title":"NASCAR 09",
@@ -19839,11 +19769,32 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"NBA Live 2000",
+      "total_sales":1.96,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
       "title":"NASCAR 06: Total Team Control",
       "total_sales":0.9,
       "genre":"Racing",
       "publisher":"EA Sports",
       "year":2005
+   },
+   {
+      "title":"NHL 2000",
+      "total_sales":0.87,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
+      "title":"NHL 2001",
+      "total_sales":1.59,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
    },
    {
       "title":"NBA Live 2002",
@@ -19895,6 +19846,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"NASCAR 98",
+      "total_sales":1.52,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
       "title":"NHL 15",
       "total_sales":1.86,
       "genre":"Sports",
@@ -19921,6 +19879,27 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"EA Sports",
       "year":2001
+   },
+   {
+      "title":"F1 2000",
+      "total_sales":0.25,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"PGA Tour 97",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1996
+   },
+   {
+      "title":"PGA Tour 96",
+      "total_sales":0.24,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1995
    },
    {
       "title":"NBA Live 14",
@@ -19956,6 +19935,20 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2006
+   },
+   {
+      "title":"NASCAR 99",
+      "total_sales":2.5,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
+      "title":"Championship Bass",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
    },
    {
       "title":"Madden NFL 12",
@@ -20042,6 +20035,13 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"F1 Championship Season 2000",
+      "total_sales":0.19,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
       "title":"NASCAR",
       "total_sales":0.1,
       "genre":"Racing",
@@ -20068,6 +20068,27 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2018
+   },
+   {
+      "title":"Superbike 2000",
+      "total_sales":0.27,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"Madden NFL 2000",
+      "total_sales":2.36,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
+      "title":"Madden NFL 2001",
+      "total_sales":3.81,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
    },
    {
       "title":"NCAA Football 06",
@@ -20098,6 +20119,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Madden NFL 99",
+      "total_sales":0.9,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
       "title":"NCAA Football 09",
       "total_sales":2.0,
       "genre":"Sports",
@@ -20105,11 +20133,53 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Triple Play 2000",
+      "total_sales":1.71,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
+      "title":"Madden NFL 98",
+      "total_sales":1.35,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
+      "title":"Madden NFL 97",
+      "total_sales":1.32,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1996
+   },
+   {
+      "title":"Knockout Kings",
+      "total_sales":1.52,
+      "genre":"Fighting",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
+      "title":"Knockout Kings 2000",
+      "total_sales":2.33,
+      "genre":"Fighting",
+      "publisher":"EA Sports",
+      "year":1999
+   },
+   {
       "title":"Madden NFL 25",
       "total_sales":6.16,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2013
+   },
+   {
+      "title":"Knockout Kings 2001",
+      "total_sales":0.97,
+      "genre":"Fighting",
+      "publisher":"EA Sports",
+      "year":2000
    },
    {
       "title":"Knockout Kings 2002",
@@ -20168,6 +20238,20 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Triple Play 2001",
+      "total_sales":1.33,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"Triple Play 98",
+      "total_sales":1.1,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
       "title":"MVP 06 NCAA Baseball",
       "total_sales":1.09,
       "genre":"Sports",
@@ -20203,11 +20287,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"NHL 97",
+      "total_sales":0.47,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1996
+   },
+   {
+      "title":"NHL 98",
+      "total_sales":0.92,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
+      "title":"NBA Live 97",
+      "total_sales":1.0,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1996
+   },
+   {
       "title":"UEFA Euro 2004: Portugal",
       "total_sales":0.19,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2004
+   },
+   {
+      "title":"NHL 99",
+      "total_sales":1.46,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
    },
    {
       "title":"Madden NFL 15",
@@ -20252,6 +20364,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"NBA Live 98",
+      "total_sales":1.51,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
+      "title":"NBA Live 99",
+      "total_sales":1.69,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
       "title":"NHL-Legacy Edition",
       "total_sales":0.17,
       "genre":"Sports",
@@ -20285,6 +20411,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2007
+   },
+   {
+      "title":"Triple Play 99",
+      "total_sales":1.46,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
    },
    {
       "title":"Madden NFL 16",
@@ -20341,6 +20474,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2013
+   },
+   {
+      "title":"Tiger Woods PGA Tour 2000",
+      "total_sales":0.66,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
    },
    {
       "title":"Tiger Woods PGA Tour 2001",
@@ -20406,6 +20546,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"NCAA Football 99",
+      "total_sales":1.06,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
       "title":"Tiger Woods PGA Tour 2004",
       "total_sales":2.59,
       "genre":"Sports",
@@ -20434,6 +20581,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"FIFA: Road to  World Cup 98",
+      "total_sales":0.58,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
       "title":"FIFA World Cup: Germany 2006",
       "total_sales":0.03,
       "genre":"Sports",
@@ -20455,6 +20609,20 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"FIFA Soccer World Championship",
+      "total_sales":0.83,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"NCAA Football 98",
+      "total_sales":0.7,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
+   },
+   {
       "title":"NCAA Football 2002",
       "total_sales":1.57,
       "genre":"Sports",
@@ -20467,6 +20635,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2005
+   },
+   {
+      "title":"Andretti Racing",
+      "total_sales":0.77,
+      "genre":"Racing",
+      "publisher":"EA Sports",
+      "year":1996
    },
    {
       "title":"NBA Live 06",
@@ -20532,11 +20707,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Tiger Woods 99 PGA Tour Golf",
+      "total_sales":1.53,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
       "title":"Tiger Woods PGA Tour",
       "total_sales":0.36,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2004
+   },
+   {
+      "title":"Madden Football 64",
+      "total_sales":0.86,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
    },
    {
       "title":"Madden NFL 06",
@@ -20558,6 +20747,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2006
+   },
+   {
+      "title":"NCAA Football 2000",
+      "total_sales":0.95,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
    },
    {
       "title":"Tiger Woods PGA Tour 07",
@@ -20588,11 +20784,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"NCAA Football 2001",
+      "total_sales":0.7,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
       "title":"Tiger Woods PGA Tour 10",
       "total_sales":3.0,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2009
+   },
+   {
+      "title":"World Cup 98",
+      "total_sales":0.58,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
    },
    {
       "title":"NBA Live 06 (All region sales)",
@@ -20609,11 +20819,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"FIFA Soccer 97",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1996
+   },
+   {
       "title":"NCAA March Madness 06",
       "total_sales":0.73,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2005
+   },
+   {
+      "title":"FIFA: Road to World Cup 98",
+      "total_sales":0.73,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
    },
    {
       "title":"NBA Live 09 All-Play",
@@ -20679,6 +20903,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"FIFA Soccer 96",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1995
+   },
+   {
       "title":"FIFA Soccer 11",
       "total_sales":12.53,
       "genre":"Sports",
@@ -20714,11 +20945,46 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"FIFA Manager 08",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2007
+   },
+   {
       "title":"FIFA Football",
       "total_sales":0.12,
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2011
+   },
+   {
+      "title":"FIFA 99",
+      "total_sales":0.54,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1998
+   },
+   {
+      "title":"FIFA 2001: Major League Soccer",
+      "total_sales":0.09,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"FIFA 2001 Major League Soccer",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":2000
+   },
+   {
+      "title":"FIFA 2000",
+      "total_sales":1.87,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1999
    },
    {
       "title":"NBA Live 10",
@@ -20803,6 +21069,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"EA Sports",
       "year":2004
+   },
+   {
+      "title":"FIFA Soccer 64",
+      "total_sales":0.49,
+      "genre":"Sports",
+      "publisher":"EA Sports",
+      "year":1997
    },
    {
       "title":"FIFA 14",
@@ -20924,6 +21197,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Sled Storm",
+      "total_sales":2.07,
+      "genre":"Racing",
+      "publisher":"EA Sports BIG",
+      "year":1999
+   },
+   {
       "title":"SSX on Tour",
       "total_sales":0.23,
       "genre":"Sports",
@@ -20938,46 +21218,11 @@ export const pb_data =
       "year":2007
    },
    {
-      "title":"Hajime no Ippo: The Fighting",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"ESP",
-      "year":2002
-   },
-   {
-      "title":"Curse of the Amsterdam Diamond",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Easy Interactive",
-      "year":2012
-   },
-   {
-      "title":"Melty Blood: Actress Again",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Ecole",
-      "year":2009
-   },
-   {
-      "title":"MAPLUS: Portable Navi",
+      "title":"Machine Head",
       "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"Edia",
-      "year":2006
-   },
-   {
-      "title":"MAPLUS: Portable Navi 3",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Edia",
-      "year":2009
-   },
-   {
-      "title":"X Rebirth",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Egosoft",
-      "year":2013
+      "genre":"Shooter",
+      "publisher":"Eidos Interactive",
+      "year":1996
    },
    {
       "title":"Mad Maestro!",
@@ -21001,6 +21246,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Legacy of Kain: Soul Reaver",
+      "total_sales":1.04,
+      "genre":"Adventure",
+      "publisher":"Eidos Interactive",
+      "year":1999
+   },
+   {
       "title":"Legaia 2: Duel Saga",
       "total_sales":0.26,
       "genre":"Role-Playing",
@@ -21020,6 +21272,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Eidos Interactive",
       "year":2003
+   },
+   {
+      "title":"Deathtrap Dungeon",
+      "total_sales":0.33,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1998
    },
    {
       "title":"Salt Lake 2002",
@@ -21057,6 +21316,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Gangsters 2: Vendetta",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Eidos Interactive",
+      "year":2001
+   },
+   {
       "title":"Project: Snowblind",
       "total_sales":0.32,
       "genre":"Action",
@@ -21069,6 +21335,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Eidos Interactive",
       "year":2006
+   },
+   {
+      "title":"Tomb Raider: The Last Revelation",
+      "total_sales":2.89,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1999
    },
    {
       "title":"LEGO Star Wars: The Video Game",
@@ -21092,11 +21365,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Top Trumps: Doctor Who",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Eidos Interactive",
+      "year":2008
+   },
+   {
       "title":"Swingerz Golf",
       "total_sales":0.08,
       "genre":"Sports",
       "publisher":"Eidos Interactive",
       "year":2002
+   },
+   {
+      "title":"Deus Ex",
+      "total_sales":0.01,
+      "genre":"Shooter",
+      "publisher":"Eidos Interactive",
+      "year":2000
    },
    {
       "title":"ShellShock 2: Blood Trails",
@@ -21106,11 +21393,39 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Championship Manager: Season 00\/01",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Championship Manager 99\/00",
+      "total_sales":1.07,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
       "title":"Rogue Trooper",
       "total_sales":0.06,
       "genre":"Shooter",
       "publisher":"Eidos Interactive",
       "year":2006
+   },
+   {
+      "title":"Championship Manager 5",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":2005
+   },
+   {
+      "title":"Championship Manager 4",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":2003
    },
    {
       "title":"Championship Manager 3",
@@ -21167,6 +21482,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Eidos Interactive",
       "year":2001
+   },
+   {
+      "title":"Walt Disney World Quest: Magical Racing Tour",
+      "total_sales":0.45,
+      "genre":"Racing",
+      "publisher":"Eidos Interactive",
+      "year":2000
    },
    {
       "title":"Backyard Wrestling 2: There Goes the Neighborhood",
@@ -21232,6 +21554,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"The Unholy War",
+      "total_sales":0.13,
+      "genre":"Strategy",
+      "publisher":"Eidos Interactive",
+      "year":1998
+   },
+   {
       "title":"Thief: Deadly Shadows",
       "total_sales":0.17,
       "genre":"Action",
@@ -21253,11 +21582,39 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Fighting Force 2",
+      "total_sales":0.55,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1999
+   },
+   {
+      "title":"Fighting Force",
+      "total_sales":1.32,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1997
+   },
+   {
       "title":"Fear Effect 2: Retro Helix",
       "total_sales":0.18,
       "genre":"Action",
       "publisher":"Eidos Interactive",
       "year":2001
+   },
+   {
+      "title":"Fear Effect",
+      "total_sales":0.72,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Chicken Run",
+      "total_sales":0.13,
+      "genre":"Adventure",
+      "publisher":"Eidos Interactive",
+      "year":2000
    },
    {
       "title":"Looney Tunes: Cartoon Conductor",
@@ -21267,11 +21624,39 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Akuji the Heartless",
+      "total_sales":0.12,
+      "genre":"Platform",
+      "publisher":"Eidos Interactive",
+      "year":1998
+   },
+   {
+      "title":"Anachronox",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Eidos Interactive",
+      "year":2001
+   },
+   {
       "title":"Mister Mosquito",
       "total_sales":0.28,
       "genre":"Shooter",
       "publisher":"Eidos Interactive",
       "year":2002
+   },
+   {
+      "title":"Who Wants to be a Millionaire",
+      "total_sales":0.8,
+      "genre":"Misc",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Reservoir Dogs",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":2006
    },
    {
       "title":"Whiplash",
@@ -21286,6 +21671,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Eidos Interactive",
       "year":2001
+   },
+   {
+      "title":"Warzone 2100",
+      "total_sales":5.01,
+      "genre":"Strategy",
+      "publisher":"Eidos Interactive",
+      "year":1999
    },
    {
       "title":"Smart Bomb",
@@ -21309,6 +21701,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"TimeSplitters",
+      "total_sales":0.43,
+      "genre":"Shooter",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
       "title":"Batman: Arkham Asylum",
       "total_sales":7.82,
       "genre":"Action",
@@ -21321,6 +21720,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Eidos Interactive",
       "year":2002
+   },
+   {
+      "title":"My Pet Hotel 2",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Eidos Interactive",
+      "year":2008
    },
    {
       "title":"Get On Da Mic",
@@ -21351,11 +21757,46 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Tomb Raider",
+      "total_sales":5.66,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1996
+   },
+   {
+      "title":"Tomb Raider Chronicles",
+      "total_sales":0.61,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Disney's 102 Dalmatians: Puppies to the Rescue",
+      "total_sales":0.62,
+      "genre":"Platform",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Tomb Raider II",
+      "total_sales":7.53,
+      "genre":"Adventure",
+      "publisher":"Eidos Interactive",
+      "year":1997
+   },
+   {
       "title":"Carol Vorderman's Sudoku",
       "total_sales":0.36,
       "genre":"Puzzle",
       "publisher":"Eidos Interactive",
       "year":2007
+   },
+   {
+      "title":"Tomb Raider III: Adventures of Lara Croft",
+      "total_sales":4.16,
+      "genre":"Adventure",
+      "publisher":"Eidos Interactive",
+      "year":1998
    },
    {
       "title":"Crash 'N' Burn",
@@ -21400,6 +21841,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"The Incredible Hulk: The Pantheon Saga",
+      "total_sales":0.16,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1997
+   },
+   {
       "title":"Deus Ex: The Conspiracy",
       "total_sales":0.21,
       "genre":"Action",
@@ -21426,6 +21874,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Eidos Interactive",
       "year":2002
+   },
+   {
+      "title":"Ninja: Shadow of Darkness",
+      "total_sales":0.38,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":1998
    },
    {
       "title":"Bionicle Heroes",
@@ -21456,6 +21911,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"John Romero's Daikatana",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
       "title":"Pony Friends",
       "total_sales":0.05,
       "genre":"Simulation",
@@ -21482,6 +21944,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Eidos Interactive",
       "year":2004
+   },
+   {
+      "title":"Olympic Summer Games: Atlanta 1996",
+      "total_sales":0.1,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":1996
+   },
+   {
+      "title":"Olympic Soccer: Atlanta 1996",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":1996
    },
    {
       "title":"Commandos 2: Men of Courage",
@@ -21519,6 +21995,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Startopia",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Eidos Interactive",
+      "year":2001
+   },
+   {
       "title":"Battlestations: Midway",
       "total_sales":0.27,
       "genre":"Strategy",
@@ -21547,18 +22030,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Urban Chaos",
+      "total_sales":0.1,
+      "genre":"Action",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
+      "title":"Sydney 2000",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Eidos Interactive",
+      "year":2000
+   },
+   {
       "title":"Tomb Raider: Underworld (Others sales)",
       "total_sales":0.26,
       "genre":"Adventure",
       "publisher":"Eidos Interactive",
       "year":2009
-   },
-   {
-      "title":"Doukoku Soshite... Doukoku Soshite...",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"El Dia",
-      "year":2018
    },
    {
       "title":"Medal of Honor Heroes 2",
@@ -21573,6 +22063,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2007
+   },
+   {
+      "title":"Medal of Honor: Allied Assault",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2002
    },
    {
       "title":"Medal of Honor: European Assault",
@@ -21617,6 +22114,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Medal of Honor: Pacific Assault",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2004
+   },
+   {
       "title":"Medal of Honor: Rising Sun",
       "total_sales":6.72,
       "genre":"Shooter",
@@ -21659,6 +22163,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Medal of Honor Allied Assault: War Chest",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2004
+   },
+   {
+      "title":"Medal of Honor",
+      "total_sales":8.62,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
       "title":"Mass Effect Trilogy",
       "total_sales":1.16,
       "genre":"Action",
@@ -21671,6 +22189,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Electronic Arts",
       "year":2017
+   },
+   {
+      "title":"Hi-Octane: The Track Fights Back!",
+      "total_sales":0.05,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1996
    },
    {
       "title":"Half-Life 2",
@@ -21692,6 +22217,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Viewpoint",
+      "total_sales":0.07,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1995
    },
    {
       "title":"Titanfall",
@@ -21722,6 +22254,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Monopoly",
+      "total_sales":7.63,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":1995
+   },
+   {
       "title":"Batman Begins",
       "total_sales":1.09,
       "genre":"Action",
@@ -21729,11 +22268,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"WCW Backstage Assault",
+      "total_sales":0.35,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"WCW Mayhem",
+      "total_sales":2.01,
+      "genre":"Fighting",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Auto Destruct",
+      "total_sales":0.08,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Charm Girls Club: Pajama Party",
       "total_sales":0.15,
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2009
+   },
+   {
+      "title":"WarCraft II: The Dark Saga",
+      "total_sales":0.31,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1997
    },
    {
       "title":"Celebrity Sports Showdown",
@@ -21776,6 +22343,27 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Electronic Arts",
       "year":2007
+   },
+   {
+      "title":"Theme Park Roller Coaster",
+      "total_sales":0.48,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Theme Park",
+      "total_sales":0.71,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":1995
+   },
+   {
+      "title":"Theme Hospital",
+      "total_sales":2.49,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1997
    },
    {
       "title":"The Urbz: Sims in the City (all regions sales)",
@@ -21862,6 +22450,27 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Warhammer: Dark Omen",
+      "total_sales":0.04,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
+      "title":"Warpath: Jurassic Park",
+      "total_sales":0.28,
+      "genre":"Fighting",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Wing Commander III: Heart of the Tiger",
+      "total_sales":0.16,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
       "title":"Army of Two: The Devil's Cartel",
       "total_sales":0.55,
       "genre":"Shooter",
@@ -21895,6 +22504,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Mobil 1 Rally Championship",
+      "total_sales":0.12,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"Mirror's Edge Catalyst",
@@ -21939,11 +22555,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Xena: Warrior Princess",
+      "total_sales":0.6,
+      "genre":"Adventure",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
       "title":"Quake III: Revolution",
       "total_sales":0.21,
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2001
+   },
+   {
+      "title":"Castrol Honda Superbike Racing",
+      "total_sales":0.13,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"Catwoman",
@@ -21953,11 +22583,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Road Rash 3D",
+      "total_sales":1.25,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Brain Quest: Grades 3 & 4",
       "total_sales":0.06,
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Triple Play 97",
+      "total_sales":0.38,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1996
    },
    {
       "title":"Trivial Pursuit",
@@ -21995,6 +22639,27 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"007: The World is not Enough",
+      "total_sales":0.92,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"007: The World is Not Enough",
+      "total_sales":1.55,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"007 Racing",
+      "total_sales":0.53,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
       "title":"Ty the Tasmanian Tiger",
       "total_sales":1.62,
       "genre":"Platform",
@@ -22016,6 +22681,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Moto Racer 2",
+      "total_sales":0.69,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Brain Quest: Grades 5 & 6",
       "total_sales":0.1,
       "genre":"Misc",
@@ -22035,6 +22707,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Road & Track Presents: The Need for Speed",
+      "total_sales":1.0,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1996
    },
    {
       "title":"Burnout Paradise: The Ultimate Box",
@@ -22114,6 +22793,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"007: Tomorrow Never Dies",
+      "total_sales":3.21,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
       "title":"Hellgate: London",
       "total_sales":0.02,
       "genre":"Role-Playing",
@@ -22121,11 +22807,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Magic Carpet",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
       "title":"Travel Games For Dummies",
       "total_sales":0.15,
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Road Rash",
+      "total_sales":1.27,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1995
    },
    {
       "title":"Cel Damage",
@@ -22198,6 +22898,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Battle Stations",
+      "total_sales":0.78,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
       "title":"Mass Effect 2",
       "total_sales":4.95,
       "genre":"Role-Playing",
@@ -22231,6 +22938,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2009
+   },
+   {
+      "title":"NASCAR Rumble",
+      "total_sales":0.56,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Madden NFL 09 All-Play (weekly US sales)",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":2008
    },
    {
       "title":"Battlefield 4",
@@ -22282,6 +23003,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Moto Racer",
+      "total_sales":0.8,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
       "title":"Black & White 2: Battle of the Gods",
       "total_sales":0.01,
       "genre":"Strategy",
@@ -22324,6 +23052,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Beetle Adventure Racing!",
+      "total_sales":0.62,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
       "title":"Rail Simulator",
       "total_sales":0.01,
       "genre":"Simulation",
@@ -22343,6 +23078,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2015
+   },
+   {
+      "title":"Battlefield: Bad Company 2 Ultimate Edition",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2010
    },
    {
       "title":"Battlefield: Bad Company",
@@ -22371,6 +23113,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2004
+   },
+   {
+      "title":"Scrabble",
+      "total_sales":0.59,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"Scrabble (Others sales)",
@@ -22422,6 +23171,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Future Cop L.A.P.D.",
+      "total_sales":0.3,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Need for Speed: The Run",
       "total_sales":4.21,
       "genre":"Racing",
@@ -22441,6 +23197,20 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Need for Speed: V-Rally",
+      "total_sales":0.87,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
+      "title":"Kessen",
+      "total_sales":0.95,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"G.I. Joe: The Rise of Cobra",
@@ -22478,11 +23248,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Sub Command",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2001
+   },
+   {
       "title":"Ninja Reflex",
       "total_sales":0.22,
       "genre":"Action",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"Street Sk8er",
+      "total_sales":0.67,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"Dragon Zakura DS",
@@ -22497,6 +23281,34 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Electronic Arts",
       "year":2002
+   },
+   {
+      "title":"Dune 2000",
+      "total_sales":0.25,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Dungeon Keeper 2",
+      "total_sales":0.05,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Nox",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Nuclear Strike",
+      "total_sales":1.19,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":1997
    },
    {
       "title":"EA Playground",
@@ -22546,6 +23358,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Electronic Arts",
       "year":2011
+   },
+   {
+      "title":"NHL Rock the Rink",
+      "total_sales":0.26,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"Dead Space",
@@ -22604,6 +23423,34 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"System Shock 2",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Syndicate Wars",
+      "total_sales":0.04,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
+      "title":"Syndicate",
+      "total_sales":0.39,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1993
+   },
+   {
+      "title":"Swing Away Golf",
+      "total_sales":0.52,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
       "title":"Need for Speed: Most Wanted 5-1-0",
       "total_sales":2.09,
       "genre":"Racing",
@@ -22639,6 +23486,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Need for Speed III: Hot Pursuit",
+      "total_sales":3.12,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Need for Speed Rivals",
       "total_sales":5.2,
       "genre":"Racing",
@@ -22672,6 +23526,20 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Electronic Arts",
       "year":2005
+   },
+   {
+      "title":"Need for Speed: High Stakes",
+      "total_sales":2.31,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Supercross 2000",
+      "total_sales":0.29,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"Need for Speed: Hot Pursuit",
@@ -22723,11 +23591,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Small Soldiers",
+      "total_sales":0.61,
+      "genre":"Adventure",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Family Game Night 4: The Game Show",
       "total_sales":0.36,
       "genre":"Misc",
       "publisher":"Electronic Arts",
       "year":2011
+   },
+   {
+      "title":"SkullMonkeys",
+      "total_sales":0.13,
+      "genre":"Platform",
+      "publisher":"Electronic Arts",
+      "year":1998
    },
    {
       "title":"Skate it",
@@ -22814,11 +23696,60 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Flips: Too Ghoul for School",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2009
+   },
+   {
+      "title":"Flips: Mr. Gum",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2010
+   },
+   {
+      "title":"Flips: Enid Blyton - The Adventure Series",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2010
+   },
+   {
+      "title":"Flips: Enid Blyton - Faraway Tree Stories",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2009
+   },
+   {
+      "title":"Flips: Cathy Cassidy",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2009
+   },
+   {
+      "title":"Flips: Artemis Fowl",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2009
+   },
+   {
       "title":"SimCity 4",
       "total_sales":0.28,
       "genre":"Simulation",
       "publisher":"Electronic Arts",
       "year":2003
+   },
+   {
+      "title":"SimCity 3000 Unlimited",
+      "total_sales":0.01,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"SimAnimals Africa",
@@ -22835,6 +23766,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Sim Theme Park",
+      "total_sales":2.71,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
+      "title":"Sid Meier's SimGolf",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2002
+   },
+   {
       "title":"Shox",
       "total_sales":0.09,
       "genre":"Racing",
@@ -22847,6 +23792,27 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Electronic Arts",
       "year":2010
+   },
+   {
+      "title":"Shogun: Total War",
+      "total_sales":0.01,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Flips: Percy Jackson",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2010
+   },
+   {
+      "title":"Fade to Black",
+      "total_sales":0.34,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":1996
    },
    {
       "title":"FaceBreaker K.O. Party",
@@ -22863,6 +23829,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"ESPN X-Games Pro Boarder",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Orcs & Elves",
       "total_sales":0.05,
       "genre":"Role-Playing",
@@ -22877,11 +23850,32 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Populous: The Beginning",
+      "total_sales":0.09,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Star Wars Battlefront (2015)",
       "total_sales":12.67,
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2015
+   },
+   {
+      "title":"John Madden Football",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1991
+   },
+   {
+      "title":"Sports Car GT",
+      "total_sales":0.22,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"Spore Hero Arena",
@@ -22905,6 +23899,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Spore Creepy & Cute Parts Pack",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2008
+   },
+   {
       "title":"Spore Creatures",
       "total_sales":1.07,
       "genre":"Simulation",
@@ -22924,6 +23925,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"OverBlood",
+      "total_sales":0.32,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
+      "title":"Pogo Island",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Electronic Arts",
+      "year":2007
    },
    {
       "title":"Overstrike",
@@ -22961,11 +23976,32 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"FIFA Manager 11",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":2010
+   },
+   {
       "title":"Plants vs. Zombies: Garden Warfare 2",
       "total_sales":1.54,
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2016
+   },
+   {
+      "title":"Darklight Conflict",
+      "total_sales":0.04,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
+      "title":"FIFA Manager 09",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":2008
    },
    {
       "title":"FIFA 19",
@@ -22982,11 +24018,32 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Extreme Pinball",
+      "total_sales":0.32,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
       "title":"Freedom Fighters",
       "total_sales":0.88,
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2003
+   },
+   {
+      "title":"Soviet Strike",
+      "total_sales":1.17,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
+      "title":"Space Hulk: Vengeance of the Blood Angels",
+      "total_sales":0.07,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":1996
    },
    {
       "title":"Shadows of the Damned",
@@ -23001,6 +24058,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Electronic Arts",
       "year":2002
+   },
+   {
+      "title":"Diablo",
+      "total_sales":0.58,
+      "genre":"Role-Playing",
+      "publisher":"Electronic Arts",
+      "year":1998
    },
    {
       "title":"Command & Conquer 3: Deluxe Edition",
@@ -23050,6 +24114,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"The Sims 2 Holiday Edition",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2005
    },
    {
       "title":"The Sims 2",
@@ -23106,6 +24177,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Electronic Arts",
       "year":2003
+   },
+   {
+      "title":"The Sims",
+      "total_sales":3.73,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2000
+   },
+   {
+      "title":"Command & Conquer: Red Alert 2",
+      "total_sales":1.34,
+      "genre":"Strategy",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"Lord of the Rings: Battle for Middle-Earth",
@@ -23185,6 +24270,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"The Sims 2: FreeTime",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2008
+   },
+   {
       "title":"The Sims 2: Glamour Life Stuff",
       "total_sales":0.03,
       "genre":"Simulation",
@@ -23208,6 +24300,13 @@ export const pb_data =
    {
       "title":"The Sims 3: Fast Lane Stuff",
       "total_sales":0.08,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2010
+   },
+   {
+      "title":"The Sims 3: Create-A-Sim",
+      "total_sales":0.0,
       "genre":"Simulation",
       "publisher":"Electronic Arts",
       "year":2010
@@ -23276,11 +24375,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"The Sims 3: Showtime",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2012
+   },
+   {
       "title":"The Saboteur",
       "total_sales":1.05,
       "genre":"Action",
       "publisher":"Electronic Arts",
       "year":2009
+   },
+   {
+      "title":"Clive Barker's Undying",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2001
+   },
+   {
+      "title":"The Sims 2: Teen Style Stuff",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2007
    },
    {
       "title":"The Sims 2: Seasons",
@@ -23316,6 +24436,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Electronic Arts",
       "year":2005
+   },
+   {
+      "title":"The Sims 2: Kitchen & Bath Interior Design Stuff",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Electronic Arts",
+      "year":2008
    },
    {
       "title":"The Sims 2: Ikea Home Stuff",
@@ -23423,6 +24550,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Crusader: No Remorse",
+      "total_sales":0.05,
+      "genre":"Adventure",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
       "title":"The Godfather II",
       "total_sales":1.53,
       "genre":"Adventure",
@@ -23493,6 +24627,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"CyberTiger",
+      "total_sales":0.65,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1999
+   },
+   {
       "title":"NERF N-Strike",
       "total_sales":1.09,
       "genre":"Shooter",
@@ -23512,6 +24653,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Electronic Arts",
       "year":2010
+   },
+   {
+      "title":"Hot Wheels Turbo Racing",
+      "total_sales":1.38,
+      "genre":"Racing",
+      "publisher":"Electronic Arts",
+      "year":1999
    },
    {
       "title":"The Sims: Life Stories",
@@ -23540,6 +24688,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Electronic Arts",
       "year":2008
+   },
+   {
+      "title":"The Sims: Livin Large",
+      "total_sales":2.99,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":2000
    },
    {
       "title":"NHL 13",
@@ -23598,6 +24753,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"NBA Live 96",
+      "total_sales":0.33,
+      "genre":"Sports",
+      "publisher":"Electronic Arts",
+      "year":1996
+   },
+   {
       "title":"The Sims Medieval: Pirates and Nobles",
       "total_sales":0.15,
       "genre":"Simulation",
@@ -23626,11 +24788,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Golden Nugget 64",
+      "total_sales":0.09,
+      "genre":"Misc",
+      "publisher":"Electronic Arts",
+      "year":1998
+   },
+   {
       "title":"Littlest Pet Shop: Spring",
       "total_sales":0.13,
       "genre":"Simulation",
       "publisher":"Electronic Arts",
       "year":2009
+   },
+   {
+      "title":"Psychic Detective",
+      "total_sales":0.01,
+      "genre":"Adventure",
+      "publisher":"Electronic Arts",
+      "year":1995
    },
    {
       "title":"Littlest Pet Shop: Jungle",
@@ -23696,6 +24872,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"The Lost World: Jurassic Park",
+      "total_sales":1.02,
+      "genre":"Action",
+      "publisher":"Electronic Arts",
+      "year":1997
+   },
+   {
       "title":"Littlest Pet Shop 3: Biggest Stars - Blue \/ Pink \/ Purple Team",
       "total_sales":0.52,
       "genre":"Simulation",
@@ -23715,6 +24898,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Electronic Arts",
       "year":2002
+   },
+   {
+      "title":"Counter-Strike 1: Anthology",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Electronic Arts",
+      "year":2005
    },
    {
       "title":"Littlest Pet Shop: Country Friends",
@@ -23752,6 +24942,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"International Cricket Captain III",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Empire Interactive",
+      "year":2007
+   },
+   {
       "title":"FlatOut",
       "total_sales":0.56,
       "genre":"Racing",
@@ -23771,6 +24968,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Empire Interactive",
       "year":2007
+   },
+   {
+      "title":"Pro Pinball: Big Race USA",
+      "total_sales":0.66,
+      "genre":"Misc",
+      "publisher":"Empire Interactive",
+      "year":2000
    },
    {
       "title":"Ford Racing",
@@ -23801,6 +25005,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Timeshock! Pro Pinball",
+      "total_sales":0.03,
+      "genre":"Misc",
+      "publisher":"Empire Interactive",
+      "year":1998
+   },
+   {
       "title":"Endgame",
       "total_sales":0.08,
       "genre":"Shooter",
@@ -23808,11 +25019,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"International Cricket Captain 2008",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Empire Interactive",
+      "year":2008
+   },
+   {
+      "title":"Spin Jam",
+      "total_sales":0.31,
+      "genre":"Puzzle",
+      "publisher":"Empire Interactive",
+      "year":2000
+   },
+   {
       "title":"Hello Kitty: Roller Rescue",
       "total_sales":0.11,
       "genre":"Action",
       "publisher":"Empire Interactive",
       "year":2005
+   },
+   {
+      "title":"Ghost Master",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Empire Interactive",
+      "year":2003
+   },
+   {
+      "title":"Sheep",
+      "total_sales":0.02,
+      "genre":"Strategy",
+      "publisher":"Empire Interactive",
+      "year":2000
    },
    {
       "title":"Ford Racing Off Road",
@@ -23836,60 +25075,18 @@ export const pb_data =
       "year":2005
    },
    {
-      "title":"Still Life 2",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Encore",
-      "year":2009
+      "title":"Bust A Groove 2",
+      "total_sales":0.26,
+      "genre":"Misc",
+      "publisher":"Enix",
+      "year":1999
    },
    {
-      "title":"Circus Maximus: Chariot Wars",
-      "total_sales":0.07,
-      "genre":"Racing",
-      "publisher":"Encore",
-      "year":2002
-   },
-   {
-      "title":"Dragon's Lair 3D: Return to the Lair",
-      "total_sales":0.09,
-      "genre":"Platform",
-      "publisher":"Encore",
-      "year":2002
-   },
-   {
-      "title":"The Suffering",
-      "total_sales":0.64,
-      "genre":"Action",
-      "publisher":"Encore",
-      "year":2004
-   },
-   {
-      "title":"Zoboomafoo: Leapin' Lemurs!",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Encore",
-      "year":2001
-   },
-   {
-      "title":"Azada",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Encore",
-      "year":2007
-   },
-   {
-      "title":"Fugitive Hunter: War on Terror",
-      "total_sales":0.15,
-      "genre":"Shooter",
-      "publisher":"Encore",
-      "year":2003
-   },
-   {
-      "title":"Grooverider: Slot Car Thunder",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Encore",
-      "year":2003
+      "title":"Dark Half",
+      "total_sales":0.04,
+      "genre":"Role-Playing",
+      "publisher":"Enix",
+      "year":1996
    },
    {
       "title":"Dragon Warrior Monsters 2: Tara's Adventure",
@@ -23897,6 +25094,20 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Enix",
       "year":2001
+   },
+   {
+      "title":"World of Dragon Warrior - Torneko: The Last Hope",
+      "total_sales":0.65,
+      "genre":"Role-Playing",
+      "publisher":"Enix",
+      "year":2000
+   },
+   {
+      "title":"Mystic Ark",
+      "total_sales":0.13,
+      "genre":"Role-Playing",
+      "publisher":"Enix",
+      "year":1995
    },
    {
       "title":"Dragon Quest III",
@@ -23913,11 +25124,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Dragon Warrior I&II",
+      "total_sales":0.77,
+      "genre":"Role-Playing",
+      "publisher":"Enix",
+      "year":2000
+   },
+   {
       "title":"Dramatic Soccer Game: Nippon Daihyou Senshu Ninarou!",
       "total_sales":0.04,
       "genre":"Sports",
       "publisher":"Enix",
       "year":2002
+   },
+   {
+      "title":"Wonder Project J: Kikai no Shonen Pino",
+      "total_sales":0.43,
+      "genre":"Simulation",
+      "publisher":"Enix",
+      "year":1994
+   },
+   {
+      "title":"Wonder Project J2: Koruro no Mori no Josette",
+      "total_sales":0.16,
+      "genre":"Simulation",
+      "publisher":"Enix",
+      "year":1996
+   },
+   {
+      "title":"Orega Kantoku Da! Gekitou Pennant Race",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"Enix",
+      "year":2000
    },
    {
       "title":"Grandia Xtreme",
@@ -23934,452 +25173,11 @@ export const pb_data =
       "year":2002
    },
    {
-      "title":"American McGee presents ScrapLand",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Enlight",
-      "year":2005
-   },
-   {
-      "title":"Tear Ring Saga Yutona Eiyuu Senki",
-      "total_sales":0.39,
-      "genre":"Role-Playing",
-      "publisher":"Enterbrain",
-      "year":2001
-   },
-   {
-      "title":"Derby Stallion Advance",
-      "total_sales":0.13,
-      "genre":"Sports",
-      "publisher":"Enterbrain",
-      "year":2002
-   },
-   {
-      "title":"Derby Stallion DS",
-      "total_sales":0.32,
-      "genre":"Sports",
-      "publisher":"Enterbrain",
-      "year":2008
-   },
-   {
-      "title":"Amagami",
-      "total_sales":0.28,
-      "genre":"Adventure",
-      "publisher":"Enterbrain",
-      "year":2009
-   },
-   {
-      "title":"Metal Max 3",
-      "total_sales":0.13,
-      "genre":"Role-Playing",
-      "publisher":"Enterbrain",
-      "year":2010
-   },
-   {
-      "title":"Derby Stallion P",
-      "total_sales":0.1,
-      "genre":"Sports",
-      "publisher":"Enterbrain",
-      "year":2006
-   },
-   {
-      "title":"Derby Stallion 04",
-      "total_sales":0.55,
-      "genre":"Sports",
-      "publisher":"Enterbrain",
-      "year":2004
-   },
-   {
-      "title":"KimiKiss (ebKore+)",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Enterbrain",
-      "year":2008
-   },
-   {
-      "title":"KimiKiss",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Enterbrain",
-      "year":2006
-   },
-   {
-      "title":"Magicians Academy",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Enterbrain",
-      "year":2007
-   },
-   {
-      "title":"True Love Story 3",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Enterbrain",
-      "year":2001
-   },
-   {
-      "title":"RPG Tsukuru DS",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Enterbrain",
-      "year":2010
-   },
-   {
-      "title":"Kimi o Aogi Otome wa Hime ni",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2016
-   },
-   {
-      "title":"Hanasaki Work Spring!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Karumaruka Circle",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Kimi no Hitomi ni Hit Me",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Entergram",
-      "year":2018
-   },
-   {
-      "title":"Kamidanomi Shisugite Ore no Mirai ga Yabai.",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Hatsuyuki Sakura",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Timepiece Ensemble",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"RepKiss",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Love of Renai Koutei of Love!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"PriministAr",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Entergram",
-      "year":2016
-   },
-   {
-      "title":"Amaekata wa Kanojo Nari ni.",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Entergram",
-      "year":2017
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Hou",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Entergram",
-      "year":2018
-   },
-   {
-      "title":"Fortnite",
-      "total_sales":2.37,
-      "genre":"Action",
-      "publisher":"Epic Games",
-      "year":2017
-   },
-   {
-      "title":"Zombie Hunters 2",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Essential Games",
-      "year":2007
-   },
-   {
-      "title":"Ostwind\/Windstorm",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"EuroVideo Medien",
-      "year":2017
-   },
-   {
-      "title":"Heaven's Hope",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"EuroVideo Medien",
-      "year":2016
-   },
-   {
-      "title":"OverBlood 2",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Evolution Games",
-      "year":2001
-   },
-   {
-      "title":"Judge Dredd: Dredd Vs Death",
-      "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"Evolved Games",
-      "year":2005
-   },
-   {
-      "title":"Crusty Demons",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Evolved Games",
-      "year":2006
-   },
-   {
-      "title":"Mayhem 3D",
-      "total_sales":0.13,
-      "genre":"Racing",
-      "publisher":"Evolved Games",
-      "year":2011
-   },
-   {
-      "title":"Raven Squad: Operation Hidden Dagger",
-      "total_sales":0.12,
-      "genre":"Shooter",
-      "publisher":"Evolved Games",
-      "year":2009
-   },
-   {
-      "title":"UK Truck Simulator",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Excalibur Publishing",
-      "year":2010
-   },
-   {
-      "title":"Street Cleaning Simulator",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Excalibur Publishing",
-      "year":2011
-   },
-   {
-      "title":"Driving Simulator 2011",
-      "total_sales":0.07,
-      "genre":"Racing",
-      "publisher":"Excalibur Publishing",
-      "year":2011
-   },
-   {
-      "title":"Pro Farm 1",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Excalibur Publishing Limited",
-      "year":2011
-   },
-   {
-      "title":"Farming Simulator 2012",
-      "total_sales":0.14,
-      "genre":"Simulation",
-      "publisher":"Excalibur Publishing Limited",
-      "year":2012
-   },
-   {
-      "title":"Digger Simulator",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Excalibur Publishing Limited",
-      "year":2011
-   },
-   {
-      "title":"New Interpretation Stranger of Sword City",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Experience Inc.",
-      "year":2016
-   },
-   {
-      "title":"Stranger of Sword City",
-      "total_sales":0.07,
+      "title":"Itadaki Street 2: Neon Sign wa Bara Iro ni",
+      "total_sales":0.29,
       "genre":"Misc",
-      "publisher":"Experience Inc.",
-      "year":2014
-   },
-   {
-      "title":"NG",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Experience Inc.",
-      "year":2018
-   },
-   {
-      "title":"Tsurugi no Machi no Ihoujin: Kuro no Kyuuden",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Experience Inc.",
-      "year":2015
-   },
-   {
-      "title":"Monster Boy and the Cursed Kingdom",
-      "total_sales":0.07,
-      "genre":"Action-Adventure",
-      "publisher":"FDG Entertainment",
-      "year":2018
-   },
-   {
-      "title":"The Legend of Heroes VI: Sora no Kiseki the 3rd",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Falcom Corporation",
-      "year":2013
-   },
-   {
-      "title":"The Legend of Heroes: Ao no Kiseki",
-      "total_sales":0.26,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2011
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky FC",
-      "total_sales":0.26,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2011
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky Third Chapter",
-      "total_sales":0.11,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2008
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky the 3rd",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2008
-   },
-   {
-      "title":"Eiyuu Densetsu: Sora no Kiseki Material Collection Portable",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2007
-   },
-   {
-      "title":"Zwei!!",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2008
-   },
-   {
-      "title":"Eiyuu Densetsu: Sora no Kiseki Set",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2008
-   },
-   {
-      "title":"Vantage Master Portable",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2008
-   },
-   {
-      "title":"Eiyuu Densetsu: Zero no Kiseki",
-      "total_sales":0.16,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2010
-   },
-   {
-      "title":"Eiyuu Densetsu: Zero no Kiseki: Evolution",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2012
-   },
-   {
-      "title":"Brandish: The Dark Revenant",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2009
-   },
-   {
-      "title":"Ys vs. Sora no Kiseki: Alternative Saga",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Falcom Corporation",
-      "year":2010
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky SC",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2007
-   },
-   {
-      "title":"Eiyuu Densetsu: Sora no Kiseki FC & SC Kanzenban",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Falcom Corporation",
-      "year":2007
-   },
-   {
-      "title":"Gekiatsu!! Pachi Game Damashi Max: Evangelion 7 x Seimei no Kodou",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Fields",
-      "year":2012
-   },
-   {
-      "title":"Discover Europe",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"First Class Simulations",
-      "year":2016
-   },
-   {
-      "title":"Dragon Shadow Spell",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Flight-Plan",
-      "year":2007
-   },
-   {
-      "title":"Sacred Blaze",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Flight-Plan",
-      "year":2009
+      "publisher":"Enix",
+      "year":1994
    },
    {
       "title":"Styx: Shards of Darkness",
@@ -24459,6 +25257,20 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Pro Cycling Season 2010: Le Tour de France",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Focus Home Interactive",
+      "year":2010
+   },
+   {
+      "title":"Of Orcs and Men",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Focus Home Interactive",
+      "year":2012
+   },
+   {
       "title":"The Surge",
       "total_sales":0.31,
       "genre":"Action",
@@ -24487,6 +25299,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Pro Cycling Season 2009: Le Tour de France",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Focus Home Interactive",
+      "year":2009
+   },
+   {
       "title":"Cities XL 2011",
       "total_sales":0.02,
       "genre":"Simulation",
@@ -24501,11 +25320,25 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Pro Cycling Manager Season 2010: Le Tour de France",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Focus Home Interactive",
+      "year":2010
+   },
+   {
       "title":"Farming Simulator 2014",
       "total_sales":0.01,
       "genre":"Simulation",
       "publisher":"Focus Home Interactive",
       "year":2014
+   },
+   {
+      "title":"Wargame: Airland Battle",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Focus Home Interactive",
+      "year":2013
    },
    {
       "title":"Farming Simulator 2013",
@@ -24522,6 +25355,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Pro Cycling Manager 2018",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Focus Home Interactive",
+      "year":2018
+   },
+   {
       "title":"Pro Cycling Manager 2016",
       "total_sales":0.18,
       "genre":"Sports",
@@ -24534,6 +25374,20 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Focus Home Interactive",
       "year":2011
+   },
+   {
+      "title":"Blood Bowl 2",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Focus Home Interactive",
+      "year":2015
+   },
+   {
+      "title":"Supreme Commander: Gold Edition",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Focus Home Interactive",
+      "year":2008
    },
    {
       "title":"Blood Bowl: Legendary Edition",
@@ -24555,6 +25409,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Focus Home Interactive",
       "year":2009
+   },
+   {
+      "title":"Runaway: The Dream of the Turtle",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Focus Home Interactive",
+      "year":2007
    },
    {
       "title":"Divinity: Original Sin",
@@ -24620,6 +25481,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Telly Addicts",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Focus Home Interactive",
+      "year":2007
+   },
+   {
       "title":"Puppet Show 3: Lost Town",
       "total_sales":0.02,
       "genre":"Puzzle",
@@ -24634,1026 +25502,179 @@ export const pb_data =
       "year":2018
    },
    {
-      "title":"Mystery Legends: Beauty and the Beast",
-      "total_sales":0.01,
+      "title":"Sherlock Holmes: The Awakened",
+      "total_sales":0.0,
       "genre":"Adventure",
-      "publisher":"Focus Multimedia",
-      "year":2012
+      "publisher":"Focus Home Interactive",
+      "year":2007
    },
    {
-      "title":"Minds and Mystery: 5 Game Pack",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Focus Multimedia",
-      "year":2014
-   },
-   {
-      "title":"Spirits and Demons: 5 Game Pack",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Focus Multimedia",
-      "year":2015
-   },
-   {
-      "title":"Darkness and Sorrow: 5 Game Pack",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Focus Multimedia",
-      "year":2014
-   },
-   {
-      "title":"Hidden Expedition: The Crown of Solomon",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Focus Multimedia",
-      "year":2014
-   },
-   {
-      "title":"Angels and Despair: 5 Game Pack",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Focus Multimedia",
-      "year":2014
-   },
-   {
-      "title":"Magic Encyclopedia: Moonlight",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Foreign Media Games",
-      "year":2010
-   },
-   {
-      "title":"Natalie Brooks: The Treasures of the Lost Kingdom",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Foreign Media Games",
-      "year":2010
-   },
-   {
-      "title":"Tenchu San Portable",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"From Software",
-      "year":2009
-   },
-   {
-      "title":"Armored Core 3 Portable",
-      "total_sales":0.08,
+      "title":"Farming Simulator 14",
+      "total_sales":0.0,
       "genre":"Simulation",
-      "publisher":"From Software",
-      "year":2009
-   },
-   {
-      "title":"Armored Core: Last Raven Portable",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"From Software",
-      "year":2010
-   },
-   {
-      "title":"King's Field: Additional I",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"From Software",
-      "year":2006
-   },
-   {
-      "title":"Onore no Shinzuru Michi wo Yuke",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"From Software",
-      "year":2009
-   },
-   {
-      "title":"Inugamike no Ichizoku",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"From Software",
-      "year":2009
-   },
-   {
-      "title":"Armored Core SL: Silent Line Portable",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"From Software",
-      "year":2009
-   },
-   {
-      "title":"Elite: Dangerous",
-      "total_sales":0.27,
-      "genre":"Simulation",
-      "publisher":"Frontier Developments",
-      "year":2017
-   },
-   {
-      "title":"Jurassic World Evolution",
-      "total_sales":0.73,
-      "genre":"Simulation",
-      "publisher":"Frontier Developments",
-      "year":2018
-   },
-   {
-      "title":"Trine 2: Director's Cut",
-      "total_sales":0.04,
-      "genre":"Platform",
-      "publisher":"Frozenbyte",
-      "year":2012
-   },
-   {
-      "title":"To Love-Ru Trouble Darkness: Battle Ecstasy",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
+      "publisher":"Focus Home Interactive",
       "year":2014
    },
    {
-      "title":"Future Card Buddyfight: Yuujou no Bakunetsu Fight!",
-      "total_sales":0.08,
-      "genre":"Strategy",
-      "publisher":"FuRyu Corporation",
-      "year":2015
+      "title":"Duke Nukem 64",
+      "total_sales":0.44,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"To Love-Ru Trouble: Darkness - True Princess",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2015
-   },
-   {
-      "title":"Future Card Buddyfight Mezase! Buddy Champion!",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"FuRyu Corporation",
-      "year":2017
-   },
-   {
-      "title":"Cardfight!! Vanguard: Ride to Victory!!",
-      "total_sales":0.09,
-      "genre":"Strategy",
-      "publisher":"FuRyu Corporation",
-      "year":2013
-   },
-   {
-      "title":"Cardfight!! Vanguard: Lock On Victory!!",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"FuRyu Corporation",
-      "year":2014
-   },
-   {
-      "title":"Exstetra",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2013
-   },
-   {
-      "title":"Yuki Yuna is a Hero: Memory of the Forest",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2015
-   },
-   {
-      "title":"Cardfight!! Vanguard G: Stride to Victory!!",
-      "total_sales":0.06,
-      "genre":"Strategy",
-      "publisher":"FuRyu Corporation",
-      "year":2016
-   },
-   {
-      "title":"Doraemon: Nobita no Takarajima",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2018
-   },
-   {
-      "title":"Tsuku Monogatari",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2011
-   },
-   {
-      "title":"Doraemon: Nobita to Himitsu Dougu Hakubutsukan",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2013
-   },
-   {
-      "title":"Doraemon the Movie: Nobita no Nankyoku Kachikochi Daibouken",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2017
-   },
-   {
-      "title":"Bunmei Kaika: Aoiza Ibunroku Saien",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"FuRyu Corporation",
-      "year":2012
-   },
-   {
-      "title":"Doraemon: Nobita and the Island of Miracles",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2012
-   },
-   {
-      "title":"Doraemon: Nobita no Uchuu Eiyuuki",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2015
-   },
-   {
-      "title":"Doraemon: Shin Nobita no Daimakyou Peko to 5-nin no Tankenta",
-      "total_sales":0.04,
-      "genre":"Action-Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2014
-   },
-   {
-      "title":"Datenshi no Amai Yuuwaku x Kaikan Phrase",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2010
-   },
-   {
-      "title":"New Prince of Tennis: Go to the Top",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2015
-   },
-   {
-      "title":"Bunmei Haruka: Aoiza Ibunroku",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"FuRyu Corporation",
-      "year":2011
-   },
-   {
-      "title":"Doraemon: Shin Nobita no Nihon Tanjou",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"FuRyu Corporation",
-      "year":2016
-   },
-   {
-      "title":"Kamiwaza Wanda: Kira Kira Ichibangai Kikiippatsu!",
-      "total_sales":0.02,
-      "genre":"Action-Adventure",
-      "publisher":"FuRyu Corporation",
-      "year":2016
-   },
-   {
-      "title":"Yuuna and the Haunted Hot Springs: Steam Dungeon",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2018
-   },
-   {
-      "title":"Future Card Buddyfight: Tanjou! Oretachi no Saikyou Body!",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"FuRyu Corporation",
-      "year":2018
-   },
-   {
-      "title":"Miracle Tunes! Game de Tune Up! Tabun!",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"FuRyu Corporation",
-      "year":2017
-   },
-   {
-      "title":"Beyblade Burst: God",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2017
-   },
-   {
-      "title":"Beyblade Burst: Battle Zero",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2018
-   },
-   {
-      "title":"UnchainBlades EXXiV",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2012
-   },
-   {
-      "title":"HatsuKare * Renai Debut Sengen!",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"FuRyu Corporation",
-      "year":2013
-   },
-   {
-      "title":"Beyblade Burst",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2016
-   },
-   {
-      "title":"WORKxWORK",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"FuRyu Corporation",
-      "year":2018
-   },
-   {
-      "title":"Himoutou! Umaru-Chan: Himoutou Ikusei Keikaku",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"FuRyu Corporation",
-      "year":2015
-   },
-   {
-      "title":"The Cube",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Funbox Media",
-      "year":2012
-   },
-   {
-      "title":"Space Hulk",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Funbox Media",
-      "year":2015
-   },
-   {
-      "title":"Atari Flashback Classics: Volume 3",
+      "title":"Hexen: Beyond Heretic",
       "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Funbox Media",
-      "year":2018
-   },
-   {
-      "title":"Age of Conan: Rise of the Godslayer",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Funcom",
-      "year":2010
-   },
-   {
-      "title":"Senko no Ronde DUO",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"G.Rev",
-      "year":2010
-   },
-   {
-      "title":"Kokuga",
-      "total_sales":0.01,
       "genre":"Shooter",
-      "publisher":"G.Rev",
-      "year":2012
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"Mamoru-kun wa Norowarete Shimatta!",
-      "total_sales":0.01,
+      "title":"Discworld Noir",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"GT Interactive",
+      "year":1999
+   },
+   {
+      "title":"Driver",
+      "total_sales":6.27,
+      "genre":"Action",
+      "publisher":"GT Interactive",
+      "year":1999
+   },
+   {
+      "title":"Hexen",
+      "total_sales":0.19,
       "genre":"Shooter",
-      "publisher":"G.Rev",
-      "year":2009
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"FirePower for Microsoft Combat Flight Simulator 3",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"GMX Media",
-      "year":2004
+      "title":"Total Annihilation: Kingdoms",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"GT Interactive",
+      "year":1999
    },
    {
-      "title":"Izumo 2",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2006
-   },
-   {
-      "title":"Canvas 3: Nanairo no Kiseki",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2010
-   },
-   {
-      "title":"Like Life Every Hour",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2009
-   },
-   {
-      "title":"Suigetsu Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2008
-   },
-   {
-      "title":"Pia Carrot e Youkoso!! G.P. Gakuen Princess",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2009
-   },
-   {
-      "title":"Canvas 3: Tanshoku no Pastel",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2009
-   },
-   {
-      "title":"Akane Iro ni Somaru Saka Parallel",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2008
-   },
-   {
-      "title":"Sakura Sakura: Haru Urara",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GN Software",
-      "year":2010
-   },
-   {
-      "title":"Jewel Quest Solitaire",
+      "title":"Courier Crisis",
       "total_sales":0.15,
-      "genre":"Puzzle",
-      "publisher":"GSP",
-      "year":2011
+      "genre":"Racing",
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"Noddy in Toyland",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"GSP",
-      "year":2011
-   },
-   {
-      "title":"Beyond the Legend - Mysteries of Olympus",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GSP",
-      "year":2016
-   },
-   {
-      "title":"Jewel Link Chronicles: Legend of Athena",
-      "total_sales":0.07,
-      "genre":"Puzzle",
-      "publisher":"GSP",
-      "year":2011
-   },
-   {
-      "title":"Postman Pat: Special Delivery Service",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"GSP",
-      "year":2009
-   },
-   {
-      "title":"Enigmatis 3: The Shadow Of Karkhala",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GSP",
-      "year":2017
-   },
-   {
-      "title":"Junior Brain Trainer 2",
-      "total_sales":0.28,
-      "genre":"Misc",
-      "publisher":"GSP",
-      "year":2011
-   },
-   {
-      "title":"Small Town Terrors - Galdor's Bluff",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GSP",
-      "year":2016
-   },
-   {
-      "title":"Bamboo Blade: Sorekara no Chousen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Gadget Soft",
-      "year":2009
-   },
-   {
-      "title":"Summon Night 6: Lost Borders",
-      "total_sales":0.18,
-      "genre":"Role-Playing",
-      "publisher":"Gaijinworks",
-      "year":2017
-   },
-   {
-      "title":"Gakken DS: Shin TOEIC Test Kanzen Kouryaku",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Gakken",
-      "year":2007
-   },
-   {
-      "title":"Earthpedia",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Gakken",
-      "year":2012
-   },
-   {
-      "title":"Sansuu Puzzle de Migaku: Gakken Otona no Shikou Sense",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Gakken",
-      "year":2007
-   },
-   {
-      "title":"Care Bears - Care Quest",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2005
-   },
-   {
-      "title":"Build-A-Bear Workshop: Welcome to Hugsville",
+      "title":"Streak: Hoverboard Racing",
       "total_sales":0.15,
-      "genre":"Misc",
-      "publisher":"Game Factory",
-      "year":2010
-   },
-   {
-      "title":"Build-A-Bear Workshop: Friendship Valley",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"Game Factory",
-      "year":2010
-   },
-   {
-      "title":"Build-A-Bear Workshop: A Friend Fur All Seasons",
-      "total_sales":0.36,
-      "genre":"Simulation",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Build-A-Bear Workshop",
-      "total_sales":0.93,
-      "genre":"Simulation",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Franklin's Great Adventures",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Cartoon Network Racing",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Zenses: Rainforest",
-      "total_sales":0.12,
-      "genre":"Puzzle",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Zenses: Ocean",
-      "total_sales":0.13,
-      "genre":"Puzzle",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Pet Alien: An Intergalactic Puzzlepalooza",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Franklin: A Birthday Surprise",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Bratz Ponyz 2",
-      "total_sales":0.26,
-      "genre":"Adventure",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Legend of the Dragon",
-      "total_sales":0.09,
-      "genre":"Fighting",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Di-Gata Defenders",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"The Land Before Time: Into the Mysterious Beyond",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Rubik's World",
-      "total_sales":0.27,
-      "genre":"Puzzle",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"World Championship Games: A Track & Field Event",
-      "total_sales":0.09,
-      "genre":"Sports",
-      "publisher":"Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Franklin the Turtle",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Game Factory",
-      "year":2005
-   },
-   {
-      "title":"Code Lyoko: Quest for Infinity",
-      "total_sales":0.13,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Biker Mice From Mars",
-      "total_sales":0.09,
       "genre":"Racing",
-      "publisher":"Game Factory",
-      "year":2007
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Code Lyoko: Fall of X.A.N.A.",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Garfield: A Tale of Two Kitties",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Garfield's Nightmare",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Garfield and His Nine Lives",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Code Lyoko",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Strawberry Shortcake: Strawberryland Games",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Game Factory",
-      "year":2006
-   },
-   {
-      "title":"Bratz Kidz",
-      "total_sales":0.21,
-      "genre":"Misc",
-      "publisher":"Game Factory",
-      "year":2008
-   },
-   {
-      "title":"Bratz Ponyz",
-      "total_sales":0.28,
-      "genre":"Adventure",
-      "publisher":"Game Factory",
-      "year":2007
-   },
-   {
-      "title":"Garfield: The Search for Pooky",
-      "total_sales":0.04,
-      "genre":"Platform",
-      "publisher":"Game Factory",
-      "year":2005
-   },
-   {
-      "title":"Water Sports",
-      "total_sales":0.1,
-      "genre":"Sports",
-      "publisher":"GameMill",
-      "year":2009
-   },
-   {
-      "title":"DaGeDar",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Hidden Mysteries: Salem Secrets - Witch Trials of 1692",
-      "total_sales":0.14,
-      "genre":"Adventure",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Legends of Oz: Dorothy's Return",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"GameMill",
-      "year":2014
-   },
-   {
-      "title":"Pillow Pets",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Silverlicious",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"GameMill",
-      "year":2012
-   },
-   {
-      "title":"Cruise Ship Vacation Games",
-      "total_sales":0.13,
-      "genre":"Puzzle",
-      "publisher":"GameMill",
-      "year":2009
-   },
-   {
-      "title":"Pinkalicious",
-      "total_sales":0.27,
-      "genre":"Misc",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Pheasants Forever Wingshooter",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Country Dance 2",
-      "total_sales":0.46,
-      "genre":"Misc",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Country Dance",
-      "total_sales":0.67,
-      "genre":"Misc",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Hidden Mysteries: Vampire Secrets",
-      "total_sales":0.19,
-      "genre":"Adventure",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Hidden Mysteries: Buckingham Palace",
-      "total_sales":0.22,
-      "genre":"Puzzle",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Escape the Museum",
-      "total_sales":0.18,
-      "genre":"Adventure",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Brunswick Cosmic Bowling",
-      "total_sales":0.17,
-      "genre":"Sports",
-      "publisher":"GameMill",
-      "year":2010
-   },
-   {
-      "title":"Monster Jam: Crush It",
-      "total_sales":0.17,
+      "title":"Rogue Trip: Vacation 2012",
+      "total_sales":0.38,
       "genre":"Racing",
-      "publisher":"GameMill",
-      "year":2017
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Moxie Girlz",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"GameMill",
-      "year":2011
-   },
-   {
-      "title":"Rapala Fishing Pro Series",
-      "total_sales":0.16,
-      "genre":"Simulation",
-      "publisher":"GameMill",
-      "year":2017
-   },
-   {
-      "title":"Big Hero 6: Battle in the Bay",
-      "total_sales":0.19,
-      "genre":"Action",
-      "publisher":"GameMill",
-      "year":2014
-   },
-   {
-      "title":"Xia-Xia",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"GameMill",
-      "year":2012
-   },
-   {
-      "title":"Deer Hunter Reloaded",
-      "total_sales":0.08,
-      "genre":"Shooter",
-      "publisher":"GameMill Entertainment",
-      "year":2017
-   },
-   {
-      "title":"GoGo's Crazy Bones",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"GameMill Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Goosebumps: The Game",
-      "total_sales":0.19,
-      "genre":"Adventure",
-      "publisher":"GameMill Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Big Buck Hunter Arcade",
-      "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"GameMill Entertainment",
-      "year":2016
-   },
-   {
-      "title":"Country Dance: All Stars",
-      "total_sales":0.18,
-      "genre":"Music",
-      "publisher":"GameMill Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Cartoon Network: Battle Crashers",
-      "total_sales":0.26,
-      "genre":"Action",
-      "publisher":"GameMill Entertainment",
-      "year":2016
-   },
-   {
-      "title":"Nickelodeon Kart Racers",
+      "title":"40 Winks",
       "total_sales":0.31,
-      "genre":"Racing",
-      "publisher":"GameMill Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Frozen: Olaf's Quest",
-      "total_sales":1.2,
       "genre":"Platform",
-      "publisher":"GameMill Entertainment",
-      "year":2013
+      "publisher":"GT Interactive",
+      "year":1999
    },
    {
-      "title":"Has-Been Heroes",
-      "total_sales":0.27,
-      "genre":"Action",
-      "publisher":"GameTrust",
-      "year":2017
+      "title":"Shadow Warrior",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"The Invisible Hours",
-      "total_sales":0.16,
-      "genre":"Adventure",
-      "publisher":"GameTrust",
-      "year":2017
+      "title":"Dead Ball Zone",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Insecticide",
+      "title":"TigerShark",
+      "total_sales":0.07,
+      "genre":"Simulation",
+      "publisher":"GT Interactive",
+      "year":1997
+   },
+   {
+      "title":"Mike Piazza's Strike Zone",
       "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Gamecock",
-      "year":2008
+      "genre":"Sports",
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Dementium: The Ward",
-      "total_sales":0.17,
+      "title":"Invasion From Beyond",
+      "total_sales":0.09,
       "genre":"Shooter",
-      "publisher":"Gamecock",
-      "year":2007
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Mushroom Men: Rise of the Fungi",
-      "total_sales":0.11,
+      "title":"Duke Nukem: Time to Kill",
+      "total_sales":1.38,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1998
+   },
+   {
+      "title":"Critical Depth",
+      "total_sales":0.23,
       "genre":"Action",
-      "publisher":"Gamecock",
-      "year":2008
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"Hail to the Chimp",
-      "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Gamecock",
-      "year":2008
+      "title":"Oddworld: Abe's Oddysee",
+      "total_sales":1.24,
+      "genre":"Platform",
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"Legendary",
-      "total_sales":0.41,
-      "genre":"Shooter",
-      "publisher":"Gamecock",
-      "year":2008
+      "title":"Oddworld: Abe's Exoddus",
+      "total_sales":0.99,
+      "genre":"Platform",
+      "publisher":"GT Interactive",
+      "year":1998
    },
    {
-      "title":"Stronghold Crusader Extreme",
+      "title":"Bugriders: The Race of Kings",
       "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Gamecock",
-      "year":2008
+      "genre":"Racing",
+      "publisher":"GT Interactive",
+      "year":1997
    },
    {
-      "title":"Guitar Rock Tour",
-      "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Gameloft",
-      "year":2008
+      "title":"Duke Nukem: Zero Hour",
+      "total_sales":0.26,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1999
    },
    {
-      "title":"Warhammer: The End Times - Vermintide",
-      "total_sales":0.1,
-      "genre":"Action",
-      "publisher":"Games Workshop",
-      "year":2016
+      "title":"Duke Nukem: Total Meltdown",
+      "total_sales":0.61,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1997
+   },
+   {
+      "title":"Final Doom",
+      "total_sales":0.27,
+      "genre":"Shooter",
+      "publisher":"GT Interactive",
+      "year":1995
    },
    {
       "title":"Mafia",
@@ -25668,6 +25689,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Gathering of Developers",
       "year":2004
+   },
+   {
+      "title":"Stronghold Crusader",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Gathering of Developers",
+      "year":2002
    },
    {
       "title":"4x4 Evolution",
@@ -25698,6 +25726,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Tropico",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Gathering of Developers",
+      "year":2001
+   },
+   {
       "title":"The Guy Game",
       "total_sales":0.2,
       "genre":"Misc",
@@ -25710,6 +25745,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Gathering of Developers",
       "year":2003
+   },
+   {
+      "title":"Tropico 2: Pirate Cove",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Gathering of Developers",
+      "year":2003
+   },
+   {
+      "title":"Darkstone",
+      "total_sales":0.66,
+      "genre":"Role-Playing",
+      "publisher":"Gathering of Developers",
+      "year":1999
    },
    {
       "title":"Oni",
@@ -25726,158 +25775,11 @@ export const pb_data =
       "year":2001
    },
    {
-      "title":"Earthfall",
-      "total_sales":0.07,
-      "genre":"Action-Adventure",
-      "publisher":"Gearbox Software",
-      "year":2018
-   },
-   {
-      "title":"Duke Nukem 3D: 20th Anniversary World Tour",
-      "total_sales":0.18,
-      "genre":"Shooter",
-      "publisher":"Gearbox Software",
-      "year":2016
-   },
-   {
-      "title":"We Happy Few",
-      "total_sales":0.23,
-      "genre":"Action-Adventure",
-      "publisher":"Gearbox Software",
-      "year":2018
-   },
-   {
-      "title":"Hello Neighbor: Hide & Seek",
-      "total_sales":0.21,
-      "genre":"Adventure",
-      "publisher":"Gearbox Software",
-      "year":2018
-   },
-   {
-      "title":"Hello Neighbor",
-      "total_sales":1.01,
-      "genre":"Action",
-      "publisher":"Gearbox Software",
-      "year":2017
-   },
-   {
-      "title":"Subnautica",
-      "total_sales":0.19,
-      "genre":"Adventure",
-      "publisher":"Gearbox Software",
-      "year":2018
-   },
-   {
-      "title":"Bulletstorm: Full Clip Edition",
-      "total_sales":0.21,
-      "genre":"Shooter",
-      "publisher":"Gearbox Software",
-      "year":2017
-   },
-   {
-      "title":"Banner Saga Trilogy",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Gearbox Software",
-      "year":2018
-   },
-   {
-      "title":"Line Rider 2: Unbound",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"Genius Products, Inc.",
-      "year":2008
-   },
-   {
-      "title":"Banushi Life Game: Winner's Circle",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Genki",
-      "year":2007
-   },
-   {
-      "title":"Wangan Midnight",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Genki",
-      "year":2007
-   },
-   {
-      "title":"G1 Grand Prix",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Genki",
-      "year":2012
-   },
-   {
-      "title":"Wangan Midnight Portable",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Genki",
-      "year":2007
-   },
-   {
-      "title":"Umihara Kawase Jun: Second Edition Kanzenban",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Genterprise",
-      "year":2009
-   },
-   {
-      "title":"Dancing on Ice",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"Ghostlight",
-      "year":2010
-   },
-   {
-      "title":"Mary King's Riding School",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Ghostlight",
-      "year":2008
-   },
-   {
-      "title":"Ski Region Simulator 2012",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Giants Software",
-      "year":2011
-   },
-   {
-      "title":"Kiss Bell",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Giga",
-      "year":2014
-   },
-   {
-      "title":"Ore wa Shoujo Mangaka",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Giza10",
-      "year":2012
-   },
-   {
-      "title":"Sekai wa Atashi de Mawatteru: Hikari to Yami no Princess",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Global A Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Nanatama: Chronicle of Dungeon Maker",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Global A Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Cosmetic Paradise: Make no Kiseki",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Global A Entertainment",
-      "year":2008
+      "title":"Space Colony",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Gathering of Developers",
+      "year":2003
    },
    {
       "title":"Outlaw Volleyball Remixed",
@@ -25929,6 +25831,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Mall Tycoon 3",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Global Star Software",
+      "year":2005
+   },
+   {
       "title":"Robotech: Invasion",
       "total_sales":0.16,
       "genre":"Shooter",
@@ -25939,6 +25848,13 @@ export const pb_data =
       "title":"Serious Sam: Next Encounter",
       "total_sales":0.09,
       "genre":"Shooter",
+      "publisher":"Global Star Software",
+      "year":2004
+   },
+   {
+      "title":"Mall Tycoon 2 Deluxe",
+      "total_sales":0.0,
+      "genre":"Strategy",
       "publisher":"Global Star Software",
       "year":2004
    },
@@ -25962,6 +25878,27 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Global Star Software",
       "year":2004
+   },
+   {
+      "title":"School Tycoon",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Global Star Software",
+      "year":2004
+   },
+   {
+      "title":"Classified: The Sentinel Crisis",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Global Star Software",
+      "year":2006
+   },
+   {
+      "title":"Dora the Explorer Double Pak",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Global Star Software",
+      "year":2007
    },
    {
       "title":"Hummer Badlands",
@@ -26034,20 +25971,6 @@ export const pb_data =
       "year":2004
    },
    {
-      "title":"ArmA II",
-      "total_sales":0.13,
-      "genre":"Shooter",
-      "publisher":"Got Game Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Scratches",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Got Game Entertainment",
-      "year":2006
-   },
-   {
       "title":"Piglet's Big Game",
       "total_sales":0.2,
       "genre":"Platform",
@@ -26111,431 +26034,25 @@ export const pb_data =
       "year":2004
    },
    {
-      "title":"Rogue Trooper: Quartz Zone Massacre",
-      "total_sales":0.07,
+      "title":"Missile Command",
+      "total_sales":0.45,
       "genre":"Shooter",
-      "publisher":"Graffiti",
-      "year":2009
+      "publisher":"Hasbro Interactive",
+      "year":1999
    },
    {
-      "title":"Shepherd's Crossing",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Mazes of Fate DS",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Graffiti",
-      "year":2008
-   },
-   {
-      "title":"Windy X Windam",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Shepherd's Crossing 2 DS",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Free Running",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Reader Rabbit 1st Grade",
-      "total_sales":0.07,
+      "title":"Jeopardy! 2nd Edition",
+      "total_sales":0.29,
       "genre":"Misc",
-      "publisher":"Graffiti",
-      "year":2010
+      "publisher":"Hasbro Interactive",
+      "year":2000
    },
    {
-      "title":"C.O.R.E.",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"Graffiti",
-      "year":2009
-   },
-   {
-      "title":"Reader Rabbit 2nd Grade",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Horrible Histories: Ruthless Romans",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Graffiti",
-      "year":2010
-   },
-   {
-      "title":"Reader Rabbit Kindergarten",
-      "total_sales":0.39,
-      "genre":"Misc",
-      "publisher":"Graffiti",
-      "year":2009
-   },
-   {
-      "title":"Air Conflicts: Aces of World War II",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Graffiti",
-      "year":2009
-   },
-   {
-      "title":"Black Sigil: Blade of the Exiled",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Graffiti",
-      "year":2009
-   },
-   {
-      "title":"Hajime no Ippo Portable: Victorious Spirits",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Grand Prix Games",
-      "year":2007
-   },
-   {
-      "title":"Falcon 4.0: Allied Force",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Graphsim Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Rime",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Grey Box",
-      "year":2017
-   },
-   {
-      "title":"RiME",
-      "total_sales":0.26,
-      "genre":"Adventure",
-      "publisher":"Grey Box",
-      "year":2017
-   },
-   {
-      "title":"Bass Pro Shops: The Hunt",
-      "total_sales":0.32,
-      "genre":"Sports",
-      "publisher":"Griffin International",
-      "year":2010
-   },
-   {
-      "title":"World War II Combat: Iwo Jima",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Groove Games",
-      "year":2006
-   },
-   {
-      "title":"Land of the Dead: Road to Fiddler's Green",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"Groove Games",
-      "year":2005
-   },
-   {
-      "title":"World War II Combat: Road To Berlin",
-      "total_sales":0.03,
-      "genre":"Shooter",
-      "publisher":"Groove Games",
-      "year":2006
-   },
-   {
-      "title":"Pariah",
-      "total_sales":0.1,
-      "genre":"Action",
-      "publisher":"Groove Games",
-      "year":2005
-   },
-   {
-      "title":"Combat: Task Force 121",
-      "total_sales":0.07,
-      "genre":"Shooter",
-      "publisher":"Groove Games",
-      "year":2005
-   },
-   {
-      "title":"Friday the 13th: The Game",
-      "total_sales":0.75,
-      "genre":"Action",
-      "publisher":"Gun Media",
-      "year":2017
-   },
-   {
-      "title":"Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"GungHo",
-      "year":2008
-   },
-   {
-      "title":"Ragnarok: Hikari to Yami no Koujo",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"GungHo",
-      "year":2012
-   },
-   {
-      "title":"Zero Cho Aniki",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"GungHo",
-      "year":2009
-   },
-   {
-      "title":"Otometeki Koi Kakumei * Love Revo!! DS",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"GungHo",
-      "year":2008
-   },
-   {
-      "title":"PW: Project Witch",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GungHo",
-      "year":2009
-   },
-   {
-      "title":"Dokuro",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"GungHo",
-      "year":2012
-   },
-   {
-      "title":"NadePro!! Kisama no Seiyuu Yatte Miro!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"GungHo",
-      "year":2009
-   },
-   {
-      "title":"Let It Die",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"GungHo",
-      "year":2020
-   },
-   {
-      "title":"R\u00e9publique",
-      "total_sales":0.02,
-      "genre":"Action-Adventure",
-      "publisher":"GungHo Online Entertainment",
-      "year":2016
-   },
-   {
-      "title":"Puzzle & Dragons X: God Chapter \/ Dragon Chapter",
-      "total_sales":0.32,
+      "title":"Breakout",
+      "total_sales":0.11,
       "genre":"Puzzle",
-      "publisher":"GungHo Online Entertainment",
-      "year":2016
-   },
-   {
-      "title":"Lise no Atelier: Ordre no Renkinjutsushi",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2007
-   },
-   {
-      "title":"Surge Concerto: Ciel nosurge",
-      "total_sales":0.1,
-      "genre":"Simulation",
-      "publisher":"Gust",
-      "year":2012
-   },
-   {
-      "title":"Judie no Atelier: Guramnat no Renkinjutsu - Toraware no Morito",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2010
-   },
-   {
-      "title":"Judie no Atelier: Guramnat no Renkinjutsushi",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2002
-   },
-   {
-      "title":"Mana Khemia 2: Ochita Gakuen to Renkinjutsushi Tachi Portable+",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2009
-   },
-   {
-      "title":"Atelier Totori: The Adventurer of Arland",
-      "total_sales":0.52,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2011
-   },
-   {
-      "title":"Violet no Atelier: Gramnad no Renkinjutsushi 2 - Gunjou no Omoide",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2011
-   },
-   {
-      "title":"Lilie no Atelier: Salburg no Renkinjutsushi 3",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2001
-   },
-   {
-      "title":"Atelier Meruru Plus: The Apprentice of Arland",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Gust",
-      "year":2013
-   },
-   {
-      "title":"Pachitte Chonmage Tatsujin 16: Pachinko Hissatsu Shigotojin III",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2010
-   },
-   {
-      "title":"Pachitte Chonmage Tatsujin 15: Pachinko Fuyu no Sonata 2",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2008
-   },
-   {
-      "title":"Pachitte Chonmage Tatsujin 12: Pachinko Ultraman",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2007
-   },
-   {
-      "title":"Pachitte Chonmage Tatsujin 10: Pachinko Fuyu no Sonata",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2007
-   },
-   {
-      "title":"Pachinko Kaou: Misora Hibari",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2007
-   },
-   {
-      "title":"Pachinko Kamen Rider: Shocker Zenmetsu Daisakusen",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2008
-   },
-   {
-      "title":"Pachitte Chonmage Tatsujin 13: Pachinko Hissatsu Shigotojin III",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Hackberry",
-      "year":2007
-   },
-   {
-      "title":"Arcade Hits: Frisky Tom",
-      "total_sales":0.28,
-      "genre":"Action",
-      "publisher":"Hamster Corporation",
-      "year":2002
-   },
-   {
-      "title":"The Conveni Portable",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Hamster Corporation",
-      "year":2010
-   },
-   {
-      "title":"The Conveni 4",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Hamster Corporation",
-      "year":2006
-   },
-   {
-      "title":"12-Sai. Honto no Kimochi",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Happinet",
-      "year":2014
-   },
-   {
-      "title":"12-Sai. Koisuru Diary",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Happinet",
-      "year":2016
-   },
-   {
-      "title":"12-Sai. Torokeru Puzzle Futari no Harmony",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Happinet",
-      "year":2017
-   },
-   {
-      "title":"Sousaku Alice to Oujisama!",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Happinet",
-      "year":2015
-   },
-   {
-      "title":"Niko Puchi Girls Runway",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Happinet",
-      "year":2015
-   },
-   {
-      "title":"Dolly Kanon Dokidoki Tokimeki Himitsu no Ongaku Katsudou Start Desu!!",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Happinet",
-      "year":2014
-   },
-   {
-      "title":"Rock Band 4",
-      "total_sales":1.32,
-      "genre":"Music",
-      "publisher":"Harmonix Music Systems",
-      "year":2015
-   },
-   {
-      "title":"Nora to Koujo to Noraneko Heart",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Harukaze",
-      "year":2017
+      "publisher":"Hasbro Interactive",
+      "year":2000
    },
    {
       "title":"NickToons Racing",
@@ -26545,6 +26062,48 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Frogger",
+      "total_sales":4.16,
+      "genre":"Action",
+      "publisher":"Hasbro Interactive",
+      "year":1997
+   },
+   {
+      "title":"Frogger 2: Swampy's Revenge",
+      "total_sales":1.43,
+      "genre":"Action",
+      "publisher":"Hasbro Interactive",
+      "year":2000
+   },
+   {
+      "title":"Pong: The Next Level",
+      "total_sales":1.01,
+      "genre":"Puzzle",
+      "publisher":"Hasbro Interactive",
+      "year":1999
+   },
+   {
+      "title":"Galaga: Destination Earth",
+      "total_sales":0.24,
+      "genre":"Shooter",
+      "publisher":"Hasbro Interactive",
+      "year":2000
+   },
+   {
+      "title":"Q*bert",
+      "total_sales":1.42,
+      "genre":"Puzzle",
+      "publisher":"Hasbro Interactive",
+      "year":1983
+   },
+   {
+      "title":"NASCAR Heat",
+      "total_sales":0.39,
+      "genre":"Racing",
+      "publisher":"Hasbro Interactive",
+      "year":2000
+   },
+   {
       "title":"Shrek \/ Shark Tale Game Boy Advance Video",
       "total_sales":0.02,
       "genre":"Misc",
@@ -26552,144 +26111,11 @@ export const pb_data =
       "year":2006
    },
    {
-      "title":"The Inner World",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Headup Games",
-      "year":2013
-   },
-   {
-      "title":"Nancy Drew: The Phantom of Venice",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Her Interactive",
-      "year":2008
-   },
-   {
-      "title":"Nancy Drew: Alibi In Ashes",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Her Interactive",
-      "year":2011
-   },
-   {
-      "title":"CT Special Forces",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Fear Factor: Unleashed",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Dog's Life",
-      "total_sales":0.42,
-      "genre":"Adventure",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Sitting Ducks",
-      "total_sales":0.08,
-      "genre":"Platform",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Stolen",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Hip Interactive",
-      "year":2005
-   },
-   {
-      "title":"CT Special Forces 2: Back in the Trenches",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Around the World in 80 Days",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Hip Interactive",
-      "year":2004
-   },
-   {
-      "title":"Special Forces: Nemesis Strike",
-      "total_sales":0.03,
-      "genre":"Shooter",
-      "publisher":"Hip Interactive",
-      "year":2005
-   },
-   {
-      "title":"Tennis Masters Series 2003",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Hip Interactive",
-      "year":2003
-   },
-   {
-      "title":"Rugby League Live",
-      "total_sales":0.06,
-      "genre":"Sports",
-      "publisher":"Home Entertainment Suppliers",
-      "year":2010
-   },
-   {
-      "title":"Warhammer 40,000: Deathwatch",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Hoplite Research",
-      "year":2018
-   },
-   {
-      "title":"Graffiti Kingdom",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Hot-B",
-      "year":2005
-   },
-   {
-      "title":"Bomberman Land Touch! 2",
-      "total_sales":0.16,
-      "genre":"Puzzle",
-      "publisher":"Hudson Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Moeru Mahjong: Moejong!",
-      "total_sales":0.01,
+      "title":"Wheel of Fortune: 2nd Edition",
+      "total_sales":0.41,
       "genre":"Misc",
-      "publisher":"Hudson Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Miami Law",
-      "total_sales":0.1,
-      "genre":"Adventure",
-      "publisher":"Hudson Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Dungeon Explorer: Warriors of Ancient Arts",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Hudson Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Fishing Master World Tour",
-      "total_sales":0.09,
-      "genre":"Sports",
-      "publisher":"Hudson Entertainment",
-      "year":2009
+      "publisher":"Hasbro Interactive",
+      "year":2000
    },
    {
       "title":"Boboboubo Boubobo: Ougi 87.5 Bakuretsu Hanage Shinken",
@@ -26697,6 +26123,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Hudson Soft",
       "year":2002
+   },
+   {
+      "title":"Virus",
+      "total_sales":0.08,
+      "genre":"Adventure",
+      "publisher":"Hudson Soft",
+      "year":1997
    },
    {
       "title":"Wing Island",
@@ -26732,6 +26165,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Hudson Soft",
       "year":2010
+   },
+   {
+      "title":"Doraemon",
+      "total_sales":1.15,
+      "genre":"Action",
+      "publisher":"Hudson Soft",
+      "year":1986
    },
    {
       "title":"Original Story from Fairy Tail: Gekitotsu! Kardia Daiseidou",
@@ -26776,6 +26216,27 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Tengai Makyou: Daishi no Mokushiroku - The Apocalypse IV",
+      "total_sales":0.26,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":1997
+   },
+   {
+      "title":"Far East of Eden Zero",
+      "total_sales":0.3,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":1995
+   },
+   {
+      "title":"b.l.u.e.: Legend of Water",
+      "total_sales":0.04,
+      "genre":"Adventure",
+      "publisher":"Hudson Soft",
+      "year":1998
+   },
+   {
       "title":"Beyblade: Metal Fusion",
       "total_sales":0.25,
       "genre":"Role-Playing",
@@ -26811,11 +26272,39 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Bomberman II",
+      "total_sales":0.44,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1992
+   },
+   {
       "title":"PC Engine Best Collection: Tengai Makyou Collection",
       "total_sales":0.02,
       "genre":"Role-Playing",
       "publisher":"Hudson Soft",
       "year":2008
+   },
+   {
+      "title":"PC Engine Best Collection: Soldier Collection",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Hudson Soft",
+      "year":2008
+   },
+   {
+      "title":"Bomberman B-Daman",
+      "total_sales":0.17,
+      "genre":"Shooter",
+      "publisher":"Hudson Soft",
+      "year":1996
+   },
+   {
+      "title":"Virtual Soccer",
+      "total_sales":0.53,
+      "genre":"Sports",
+      "publisher":"Hudson Soft",
+      "year":1994
    },
    {
       "title":"Zettai Onkan Otoda Master",
@@ -26832,11 +26321,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Bomberman 64",
+      "total_sales":1.04,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1997
+   },
+   {
       "title":"Bomberman 2",
       "total_sales":0.02,
       "genre":"Puzzle",
       "publisher":"Hudson Soft",
       "year":2009
+   },
+   {
+      "title":"Ginga Fukei Densetsu: Sapphire",
+      "total_sales":0.02,
+      "genre":"Shooter",
+      "publisher":"Hudson Soft",
+      "year":1995
    },
    {
       "title":"Monotaro Dentetsu 2010: Sengoku Ishin no Hero Daishuugou! no Maki",
@@ -26867,6 +26370,34 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Far East of Eden Ziria: Harukanaru Jipang",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":2006
+   },
+   {
+      "title":"Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki",
+      "total_sales":1.5,
+      "genre":"Platform",
+      "publisher":"Hudson Soft",
+      "year":1986
+   },
+   {
+      "title":"Super Adventure Island",
+      "total_sales":0.22,
+      "genre":"Platform",
+      "publisher":"Hudson Soft",
+      "year":1992
+   },
+   {
+      "title":"Far East of Eden Shinden",
+      "total_sales":0.03,
+      "genre":"Fighting",
+      "publisher":"Hudson Soft",
+      "year":1995
+   },
+   {
       "title":"Momotarou Dentetsu World",
       "total_sales":0.19,
       "genre":"Misc",
@@ -26879,6 +26410,41 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Hudson Soft",
       "year":2006
+   },
+   {
+      "title":"J-League '96 Dream Stadium",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Hudson Soft",
+      "year":1996
+   },
+   {
+      "title":"Super Power League",
+      "total_sales":0.17,
+      "genre":"Sports",
+      "publisher":"Hudson Soft",
+      "year":1993
+   },
+   {
+      "title":"Super Power League 2",
+      "total_sales":0.33,
+      "genre":"Sports",
+      "publisher":"Hudson Soft",
+      "year":1994
+   },
+   {
+      "title":"Momotaro Douchuuki",
+      "total_sales":0.13,
+      "genre":"Misc",
+      "publisher":"Hudson Soft",
+      "year":1997
+   },
+   {
+      "title":"Adventure Island",
+      "total_sales":1.05,
+      "genre":"Platform",
+      "publisher":"Hudson Soft",
+      "year":1988
    },
    {
       "title":"Momotarou Densetsu 16 (PS2 the Best sales)",
@@ -26902,6 +26468,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Daikaijyuu Monogatari II",
+      "total_sales":0.12,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":1996
+   },
+   {
       "title":"Deca Sports DS",
       "total_sales":0.1,
       "genre":"Sports",
@@ -26909,11 +26482,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Super Momotarou Dentetsu III",
+      "total_sales":0.91,
+      "genre":"Simulation",
+      "publisher":"Hudson Soft",
+      "year":1994
+   },
+   {
       "title":"Momotarou Dentetsu Tag Match: Yuujou - Doryoku - Shouri no Maki!",
       "total_sales":0.07,
       "genre":"Misc",
       "publisher":"Hudson Soft",
       "year":2010
+   },
+   {
+      "title":"Momotarou Dentetsu Happy",
+      "total_sales":0.32,
+      "genre":"Misc",
+      "publisher":"Hudson Soft",
+      "year":1996
    },
    {
       "title":"Kurogane no Linebarrels",
@@ -26958,6 +26545,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Shin Momotarou Densetsu",
+      "total_sales":0.32,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":1993
+   },
+   {
       "title":"DECA Sports Freedom",
       "total_sales":0.33,
       "genre":"Sports",
@@ -26979,11 +26573,32 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Daikaijyuu Monogatari",
+      "total_sales":0.3,
+      "genre":"Role-Playing",
+      "publisher":"Hudson Soft",
+      "year":1994
+   },
+   {
+      "title":"Super Momotarou Dentetsu DX",
+      "total_sales":0.47,
+      "genre":"Misc",
+      "publisher":"Hudson Soft",
+      "year":1995
+   },
+   {
       "title":"Deca Sports 3",
       "total_sales":0.23,
       "genre":"Sports",
       "publisher":"Hudson Soft",
       "year":2010
+   },
+   {
+      "title":"Super Bomberman 5",
+      "total_sales":0.3,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1997
    },
    {
       "title":"Help Wanted: 50 Wacky Jobs (jp sales)",
@@ -27007,6 +26622,27 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Super Bomberman 4",
+      "total_sales":0.44,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1996
+   },
+   {
+      "title":"Super Bomberman 3",
+      "total_sales":0.7,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1995
+   },
+   {
+      "title":"Super Bomberman",
+      "total_sales":0.57,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1993
+   },
+   {
       "title":"Momu-chan Diet Wii: Figurobics by Chon Dayon",
       "total_sales":0.09,
       "genre":"Misc",
@@ -27014,81 +26650,11 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"Kaleidoeve",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"HuneX",
-      "year":2015
-   },
-   {
-      "title":"Irotoridori no Sekai: World's End Re-Birth",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"HuneX",
-      "year":2015
-   },
-   {
-      "title":"Monobeno: Pure Smile",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"HuneX",
-      "year":2014
-   },
-   {
-      "title":"Motto TOEIC Test DS Training",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2008
-   },
-   {
-      "title":"Chuugaku Eitango Target 1800 DS",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2006
-   },
-   {
-      "title":"Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Koushiki Soft: 250 Banjin no KanKen Premium - Zenkyuu Zen-Kanji Kanzen Seiha",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2009
-   },
-   {
-      "title":"Poyopoyo Observation Diary",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2012
-   },
-   {
-      "title":"TOEIC Test Training DS",
-      "total_sales":0.17,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2007
-   },
-   {
-      "title":"Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Koushiki Soft: 200 Mannin no KanKen: Tokoton Kanji Nou",
-      "total_sales":1.32,
-      "genre":"Misc",
-      "publisher":"IE Institute",
-      "year":2006
-   },
-   {
-      "title":"Housekeeping",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"IE Institute",
-      "year":2006
-   },
-   {
-      "title":"APB Reloaded",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"IGS",
-      "year":2011
+      "title":"Super Bomberman 2",
+      "total_sales":0.81,
+      "genre":"Puzzle",
+      "publisher":"Hudson Soft",
+      "year":1994
    },
    {
       "title":"Amnesia",
@@ -27217,11 +26783,25 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
       "title":"Marginal #4: Idol of Supernova",
       "total_sales":0.02,
       "genre":"Adventure",
       "publisher":"Idea Factory",
       "year":2014
+   },
+   {
+      "title":"Moetan DS",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Idea Factory",
+      "year":2008
    },
    {
       "title":"Elkrone no Atelier: Dear for Otomate",
@@ -27236,6 +26816,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Idea Factory",
       "year":2017
+   },
+   {
+      "title":"Osouji Sentai Clean Keeper H",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
    },
    {
       "title":"Osomatsu-San: The Game - Hang-Up Finding Employment Advice - Dead or Work",
@@ -27315,6 +26902,13 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Ora ga Omae o Mamoru",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
       "title":"Moujuu-Tachi to Ohimesama: In Blossom",
       "total_sales":0.01,
       "genre":"Adventure",
@@ -27334,6 +26928,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Idea Factory",
       "year":2010
+   },
+   {
+      "title":"L2: Love x Loop",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
    },
    {
       "title":"Jyuzaengi Engetsu Sangokuden 2",
@@ -27483,6 +27084,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Nekketsu Inou Bukatsu: Trigger Kiss",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2014
+   },
+   {
       "title":"Armen Noir Portable",
       "total_sales":0.01,
       "genre":"Misc",
@@ -27516,6 +27124,34 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Idea Factory",
       "year":2016
+   },
+   {
+      "title":"Will O' Wisp: Easter no Kiseki",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2008
+   },
+   {
+      "title":"Will O' Wisp Portable",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
+      "title":"Will O' Wisp DS",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
+      "title":"Cendrillon palikA",
+      "total_sales":0.0,
+      "genre":"Visual Novel",
+      "publisher":"Idea Factory",
+      "year":2018
    },
    {
       "title":"Kimikare: New Semester",
@@ -27565,6 +27201,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Idea Factory",
       "year":2013
+   },
+   {
+      "title":"Uwasa no Midori-Kun!! 2 Futari no Midori!?",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2008
    },
    {
       "title":"Miyako",
@@ -27649,6 +27292,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Idea Factory",
       "year":2015
+   },
+   {
+      "title":"Murasaki no Honoo",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2008
    },
    {
       "title":"Bond of Ten Demons",
@@ -27840,6 +27490,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Hiiro no Kakera: Aizouban",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
       "title":"Hiiro no Kakera Twin Pack",
       "total_sales":0.01,
       "genre":"Adventure",
@@ -27929,6 +27586,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Idea Factory",
       "year":2015
+   },
+   {
+      "title":"Hakuoki: Shinkai - Fuukaden",
+      "total_sales":0.0,
+      "genre":"Visual Novel",
+      "publisher":"Idea Factory",
+      "year":2018
    },
    {
       "title":"Hakuoki: Shinkai - Hana no Shou",
@@ -28097,6 +27761,13 @@ export const pb_data =
       "genre":"Visual Novel",
       "publisher":"Idea Factory",
       "year":2018
+   },
+   {
+      "title":"Fushigi Yuugi DS",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
    },
    {
       "title":"Fushigi Yuugi: Suzaku Ibun",
@@ -28281,6 +27952,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Hakuouki: Zuisouroku Twin Pack",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Idea Factory",
+      "year":2009
+   },
+   {
       "title":"Hanayaka Kana, Ware ga Ichizoku: Tasogare Polarstar",
       "total_sales":0.02,
       "genre":"Visual Novel",
@@ -28337,331 +28015,58 @@ export const pb_data =
       "year":2014
    },
    {
-      "title":"Cyberdimension Neptunia: 4 Goddesses Online",
-      "total_sales":0.14,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2017
-   },
-   {
-      "title":"Megadimension Neptunia VIIR",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2018
-   },
-   {
-      "title":"Super Neptunia RPG",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2019
-   },
-   {
-      "title":"Megadimension Neptunia VII",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2016
-   },
-   {
-      "title":"Fairy Fencer F: Advent Dark Force",
-      "total_sales":0.14,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2016
-   },
-   {
-      "title":"MegaTagmension Blanc + Neptune VS Zombies",
-      "total_sales":0.13,
+      "title":"Dragonfire",
+      "total_sales":0.37,
       "genre":"Action",
-      "publisher":"Idea Factory International",
-      "year":2016
+      "publisher":"Imagic",
+      "year":1982
    },
    {
-      "title":"Hyperdimension Neptunia Re;Birth 3: V Generation",
-      "total_sales":0.17,
-      "genre":"Action",
-      "publisher":"Idea Factory International",
-      "year":2015
-   },
-   {
-      "title":"Hyperdimension Neptunia U: Action Unleashed",
-      "total_sales":0.13,
-      "genre":"Action",
-      "publisher":"Idea Factory International",
-      "year":2015
-   },
-   {
-      "title":"Superdimension Neptune vs Sega Hard Girls",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2016
-   },
-   {
-      "title":"Dark Rose Valkyrie",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Idea Factory International",
-      "year":2017
-   },
-   {
-      "title":"Blue Dragon Plus",
-      "total_sales":0.21,
-      "genre":"Role-Playing",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Metal Slug 7",
-      "total_sales":0.14,
+      "title":"Demon Attack",
+      "total_sales":2.13,
       "genre":"Shooter",
-      "publisher":"Ignition Entertainment",
-      "year":2008
+      "publisher":"Imagic",
+      "year":1982
    },
    {
-      "title":"Stadium Games",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Ignition Entertainment",
-      "year":2004
+      "title":"Atlantis",
+      "total_sales":1.27,
+      "genre":"Shooter",
+      "publisher":"Imagic",
+      "year":1982
    },
    {
-      "title":"Lux-Pain",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Animal Snap: Rescue Them 2 By 2",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2002
-   },
-   {
-      "title":"The King of Fighters XII",
-      "total_sales":0.27,
-      "genre":"Fighting",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Vampire Rain: Altered Species",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Nostalgia",
-      "total_sales":0.19,
-      "genre":"Role-Playing",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Spectral Force Genesis",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Ignition Entertainment",
-      "year":2010
-   },
-   {
-      "title":"The King of Fighters '98 Ultimate Match",
-      "total_sales":0.12,
-      "genre":"Fighting",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Obscure: The Aftermath",
-      "total_sales":0.21,
-      "genre":"Adventure",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Tornado",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Zoo Keeper",
-      "total_sales":0.17,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Boing! Docomodake DS",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"El Shaddai: Ascension of the Metatron",
-      "total_sales":0.44,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Puyo Pop Fever",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Teenage Zombies: Invasion of the Alien Brain Thingys",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Flipper Critters",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Ignition Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Deadly Premonition",
-      "total_sales":0.26,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Lux-Pain (JP sales)",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Ignition Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Animaniacs: The Great Edgar Hunt",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Ignition Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Mercury Meltdown Revolution",
-      "total_sales":0.17,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Archer Maclean's Mercury",
-      "total_sales":0.56,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Bubble Bobble Double Shot",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Elf Bowling 1 & 2",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Ignition Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Archer Maclean Presents: Pool Paradise",
-      "total_sales":0.09,
-      "genre":"Sports",
-      "publisher":"Ignition Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Red Bull BC One",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Ignition Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Order Up!!",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Mercury Meltdown",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Ignition Entertainment",
-      "year":2006
-   },
-   {
-      "title":"Demon Driver: Time to Burn Rubber!",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Ignition Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Lotus Challenge",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Ignition Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Sol Trigger",
-      "total_sales":0.1,
-      "genre":"Role-Playing",
-      "publisher":"Image Epoch",
-      "year":2012
-   },
-   {
-      "title":"Medabots Classics: Metabee Ver. \/ Rokusho Ver.",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Imagineer",
-      "year":2017
-   },
-   {
-      "title":"Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai: Kanken Training 2",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Imagineer",
-      "year":2017
-   },
-   {
-      "title":"Medarot 4: Kabuto \/ Kuwagata Version",
-      "total_sales":0.12,
-      "genre":"Role-Playing",
-      "publisher":"Imagineer",
-      "year":2001
-   },
-   {
-      "title":"Horse Life 4",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Independent Arts Software GmbH",
-      "year":2015
+      "title":"Cosmic Ark",
+      "total_sales":1.05,
+      "genre":"Shooter",
+      "publisher":"Imagic",
+      "year":1982
    },
    {
       "title":"Looney Tunes: Sheep Raider",
       "total_sales":0.12,
       "genre":"Platform",
+      "publisher":"Infogrames",
+      "year":2001
+   },
+   {
+      "title":"Lode Runner 3-D",
+      "total_sales":0.1,
+      "genre":"Action",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
+      "title":"Looney Tunes Racing",
+      "total_sales":0.29,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Sid Meier's Civilization III",
+      "total_sales":0.0,
+      "genre":"Strategy",
       "publisher":"Infogrames",
       "year":2001
    },
@@ -28678,6 +28083,20 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Infogrames",
       "year":2001
+   },
+   {
+      "title":"Real Pool",
+      "total_sales":0.28,
+      "genre":"Sports",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Peter Jacobsen's Golden Tee Golf",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Infogrames",
+      "year":2000
    },
    {
       "title":"Micro Machines",
@@ -28701,6 +28120,34 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Power Spike Pro Beach Volleyball",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Boarder Zone",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Bugs Bunny: Lost in Time",
+      "total_sales":0.4,
+      "genre":"Platform",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
+      "title":"Bugs Bunny & Taz: Time Busters",
+      "total_sales":0.21,
+      "genre":"Adventure",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
       "title":"Hogs of War \/ Worms",
       "total_sales":0.06,
       "genre":"Strategy",
@@ -28708,11 +28155,67 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Hogs of War",
+      "total_sales":0.02,
+      "genre":"Role-Playing",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Moto Racer World Tour",
+      "total_sales":0.38,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"PGA European Tour",
+      "total_sales":0.01,
+      "genre":"Sports",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Expendable",
+      "total_sales":0.05,
+      "genre":"Action",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Looney Tunes Duck Dodgers Starring: Daffy Duck",
+      "total_sales":0.04,
+      "genre":"Platform",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Unreal Tournament",
+      "total_sales":0.58,
+      "genre":"Shooter",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Starshot: Space Circus Fever",
+      "total_sales":0.03,
+      "genre":"Platform",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
       "title":"Pajama Sam: You are What You Eat From Your Head to Your Feet",
       "total_sales":0.04,
       "genre":"Adventure",
       "publisher":"Infogrames",
       "year":2001
+   },
+   {
+      "title":"Test Drive Le Mans",
+      "total_sales":0.05,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":2000
    },
    {
       "title":"NASCAR Heat 2002",
@@ -28729,6 +28232,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"PenPen TriIceLon",
+      "total_sales":0.06,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
       "title":"RollerCoaster Tycoon: Gold Edition",
       "total_sales":0.02,
       "genre":"Strategy",
@@ -28743,11 +28253,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Indy Racing 2000",
+      "total_sales":0.1,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
+      "title":"Animorphs: Shattered Reality",
+      "total_sales":0.06,
+      "genre":"Action",
+      "publisher":"Infogrames",
+      "year":2000
+   },
+   {
       "title":"NASCAR: Dirt to Daytona",
       "total_sales":0.67,
       "genre":"Racing",
       "publisher":"Infogrames",
       "year":2002
+   },
+   {
+      "title":"Worms Armageddon",
+      "total_sales":0.04,
+      "genre":"Strategy",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
+      "title":"Demolition Racer",
+      "total_sales":0.31,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":1999
    },
    {
       "title":"World of Outlaws: Sprint Cars 2002",
@@ -28792,11 +28330,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"V-Rally Edition 99",
+      "total_sales":0.09,
+      "genre":"Racing",
+      "publisher":"Infogrames",
+      "year":1999
+   },
+   {
       "title":"Atari Anniversary Edition Redux",
       "total_sales":0.18,
       "genre":"Misc",
       "publisher":"Infogrames",
       "year":2001
+   },
+   {
+      "title":"Lucky Luke",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Infogrames",
+      "year":1998
    },
    {
       "title":"Test Drive Off-Road Wide Open",
@@ -28806,53 +28358,11 @@ export const pb_data =
       "year":2001
    },
    {
-      "title":"Song of the Deep",
-      "total_sales":0.35,
-      "genre":"Action",
-      "publisher":"Insomniac Games",
-      "year":2016
-   },
-   {
-      "title":"Otometeki Koi Kakumei * Love Revo",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Interchannel",
-      "year":2006
-   },
-   {
-      "title":"Clannad",
-      "total_sales":0.15,
-      "genre":"Adventure",
-      "publisher":"Interchannel",
-      "year":2006
-   },
-   {
-      "title":"Hokuto no Ken: Raoh Gaiden - Ten no Haoh",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Interchannel",
-      "year":2009
-   },
-   {
-      "title":"School Days LxH",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Interchannel",
-      "year":2008
-   },
-   {
-      "title":"SoulLink Extension",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Interchannel",
-      "year":2006
-   },
-   {
-      "title":"Palais de Reine",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Interchannel-Holon",
-      "year":2007
+      "title":"Caesars Palace 2000: Millennium Gold Edition",
+      "total_sales":0.77,
+      "genre":"Misc",
+      "publisher":"Interplay",
+      "year":2000
    },
    {
       "title":"Baldur's Gate: Dark Alliance II",
@@ -28862,11 +28372,102 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"ClayFighter 63 1\/3",
+      "total_sales":0.21,
+      "genre":"Fighting",
+      "publisher":"Interplay",
+      "year":1997
+   },
+   {
       "title":"RLH: Run Like Hell",
       "total_sales":0.14,
       "genre":"Shooter",
       "publisher":"Interplay",
       "year":2002
+   },
+   {
+      "title":"Giants: Citizen Kabuto",
+      "total_sales":0.06,
+      "genre":"Shooter",
+      "publisher":"Interplay",
+      "year":2000
+   },
+   {
+      "title":"Heart of Darkness",
+      "total_sales":0.32,
+      "genre":"Platform",
+      "publisher":"Interplay",
+      "year":1998
+   },
+   {
+      "title":"Renegade Racers",
+      "total_sales":0.03,
+      "genre":"Racing",
+      "publisher":"Interplay",
+      "year":2000
+   },
+   {
+      "title":"VR Soccer '96",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Wild 9",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Interplay",
+      "year":1998
+   },
+   {
+      "title":"Interplay Sports Baseball 2000",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"Interplay",
+      "year":1999
+   },
+   {
+      "title":"Pro Pinball",
+      "total_sales":0.41,
+      "genre":"Misc",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Gekido",
+      "total_sales":0.1,
+      "genre":"Fighting",
+      "publisher":"Interplay",
+      "year":2000
+   },
+   {
+      "title":"Sacrifice",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Interplay",
+      "year":2000
+   },
+   {
+      "title":"Descent",
+      "total_sales":0.19,
+      "genre":"Shooter",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Descent Maximum",
+      "total_sales":0.1,
+      "genre":"Shooter",
+      "publisher":"Interplay",
+      "year":1997
+   },
+   {
+      "title":"Fallout 2",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Interplay",
+      "year":1998
    },
    {
       "title":"Fallout Trilogy",
@@ -28883,6 +28484,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Wild Wild Racing",
+      "total_sales":0.21,
+      "genre":"Racing",
+      "publisher":"Interplay",
+      "year":2000
+   },
+   {
       "title":"Hunter: The Reckoning",
       "total_sales":0.48,
       "genre":"Action",
@@ -28897,6 +28505,41 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Crime Killer",
+      "total_sales":0.12,
+      "genre":"Racing",
+      "publisher":"Interplay",
+      "year":1998
+   },
+   {
+      "title":"Reloaded",
+      "total_sales":0.17,
+      "genre":"Action",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Virtual Pool",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Interplay",
+      "year":1997
+   },
+   {
+      "title":"Casper",
+      "total_sales":0.84,
+      "genre":"Adventure",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Caesars Palace II",
+      "total_sales":0.25,
+      "genre":"Misc",
+      "publisher":"Interplay",
+      "year":1998
+   },
+   {
       "title":"MDK2 Armageddon",
       "total_sales":0.17,
       "genre":"Shooter",
@@ -28904,109 +28547,46 @@ export const pb_data =
       "year":2001
    },
    {
-      "title":"Prison Architect",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Introversion Software",
-      "year":2016
-   },
-   {
-      "title":"PachiPara 15: Super Umi Monogatari in Okinawa 2",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2010
-   },
-   {
-      "title":"PachiPara 3D",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2011
-   },
-   {
-      "title":"R-Type Tactics II: Operation Bitter Chocolate",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Irem Software Engineering",
-      "year":2009
-   },
-   {
-      "title":"DokuSui: DokiDoki Suikoden",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Irem Software Engineering",
-      "year":2011
-   },
-   {
-      "title":"Zettai Zetsumei Toshi 3: Kowareyuku Machi to Kanojyo no Uta",
+      "title":"Norse by Norsewest: The Return of the Lost Vikings",
       "total_sales":0.07,
       "genre":"Action",
-      "publisher":"Irem Software Engineering",
-      "year":2009
+      "publisher":"Interplay",
+      "year":1997
    },
    {
-      "title":"PachiPara 3D: Ooumi Monogatari 2 - Pachi Pro Fuuunroku Hana - Kibou to Uragiri no Gakuen Seikatsu",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2012
+      "title":"Messiah",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Interplay",
+      "year":2000
    },
    {
-      "title":"Narisokonai Eiyuutan: Taiyou to Tsuki no Monogatari",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Irem Software Engineering",
-      "year":2009
-   },
-   {
-      "title":"PachiPara 14: Fuu to Kumo to Super Umi in Okinawa",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2007
-   },
-   {
-      "title":"Sengoku Efuda Yuugi: Hototogisu Ran",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2008
-   },
-   {
-      "title":"PachiPara 13: Super Umi no Pachi-Pro Fuuunroku",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Irem Software Engineering",
-      "year":2006
-   },
-   {
-      "title":"Sengoku Efuda Yuugi: Hototogisu Tairan",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Irem Software Engineering",
-      "year":2010
-   },
-   {
-      "title":"The Cat in the Hat",
-      "total_sales":0.38,
-      "genre":"Platform",
-      "publisher":"Jack of All Games",
-      "year":2005
-   },
-   {
-      "title":"Veggy World",
-      "total_sales":0.02,
+      "title":"MDK2",
+      "total_sales":0.0,
       "genre":"Shooter",
-      "publisher":"Jack of All Games",
-      "year":2011
+      "publisher":"Interplay",
+      "year":2000
    },
    {
-      "title":"Hoppie",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Jack of All Games",
-      "year":2011
+      "title":"Tempest 3X",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Cyberia",
+      "total_sales":0.09,
+      "genre":"Adventure",
+      "publisher":"Interplay",
+      "year":1996
+   },
+   {
+      "title":"Planescape: Torment",
+      "total_sales":0.03,
+      "genre":"Role-Playing",
+      "publisher":"Interplay",
+      "year":1999
    },
    {
       "title":"Nep League DS",
@@ -29014,6 +28594,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Jaleco",
       "year":2007
+   },
+   {
+      "title":"Ougon no Kizuna",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Jaleco",
+      "year":2009
    },
    {
       "title":"Lowrider",
@@ -29028,6 +28615,27 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Jaleco",
       "year":2008
+   },
+   {
+      "title":"Idol Janshi Suchie-Pai Remix",
+      "total_sales":0.1,
+      "genre":"Misc",
+      "publisher":"Jaleco",
+      "year":1995
+   },
+   {
+      "title":"Builder's Block",
+      "total_sales":0.01,
+      "genre":"Strategy",
+      "publisher":"Jaleco",
+      "year":2000
+   },
+   {
+      "title":"Sea Trader: Rise of Taipan",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Jaleco",
+      "year":2003
    },
    {
       "title":"Idol Janshi Suchie-Pai IV",
@@ -29058,6 +28666,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Bakusou Kyoudai Let's & Go!! Eternal Wings",
+      "total_sales":0.05,
+      "genre":"Racing",
+      "publisher":"Jaleco",
+      "year":1998
+   },
+   {
       "title":"World Championship Pool 2004",
       "total_sales":0.09,
       "genre":"Sports",
@@ -29065,11 +28680,46 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"K-1 Revenge",
+      "total_sales":0.24,
+      "genre":"Fighting",
+      "publisher":"Jaleco",
+      "year":1999
+   },
+   {
+      "title":"K-1 Grand Prix",
+      "total_sales":0.01,
+      "genre":"Fighting",
+      "publisher":"Jaleco",
+      "year":2000
+   },
+   {
+      "title":"Vanark",
+      "total_sales":0.01,
+      "genre":"Shooter",
+      "publisher":"Jaleco",
+      "year":2000
+   },
+   {
+      "title":"Bases Loaded '96: Double Header",
+      "total_sales":0.52,
+      "genre":"Sports",
+      "publisher":"Jaleco",
+      "year":1995
+   },
+   {
       "title":"Zenkoku Dekotora Matsuri",
       "total_sales":0.03,
       "genre":"Racing",
       "publisher":"Jaleco",
       "year":2008
+   },
+   {
+      "title":"BRAHMA Force: The Assault on Beltlogger 9",
+      "total_sales":0.03,
+      "genre":"Shooter",
+      "publisher":"Jaleco",
+      "year":1997
    },
    {
       "title":"Karnaaj Rally",
@@ -29086,11 +28736,46 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Nectaris: Military Madness",
+      "total_sales":0.03,
+      "genre":"Strategy",
+      "publisher":"Jaleco",
+      "year":1998
+   },
+   {
+      "title":"Speed Racer",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Jaleco",
+      "year":1998
+   },
+   {
+      "title":"Irritating Stick",
+      "total_sales":0.02,
+      "genre":"Action",
+      "publisher":"Jaleco",
+      "year":1999
+   },
+   {
+      "title":"Tetris Plus",
+      "total_sales":2.4,
+      "genre":"Puzzle",
+      "publisher":"Jaleco",
+      "year":1996
+   },
+   {
       "title":"Pulse Racer",
       "total_sales":0.02,
       "genre":"Racing",
       "publisher":"Jaleco",
       "year":2003
+   },
+   {
+      "title":"Dragonseeds",
+      "total_sales":0.1,
+      "genre":"Action",
+      "publisher":"Jaleco",
+      "year":1998
    },
    {
       "title":"WiZmans World",
@@ -29100,60 +28785,11 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"Arcania: Gothic 4",
-      "total_sales":0.32,
-      "genre":"Role-Playing",
-      "publisher":"JoWood Productions",
-      "year":2010
-   },
-   {
-      "title":"Maximum Capacity: Hotel Giant",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"JoWood Productions",
-      "year":2002
-   },
-   {
-      "title":"Hamster Club 4: Shigessa Daidassou",
-      "total_sales":0.29,
-      "genre":"Simulation",
-      "publisher":"Jorudan",
+      "title":"Jazz Jackrabbit",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Jaleco",
       "year":2003
-   },
-   {
-      "title":"Hamster Club 3",
-      "total_sales":0.36,
-      "genre":"Simulation",
-      "publisher":"Jorudan",
-      "year":2002
-   },
-   {
-      "title":"Ryu-Koku",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"KID",
-      "year":2006
-   },
-   {
-      "title":"Festa!! Hyper Girls Party",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"KID",
-      "year":2006
-   },
-   {
-      "title":"Memories Off: Sorekara Again",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"KID",
-      "year":2006
-   },
-   {
-      "title":"Battle Worlds: Kronos",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"KING Art Games",
-      "year":2013
    },
    {
       "title":"Harukanaru Toki no Naka de Yumenoukihashi Special",
@@ -29254,6 +28890,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"G1 Jockey Wii 2008",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":2008
+   },
+   {
       "title":"Naval Ops: Warship Gunner",
       "total_sales":0.11,
       "genre":"Simulation",
@@ -29308,6 +28951,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"KOEI",
       "year":2010
+   },
+   {
+      "title":"Lord of Darkness",
+      "total_sales":0.28,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1994
    },
    {
       "title":"Kiniro no Corda 2 f Encore",
@@ -29380,6 +29030,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"G1 Jockey 2",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":2000
+   },
+   {
       "title":"Winning Post 5",
       "total_sales":0.13,
       "genre":"Sports",
@@ -29420,6 +29077,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"KOEI",
       "year":2008
+   },
+   {
+      "title":"Romance of the Three Kingdoms VI: Awakening of the Dragon",
+      "total_sales":0.05,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":2000
    },
    {
       "title":"Romance of the Three Kingdoms VII",
@@ -29492,6 +29156,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Dynasty Warriors 2",
+      "total_sales":0.83,
+      "genre":"Action",
+      "publisher":"KOEI",
+      "year":2000
+   },
+   {
+      "title":"Dynasty Warriors",
+      "total_sales":0.78,
+      "genre":"Action",
+      "publisher":"KOEI",
+      "year":1997
+   },
+   {
       "title":"Dynasty Tactics 2",
       "total_sales":0.11,
       "genre":"Strategy",
@@ -29541,6 +29219,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Angelique Trois",
+      "total_sales":0.06,
+      "genre":"Adventure",
+      "publisher":"KOEI",
+      "year":2000
+   },
+   {
       "title":"Dynasty Warriors Vol. 2",
       "total_sales":0.05,
       "genre":"Action",
@@ -29562,11 +29247,46 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Winning Post 4 Maximum",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":2000
+   },
+   {
+      "title":"Winning Post 4",
+      "total_sales":0.15,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":1999
+   },
+   {
+      "title":"Winning Post 3",
+      "total_sales":0.15,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":1998
+   },
+   {
       "title":"Winning Post 7 2009",
       "total_sales":0.03,
       "genre":"Sports",
       "publisher":"KOEI",
       "year":2009
+   },
+   {
+      "title":"Winning Post 2",
+      "total_sales":0.3,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":1995
+   },
+   {
+      "title":"Winning Post",
+      "total_sales":0.53,
+      "genre":"Sports",
+      "publisher":"KOEI",
+      "year":1993
    },
    {
       "title":"Winning Post 7 Maximum 2008",
@@ -29588,6 +29308,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"KOEI",
       "year":2009
+   },
+   {
+      "title":"Romance of the Three Kingdoms IV: Wall of Fire",
+      "total_sales":0.66,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1995
    },
    {
       "title":"Winning Post World 2010",
@@ -29646,6 +29373,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Romance of the Three Kingdoms II",
+      "total_sales":0.29,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1992
+   },
+   {
       "title":"Dynasty Warriors Vs",
       "total_sales":0.06,
       "genre":"Action",
@@ -29653,11 +29387,32 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Romance of the Three Kingdoms III: Dragon of Destiny",
+      "total_sales":0.29,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1993
+   },
+   {
+      "title":"WinBack: Covert Operations",
+      "total_sales":0.5,
+      "genre":"Shooter",
+      "publisher":"KOEI",
+      "year":1999
+   },
+   {
       "title":"P.T.O. IV: Pacific Theater of Operations",
       "total_sales":0.08,
       "genre":"Strategy",
       "publisher":"KOEI",
       "year":2003
+   },
+   {
+      "title":"Angelique Duet",
+      "total_sales":0.04,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1998
    },
    {
       "title":"Saiyuki: Journey West",
@@ -29714,6 +29469,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"KOEI",
       "year":2005
+   },
+   {
+      "title":"Houshinengi",
+      "total_sales":0.14,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1998
    },
    {
       "title":"Samurai Warriors 2: Xtreme Legends",
@@ -29793,6 +29555,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"San Goku Shi V",
+      "total_sales":0.12,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1996
+   },
+   {
       "title":"Tokimeki Restaurant: Project Tristars",
       "total_sales":0.01,
       "genre":"Visual Novel",
@@ -29814,6 +29583,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Nobunaga no Yabou: Tenshoki",
+      "total_sales":0.28,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1995
+   },
+   {
       "title":"Winning Post 6",
       "total_sales":0.09,
       "genre":"Sports",
@@ -29826,6 +29602,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"KOEI",
       "year":2010
+   },
+   {
+      "title":"Nobunaga no Yabou: Reppuuden",
+      "total_sales":0.2,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1999
+   },
+   {
+      "title":"Destrega",
+      "total_sales":0.07,
+      "genre":"Fighting",
+      "publisher":"KOEI",
+      "year":1999
    },
    {
       "title":"Nobunaga no Yabou: Ranseiki",
@@ -29898,1019 +29688,18 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Nobunaga no Yabou: Haouden",
+      "total_sales":0.62,
+      "genre":"Strategy",
+      "publisher":"KOEI",
+      "year":1993
+   },
+   {
       "title":"Nobunaga's Ambition: Rise to Power",
       "total_sales":0.08,
       "genre":"Strategy",
       "publisher":"KOEI",
       "year":2008
-   },
-   {
-      "title":"Mirai Nikki: 13 Hitome no Nikki Shoyuusha Re-Write",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Kadokawa Games",
-      "year":2012
-   },
-   {
-      "title":"Metal Max Xeno",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Games",
-      "year":2018
-   },
-   {
-      "title":"Ro-Kyu-Bu! Secret Photo Op",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Kadokawa Games",
-      "year":2014
-   },
-   {
-      "title":"The Lost Child",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Kadokawa Games",
-      "year":2017
-   },
-   {
-      "title":"D.C. III: Da Capo III",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Games",
-      "year":2013
-   },
-   {
-      "title":"Motto! SoniComi",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Kadokawa Games",
-      "year":2014
-   },
-   {
-      "title":"God Wars: Nihon Shinwa Taisen",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Games",
-      "year":2018
-   },
-   {
-      "title":"Sakura-Sou no Pet na Kanojo",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Kadokawa Games",
-      "year":2013
-   },
-   {
-      "title":"Reco Love: Blue Ocean",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Games",
-      "year":2016
-   },
-   {
-      "title":"Love Live! School Idol Paradise",
-      "total_sales":0.12,
-      "genre":"Music",
-      "publisher":"Kadokawa Games",
-      "year":2014
-   },
-   {
-      "title":"Darius Burst: Chronicle Saviours",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Kadokawa Games",
-      "year":2016
-   },
-   {
-      "title":"Prince of Stride",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Games",
-      "year":2015
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky SC Evolution",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Games",
-      "year":2015
-   },
-   {
-      "title":"Ebikore+ Amagami",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Games",
-      "year":2014
-   },
-   {
-      "title":"Durarara!! Relay",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Kadokawa Games",
-      "year":2015
-   },
-   {
-      "title":"Entaku no Seito: The Eternal Legend",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Games",
-      "year":2012
-   },
-   {
-      "title":"Ebikore Photo Kano Kiss",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Kadokawa Games",
-      "year":2015
-   },
-   {
-      "title":"Kan Colle Kai",
-      "total_sales":0.21,
-      "genre":"Action",
-      "publisher":"Kadokawa Games",
-      "year":2016
-   },
-   {
-      "title":"Fate\/kaleid liner Prisma Illya",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Kadokawa Games",
-      "year":2014
-   },
-   {
-      "title":"H2O+: Footprints in the Sand",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Metal Max 4: Gekkou no Diva",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Shoten",
-      "year":2013
-   },
-   {
-      "title":"Shukufuku no Campanella Portable",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Shounen Onmyouji: Tsubasa Yoima, Ten e Kaere",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2007
-   },
-   {
-      "title":"Narcissus: Moshimo Ashita ga Runara",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Momotsuki: Koufuu no Misasagi-Ou",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2009
-   },
-   {
-      "title":"Fate\/stay night [R\u00e9alta Nua]",
-      "total_sales":0.23,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2007
-   },
-   {
-      "title":"Yoake Yori Ruriiro na Portable",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"D.C. II P.S.: Da Capo II Plus Situation",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Sora no Otoshimono Forte: Dreamy Season",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Really? Really! DS",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2009
-   },
-   {
-      "title":"Shin Lucky * Star: Moe Drill ~Tabidachi~",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Kadokawa Shoten",
-      "year":2007
-   },
-   {
-      "title":"Love, Election and Chocolate Portable",
-      "total_sales":0.05,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Shoten",
-      "year":2012
-   },
-   {
-      "title":"Sora no Otoshimono: DokiDoki Summer Vacation",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"D.C.F.S.: Da Capo Four Seasons",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2005
-   },
-   {
-      "title":"Strike Witches 2: Iyasu Naosu Punipunisuru",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Durarara!! 3way Standoff: Alley",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Real Rode",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Lucky * Star: Ryouou Gakuen Outousai",
-      "total_sales":0.1,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Kuusen II",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Kadokawa Shoten",
-      "year":2004
-   },
-   {
-      "title":"Earth Seeker",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Photo Kano Kiss",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Kadokawa Shoten",
-      "year":2013
-   },
-   {
-      "title":"Da Capo I & II Plus Situation Portable",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Ro-Kyu-Bu! Lost Secret",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Shoten",
-      "year":2013
-   },
-   {
-      "title":"Sweet Honey Coming",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2009
-   },
-   {
-      "title":"Himawari: Pebble in the Sky Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Ro-Kyu-Bu!",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"AKB48+Me",
-      "total_sales":0.11,
-      "genre":"Misc",
-      "publisher":"Kadokawa Shoten",
-      "year":2012
-   },
-   {
-      "title":"The Legend of Heroes: Trails in the Sky First Chapter",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Shoten",
-      "year":2015
-   },
-   {
-      "title":"PhotoKano",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2012
-   },
-   {
-      "title":"Suzumiya Haruhi-Chan no Mahjong",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Suzumiya Haruhi no Gekidou",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2009
-   },
-   {
-      "title":"Derby Stallion Gold",
-      "total_sales":0.15,
-      "genre":"Sports",
-      "publisher":"Kadokawa Shoten",
-      "year":2014
-   },
-   {
-      "title":"Scarlett: Nichijou no Kyoukaisen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Kyoukai Senjou no Horizon Portable",
-      "total_sales":0.05,
-      "genre":"Visual Novel",
-      "publisher":"Kadokawa Shoten",
-      "year":2013
-   },
-   {
-      "title":"Canvas 2",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2006
-   },
-   {
-      "title":"Densetsu no Yuusha no Densetsu: Legendary Saga",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Toaru Kagaku no Chou Denjihou",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Seitokai no Ichizon: DS-suru Seitokai",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2010
-   },
-   {
-      "title":"Toaru Majutsu no Index",
-      "total_sales":0.1,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2011
-   },
-   {
-      "title":"Togainu no Chi: True Blood",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Kadokawa Shoten",
-      "year":2008
-   },
-   {
-      "title":"Saki: Zenkoku-hen",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Kaga Create",
-      "year":2015
-   },
-   {
-      "title":"Renai 0 Kilometer",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kaga Create",
-      "year":2014
-   },
-   {
-      "title":"A Good Librarian Like a Good Shepherd: Library Party",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Kaga Create",
-      "year":2015
-   },
-   {
-      "title":"Higurashi no Naku Koro ni Iki",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Kaga Create",
-      "year":2015
-   },
-   {
-      "title":"Hitotsu Tobashi Renai V",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kaga Create",
-      "year":2015
-   },
-   {
-      "title":"1\/2 Summer +",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Kaga Create",
-      "year":2013
-   },
-   {
-      "title":"Gobliiins 4",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kalypso",
-      "year":2009
-   },
-   {
-      "title":"Boulder Dash-XL",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Disciples III: Resurrection",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Dungeons - The Dark Lord",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Air Conflicts: Secret Wars",
-      "total_sales":0.34,
-      "genre":"Simulation",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Disciples III: Renaissance",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2010
-   },
-   {
-      "title":"Ceville",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Kalypso",
-      "year":2009
-   },
-   {
-      "title":"Tropico 3: Gold Edition",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2010
-   },
-   {
-      "title":"Patrician IV",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2010
-   },
-   {
-      "title":"Airline Tycoon 2",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Tropico 4",
-      "total_sales":0.61,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Patrician IV: Gold Edition",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Tropico Reloaded",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2009
-   },
-   {
-      "title":"The First Templar",
-      "total_sales":0.18,
-      "genre":"Adventure",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"DarkStar One: Broken Alliance",
-      "total_sales":0.2,
-      "genre":"Simulation",
-      "publisher":"Kalypso",
-      "year":2010
-   },
-   {
-      "title":"Dungeons",
-      "total_sales":0.09,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2011
-   },
-   {
-      "title":"Tropico 3",
-      "total_sales":0.26,
-      "genre":"Strategy",
-      "publisher":"Kalypso",
-      "year":2009
-   },
-   {
-      "title":"Shadow Tactics: Blades of the Shogun",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Grand Ages: Medieval",
-      "total_sales":0.15,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2015
-   },
-   {
-      "title":"Shadows Awakening",
-      "total_sales":0.1,
-      "genre":"Role-Playing",
-      "publisher":"Kalypso Media",
-      "year":2018
-   },
-   {
-      "title":"Port Royale 3",
-      "total_sales":0.15,
-      "genre":"Simulation",
-      "publisher":"Kalypso Media",
-      "year":2012
-   },
-   {
-      "title":"Blackguards 2",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Project Highrise: Architect's Edition",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Kalypso Media",
-      "year":2018
-   },
-   {
-      "title":"Valhalla Hills: Definitive Edition",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Sudden Strike 4",
-      "total_sales":0.12,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Tropico 5",
-      "total_sales":0.6,
-      "genre":"Simulation",
-      "publisher":"Kalypso Media",
-      "year":2014
-   },
-   {
-      "title":"Vikings: Wolves of Midgard",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Tropico 4: Modern Times",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2012
-   },
-   {
-      "title":"Railway Empire",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Kalypso Media",
-      "year":2018
-   },
-   {
-      "title":"Dungeons 2",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Kalypso Media",
-      "year":2015
-   },
-   {
-      "title":"Dungeons 3",
-      "total_sales":0.06,
-      "genre":"Strategy",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"The Inner World: The Last Wind Monk",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"The Pillars of the Earth",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Kalypso Media",
-      "year":2017
-   },
-   {
-      "title":"Sekai no Hate Made Itte Q! Chinjuu Hunter Mono no Daibouken",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Kamui",
-      "year":2010
-   },
-   {
-      "title":"Princess Nightmare",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Karin Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Zettai Meikyuu Grimm: Nanatsu no Kagi to Rakuen no Otome",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Karin Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Dai Senryaku VII: Modern Military Tactics",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Kemco",
-      "year":2005
-   },
-   {
-      "title":"The Bombing Islands",
-      "total_sales":0.14,
-      "genre":"Platform",
-      "publisher":"Kemco",
-      "year":2001
-   },
-   {
-      "title":"Yager",
-      "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"Kemco",
-      "year":2004
-   },
-   {
-      "title":"Batman: Dark Tomorrow",
-      "total_sales":0.19,
-      "genre":"Action",
-      "publisher":"Kemco",
-      "year":2003
-   },
-   {
-      "title":"Chicago Enforcer",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Kemco",
-      "year":2005
-   },
-   {
-      "title":"Saiaku Naru Saiyaku Ningen ni Sasagu",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Kemco",
-      "year":2018
-   },
-   {
-      "title":"Universal Studios Theme Parks Adventure",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Kemco",
-      "year":2001
-   },
-   {
-      "title":"Rogue Ops",
-      "total_sales":0.41,
-      "genre":"Action",
-      "publisher":"Kemco",
-      "year":2003
-   },
-   {
-      "title":"Woody Woodpecker in Crazy Castle 5",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Kemco",
-      "year":2003
-   },
-   {
-      "title":"Top Gear RPM Tuning",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Kemco",
-      "year":2005
-   },
-   {
-      "title":"Crazy Chase",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Kemco",
-      "year":2002
-   },
-   {
-      "title":"Egg Mania: Eggstreme Madness",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Kemco",
-      "year":2002
-   },
-   {
-      "title":"Gakuen Alice: KiraKira * Memory Kiss",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Kids Station",
-      "year":2006
-   },
-   {
-      "title":"Gakuen Alice: WakuWaku * Happy Friends",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Kids Station",
-      "year":2007
-   },
-   {
-      "title":"Shaman King: Chou Senjiryokketsu 3",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"King Records",
-      "year":2002
-   },
-   {
-      "title":"Don't Starve",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Klei Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Jump Start Pet Rescue",
-      "total_sales":0.44,
-      "genre":"Misc",
-      "publisher":"Knowledge Adventure",
-      "year":2009
-   },
-   {
-      "title":"Barbie Horse Adventures: Blue Ribbon Race",
-      "total_sales":0.37,
-      "genre":"Sports",
-      "publisher":"Knowledge Adventure",
-      "year":2003
-   },
-   {
-      "title":"Barbie as the Princess and the Pauper",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Knowledge Adventure",
-      "year":2004
-   },
-   {
-      "title":"Butt Ugly Martians: B.K.M. Battles",
-      "total_sales":0.25,
-      "genre":"Action",
-      "publisher":"Knowledge Adventure",
-      "year":2002
-   },
-   {
-      "title":"JumpStart: Escape from Adventure Island",
-      "total_sales":0.41,
-      "genre":"Adventure",
-      "publisher":"Knowledge Adventure",
-      "year":2009
-   },
-   {
-      "title":"Rugby 18",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Koch Media",
-      "year":2017
-   },
-   {
-      "title":"MotoGP 17",
-      "total_sales":0.2,
-      "genre":"Racing",
-      "publisher":"Koch Media",
-      "year":2017
-   },
-   {
-      "title":"WSC Real 11: World Snooker Championship",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"Koch Media",
-      "year":2011
-   },
-   {
-      "title":"Cities: Skylines",
-      "total_sales":0.48,
-      "genre":"Simulation",
-      "publisher":"Koch Media",
-      "year":2017
-   },
-   {
-      "title":"Let's Sing 2018",
-      "total_sales":0.03,
-      "genre":"Music",
-      "publisher":"Koch Media",
-      "year":2017
-   },
-   {
-      "title":"Ashes Cricket",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Koch Media",
-      "year":2017
-   },
-   {
-      "title":"S.T.A.L.K.E.R.: Clear Sky",
-      "total_sales":0.03,
-      "genre":"Shooter",
-      "publisher":"Koch Media",
-      "year":2008
-   },
-   {
-      "title":"Revolution: 25th Anniversary Collection",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Koch Media",
-      "year":2016
-   },
-   {
-      "title":"Total War Attila: Tyrants & Kings",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Koch Media",
-      "year":2016
-   },
-   {
-      "title":"Goat Simulator: The Bundle",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Koch Media",
-      "year":2016
-   },
-   {
-      "title":"Military History: Commander - Europe at War",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Koch Media",
-      "year":2009
-   },
-   {
-      "title":"Attack on Titan 2",
-      "total_sales":0.57,
-      "genre":"Action",
-      "publisher":"Koei Tecmo",
-      "year":2018
-   },
-   {
-      "title":"Nobunaga's Ambition: Taishi",
-      "total_sales":0.07,
-      "genre":"Strategy",
-      "publisher":"Koei Tecmo",
-      "year":2017
-   },
-   {
-      "title":"Atelier: The Alchemist of Arland 1-2-3 DX",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Koei Tecmo",
-      "year":2018
-   },
-   {
-      "title":"La Corda d'Oro 2ff",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Koei Tecmo",
-      "year":2017
-   },
-   {
-      "title":"Warriors  Orochi 4",
-      "total_sales":0.26,
-      "genre":"Action",
-      "publisher":"Koei Tecmo",
-      "year":2018
-   },
-   {
-      "title":"La Corda d'Oro 3",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Koei Tecmo",
-      "year":2018
-   },
-   {
-      "title":"Shin Atelier Rorona: Hajimari no Monogatari",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Koei Tecmo",
-      "year":2015
-   },
-   {
-      "title":"Samurai Warriors 3Z Special",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Koei Tecmo",
-      "year":2012
-   },
-   {
-      "title":"Winning Post 8 2018",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Koei Tecmo",
-      "year":2018
-   },
-   {
-      "title":"Harukanaru Toki no Naka de Ultimate",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Koei Tecmo",
-      "year":2018
    },
    {
       "title":"Boktai: The Sun is in Your Hand",
@@ -30969,6 +29758,20 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"DrumMania",
+      "total_sales":0.15,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Gokujou Parodius",
+      "total_sales":0.18,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
       "title":"Gokujou!! Mecha Mote Iinchou: MM My Best Friend!",
       "total_sales":0.03,
       "genre":"Simulation",
@@ -30981,6 +29784,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Konami",
       "year":2005
+   },
+   {
+      "title":"Gokuhou!! Mecha Mote Iinchou: Mecha Mote Days, Hajime Masuwa!",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2008
    },
    {
       "title":"Rumble Roses XX",
@@ -31016,6 +29826,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"Goal Storm '97",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
+      "title":"TwinBee",
+      "total_sales":1.2,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1986
    },
    {
       "title":"Karaoke Revolution Volume 3",
@@ -31067,6 +29891,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Goemon's Great Adventure",
+      "total_sales":0.31,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Gokuhou!! Mecha Mote Iinchou: Girls Motekawa Box",
       "total_sales":0.01,
       "genre":"Simulation",
@@ -31102,11 +29933,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"No.1 Muscle Ranking - Kinniku Banzuke Vol. 1: Oregasaikyouno Otokoda!",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"TMNT: Mutant Melee",
       "total_sales":0.09,
       "genre":"Fighting",
       "publisher":"Konami",
       "year":2005
+   },
+   {
+      "title":"C: The Contra Adventure",
+      "total_sales":0.07,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Keshisasu-Kun: Battle Kas-tival",
@@ -31179,6 +30024,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Kensei: Sacred Fist",
+      "total_sales":0.02,
+      "genre":"Fighting",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"Nightmare Creatures II",
+      "total_sales":0.17,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"ParaParaParadise",
       "total_sales":0.03,
       "genre":"Misc",
@@ -31207,6 +30066,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Suikoden",
+      "total_sales":0.6,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
       "title":"Tongari Boushi to Oshare na Mahou Tsukai",
       "total_sales":0.24,
       "genre":"Action",
@@ -31219,6 +30085,20 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2007
+   },
+   {
+      "title":"Tokimeki Memorial: Private Collection",
+      "total_sales":0.17,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
+      "title":"Tokimeki Memorial: Taisen Pazurudama",
+      "total_sales":0.18,
+      "genre":"Puzzle",
+      "publisher":"Konami",
+      "year":1996
    },
    {
       "title":"Famicom Mini: TwinBee",
@@ -31254,6 +30134,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Konami",
       "year":2005
+   },
+   {
+      "title":"Tokimeki no Houkago",
+      "total_sales":0.06,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Pro Evolution Soccer 2011 3D",
@@ -31298,6 +30185,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Suikoden II",
+      "total_sales":0.68,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Tongari Boushi to Mahou no Otana",
       "total_sales":0.44,
       "genre":"Simulation",
@@ -31319,11 +30213,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Ninja Five-0",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":2003
+   },
+   {
       "title":"Pro Yakyuu Spirits 2011",
       "total_sales":0.49,
       "genre":"Sports",
       "publisher":"Konami",
       "year":2011
+   },
+   {
+      "title":"Project Overkill",
+      "total_sales":0.25,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1996
    },
    {
       "title":"Mahjong Fight Club",
@@ -31340,11 +30248,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Mahjong Kakutou Club Wii: Wi-Fi Taiou",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":2009
+   },
+   {
       "title":"Mahjong Kakutou Club: Zenkoku Taisenban",
       "total_sales":0.03,
       "genre":"Misc",
       "publisher":"Konami",
       "year":2006
+   },
+   {
+      "title":"Mahjong Master",
+      "total_sales":0.09,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":1996
    },
    {
       "title":"Bomberman: Act Zero",
@@ -31431,6 +30353,27 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"No.1 Muscle Ranking - Kinniku Banzuke Vol. 2: Aratanarugenkai Enochousen!",
+      "total_sales":0.15,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Bottom of the 9th",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
+      "title":"Bottom of the 9th '99",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
       "title":"Yu-Gi-Oh! World Championship Tournament 2004",
       "total_sales":0.56,
       "genre":"Misc",
@@ -31438,11 +30381,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Ganbare Goemon 2: Kiteretsu Shougun Magginesu",
+      "total_sales":0.31,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1993
+   },
+   {
       "title":"Brooktown High: Senior Year",
       "total_sales":0.1,
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2007
+   },
+   {
+      "title":"Broken Helix",
+      "total_sales":0.06,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
+      "title":"Breeding Stud 2",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Pro Yakyuu Spirits 3",
@@ -31480,11 +30444,32 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Ganbare Goemon 3: Shishi Jyuurokubei no Karakuri Manji Katame",
+      "total_sales":0.36,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
       "title":"Trick DS-han: Kakushi Kami no Sumukan",
       "total_sales":0.07,
       "genre":"Misc",
       "publisher":"Konami",
       "year":2010
+   },
+   {
+      "title":"Ganbare Goemon! Karakuri Douchuu",
+      "total_sales":1.2,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1986
+   },
+   {
+      "title":"Ganbare Goemon: KiraKira Douchuu - Boku ga Dancer ni Natta Riyuu",
+      "total_sales":0.31,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1995
    },
    {
       "title":"Ganbare Goemon: Toukai Douchuu Ooedo Tengurigaeshi no Maki",
@@ -31508,6 +30493,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Bottom of the 9th '97",
+      "total_sales":0.02,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
       "title":"Magician's Quest: Mysterious Times",
       "total_sales":0.53,
       "genre":"Role-Playing",
@@ -31515,11 +30507,25 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"BeatMania Append 4thMix: The beat goes on",
+      "total_sales":0.29,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Gormiti: The Lords of Nature!",
       "total_sales":0.1,
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2010
+   },
+   {
+      "title":"Woody Woodpecker Racing",
+      "total_sales":0.11,
+      "genre":"Racing",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Jikkyou Powerful Pro Yakyuu 2010",
@@ -31543,6 +30549,27 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Jikkyou Powerful Pro Yakyuu 3",
+      "total_sales":0.45,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 3 '97 Haru",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 4",
+      "total_sales":0.31,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
       "title":"Elebits",
       "total_sales":0.32,
       "genre":"Action",
@@ -31555,6 +30582,27 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2009
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 5",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 6",
+      "total_sales":0.42,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 7",
+      "total_sales":0.35,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Hanayori Danshi: Koi Seyo Onago",
@@ -31576,6 +30624,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"World Soccer Jikkyou Winning Eleven 3: World Cup France '98",
+      "total_sales":0.81,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Jikkyou Powerful Pro Yakyuu 8 Ketteiban",
@@ -31681,6 +30736,34 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 2",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 2000",
+      "total_sales":0.35,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 2000 Kaimakuban",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu 2000 Ketteiban",
+      "total_sales":0.09,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Jikkyou Powerful Pro Yakyuu 2001",
@@ -31851,6 +30934,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Jikkyou World Soccer 2000 Final Edition",
+      "total_sales":0.66,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Enthusia Professional Racing",
       "total_sales":0.15,
       "genre":"Racing",
@@ -31900,6 +30990,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Jikkyou Powerful Pro Yakyuu DreamCast Edition",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Rengoku II: The Stairway to H.E.A.V.E.N. (jp sales)",
       "total_sales":0.01,
       "genre":"Action",
@@ -31942,6 +31039,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Metal Gear Solid",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Metal Gear Solid 2: Substance",
       "total_sales":1.14,
       "genre":"Action",
@@ -31961,6 +31065,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Konami",
       "year":2011
+   },
+   {
+      "title":"Metal Gear Solid VR Missions",
+      "total_sales":1.18,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Metal Gear Solid: Digital Graphic Novel",
@@ -32075,11 +31186,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"BeatMania Append GottaMix",
+      "total_sales":0.33,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Tokimeki Memorial: Girl's Side 2nd Season",
       "total_sales":0.11,
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"BeatMania Append 3rdMix",
+      "total_sales":0.6,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"BeatMania",
@@ -32103,6 +31228,41 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Vandal Hearts II",
+      "total_sales":0.1,
+      "genre":"Strategy",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakuu '94",
+      "total_sales":0.41,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu '95",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu '96 Kaimakuban",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu '98 Kaimakuban",
+      "total_sales":0.59,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
       "title":"Kabushiki Baibai Trainer: Kabutore! Next",
       "total_sales":0.02,
       "genre":"Simulation",
@@ -32122,6 +31282,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"Vandal Hearts",
+      "total_sales":0.45,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1997
    },
    {
       "title":"Monster Guardians",
@@ -32173,11 +31340,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Jikkyou J-League Perfect Striker",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
       "title":"Nova Usagi no Game de Ryuugaku!? DS",
       "total_sales":0.01,
       "genre":"Misc",
       "publisher":"Konami",
       "year":2007
+   },
+   {
+      "title":"Jikkyou Oshaberi Parodius",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1995
    },
    {
       "title":"Jikkyou Powerful Major League",
@@ -32208,6 +31389,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Gradius",
+      "total_sales":1.36,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1986
+   },
+   {
       "title":"Gradius Collection",
       "total_sales":0.06,
       "genre":"Shooter",
@@ -32220,6 +31408,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"Gradius III and IV",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Utatte Touch, Utouchi!!",
@@ -32241,6 +31436,20 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"BeatMania IIDX 3rd Style",
+      "total_sales":0.05,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu '98 Ketteiban",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Quiz Magic Academy DS",
@@ -32334,6 +31543,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"ESPN Winter X Games: Snowboarding 2002",
+      "total_sales":0.24,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"ESPN Winter X-Games: Snowboarding 2002",
       "total_sales":0.06,
       "genre":"Sports",
@@ -32390,6 +31606,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"ESPN International Track & Field",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Winning Eleven: Pro Evolution Soccer 2007 (All Region sales)",
       "total_sales":1.0,
       "genre":"Sports",
@@ -32409,6 +31632,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2006
+   },
+   {
+      "title":"Jikkyou Powerful Pro Yakyuu '99 Kaimakuban",
+      "total_sales":0.81,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"McFarlane's Evil Prophecy",
@@ -32439,11 +31669,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Jikkyou Powerful Pro Yakyuu '99 Ketteiban",
+      "total_sales":0.26,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Jikkyou Powerful Pro Yakyuu 10",
       "total_sales":0.61,
       "genre":"Sports",
       "publisher":"Konami",
       "year":2003
+   },
+   {
+      "title":"Guitar Freaks",
+      "total_sales":0.24,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban: 2003 Memorial",
@@ -32474,6 +31718,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Guitar Freaks 3rdMIX & DrumMania 2ndMIX",
+      "total_sales":0.06,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Guitar Freaks V & DrumMania V",
       "total_sales":0.03,
       "genre":"Simulation",
@@ -32486,6 +31737,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2006
+   },
+   {
+      "title":"Azure Dreams",
+      "total_sales":0.13,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Guitar Freaks V3 & DrumMania V3",
@@ -32600,11 +31858,39 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Power Pro GB",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"NBA in the Zone 2000",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Power Pro Kun Pocket",
+      "total_sales":0.17,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Negima!? Dream Tactic Yumemiru Otome Princess",
       "total_sales":0.03,
       "genre":"Strategy",
       "publisher":"Konami",
       "year":2007
+   },
+   {
+      "title":"Yu-Gi-Oh! Monster Capsule Breed & Battle",
+      "total_sales":0.28,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1998
    },
    {
       "title":"Shugo Chara! 3-tsu no Tamagoto Koisuru Joker",
@@ -32642,6 +31928,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"NHL Blades of Steel '99",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Cy Girls",
       "total_sales":0.04,
       "genre":"Action",
@@ -32670,6 +31963,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"The Final Round",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
       "title":"Adrenalin Misfits",
       "total_sales":0.14,
       "genre":"Racing",
@@ -32682,6 +31982,34 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Konami",
       "year":2002
+   },
+   {
+      "title":"NHL Blades of Steel 2000",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Crypt Killer",
+      "total_sales":0.04,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
+      "title":"Lethal Enforcers",
+      "total_sales":0.09,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
+      "title":"Lethal Enforcers I & II",
+      "total_sales":0.03,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1997
    },
    {
       "title":"Frogger's Adventures: The Rescue",
@@ -32703,6 +32031,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Konami",
       "year":2003
+   },
+   {
+      "title":"The Grinch",
+      "total_sales":0.52,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Frogger: Ancient Shadow",
@@ -32761,6 +32096,27 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Yu-Gi-Oh! Power of Chaos: Yugi the Destiny",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Konami",
+      "year":2004
+   },
+   {
+      "title":"Yu-Gi-Oh! Double Pack 2",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":2006
+   },
+   {
+      "title":"Cooking Idol I! My! Main! Game de Hirameki! Kirameki Cooking",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2010
+   },
+   {
       "title":"Contra: Shattered Soldier",
       "total_sales":0.58,
       "genre":"Shooter",
@@ -32773,6 +32129,20 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2010
+   },
+   {
+      "title":"Contra: Legacy of War",
+      "total_sales":0.67,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
+      "title":"Contra III: The Alien Wars",
+      "total_sales":0.13,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1992
    },
    {
       "title":"Contra Advance: The Alien Wars EX",
@@ -32789,11 +32159,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Nagano Winter Olympics 98",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
       "title":"Yu-Gi-Oh! Double Pack",
       "total_sales":0.28,
       "genre":"Role-Playing",
       "publisher":"Konami",
       "year":2006
+   },
+   {
+      "title":"Teenage Mutant Ninja Turtles III: The Manhattan Project",
+      "total_sales":1.39,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1992
    },
    {
       "title":"Yu-Gi-Oh! Reshef of Destruction",
@@ -32803,11 +32187,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Nagano Winter Olympics '98",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
       "title":"L: the proLogue to DEATH NOTE - Rasen no Wana",
       "total_sales":0.09,
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"J-League Jikkyou Winning Eleven 3",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
    },
    {
       "title":"Power Pro Kun Pocket 9",
@@ -32852,6 +32250,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Power Pro Kun Pocket 2",
+      "total_sales":0.25,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Shonen Jump's Shaman King: Master of Spirits 2",
       "total_sales":0.02,
       "genre":"Role-Playing",
@@ -32859,11 +32264,32 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Teenage Mutant Ninja Turtles: Tournament Fighters",
+      "total_sales":0.13,
+      "genre":"Fighting",
+      "publisher":"Konami",
+      "year":1993
+   },
+   {
+      "title":"J-League Jikkyou Winning Eleven 2000",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Power Pro Kun Pocket 4",
       "total_sales":0.29,
       "genre":"Sports",
       "publisher":"Konami",
       "year":2002
+   },
+   {
+      "title":"The Legend of the Mystical Ninja",
+      "total_sales":0.48,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":1992
    },
    {
       "title":"NBA Starting Five",
@@ -32906,6 +32332,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"Disney Sports Snowboarding",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2003
    },
    {
       "title":"Frogger's Adventures: Temple of the Frog",
@@ -32992,6 +32425,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Disney Sports Motocross",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Konami",
+      "year":2003
+   },
+   {
       "title":"Dance Dance Revolution: Disney Grooves",
       "total_sales":0.18,
       "genre":"Simulation",
@@ -33041,6 +32481,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Policenauts",
+      "total_sales":0.06,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"The Cages: Pro Style Batting Practice",
       "total_sales":0.01,
       "genre":"Sports",
@@ -33069,11 +32516,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Dance Dance Revolution 3rdMix",
+      "total_sales":0.36,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"Dance Dance Revolution 2nd ReMIX",
+      "total_sales":0.96,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Dance Dance Revolution (North America)",
       "total_sales":0.15,
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"Dance Dance Revolution (Japan)",
+      "total_sales":1.35,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Dance Dance Revolution Universe 2",
@@ -33181,6 +32649,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Tokimeki Memorial: Forever with You",
+      "total_sales":0.97,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"Pop'n Music Portable 2",
       "total_sales":0.06,
       "genre":"Misc",
@@ -33216,6 +32691,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Pop'n TwinBee: Rainbow Bell Adventure",
+      "total_sales":0.06,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
       "title":"D.Gray-man: Kami no Shitotachi",
       "total_sales":0.05,
       "genre":"Adventure",
@@ -33228,6 +32710,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Konami",
       "year":2007
+   },
+   {
+      "title":"Yu-Gi-Oh! Monster Capture GB",
+      "total_sales":0.14,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Let's Pilates!",
@@ -33321,6 +32810,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Dancing Blade II: Tears of Eden",
+      "total_sales":0.03,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Pop'n Music 13 Carnival",
       "total_sales":0.03,
       "genre":"Simulation",
@@ -33405,6 +32901,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"The Silent Hill Experience",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":2006
+   },
+   {
       "title":"Yu-Gi-Oh! Destiny Board Traveler",
       "total_sales":0.45,
       "genre":"Misc",
@@ -33417,6 +32920,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Konami",
       "year":2004
+   },
+   {
+      "title":"International Track & Field",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1996
    },
    {
       "title":"Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus",
@@ -33440,6 +32950,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Castlevania: Symphony of the Night",
+      "total_sales":1.27,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
       "title":"Castlevania: Portrait of Ruin",
       "total_sales":0.4,
       "genre":"Platform",
@@ -33452,6 +32969,20 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"International Superstar Soccer Pro '98",
+      "total_sales":0.42,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"International Track & Field 2000",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Dewy's Adventure",
@@ -33501,6 +33032,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Konami",
       "year":2010
+   },
+   {
+      "title":"Fisherman's Bait 2: Big Ol' Bass",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
+      "title":"Castlevania: Legacy of Darkness",
+      "total_sales":0.13,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Kororinpa: Marble Mania",
@@ -33559,6 +33104,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"International Superstar Soccer 64 (weekly JP sales)",
+      "total_sales":0.1,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
+      "title":"Nazo Nazo & Quiz Ittou Nyuukon Q Mate!",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":2008
+   },
+   {
       "title":"Diary Girl",
       "total_sales":0.01,
       "genre":"Misc",
@@ -33594,6 +33153,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"International Superstar Soccer Deluxe",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"Firefighter F.D.18",
       "total_sales":0.07,
       "genre":"Action",
@@ -33620,6 +33186,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Konami",
       "year":2003
+   },
+   {
+      "title":"Hybrid Heaven",
+      "total_sales":0.25,
+      "genre":"Role-Playing",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Castlevania: Harmony of Dissonance",
@@ -33650,6 +33223,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Detana TwinBee Yahho! Deluxe Pack",
+      "total_sales":0.22,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"Suikoden V",
       "total_sales":0.35,
       "genre":"Role-Playing",
@@ -33664,11 +33244,32 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Mystical Ninja starring Goemon",
+      "total_sales":0.36,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"Parodius",
+      "total_sales":0.5,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":1996
+   },
+   {
       "title":"Pro Evolution Soccer 2008 (JP sales)",
       "total_sales":0.08,
       "genre":"Sports",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"Tokimeki Memorial 2",
+      "total_sales":0.39,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":1999
    },
    {
       "title":"Tokimeki Memorial 4",
@@ -33727,6 +33328,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Konami Arcade Classics",
+      "total_sales":0.04,
+      "genre":"Misc",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
       "title":"Konami Classics Series: Arcade Hits",
       "total_sales":0.03,
       "genre":"Misc",
@@ -33762,6 +33370,34 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Castlevania III: Dracula's Curse",
+      "total_sales":0.85,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1990
+   },
+   {
+      "title":"Konami Double Pack: Metal Gear Solid Portable Ops \/ Coded Arms",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":2009
+   },
+   {
+      "title":"Castlevania II: Simon's Quest",
+      "total_sales":0.93,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1988
+   },
+   {
+      "title":"Castlevania Dracula X",
+      "total_sales":0.09,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"Castlevania Double Pack",
       "total_sales":0.1,
       "genre":"Platform",
@@ -33781,6 +33417,20 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Konami",
       "year":2001
+   },
+   {
+      "title":"Castlevania Bloodlines",
+      "total_sales":0.04,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1994
+   },
+   {
+      "title":"Castlevania",
+      "total_sales":1.87,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1987
    },
    {
       "title":"NANA: Live Staff Daiboshuu! Shoshinsha Kangei",
@@ -33895,6 +33545,27 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Teenage Mutant Ninja Turtles",
+      "total_sales":6.67,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1989
+   },
+   {
+      "title":"International Superstar Soccer",
+      "total_sales":0.28,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
+      "title":"International Superstar Soccer '98",
+      "total_sales":1.18,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
       "title":"Death Jr.",
       "total_sales":0.19,
       "genre":"Platform",
@@ -33930,6 +33601,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Deadly Arts",
+      "total_sales":0.04,
+      "genre":"Fighting",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
       "title":"Yu-Gi-Oh! The Falsebound Kingdom",
       "total_sales":0.71,
       "genre":"Strategy",
@@ -33942,6 +33620,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Konami",
       "year":2008
+   },
+   {
+      "title":"Poy Poy",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1997
    },
    {
       "title":"Yu-Gi-Oh! Dark Duel Stories",
@@ -33958,6 +33643,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Silent Hill 3",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Konami",
+      "year":2003
+   },
+   {
       "title":"Nettou! Powerful Koushien",
       "total_sales":0.03,
       "genre":"Sports",
@@ -33970,6 +33662,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2004
+   },
+   {
+      "title":"Super Castlevania IV",
+      "total_sales":0.63,
+      "genre":"Platform",
+      "publisher":"Konami",
+      "year":1991
    },
    {
       "title":"NeverDead",
@@ -33993,11 +33692,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Teenage Mutant Ninja Turtles II: Back from the Sewers",
+      "total_sales":0.06,
+      "genre":"Action",
+      "publisher":"Konami",
+      "year":1991
+   },
+   {
       "title":"Powerful Golf",
       "total_sales":0.05,
       "genre":"Sports",
       "publisher":"Konami",
       "year":2011
+   },
+   {
+      "title":"ISS Pro Evolution",
+      "total_sales":0.76,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Shonen Jump's Shaman King: Master of Spirits",
@@ -34063,11 +33776,39 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Gaitame Baibai Trainer: Kabutore FX",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Konami",
+      "year":2009
+   },
+   {
+      "title":"NBA In The Zone '98",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1998
+   },
+   {
+      "title":"NBA In The Zone",
+      "total_sales":0.28,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1995
+   },
+   {
       "title":"Silent Hill: Shattered Memories",
       "total_sales":1.37,
       "genre":"Adventure",
       "publisher":"Konami",
       "year":2009
+   },
+   {
+      "title":"Silent Scope",
+      "total_sales":0.41,
+      "genre":"Shooter",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Silent Scope 2: Dark Silhouette",
@@ -34112,6 +33853,20 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"International Superstar Soccer 2000 (JP weekly sales)",
+      "total_sales":0.18,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"International Superstar Soccer 64",
+      "total_sales":0.6,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1997
+   },
+   {
       "title":"Yu-Gi-Oh! The Eternal Duelist Soul (JP sales)",
       "total_sales":0.41,
       "genre":"Misc",
@@ -34126,6 +33881,20 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"International Superstar Soccer 2000 (All region sales)",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
+      "title":"International Superstar Soccer 2000",
+      "total_sales":0.2,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
+   },
+   {
       "title":"Love Plus",
       "total_sales":0.26,
       "genre":"Simulation",
@@ -34138,6 +33907,20 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Konami",
       "year":2005
+   },
+   {
+      "title":"NBA In The Zone '99",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":1999
+   },
+   {
+      "title":"NBA In The Zone 2000",
+      "total_sales":0.21,
+      "genre":"Sports",
+      "publisher":"Konami",
+      "year":2000
    },
    {
       "title":"Saw II: Flesh & Blood",
@@ -34271,6 +34054,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Konami Digital Entertainment",
       "year":2013
+   },
+   {
+      "title":"Metal Gear Online",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Konami Digital Entertainment",
+      "year":2008
    },
    {
       "title":"Tokimeki Memorial Girl's Side Premium: 3rd Story",
@@ -34483,97 +34273,6 @@ export const pb_data =
       "year":2013
    },
    {
-      "title":"LEGO Bionicle",
-      "total_sales":0.06,
-      "genre":"Platform",
-      "publisher":"LEGO Media",
-      "year":2001
-   },
-   {
-      "title":"LEGO Island 2: The Brickster's Revenge",
-      "total_sales":0.18,
-      "genre":"Adventure",
-      "publisher":"LEGO Media",
-      "year":2001
-   },
-   {
-      "title":"LEGO Island Xtreme Stunts",
-      "total_sales":0.14,
-      "genre":"Racing",
-      "publisher":"LEGO Media",
-      "year":2002
-   },
-   {
-      "title":"LEGO Racers 2",
-      "total_sales":0.13,
-      "genre":"Racing",
-      "publisher":"LEGO Media",
-      "year":2001
-   },
-   {
-      "title":"LEGO Soccer Mania",
-      "total_sales":0.16,
-      "genre":"Sports",
-      "publisher":"LEGO Media",
-      "year":2002
-   },
-   {
-      "title":"Salt and Sanctuary",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Leadman Games",
-      "year":2018
-   },
-   {
-      "title":"Armello",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"League of Geeks",
-      "year":2018
-   },
-   {
-      "title":"Igor: The Game",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"Legacy Interactive",
-      "year":2008
-   },
-   {
-      "title":"House M.D.",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Legacy Interactive",
-      "year":2010
-   },
-   {
-      "title":"Murder, She Wrote",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Legacy Interactive",
-      "year":2009
-   },
-   {
-      "title":"Zoo Vet: Endangered Animals",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Legacy Interactive",
-      "year":2008
-   },
-   {
-      "title":"Pet Pals: Animal Doctor",
-      "total_sales":0.14,
-      "genre":"Simulation",
-      "publisher":"Legacy Interactive",
-      "year":2008
-   },
-   {
-      "title":"Emergency Room: Real Life Rescues",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Legacy Interactive",
-      "year":2009
-   },
-   {
       "title":"The Snack World: Trejarers Gold",
       "total_sales":0.12,
       "genre":"Role-Playing",
@@ -34707,6 +34406,20 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Level 5",
+      "year":2009
+   },
+   {
+      "title":"Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Level 5",
+      "year":2009
+   },
+   {
       "title":"Sloane to MacHale no Nazo no Monogatari 2",
       "total_sales":0.09,
       "genre":"Puzzle",
@@ -34763,109 +34476,18 @@ export const pb_data =
       "year":2016
    },
    {
-      "title":"Natalie Brooks: Mystery at Hillcrest High",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Licensed 4U",
-      "year":2012
-   },
-   {
-      "title":"Ship Simulator 2008",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Lighthouse Interactive",
-      "year":2008
-   },
-   {
-      "title":"The Movies",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Lionhead Studios",
-      "year":2005
-   },
-   {
-      "title":"Winx Club: Saving Alfea",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2014
-   },
-   {
-      "title":"Monster High 13 Wishes",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2013
-   },
-   {
-      "title":"Monster High: New Ghoul in School",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2015
-   },
-   {
-      "title":"How to Train Your Dragon 2",
-      "total_sales":0.83,
-      "genre":"Action-Adventure",
-      "publisher":"Little Orbit",
-      "year":2014
-   },
-   {
-      "title":"Adventure Time: Finn & Jake Investigations",
-      "total_sales":0.63,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2015
-   },
-   {
-      "title":"Adventure Time: The Secret of the Nameless",
-      "total_sales":0.02,
-      "genre":"Action-Adventure",
-      "publisher":"Little Orbit",
-      "year":2014
-   },
-   {
-      "title":"Adventure Time: The Secret of the Nameless Kingdom",
-      "total_sales":0.15,
-      "genre":"Action-Adventure",
-      "publisher":"Little Orbit",
-      "year":2014
-   },
-   {
-      "title":"Kung Fu Panda: Showdown of Legendary Legends",
-      "total_sales":0.12,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2015
-   },
-   {
-      "title":"Barbie and Her Sisters Puppy Rescue",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Little Orbit",
-      "year":2015
-   },
-   {
-      "title":"Busy Scissors",
-      "total_sales":0.15,
-      "genre":"Simulation",
-      "publisher":"Little Orbit",
-      "year":2010
-   },
-   {
-      "title":"Penguins of Madagascar",
-      "total_sales":0.12,
-      "genre":"Action-Adventure",
-      "publisher":"Little Orbit",
-      "year":2014
-   },
-   {
       "title":"Wrath Unleashed",
       "total_sales":0.12,
       "genre":"Strategy",
       "publisher":"LucasArts",
       "year":2004
+   },
+   {
+      "title":"Sam & Max Hit the Road",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"LucasArts",
+      "year":1993
    },
    {
       "title":"Secret Weapons Over Normandy",
@@ -34959,11 +34581,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Star Wars: Rebel Assault II - The Hidden Empire",
+      "total_sales":0.88,
+      "genre":"Shooter",
+      "publisher":"LucasArts",
+      "year":1996
+   },
+   {
       "title":"Star Wars: Obi-Wan",
       "total_sales":0.7,
       "genre":"Action",
       "publisher":"LucasArts",
       "year":2001
+   },
+   {
+      "title":"Star Wars: Masters of Teras Kasi",
+      "total_sales":0.68,
+      "genre":"Action",
+      "publisher":"LucasArts",
+      "year":1997
    },
    {
       "title":"Star Wars Knights of the Old Republic II: The Sith Lords",
@@ -34994,6 +34630,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"The Curse of Monkey Island",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"LucasArts",
+      "year":1997
+   },
+   {
       "title":"Star Wars: Knights of the Old Republic",
       "total_sales":2.33,
       "genre":"Role-Playing",
@@ -35013,6 +34656,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"LucasArts",
       "year":2001
+   },
+   {
+      "title":"Herc's Adventures",
+      "total_sales":0.04,
+      "genre":"Adventure",
+      "publisher":"LucasArts",
+      "year":1997
    },
    {
       "title":"Star Wars The Clone Wars: Lightsaber Duels",
@@ -35043,11 +34693,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Ballblazer Champions",
+      "total_sales":0.02,
+      "genre":"Sports",
+      "publisher":"LucasArts",
+      "year":1997
+   },
+   {
       "title":"Star Wars: Clone Wars",
       "total_sales":1.03,
       "genre":"Shooter",
       "publisher":"LucasArts",
       "year":2002
+   },
+   {
+      "title":"Star Wars: Dark Forces",
+      "total_sales":2.5,
+      "genre":"Shooter",
+      "publisher":"LucasArts",
+      "year":1995
+   },
+   {
+      "title":"Star Wars: Galactic Battlegrounds",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"LucasArts",
+      "year":2001
+   },
+   {
+      "title":"Star Wars: Demolition",
+      "total_sales":0.46,
+      "genre":"Racing",
+      "publisher":"LucasArts",
+      "year":2000
    },
    {
       "title":"Star Wars: Empire at War",
@@ -35078,6 +34756,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Star Wars Galaxies: The Total Experience",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"LucasArts",
+      "year":2005
+   },
+   {
       "title":"Escape From Monkey Island",
       "total_sales":0.1,
       "genre":"Adventure",
@@ -35090,6 +34775,27 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"LucasArts",
       "year":2004
+   },
+   {
+      "title":"Star Wars Galaxies: Jump to Lightspeed",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"LucasArts",
+      "year":2004
+   },
+   {
+      "title":"Star Wars Episode 1: Jedi Power Battles",
+      "total_sales":1.21,
+      "genre":"Action",
+      "publisher":"LucasArts",
+      "year":2000
+   },
+   {
+      "title":"Star Wars Episode I: Battle for Naboo",
+      "total_sales":0.26,
+      "genre":"Simulation",
+      "publisher":"LucasArts",
+      "year":2000
    },
    {
       "title":"LEGO Star Wars II: The Original Trilogy",
@@ -35162,6 +34868,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Star Wars Episode I: The Phantom Menace",
+      "total_sales":1.74,
+      "genre":"Adventure",
+      "publisher":"LucasArts",
+      "year":1999
+   },
+   {
+      "title":"Star Wars: The Force Unleashed - Ultimate Sith Edition",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"LucasArts",
+      "year":2009
+   },
+   {
       "title":"Star Wars: The Force Unleashed II",
       "total_sales":3.98,
       "genre":"Action",
@@ -35180,118 +34900,6 @@ export const pb_data =
       "total_sales":10.07,
       "genre":"Action",
       "publisher":"LucasArts",
-      "year":2008
-   },
-   {
-      "title":"Ketsui Deathtiny: Kizuna Jigoku Tachi",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"M2",
-      "year":2018
-   },
-   {
-      "title":"Battle Garegga Rev.2016",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"M2",
-      "year":2016
-   },
-   {
-      "title":"R.B.I. Baseball 18",
-      "total_sales":0.33,
-      "genre":"Sports",
-      "publisher":"MLB Advanced Media",
-      "year":2018
-   },
-   {
-      "title":"R.B.I. Baseball 2017",
-      "total_sales":0.19,
-      "genre":"Sports",
-      "publisher":"MLB.com",
-      "year":2017
-   },
-   {
-      "title":"R.B.I. Baseball 2016",
-      "total_sales":0.1,
-      "genre":"Sports",
-      "publisher":"MLB.com",
-      "year":2016
-   },
-   {
-      "title":"Kawaii Koinu DS 3",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2010
-   },
-   {
-      "title":"Kawaii Koinu DS 2",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2008
-   },
-   {
-      "title":"Fashionable Puppy: Oshare na Koinu DS",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2007
-   },
-   {
-      "title":"Jewel Pet: Kawaii Mahou no Fantasy",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2009
-   },
-   {
-      "title":"Ochaken no Heya DS 2",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2007
-   },
-   {
-      "title":"San-X: Chara Sagashi Land",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"MTO",
-      "year":2007
-   },
-   {
-      "title":"San-X Land: Theme Park de Asobou!",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"MTO",
-      "year":2006
-   },
-   {
-      "title":"Ochaken no Heya DS",
-      "total_sales":0.12,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2006
-   },
-   {
-      "title":"San-X Character Channel: All-Star Daishuugou!",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"MTO",
-      "year":2008
-   },
-   {
-      "title":"Ochaken no Daibouken 2: Yume Ippai no Omocha Hako",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"MTO",
-      "year":2008
-   },
-   {
-      "title":"Kawaii Koneko DS",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"MTO",
       "year":2008
    },
    {
@@ -35383,48 +34991,6 @@ export const pb_data =
       "total_sales":0.5,
       "genre":"Misc",
       "publisher":"MTV Games",
-      "year":2009
-   },
-   {
-      "title":"Damage Inc.: Pacific Squadron WWII",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Mad Catz",
-      "year":2012
-   },
-   {
-      "title":"Jonah Lomu Rugby Challenge",
-      "total_sales":0.35,
-      "genre":"Sports",
-      "publisher":"Mad Catz",
-      "year":2011
-   },
-   {
-      "title":"Real World Golf",
-      "total_sales":0.14,
-      "genre":"Sports",
-      "publisher":"Mad Catz",
-      "year":2006
-   },
-   {
-      "title":"MC Groovz Dance Craze",
-      "total_sales":0.2,
-      "genre":"Misc",
-      "publisher":"Mad Catz",
-      "year":2004
-   },
-   {
-      "title":"Music Maker",
-      "total_sales":0.31,
-      "genre":"Misc",
-      "publisher":"Magix",
-      "year":2003
-   },
-   {
-      "title":"Music Maker: Rockstar",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Magix",
       "year":2009
    },
    {
@@ -36002,6 +35568,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Strawberry Shortcake Sweet Dreams",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Majesco",
+      "year":2006
+   },
+   {
       "title":"Star Trek: Voyager Elite Force",
       "total_sales":0.15,
       "genre":"Shooter",
@@ -36065,6 +35638,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Looney Tunes Double Pack: Dizzy Driving \/ Acme Antics",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Majesco",
+      "year":2005
+   },
+   {
       "title":"My Hero: Firefighter",
       "total_sales":0.01,
       "genre":"Simulation",
@@ -36119,6 +35699,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Majesco",
       "year":2004
+   },
+   {
+      "title":"F24: Stealth Fighter",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Majesco",
+      "year":2007
    },
    {
       "title":"Mad Dog McCree: Gunslinger Pack",
@@ -36189,6 +35776,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Majesco",
       "year":2004
+   },
+   {
+      "title":"Major Minor's Majestic March (jp sales)",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Majesco",
+      "year":2009
    },
    {
       "title":"Bomberman Max 2: Blue Advance",
@@ -36315,6 +35909,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Majesco",
       "year":2003
+   },
+   {
+      "title":"Majesco's Rec Room Challenge",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Majesco",
+      "year":2005
    },
    {
       "title":"Left Brain Right Brain 2",
@@ -36772,424 +36373,11 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"Zumba Fitness: World Party",
-      "total_sales":0.52,
-      "genre":"Misc",
-      "publisher":"Majesco Entertainment",
-      "year":2013
-   },
-   {
-      "title":"Gardening Mama 2: Forest Friends",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Majesco Entertainment",
-      "year":2014
-   },
-   {
-      "title":"Zumba Fitness Core",
-      "total_sales":0.12,
-      "genre":"Music",
-      "publisher":"Majesco Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Zumba Fitness Rush",
-      "total_sales":0.18,
-      "genre":"Music",
-      "publisher":"Majesco Entertainment",
-      "year":2012
-   },
-   {
-      "title":"The Void",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Mamba Games",
-      "year":2009
-   },
-   {
-      "title":"Luminous Arc Infinity",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Marvel Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Senran Kagura: Peach and Reflexions Limited Double Pack",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Marvelous",
-      "year":2018
-   },
-   {
-      "title":"Fate\/Extella Link",
-      "total_sales":0.18,
-      "genre":"Action",
-      "publisher":"Marvelous",
-      "year":2018
-   },
-   {
-      "title":"Harvest Moon: The Land of Origin",
-      "total_sales":0.23,
-      "genre":"Simulation",
-      "publisher":"Marvelous",
-      "year":2012
-   },
-   {
-      "title":"Senran Kagura 2: Deep Crimson",
-      "total_sales":0.18,
-      "genre":"Action",
-      "publisher":"Marvelous Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Bakumatsu Rock",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Marvelous Entertainment",
-      "year":2014
-   },
-   {
-      "title":"IA\/VT Colorful",
-      "total_sales":0.08,
-      "genre":"Music",
-      "publisher":"Marvelous Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Peach Ball: Senran Kagura",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Marvelous Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Uppers",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Marvelous Entertainment",
-      "year":2016
-   },
-   {
-      "title":"Fate\/Extra CCC",
-      "total_sales":0.12,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Entertainment",
-      "year":2013
-   },
-   {
-      "title":"Ikki Tousen: Xross Impact",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2010
-   },
-   {
-      "title":"Story of Seasons: Trio of Towns",
-      "total_sales":0.49,
-      "genre":"Simulation",
-      "publisher":"Marvelous Interactive",
-      "year":2017
-   },
-   {
-      "title":"Ikki Tousen: Eloquent Fist",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Junjou Romanchika: Koi no Doki Doki Daisakusen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Zero no Tsukaima: Maigo no Period to Ikusen no Symphony",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Zero no Tsukaima: Muma ga Tsumugu Yokaze no Nocturne",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Majin Tantei Nougami Neuro: Neuro to Miko no Bishoku Sanmai",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Zero no Tsukaima: Shou-akuma to Harukaze no Concerto",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Mahou Sensei Negima! Private Lesson 2: Ojama Shimasu Parasite de Chu",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Interactive",
-      "year":2006
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS Fate of Heat III - Yuki no Shugosha Raishuu!",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Interactive",
-      "year":2010
-   },
-   {
-      "title":"Ookiku Furikabutte: Honto no Ace ni Nareru kamo",
-      "total_sales":0.03,
+      "title":"David Beckham Soccer",
+      "total_sales":0.0,
       "genre":"Sports",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Luminous Arc 3",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Interactive",
-      "year":2009
-   },
-   {
-      "title":"Mahou Sensei Negima!? Neo-Pactio Fight!!",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! Battle Arena",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Livly Garden",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Marvelous Interactive",
-      "year":2010
-   },
-   {
-      "title":"Katekyoo Hitman Reborn Nerae!? Ring x Bongole Returns",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Happiness! De-Lucks",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Mushishi: Amefuru Sato",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Akagawa Jirou Mystery: Tsuki no Hikari",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Fate of Heat II - Unmei no Futari",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Interactive",
-      "year":2009
-   },
-   {
-      "title":"Senran Kagura: Shoujotachi no Shinei",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2011
-   },
-   {
-      "title":"Sakura Note: Imanitsu na Garu Mirai",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2009
-   },
-   {
-      "title":"No More Heroes: Red Zone",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2011
-   },
-   {
-      "title":"Negima!? Chou Mahora Taisen Kattoiin, Keiyaku Shikkou Dechai masuu",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2006
-   },
-   {
-      "title":"Katekyoo Hitman Reborn!! Let's Ansatsu!? Nerawareta 10 Daime!",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Avalon Code",
-      "total_sales":0.24,
-      "genre":"Role-Playing",
-      "publisher":"Marvelous Interactive",
-      "year":2009
-   },
-   {
-      "title":"Bakumatsu Rock: Ultra Soul",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Marvelous Interactive",
-      "year":2014
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! Kizuna no Tag Battle",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2010
-   },
-   {
-      "title":"Tokyo Majin Gakuen: Kenfuuchou",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Flower, Sun, and Rain",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2009
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! Kindan no Yami no Delta",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Busou Renkin: Youkoso Papillon Park e",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! Dream Hyper Battle! Wii",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! Dream Hyper Battle!",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"To LoveRu Trouble: Doki Doki! Rinkaigakkou-Hen",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Negima!? Chou Mahora Taisen Chuu: Checkiin Zenin Shuugou! Yappari Onsen Kichaimashitaa",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"Aa Megami-samaa",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2007
-   },
-   {
-      "title":"To LoveRu Trouble: Waku Waku! Rinkangakkou-Hen",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2008
-   },
-   {
-      "title":"Net High",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Marvelous Interactive",
-      "year":2015
-   },
-   {
-      "title":"IGT Slots: Lucky Larry's Lobstermania",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Masque Publishing",
-      "year":2011
-   },
-   {
-      "title":"PopCap Hits! Vol 2",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Mastertronic",
-      "year":2011
-   },
-   {
-      "title":"Emily Archer and the Curse of Tutankhamun",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Mastertronic",
-      "year":2011
-   },
-   {
-      "title":"Alien Breed Trilogy",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Mastertronic",
-      "year":2011
-   },
-   {
-      "title":"Serious Sam HD: The First and Second Encounters",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Mastertronic",
-      "year":2011
+      "publisher":"Majesco",
+      "year":2002
    },
    {
       "title":"Outdoors Unleashed: Africa 3D",
@@ -37346,403 +36534,109 @@ export const pb_data =
       "year":2009
    },
    {
-      "title":"Utsusemi no Mawari",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Matatabi",
-      "year":2017
-   },
-   {
-      "title":"Deer Drive: Legends",
-      "total_sales":0.03,
+      "title":"Dark Cavern",
+      "total_sales":0.24,
       "genre":"Shooter",
-      "publisher":"Maximum Family Games",
-      "year":2012
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
-      "title":"Aragami",
-      "total_sales":0.04,
+      "title":"Barbie: Race & Ride",
+      "total_sales":0.59,
       "genre":"Action",
-      "publisher":"Maximum Games",
-      "year":2016
+      "publisher":"Mattel Interactive",
+      "year":1999
    },
    {
-      "title":"ATV Drift & Tricks",
-      "total_sales":0.12,
+      "title":"Tyco RC: Assault with a Battery",
+      "total_sales":0.11,
       "genre":"Racing",
-      "publisher":"Maximum Games",
-      "year":2017
+      "publisher":"Mattel Interactive",
+      "year":2000
    },
    {
-      "title":"Loading Human",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Maximum Games",
-      "year":2016
-   },
-   {
-      "title":"Outcast: Second Contact",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Maximum Games",
-      "year":2017
-   },
-   {
-      "title":"Putty Squad",
-      "total_sales":0.2,
-      "genre":"Platform",
-      "publisher":"Maximum Games",
-      "year":2013
-   },
-   {
-      "title":"Conan Exiles",
-      "total_sales":0.27,
-      "genre":"Action-Adventure",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"Dead Alliance",
-      "total_sales":0.08,
-      "genre":"Shooter",
-      "publisher":"Maximum Games",
-      "year":2017
-   },
-   {
-      "title":"ArmaGallant: Decks of Destiny",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Maximum Games",
-      "year":2017
-   },
-   {
-      "title":"Beast Quest",
-      "total_sales":0.06,
-      "genre":"Action-Adventure",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"Agony",
-      "total_sales":0.05,
-      "genre":"Action-Adventure",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"The Golf Club",
-      "total_sales":0.2,
-      "genre":"Sports",
-      "publisher":"Maximum Games",
-      "year":2015
-   },
-   {
-      "title":"Flashback",
-      "total_sales":0.04,
-      "genre":"Platform",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"Moto Racer 4",
-      "total_sales":0.04,
-      "genre":"Racing",
-      "publisher":"Maximum Games",
-      "year":2017
-   },
-   {
-      "title":"Troll and I",
-      "total_sales":0.15,
+      "title":"Frogs And Flies",
+      "total_sales":0.36,
       "genre":"Action",
-      "publisher":"Maximum Games",
-      "year":2017
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
-      "title":"Road Rage",
-      "total_sales":0.07,
-      "genre":"Racing",
-      "publisher":"Maximum Games",
-      "year":2017
+      "title":"Detective Barbie: The Mystery Cruise",
+      "total_sales":0.14,
+      "genre":"Adventure",
+      "publisher":"Mattel Interactive",
+      "year":2000
    },
    {
-      "title":"Mark McMorris Infinite Air",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"Maximum Games",
-      "year":2016
-   },
-   {
-      "title":"Golf Club 2",
+      "title":"International Soccer",
       "total_sales":0.19,
       "genre":"Sports",
-      "publisher":"Maximum Games",
-      "year":2017
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
-      "title":"Train Sim World",
-      "total_sales":0.12,
-      "genre":"Simulation",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"Extinction",
-      "total_sales":0.11,
-      "genre":"Action",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"Farming Simulator 17: Big Bud",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Maximum Games",
-      "year":2017
-   },
-   {
-      "title":"Surviving Mars",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"Maximum Games",
-      "year":2018
-   },
-   {
-      "title":"The Sims: House Party",
-      "total_sales":2.16,
-      "genre":"Simulation",
-      "publisher":"Maxis",
-      "year":2001
-   },
-   {
-      "title":"Pachi-Slot Teiou: Golgo 13 Las Vegas (JP sales, but wrong system)",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Media Entertainment",
-      "year":2002
-   },
-   {
-      "title":"Derby Stallion 64",
-      "total_sales":0.15,
-      "genre":"Sports",
-      "publisher":"Media Factory",
-      "year":2001
-   },
-   {
-      "title":"DS Dengeki Bunko ADV: Baccano!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Media Works",
-      "year":2008
-   },
-   {
-      "title":"Nanatsuiro * Drops Pure!!",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Media Works",
-      "year":2007
-   },
-   {
-      "title":"Shakugan no Shana",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Media Works",
-      "year":2006
-   },
-   {
-      "title":"Touhou Genso Wanderer Tod: Reloaded",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Mediascape",
-      "year":2016
-   },
-   {
-      "title":"Touhou Shinpiroku ~ Urban Legend in Limbo",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Mediascape",
-      "year":2016
-   },
-   {
-      "title":"My Virtual Tutor: Reading Adventure Pre-K to Kindergarten",
+      "title":"Astroblast",
       "total_sales":0.31,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2009
-   },
-   {
-      "title":"My Virtual Tutor: Reading Adventure First to Second Grade",
-      "total_sales":0.4,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2009
-   },
-   {
-      "title":"My Virtual Tutor: Reading Adventure Kindergarten to First",
-      "total_sales":0.25,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2009
-   },
-   {
-      "title":"thinkSMART: Chess for Kids",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2011
-   },
-   {
-      "title":"thinkSMART Kids 8+",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2010
-   },
-   {
-      "title":"Cosmos Chaos!",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"Mentor Interactive",
-      "year":2010
-   },
-   {
-      "title":"Moonlighter",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Merge Games",
-      "year":2018
-   },
-   {
-      "title":"Candle: The Power of the Flame",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Merge Games",
-      "year":2018
-   },
-   {
-      "title":"Dead Cells",
-      "total_sales":0.16,
       "genre":"Action",
-      "publisher":"Merge Games",
-      "year":2018
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
-      "title":"Darkest Dungeon",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Merge Games",
-      "year":2018
-   },
-   {
-      "title":"Unbox: Newbie's Adventure",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Merge Games",
-      "year":2017
-   },
-   {
-      "title":"Trapped Dead",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Meridian4",
-      "year":2011
-   },
-   {
-      "title":"Bus Driver",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Meridian4",
-      "year":2008
-   },
-   {
-      "title":"Shutter Island",
-      "total_sales":0.2,
-      "genre":"Adventure",
-      "publisher":"Merscom LLC",
-      "year":2009
-   },
-   {
-      "title":"Dark Angel: Vampire Apocalypse",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Metro 3D",
-      "year":2001
-   },
-   {
-      "title":"Sub Rebellion",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Metro 3D",
-      "year":2002
-   },
-   {
-      "title":"Stake: Fortune Fighters",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Metro 3D",
-      "year":2003
-   },
-   {
-      "title":"Smash Cars",
-      "total_sales":0.11,
+      "title":"Bump 'n' Jump",
+      "total_sales":0.39,
       "genre":"Racing",
-      "publisher":"Metro 3D",
-      "year":2003
+      "publisher":"Mattel Interactive",
+      "year":1983
    },
    {
-      "title":"Wizardry XTH: Unlimited Students",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Michaelsoft",
-      "year":2006
-   },
-   {
-      "title":"Toki Collector's Edition",
-      "total_sales":0.05,
-      "genre":"Platform",
-      "publisher":"Microids",
-      "year":2018
-   },
-   {
-      "title":"Gear.Club Unlimited",
-      "total_sales":0.15,
-      "genre":"Racing",
-      "publisher":"Microids",
-      "year":2017
-   },
-   {
-      "title":"Asterix and Obelix XXL2",
-      "total_sales":0.1,
-      "genre":"Action-Adventure",
-      "publisher":"Microids",
-      "year":2018
-   },
-   {
-      "title":"Syberia",
-      "total_sales":0.28,
-      "genre":"Adventure",
-      "publisher":"Microids",
-      "year":2002
-   },
-   {
-      "title":"Paddington: Adventures in London",
-      "total_sales":0.04,
+      "title":"BurgerTime",
+      "total_sales":0.59,
       "genre":"Puzzle",
-      "publisher":"Microids",
-      "year":2015
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
-      "title":"Syberia 2",
-      "total_sales":0.01,
+      "title":"Barbie Super Sports",
+      "total_sales":0.22,
+      "genre":"Sports",
+      "publisher":"Mattel Interactive",
+      "year":1999
+   },
+   {
+      "title":"Adventures of Tron",
+      "total_sales":0.67,
+      "genre":"Action",
+      "publisher":"Mattel Interactive",
+      "year":1982
+   },
+   {
+      "title":"Tom and Jerry in House Trap",
+      "total_sales":0.2,
+      "genre":"Action",
+      "publisher":"Mattel Interactive",
+      "year":2000
+   },
+   {
+      "title":"The Wild Thornberrys: Animal Adventures",
+      "total_sales":0.17,
       "genre":"Adventure",
-      "publisher":"Microids",
-      "year":2017
+      "publisher":"Mattel Interactive",
+      "year":2000
    },
    {
-      "title":"Gear Club Unlimited 2",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Microids",
-      "year":2018
+      "title":"Championship Surfer",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"Mattel Interactive",
+      "year":2000
+   },
+   {
+      "title":"Armor Ambush",
+      "total_sales":0.17,
+      "genre":"Action",
+      "publisher":"Mattel Interactive",
+      "year":1982
    },
    {
       "title":"Azurik: Rise of Perathia",
@@ -37773,6 +36667,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Microsoft Flight Simulator",
+      "total_sales":5.12,
+      "genre":"Simulation",
+      "publisher":"Microsoft",
+      "year":1996
+   },
+   {
       "title":"Triple Pack: Xbox Live Arcade Compilation",
       "total_sales":0.03,
       "genre":"Misc",
@@ -37785,6 +36686,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Microsoft",
       "year":2004
+   },
+   {
+      "title":"MechWarrior 4: Vengeance",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Microsoft",
+      "year":2000
    },
    {
       "title":"NightCaster",
@@ -37822,6 +36730,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Age of Empires Gold Edition",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Microsoft",
+      "year":1999
+   },
+   {
       "title":"You're in the Movies",
       "total_sales":0.48,
       "genre":"Misc",
@@ -37857,6 +36772,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Age of Empires: Collector's Edition",
+      "total_sales":0.14,
+      "genre":"Strategy",
+      "publisher":"Microsoft",
+      "year":2000
+   },
+   {
       "title":"Dance Central 3",
       "total_sales":0.83,
       "genre":"Music",
@@ -37890,6 +36812,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Microsoft",
       "year":2004
+   },
+   {
+      "title":"Midtown Madness 2",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Microsoft",
+      "year":2000
    },
    {
       "title":"Project Sylpheed: Arc of Deception",
@@ -37934,6 +36863,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Crimson Skies",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Microsoft",
+      "year":2000
+   },
+   {
       "title":"Blood Wake",
       "total_sales":0.57,
       "genre":"Shooter",
@@ -37960,6 +36896,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Microsoft",
       "year":2002
+   },
+   {
+      "title":"Xbox Live Arcade",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Microsoft",
+      "year":2004
    },
    {
       "title":"N3: Ninety-Nine Nights",
@@ -38158,6 +37101,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Dungeon Siege: Legends of Aranna",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Microsoft Game Studios",
+      "year":2003
+   },
+   {
       "title":"Voodoo Vince",
       "total_sales":0.12,
       "genre":"Platform",
@@ -38312,6 +37262,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"MechWarrior 4: Mercenaries",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Microsoft Game Studios",
+      "year":2002
+   },
+   {
       "title":"Halo: Combat Evolved",
       "total_sales":0.04,
       "genre":"Shooter",
@@ -38333,6 +37290,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Age of Empires III: The WarChiefs",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Microsoft Game Studios",
+      "year":2006
+   },
+   {
       "title":"Zoo Tycoon 2: Extinct Animals",
       "total_sales":0.01,
       "genre":"Strategy",
@@ -38345,6 +37309,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Microsoft Game Studios",
       "year":2011
+   },
+   {
+      "title":"Zoo Tycoon 2: African Adventure",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Microsoft Game Studios",
+      "year":2006
    },
    {
       "title":"Age of Mythology: The Titans",
@@ -38361,8 +37332,22 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Zoo Tycoon 2: Endangered Species",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Microsoft Game Studios",
+      "year":2005
+   },
+   {
       "title":"Rise of Nations: Rise of Legends",
       "total_sales":0.03,
+      "genre":"Strategy",
+      "publisher":"Microsoft Game Studios",
+      "year":2006
+   },
+   {
+      "title":"Zoo Tycoon 2: Zookeeper Collection",
+      "total_sales":0.0,
       "genre":"Strategy",
       "publisher":"Microsoft Game Studios",
       "year":2006
@@ -38478,6 +37463,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Microsoft Game Studios",
       "year":2010
+   },
+   {
+      "title":"RalliSport Challenge",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Microsoft Game Studios",
+      "year":2002
    },
    {
       "title":"Microsoft Flight Simulator X Acceleration Expansion Pack",
@@ -38718,6 +37710,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Kinect Sports: Ultimate Collection",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Microsoft Studios",
+      "year":2012
+   },
+   {
       "title":"Kinect: Disneyland Adventures",
       "total_sales":2.41,
       "genre":"Action-Adventure",
@@ -38788,46 +37787,11 @@ export const pb_data =
       "year":2012
    },
    {
-      "title":"A-Train 6",
-      "total_sales":0.06,
-      "genre":"Strategy",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Mary King's Riding School 2",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Maken Shao: Demon Sword",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2003
-   },
-   {
-      "title":"Clever Kids: Pirates",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Clever Kids: Creepy Crawlies",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Bust-A-Bloc",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Midas Interactive Entertainment",
-      "year":2003
+      "title":"NFL Blitz 2000",
+      "total_sales":1.67,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1999
    },
    {
       "title":"Blacksite: Area 51",
@@ -38851,11 +37815,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"NFL Blitz",
+      "total_sales":2.56,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"NFL Blitz 20-02",
       "total_sales":0.46,
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2002
+   },
+   {
+      "title":"Cruis'n Exotica",
+      "total_sales":0.21,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
    },
    {
       "title":"Ultimate Mortal Kombat",
@@ -38914,6 +37892,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Twisted Edge Extreme Snowboarding",
+      "total_sales":0.2,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"Blitz: The League II",
       "total_sales":0.25,
       "genre":"Sports",
@@ -38921,11 +37906,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"NFL Blitz 2001",
+      "total_sales":1.01,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
       "title":"HotBrain",
       "total_sales":0.03,
       "genre":"Puzzle",
       "publisher":"Midway Games",
       "year":2007
+   },
+   {
+      "title":"Cruis'n Velocity",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2001
    },
    {
       "title":"Blitz: The League",
@@ -38956,6 +37955,27 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"NHL Open Ice",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
+      "title":"Mortal Kombat Advance",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":2001
+   },
+   {
+      "title":"Mortal Kombat 4",
+      "total_sales":2.19,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"TouchMaster 2",
       "total_sales":0.89,
       "genre":"Puzzle",
@@ -38968,6 +37988,27 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Midway Games",
       "year":2007
+   },
+   {
+      "title":"Jackie Chan: Stuntmaster",
+      "total_sales":0.22,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"Rollcage Stage II",
+      "total_sales":0.09,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"Rise & Fall: Civilizations at War",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Midway Games",
+      "year":2006
    },
    {
       "title":"Freestyle Metal X",
@@ -38989,6 +38030,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Midway Games",
       "year":2002
+   },
+   {
+      "title":"Destruction Derby Raw",
+      "total_sales":0.14,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
    },
    {
       "title":"TNA iMPACT!",
@@ -39019,11 +38067,32 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Robotron X",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
       "title":"Shadow Hearts: Covenant",
       "total_sales":0.24,
       "genre":"Role-Playing",
       "publisher":"Midway Games",
       "year":2004
+   },
+   {
+      "title":"Maximum Force",
+      "total_sales":0.11,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"California Speed",
+      "total_sales":0.16,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1999
    },
    {
       "title":"Gravity Games Bike: Street Vert Dirt",
@@ -39040,11 +38109,32 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"San Francisco Rush: Extreme Racing",
+      "total_sales":1.13,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
       "title":"Mortal Kombat Kollection",
       "total_sales":0.08,
       "genre":"Fighting",
       "publisher":"Midway Games",
       "year":2008
+   },
+   {
+      "title":"Mortal Kombat Mythologies: Sub-Zero",
+      "total_sales":1.08,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"San Francisco Rush 2049",
+      "total_sales":0.2,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
    },
    {
       "title":"L.A. Rush",
@@ -39054,6 +38144,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Rush 2: Extreme Racing USA",
+      "total_sales":0.42,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"Rush",
       "total_sales":0.12,
       "genre":"Racing",
@@ -39061,11 +38158,53 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Hydro Thunder",
+      "total_sales":0.62,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"Kurt Warner's Arena Football Unleashed",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"Pandemonium 2",
+      "total_sales":0.07,
+      "genre":"Platform",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"Doom 64",
+      "total_sales":0.47,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"Paperboy",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
       "title":"The Bee Game",
       "total_sales":0.19,
       "genre":"Adventure",
       "publisher":"Midway Games",
       "year":2007
+   },
+   {
+      "title":"Chopper Attack",
+      "total_sales":0.11,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1998
    },
    {
       "title":"NHL Hitz Pro",
@@ -39094,6 +38233,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Midway Games",
       "year":2006
+   },
+   {
+      "title":"Mortal Kombat: Special Forces",
+      "total_sales":0.21,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":2000
    },
    {
       "title":"Mortal Kombat: Shaolin Monks",
@@ -39138,6 +38284,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Mortal Kombat Trilogy",
+      "total_sales":3.75,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
       "title":"Game Party",
       "total_sales":2.49,
       "genre":"Misc",
@@ -39152,11 +38305,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Body Harvest",
+      "total_sales":0.2,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"Spy Hunter: Nowhere To Run",
       "total_sales":0.03,
       "genre":"Racing",
       "publisher":"Midway Games",
       "year":2006
+   },
+   {
+      "title":"Ready 2 Rumble Boxing",
+      "total_sales":1.67,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
+      "title":"Wayne Gretzky's 3D Hockey '98",
+      "total_sales":0.3,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1997
    },
    {
       "title":"Spy Hunter 2",
@@ -39166,11 +38340,60 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Ready 2 Rumble Boxing: Round 2",
+      "total_sales":1.57,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
       "title":"Midway's Greatest Arcade Hits",
       "total_sales":0.25,
       "genre":"Misc",
       "publisher":"Midway Games",
       "year":2001
+   },
+   {
+      "title":"Midway's Greatest Arcade Hits Volume 1",
+      "total_sales":0.24,
+      "genre":"Misc",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"Gex: Enter The Gecko",
+      "total_sales":0.58,
+      "genre":"Platform",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
+      "title":"NBA Showtime: NBA on NBC",
+      "total_sales":0.8,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
+      "title":"Wayne Gretzky's 3D Hockey",
+      "total_sales":0.53,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
+      "title":"WipEout 64",
+      "total_sales":0.43,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
+      "title":"Rampage World Tour",
+      "total_sales":1.3,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1997
    },
    {
       "title":"Stranglehold",
@@ -39187,11 +38410,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Rampage Puzzle Attack",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Midway Games",
+      "year":2001
+   },
+   {
       "title":"Gauntlet: Seven Sorrows",
       "total_sales":0.58,
       "genre":"Role-Playing",
       "publisher":"Midway Games",
       "year":2005
+   },
+   {
+      "title":"Rampage 2: Universal Tour",
+      "total_sales":0.45,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1999
    },
    {
       "title":"Gauntlet: Dark Legacy",
@@ -39208,11 +38445,60 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"World Driver Championship",
+      "total_sales":0.17,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
+      "title":"Gauntlet Legends",
+      "total_sales":1.01,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
       "title":"NBA Ballers: Rebound",
       "total_sales":0.1,
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2006
+   },
+   {
+      "title":"Assault: Retribution",
+      "total_sales":0.13,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
+      "title":"Gex 64: Enter the Gecko",
+      "total_sales":0.25,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
+      "title":"Off Road Challenge",
+      "total_sales":0.34,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
+      "title":"Colony Wars III: Red Sun",
+      "total_sales":0.12,
+      "genre":"Simulation",
+      "publisher":"Midway Games",
+      "year":2000
+   },
+   {
+      "title":"NBA Hangtime",
+      "total_sales":0.63,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1997
    },
    {
       "title":"Midway Arcade Treasures",
@@ -39243,6 +38529,34 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
+      "total_sales":0.94,
+      "genre":"Misc",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
+      "title":"War Gods",
+      "total_sales":0.32,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"Earth 2160",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Midway Games",
+      "year":2005
+   },
+   {
+      "title":"Quake",
+      "total_sales":0.19,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"Midway Arcade Treasures: Extended Play",
       "total_sales":0.24,
       "genre":"Misc",
@@ -39250,11 +38564,32 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mace: The Dark Age",
+      "total_sales":0.19,
+      "genre":"Fighting",
+      "publisher":"Midway Games",
+      "year":1997
+   },
+   {
+      "title":"Area 51",
+      "total_sales":1.46,
+      "genre":"Shooter",
+      "publisher":"Midway Games",
+      "year":1996
+   },
+   {
       "title":"Spy Hunter",
       "total_sales":2.21,
       "genre":"Racing",
       "publisher":"Midway Games",
       "year":2001
+   },
+   {
+      "title":"Arcade Party Pak",
+      "total_sales":0.11,
+      "genre":"Misc",
+      "publisher":"Midway Games",
+      "year":1999
    },
    {
       "title":"Rampage: Total Destruction",
@@ -39271,6 +38606,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Olympic Hockey 98",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"Midway Games",
+      "year":1998
+   },
+   {
       "title":"NBA Hoopz",
       "total_sales":0.31,
       "genre":"Sports",
@@ -39278,11 +38620,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Micro Machines 64 Turbo",
+      "total_sales":0.14,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1999
+   },
+   {
       "title":"MLB SlugFest 20-03",
       "total_sales":1.18,
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2002
+   },
+   {
+      "title":"Micro Machines V3",
+      "total_sales":0.1,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":1997
    },
    {
       "title":"NARC",
@@ -39311,6 +38667,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2003
+   },
+   {
+      "title":"Bio FREAKS",
+      "total_sales":0.27,
+      "genre":"Action",
+      "publisher":"Midway Games",
+      "year":1998
    },
    {
       "title":"MLB SlugFest 2006",
@@ -39346,6 +38709,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2006
+   },
+   {
+      "title":"Muppet RaceMania",
+      "total_sales":0.15,
+      "genre":"Racing",
+      "publisher":"Midway Games",
+      "year":2000
    },
    {
       "title":"Ed, Edd n Eddy: The Mis-Edventures",
@@ -39388,475 +38758,6 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Midway Games",
       "year":2004
-   },
-   {
-      "title":"MXGP 3: The Official Motocross Videogame",
-      "total_sales":0.34,
-      "genre":"Racing",
-      "publisher":"Milestone",
-      "year":2017
-   },
-   {
-      "title":"Radirgy Noa Wii",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Milestone",
-      "year":2010
-   },
-   {
-      "title":"S\u00e9bastien Loeb Rally EVO",
-      "total_sales":0.07,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l",
-      "year":2016
-   },
-   {
-      "title":"MXGP 2",
-      "total_sales":0.25,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l",
-      "year":2016
-   },
-   {
-      "title":"Ride 2",
-      "total_sales":0.26,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l",
-      "year":2016
-   },
-   {
-      "title":"Ride",
-      "total_sales":0.45,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l.",
-      "year":2015
-   },
-   {
-      "title":"MXGP Pro",
-      "total_sales":0.08,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l.",
-      "year":2018
-   },
-   {
-      "title":"Monster Energy Supercross - The Official Videogame",
-      "total_sales":0.22,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l.",
-      "year":2018
-   },
-   {
-      "title":"Gravel",
-      "total_sales":0.13,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l.",
-      "year":2018
-   },
-   {
-      "title":"MotoGP 15",
-      "total_sales":0.28,
-      "genre":"Racing",
-      "publisher":"Milestone S.r.l.",
-      "year":2015
-   },
-   {
-      "title":"Ziggurat",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Milkstone Studios",
-      "year":2015
-   },
-   {
-      "title":"Kimi ga Aruji de Shitsuji ga Ore de: Oshie Nikki",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Minato Station",
-      "year":2008
-   },
-   {
-      "title":"Shinken de Watashi ni Koi Shinasai! R",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Minato Station",
-      "year":2012
-   },
-   {
-      "title":"Kurogane Kaikitan",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Minato Station",
-      "year":2015
-   },
-   {
-      "title":"Car Battler Joe",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Mindscape",
-      "year":2002
-   },
-   {
-      "title":"My First Songs",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2010
-   },
-   {
-      "title":"I'm A Celebrity: Get Me Out of Here!",
-      "total_sales":0.21,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2009
-   },
-   {
-      "title":"Deal or No Deal: The Banker is Back!",
-      "total_sales":0.21,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2008
-   },
-   {
-      "title":"Countdown: The Game",
-      "total_sales":0.2,
-      "genre":"Puzzle",
-      "publisher":"Mindscape",
-      "year":2009
-   },
-   {
-      "title":"The Ultimate Red Ball Challenge",
-      "total_sales":0.2,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2009
-   },
-   {
-      "title":"U-Sing",
-      "total_sales":0.35,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2009
-   },
-   {
-      "title":"U-Sing  2",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2010
-   },
-   {
-      "title":"U-Sing: Girls Night",
-      "total_sales":0.25,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2010
-   },
-   {
-      "title":"Family Fortunes",
-      "total_sales":0.17,
-      "genre":"Misc",
-      "publisher":"Mindscape",
-      "year":2009
-   },
-   {
-      "title":"Moe Star: Moeru Toudai Eigojuku",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Mirai Shounen",
-      "year":2008
-   },
-   {
-      "title":"Override: Mech City Brawl",
-      "total_sales":0.05,
-      "genre":"Action-Adventure",
-      "publisher":"Modus Games",
-      "year":2018
-   },
-   {
-      "title":"Minecraft: Story Mode",
-      "total_sales":3.8,
-      "genre":"Adventure",
-      "publisher":"Mojang",
-      "year":2015
-   },
-   {
-      "title":"Airline Tycoon",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Monte Christo Multimedia",
-      "year":2001
-   },
-   {
-      "title":"Grand Theft Auto: Liberty City Stories \/ Vice City Stories",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Moss",
-      "year":2014
-   },
-   {
-      "title":"Caladrius",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Moss",
-      "year":2013
-   },
-   {
-      "title":"AMF Bowling Pinbusters!",
-      "total_sales":0.98,
-      "genre":"Sports",
-      "publisher":"Mud Duck Productions",
-      "year":2007
-   },
-   {
-      "title":"High Rollers Casino",
-      "total_sales":0.55,
-      "genre":"Misc",
-      "publisher":"Mud Duck Productions",
-      "year":2004
-   },
-   {
-      "title":"Airborne Troops: Countdown to D-Day",
-      "total_sales":0.12,
-      "genre":"Shooter",
-      "publisher":"Mud Duck Productions",
-      "year":2005
-   },
-   {
-      "title":"Powerdrome",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Mud Duck Productions",
-      "year":2004
-   },
-   {
-      "title":"Malice",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Mud Duck Productions",
-      "year":2004
-   },
-   {
-      "title":"Power Drome",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Mud Duck Productions",
-      "year":2004
-   },
-   {
-      "title":"AMF Bowling 2004",
-      "total_sales":0.3,
-      "genre":"Sports",
-      "publisher":"Mud Duck Productions",
-      "year":2003
-   },
-   {
-      "title":"Nanda's Island",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2011
-   },
-   {
-      "title":"Super Collapse! 3",
-      "total_sales":0.27,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2007
-   },
-   {
-      "title":"Chicken Hunter",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Mortimer Beckett and the Secrets of Spooky Manor",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Mumbo Jumbo",
-      "year":2009
-   },
-   {
-      "title":"Chainz Galaxy",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2011
-   },
-   {
-      "title":"Luxor: The Wrath of Set",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2006
-   },
-   {
-      "title":"Luxor: Pharaoh's Challenge",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2007
-   },
-   {
-      "title":"Farm Frenzy",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Luxor 3",
-      "total_sales":0.17,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Samantha Swift and the Hidden Roses of Athena",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Build-a-lot",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"Mahjong: Journey Quest for Tikal",
-      "total_sales":0.18,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2010
-   },
-   {
-      "title":"Platypus",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Mumbo Jumbo",
-      "year":2006
-   },
-   {
-      "title":"7 Wonders II",
-      "total_sales":0.31,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2007
-   },
-   {
-      "title":"7 Wonders of the Ancient World",
-      "total_sales":0.22,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2007
-   },
-   {
-      "title":"Midnight Mysteries: The Edgar Allan Poe Conspiracy",
-      "total_sales":0.15,
-      "genre":"Adventure",
-      "publisher":"Mumbo Jumbo",
-      "year":2009
-   },
-   {
-      "title":"Polar Bowler",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"Mumbo Jumbo",
-      "year":2008
-   },
-   {
-      "title":"7 Wonders: Treasures of Seven",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2011
-   },
-   {
-      "title":"Crazy Chicken: Pharaoh's Treasure",
-      "total_sales":0.06,
-      "genre":"Puzzle",
-      "publisher":"Mumbo Jumbo",
-      "year":2009
-   },
-   {
-      "title":"Mace Griffin: Bounty Hunter",
-      "total_sales":0.3,
-      "genre":"Shooter",
-      "publisher":"Mumbo Jumbo",
-      "year":2003
-   },
-   {
-      "title":"Crazy Chicken: Atlantis Quest",
-      "total_sales":0.05,
-      "genre":"Platform",
-      "publisher":"Mumbo Jumbo",
-      "year":2009
-   },
-   {
-      "title":"Crazy Chicken: Star Karts",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Mumbo Jumbo",
-      "year":2009
-   },
-   {
-      "title":"Stacked with Daniel Negreanu",
-      "total_sales":0.13,
-      "genre":"Misc",
-      "publisher":"Myelin Media",
-      "year":2006
-   },
-   {
-      "title":"Guild Wars: Nightfall",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"NCSoft",
-      "year":2006
-   },
-   {
-      "title":"Guild Wars: Factions",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"NCSoft",
-      "year":2006
-   },
-   {
-      "title":"Guild Wars Trilogy",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"NCSoft",
-      "year":2005
-   },
-   {
-      "title":"Culdcept",
-      "total_sales":0.32,
-      "genre":"Strategy",
-      "publisher":"NEC Interchannel",
-      "year":2003
-   },
-   {
-      "title":"Tube Slider",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"NEC Interchannel",
-      "year":2003
-   },
-   {
-      "title":"Pia Carrot e Youkoso!! 2.5",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"NEC Interchannel",
-      "year":2008
    },
    {
       "title":"Aedis Eclipse: Generation of Chaos",
@@ -40615,6 +39516,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Pac-Man World",
+      "total_sales":1.5,
+      "genre":"Action",
+      "publisher":"Namco",
+      "year":1999
+   },
+   {
       "title":"Pac-Man World 3",
       "total_sales":0.69,
       "genre":"Platform",
@@ -40650,11 +39558,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Pac-Man",
+      "total_sales":1.22,
+      "genre":"Puzzle",
+      "publisher":"Namco",
+      "year":1993
+   },
+   {
+      "title":"Yuu Yuu Hakusho 2: Kakutou no Sho",
+      "total_sales":0.31,
+      "genre":"Fighting",
+      "publisher":"Namco",
+      "year":1994
+   },
+   {
       "title":"Curious George",
       "total_sales":0.46,
       "genre":"Action",
       "publisher":"Namco",
       "year":2006
+   },
+   {
+      "title":"Yuu Yuu Hakusho",
+      "total_sales":0.36,
+      "genre":"Fighting",
+      "publisher":"Namco",
+      "year":1993
+   },
+   {
+      "title":"Tekken Tag Tournament",
+      "total_sales":4.05,
+      "genre":"Fighting",
+      "publisher":"Namco",
+      "year":2000
    },
    {
       "title":"Tekken Hybrid",
@@ -40690,6 +39626,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Namco",
       "year":2004
+   },
+   {
+      "title":"Tekken 2",
+      "total_sales":5.74,
+      "genre":"Fighting",
+      "publisher":"Namco",
+      "year":1996
    },
    {
       "title":"Time Crisis II",
@@ -40741,6 +39684,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Time Crisis",
+      "total_sales":1.68,
+      "genre":"Shooter",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
       "title":"Me & My Katamari (JP sales)",
       "total_sales":0.08,
       "genre":"Puzzle",
@@ -40762,11 +39712,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"J-League Soccer: Prime Goal 2",
+      "total_sales":0.53,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1994
+   },
+   {
       "title":"The Berenstain Bears and the Spooky Old Tree",
       "total_sales":0.05,
       "genre":"Platform",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"Cyber Sled",
+      "total_sales":0.14,
+      "genre":"Action",
+      "publisher":"Namco",
+      "year":1995
    },
    {
       "title":"Katamari Damacy",
@@ -40781,6 +39745,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"Seven: Molmorth no Kiheitai",
+      "total_sales":0.09,
+      "genre":"Action",
+      "publisher":"Namco",
+      "year":2000
+   },
+   {
+      "title":"J-League Soccer: Prime Goal",
+      "total_sales":0.69,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1993
    },
    {
       "title":"Chuugen no Hasha: Sangoku Shouseiden",
@@ -40804,11 +39782,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Super Wagyan Land",
+      "total_sales":0.42,
+      "genre":"Action",
+      "publisher":"Namco",
+      "year":1991
+   },
+   {
       "title":"Kotoba no Puzzle: Mojipittan Daijiten",
       "total_sales":0.11,
       "genre":"Puzzle",
       "publisher":"Namco",
       "year":2004
+   },
+   {
+      "title":"World Stadium 2",
+      "total_sales":0.45,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1998
    },
    {
       "title":"Sniper Elite",
@@ -40825,6 +39817,20 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Ridge Racer",
+      "total_sales":0.97,
+      "genre":"Racing",
+      "publisher":"Namco",
+      "year":1995
+   },
+   {
+      "title":"Dragon Valor",
+      "total_sales":0.07,
+      "genre":"Role-Playing",
+      "publisher":"Namco",
+      "year":2000
+   },
+   {
       "title":"Ridge Racer 6",
       "total_sales":0.2,
       "genre":"Racing",
@@ -40837,6 +39843,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Namco",
       "year":2004
+   },
+   {
+      "title":"Namco Museum 64",
+      "total_sales":1.45,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1999
    },
    {
       "title":"Namco Museum 50th Anniversary (JP sales)",
@@ -40860,11 +39873,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Soul Blade",
+      "total_sales":1.59,
+      "genre":"Fighting",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
       "title":"MotoGP 2: Ultimate Racing Technology",
       "total_sales":0.15,
       "genre":"Racing",
       "publisher":"Namco",
       "year":2002
+   },
+   {
+      "title":"Ridge Racer Revolution",
+      "total_sales":1.07,
+      "genre":"Racing",
+      "publisher":"Namco",
+      "year":1996
    },
    {
       "title":"SoulCalibur II",
@@ -40907,6 +39934,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"Ridge Racer V",
+      "total_sales":1.24,
+      "genre":"Racing",
+      "publisher":"Namco",
+      "year":2000
    },
    {
       "title":"Dig Dug: Digging Strike",
@@ -40972,6 +40006,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Super Batter Up",
+      "total_sales":0.46,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1992
+   },
+   {
       "title":"Airblade",
       "total_sales":0.23,
       "genre":"Sports",
@@ -41007,11 +40048,60 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Xevious 3D\/G+",
+      "total_sales":0.14,
+      "genre":"Shooter",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
+      "title":"Super Famista 3",
+      "total_sales":0.39,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1994
+   },
+   {
+      "title":"Treasures of the Deep",
+      "total_sales":0.19,
+      "genre":"Action",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
+      "title":"Super Famista 5",
+      "total_sales":0.5,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1996
+   },
+   {
+      "title":"Namco Museum Vol.3",
+      "total_sales":4.05,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
+      "title":"Xevious",
+      "total_sales":1.52,
+      "genre":"Shooter",
+      "publisher":"Namco",
+      "year":1990
+   },
+   {
       "title":"Breakdown",
       "total_sales":0.12,
       "genre":"Adventure",
       "publisher":"Namco",
       "year":2004
+   },
+   {
+      "title":"Namco Museum Vol.2",
+      "total_sales":0.29,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1996
    },
    {
       "title":"The Nightmare of Druaga: Fushigino Dungeon",
@@ -41021,11 +40111,53 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Namco Museum Vol.1",
+      "total_sales":3.84,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1996
+   },
+   {
+      "title":"Mappy",
+      "total_sales":0.69,
+      "genre":"Platform",
+      "publisher":"Namco",
+      "year":1984
+   },
+   {
       "title":"Real Time Conflict: Shogun Empires",
       "total_sales":0.07,
       "genre":"Strategy",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"Super Famista 4",
+      "total_sales":0.42,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1995
+   },
+   {
+      "title":"Namco Museum Vol.5",
+      "total_sales":0.15,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
+      "title":"Namco Museum Vol.4",
+      "total_sales":0.2,
+      "genre":"Misc",
+      "publisher":"Namco",
+      "year":1997
+   },
+   {
+      "title":"World Stadium EX",
+      "total_sales":0.44,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1996
    },
    {
       "title":"Mr. Driller 2",
@@ -41049,6 +40181,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mr. Driller",
+      "total_sales":0.04,
+      "genre":"Puzzle",
+      "publisher":"Namco",
+      "year":2000
+   },
+   {
       "title":"Taiko no Tatsujin: Tatakon de Dodon ga Don",
       "total_sales":0.76,
       "genre":"Misc",
@@ -41063,11 +40202,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Famista '89 - Kaimaku Han!!",
+      "total_sales":2.05,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1989
+   },
+   {
+      "title":"Famista '92",
+      "total_sales":0.28,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1991
+   },
+   {
       "title":"Urban Reign",
       "total_sales":0.08,
       "genre":"Action",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"R4: Ridge Racer Type 4",
+      "total_sales":2.06,
+      "genre":"Racing",
+      "publisher":"Namco",
+      "year":1999
    },
    {
       "title":"Taiko no Tatsujin: Appare Sandaime",
@@ -41112,6 +40272,20 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Famista '91",
+      "total_sales":0.3,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1990
+   },
+   {
+      "title":"World Stadium 4",
+      "total_sales":0.16,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":2000
+   },
+   {
       "title":"R: Racing Evolution",
       "total_sales":0.45,
       "genre":"Racing",
@@ -41147,6 +40321,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Ms. Pac-Man: Maze Madness",
+      "total_sales":0.22,
+      "genre":"Puzzle",
+      "publisher":"Namco",
+      "year":2000
+   },
+   {
       "title":"Atomic Betty",
       "total_sales":0.03,
       "genre":"Puzzle",
@@ -41168,6 +40349,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Point Blank 2",
+      "total_sales":0.04,
+      "genre":"Shooter",
+      "publisher":"Namco",
+      "year":1999
+   },
+   {
       "title":"Pro Yakyuu Netsu Star 2006",
       "total_sales":0.14,
       "genre":"Sports",
@@ -41180,6 +40368,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Namco",
       "year":2001
+   },
+   {
+      "title":"Rage Racer",
+      "total_sales":1.17,
+      "genre":"Racing",
+      "publisher":"Namco",
+      "year":1997
    },
    {
       "title":"Klonoa Heroes: Densetsu no Star Medal",
@@ -41203,6 +40398,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"World Stadium 3",
+      "total_sales":0.33,
+      "genre":"Sports",
+      "publisher":"Namco",
+      "year":1999
+   },
+   {
       "title":"Mr. Driller: Drill Spirits",
       "total_sales":0.14,
       "genre":"Puzzle",
@@ -41215,6 +40417,20 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Namco",
       "year":2005
+   },
+   {
+      "title":"Point Blank",
+      "total_sales":0.34,
+      "genre":"Shooter",
+      "publisher":"Namco",
+      "year":1998
+   },
+   {
+      "title":"Klonoa: Door to Phantomile",
+      "total_sales":0.18,
+      "genre":"Platform",
+      "publisher":"Namco",
+      "year":1998
    },
    {
       "title":"Taiko no Tatsujin: Go! Go! Godaime",
@@ -41243,6 +40459,13 @@ export const pb_data =
       "genre":"Party",
       "publisher":"Namco Bandai",
       "year":2011
+   },
+   {
+      "title":"Go Go Cosmo Cops!",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Namco Bandai",
+      "year":2009
    },
    {
       "title":"Dragon Ball Z: Ultimate Tenkaichi",
@@ -41297,6 +40520,13 @@ export const pb_data =
       "title":"Dragon Ball: Revenge of King Piccolo",
       "total_sales":0.2,
       "genre":"Action",
+      "publisher":"Namco Bandai",
+      "year":2009
+   },
+   {
+      "title":"Dragon Ball: Evolution (jp sales)",
+      "total_sales":0.0,
+      "genre":"Fighting",
       "publisher":"Namco Bandai",
       "year":2009
    },
@@ -42085,6 +41315,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Hottarake no Shima: Kanata to Nijiiro no Kagami",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Namco Bandai",
+      "year":2009
+   },
+   {
       "title":"Pro Golfer Saru",
       "total_sales":0.01,
       "genre":"Sports",
@@ -42288,6 +41525,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"IGPX: Immortal Grand Prix",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Namco Bandai",
+      "year":2006
+   },
+   {
       "title":"Do-Konjou Shougakussei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei!",
       "total_sales":0.04,
       "genre":"Action",
@@ -42335,6 +41579,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Namco Bandai",
       "year":2008
+   },
+   {
+      "title":"Eureka Seven Vol. 1: The New Wave",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Namco Bandai",
+      "year":2006
    },
    {
       "title":"Gekijouban Macross F: Sayonara no Tsubasa - Hybrid Pack",
@@ -42454,6 +41705,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Namco Bandai",
       "year":2007
+   },
+   {
+      "title":"Kotoba no Puzzle: Mojipittan Wii Deluxe",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Namco Bandai",
+      "year":2008
    },
    {
       "title":"Naruto Ultimate Collection",
@@ -42587,6 +41845,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Namco Bandai",
       "year":2009
+   },
+   {
+      "title":"Mage Knight: Apocalypse",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Namco Bandai",
+      "year":2006
    },
    {
       "title":"Naruto Shippuden: Kizuna Drive",
@@ -44073,6 +43338,13 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Naruto Shippuden: Ultimate Ninja Storm 4",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"Namco Bandai Games",
+      "year":2016
+   },
+   {
       "title":"Naruto Shippuden: Ultimate Ninja Storm Collection",
       "total_sales":0.01,
       "genre":"Fighting",
@@ -44246,6 +43518,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Namco Bandai Games",
       "year":2014
+   },
+   {
+      "title":"Pac-Man and the Ghostly Adventures",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Namco Bandai Games",
+      "year":2013
    },
    {
       "title":"City Shrouded in Shadow",
@@ -44941,6 +44220,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Flying Dragon",
+      "total_sales":0.1,
+      "genre":"Fighting",
+      "publisher":"Natsume",
+      "year":1998
+   },
+   {
       "title":"Harvest Moon: Animal Parade",
       "total_sales":0.74,
       "genre":"Simulation",
@@ -44995,6 +44281,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Natsume",
       "year":2005
+   },
+   {
+      "title":"Harvest Moon: Back to Nature",
+      "total_sales":0.32,
+      "genre":"Simulation",
+      "publisher":"Natsume",
+      "year":2000
    },
    {
       "title":"Harvest Moon: Grand Bazaar",
@@ -45065,6 +44358,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Natsume",
       "year":2002
+   },
+   {
+      "title":"Highway 2000",
+      "total_sales":0.06,
+      "genre":"Racing",
+      "publisher":"Natsume",
+      "year":1996
    },
    {
       "title":"Puzzle de Harvest Moon",
@@ -45207,6 +44507,27 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Harvest Moon 64",
+      "total_sales":0.48,
+      "genre":"Simulation",
+      "publisher":"Natsume",
+      "year":1999
+   },
+   {
+      "title":"Reel Fishing",
+      "total_sales":1.25,
+      "genre":"Sports",
+      "publisher":"Natsume",
+      "year":1998
+   },
+   {
+      "title":"Bust-A-Move 4",
+      "total_sales":0.22,
+      "genre":"Puzzle",
+      "publisher":"Natsume",
+      "year":1998
+   },
+   {
       "title":"Adventures to Go!",
       "total_sales":0.14,
       "genre":"Role-Playing",
@@ -45240,6 +44561,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Natsume",
       "year":2001
+   },
+   {
+      "title":"Harvest Moon 2 GBC",
+      "total_sales":0.12,
+      "genre":"Simulation",
+      "publisher":"Natsume",
+      "year":2000
    },
    {
       "title":"Harvest Moon 3D: A New Beginning",
@@ -45312,6 +44640,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Harvest Moon GB",
+      "total_sales":0.23,
+      "genre":"Simulation",
+      "publisher":"Natsume",
+      "year":1998
+   },
+   {
       "title":"Pocky & Rocky with Becky",
       "total_sales":0.07,
       "genre":"Shooter",
@@ -45333,242 +44668,11 @@ export const pb_data =
       "year":2010
    },
    {
-      "title":"Hidden Objects: Mystery Stories",
-      "total_sales":0.66,
-      "genre":"Adventure",
-      "publisher":"Navarre Corp",
-      "year":2010
-   },
-   {
-      "title":"Deadliest Catch: Alaskan Storm",
-      "total_sales":0.05,
+      "title":"Reel Fishing II",
+      "total_sales":0.18,
       "genre":"Sports",
-      "publisher":"Navarre Corp",
-      "year":2008
-   },
-   {
-      "title":"Naxat Soft Reachmania Vol. 1: CR Galaxy Angel",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Naxat Soft",
-      "year":2008
-   },
-   {
-      "title":"Marvel Superheroes 3D: Grandmaster's Challenge",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Neko Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Aqua Panic!",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Neko Entertainment",
-      "year":2009
-   },
-   {
-      "title":"Warhammer 40,000: Inquisitor - Martyr",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Neocore Games",
-      "year":2018
-   },
-   {
-      "title":"Tsuyo Kiss 3 Portable",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"NetRevo",
-      "year":2012
-   },
-   {
-      "title":"E.T. The Extra-Terrestrial",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"NewKidCo",
-      "year":2001
-   },
-   {
-      "title":"Dora the Explorer: The Search for Pirate Pig's Treasure",
-      "total_sales":0.26,
-      "genre":"Adventure",
-      "publisher":"NewKidCo",
-      "year":2002
-   },
-   {
-      "title":"Dr. Seuss: Green Eggs and Ham",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"NewKidCo",
-      "year":2003
-   },
-   {
-      "title":"Dragon Tales: Dragon Adventures",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"NewKidCo",
-      "year":2004
-   },
-   {
-      "title":"Tom and Jerry: Infurnal Escape",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"NewKidCo",
-      "year":2003
-   },
-   {
-      "title":"Tom and Jerry in War of the Whiskers",
-      "total_sales":0.36,
-      "genre":"Fighting",
-      "publisher":"NewKidCo",
-      "year":2002
-   },
-   {
-      "title":"MapleStory DS",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Nexon",
-      "year":2010
-   },
-   {
-      "title":"Runner3",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Nicalis",
-      "year":2018
-   },
-   {
-      "title":"Ittle Dew 2+",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Nicalis",
-      "year":2017
-   },
-   {
-      "title":"Cave Story+",
-      "total_sales":0.15,
-      "genre":"Platform",
-      "publisher":"Nicalis",
-      "year":2017
-   },
-   {
-      "title":"Code of  Princess EX",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Nicalis",
-      "year":2018
-   },
-   {
-      "title":"The End is Nigh",
-      "total_sales":0.06,
-      "genre":"Platform",
-      "publisher":"Nicalis",
-      "year":2017
-   },
-   {
-      "title":"Tiny Barbarian DX",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Nicalis",
-      "year":2017
-   },
-   {
-      "title":"The Binding of Isaac: Afterbirth+",
-      "total_sales":0.28,
-      "genre":"Action",
-      "publisher":"Nicalis",
-      "year":2017
-   },
-   {
-      "title":"Blade Strangers",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Nicalis",
-      "year":2018
-   },
-   {
-      "title":"Bridge Constructor Portal",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Nighthawk Interactive",
-      "year":2018
-   },
-   {
-      "title":"Marvel Pinball: Epic Collection Volume 1",
-      "total_sales":0.09,
-      "genre":"Puzzle",
-      "publisher":"Nighthawk Interactive",
-      "year":2016
-   },
-   {
-      "title":"The Talos Principle",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Nighthawk Interactive",
-      "year":2015
-   },
-   {
-      "title":"Azure Striker Gunvolt: Striker Pack",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Nighthawk Interactive",
-      "year":2016
-   },
-   {
-      "title":"Tumblestone",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Nighthawk Interactive",
-      "year":2016
-   },
-   {
-      "title":"ATV Renegades",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Nighthawk Interactive",
-      "year":2017
-   },
-   {
-      "title":"Rick & Morty Virtual Rick-Ality",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Nighthawk Interactive",
-      "year":2018
-   },
-   {
-      "title":"Mutant Football League: Dynasty Edition",
-      "total_sales":0.2,
-      "genre":"Sports",
-      "publisher":"Nighthawk Interactive",
-      "year":2018
-   },
-   {
-      "title":"Runbow",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Nighthawk Interactive",
-      "year":2017
-   },
-   {
-      "title":"Nayuta no Kiseki",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"Nihon Falcom Corp",
-      "year":2012
-   },
-   {
-      "title":"Tokyo Xanadu: Sakura Festival Package",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Nihon Falcom Corporation",
-      "year":2016
-   },
-   {
-      "title":"The Legend of Heroes: Sen no Kiseki: Kai -Thors Military Academy 1204-",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Nihon Falcom Corporation",
-      "year":2018
+      "publisher":"Natsume",
+      "year":2000
    },
    {
       "title":"WarioWare D.I.Y.",
@@ -45676,6 +44780,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Wario Land II (GBC)",
+      "total_sales":0.38,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1999
+   },
+   {
       "title":"Star Fox Command",
       "total_sales":0.53,
       "genre":"Shooter",
@@ -45695,6 +44806,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Nintendo",
       "year":2004
+   },
+   {
+      "title":"Star Fox Guard",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":2016
    },
    {
       "title":"Xenoblade Chronicles X",
@@ -45723,6 +44841,13 @@ export const pb_data =
       "genre":"Music",
       "publisher":"Nintendo",
       "year":2006
+   },
+   {
+      "title":"NBA Courtside 2 featuring Kobe Bryant",
+      "total_sales":0.25,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1999
    },
    {
       "title":"Fossil Fighters: Frontier",
@@ -45765,6 +44890,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Nintendo",
       "year":2007
+   },
+   {
+      "title":"bit Generations: Boundish",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Nintendo",
+      "year":2006
    },
    {
       "title":"Fire Emblem: Path of Radiance",
@@ -45851,6 +44983,13 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Stunt Race FX",
+      "total_sales":0.35,
+      "genre":"Racing",
+      "publisher":"Nintendo",
+      "year":1994
+   },
+   {
       "title":"theta",
       "total_sales":0.01,
       "genre":"Puzzle",
@@ -45900,11 +45039,25 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"EarthBound",
+      "total_sales":0.81,
+      "genre":"Role-Playing",
+      "publisher":"Nintendo",
+      "year":1995
+   },
+   {
       "title":"Hey! Pikmin",
       "total_sales":0.44,
       "genre":"Platform",
       "publisher":"Nintendo",
       "year":2017
+   },
+   {
+      "title":"Waialae Country Club: True Golf Classics",
+      "total_sales":0.59,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1998
    },
    {
       "title":"Glory of Heracles",
@@ -45921,6 +45074,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Balloon Fight",
+      "total_sales":0.92,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1986
+   },
+   {
+      "title":"Metroid Prime Hunters: First Hunt",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Nintendo",
+      "year":2004
+   },
+   {
       "title":"Dynasty Warriors Advance",
       "total_sales":0.11,
       "genre":"Action",
@@ -45933,6 +45100,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Nintendo",
       "year":2002
+   },
+   {
+      "title":"Starcraft 64",
+      "total_sales":0.16,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":2000
    },
    {
       "title":"Fire Emblem: Shin Monshou no Nazo Hikari to Kage no Eiyuu",
@@ -45961,6 +45135,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Nintendo",
       "year":2007
+   },
+   {
+      "title":"Puzzle & Dragons: Super Mario Bros. Edition",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":2015
    },
    {
       "title":"Metroid Prime: Federation Force",
@@ -46110,6 +45291,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Yoshi",
+      "total_sales":0.73,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1992
+   },
+   {
       "title":"Famicom Mini: Famicom Tantei Club - Kieta Koukeisha Zenkouhen",
       "total_sales":0.11,
       "genre":"Adventure",
@@ -46157,6 +45345,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Nintendo",
       "year":2005
+   },
+   {
+      "title":"Mega Man 6",
+      "total_sales":0.52,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1994
    },
    {
       "title":"Mario Party: The Top 100",
@@ -46250,6 +45445,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Mario's Picross",
+      "total_sales":0.62,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1995
+   },
+   {
       "title":"Eyeshield 21: DevilBats DevilDays",
       "total_sales":0.03,
       "genre":"Role-Playing",
@@ -46262,6 +45464,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Nintendo",
       "year":2009
+   },
+   {
+      "title":"Mario no Super Picross",
+      "total_sales":0.41,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1995
    },
    {
       "title":"Advance Wars 2: Black Hole Rising",
@@ -46355,6 +45564,13 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Mischief Makers",
+      "total_sales":0.43,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
       "title":"Yokai Watch 3: Sukiyaki",
       "total_sales":0.81,
       "genre":"Role-Playing",
@@ -46367,6 +45583,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Nintendo",
       "year":2014
+   },
+   {
+      "title":"GameBoy Wars",
+      "total_sales":0.18,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":1991
+   },
+   {
+      "title":"Gameboy Gallery",
+      "total_sales":0.3,
+      "genre":"Misc",
+      "publisher":"Nintendo",
+      "year":1995
    },
    {
       "title":"Final Fantasy V Advance",
@@ -46402,6 +45632,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Nintendo",
       "year":2007
+   },
+   {
+      "title":"Mario & Wario",
+      "total_sales":0.49,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1993
+   },
+   {
+      "title":"Wii Chess",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":2008
    },
    {
       "title":"Minna no Joushiki Ryoku TV",
@@ -46460,6 +45704,13 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"RR64: Ridge Racer 64",
+      "total_sales":0.4,
+      "genre":"Racing",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"Fire Emblem: The Blazing Blade",
       "total_sales":0.97,
       "genre":"Strategy",
@@ -46486,6 +45737,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Nintendo",
       "year":2015
+   },
+   {
+      "title":"Mario Golf",
+      "total_sales":0.31,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1999
    },
    {
       "title":"Sing Party",
@@ -46551,6 +45809,13 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Excitebike 64",
+      "total_sales":1.0,
+      "genre":"Racing",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"ExciteBots: Trick Racing",
       "total_sales":0.28,
       "genre":"Racing",
@@ -46565,11 +45830,32 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Sin and Punishment",
+      "total_sales":0.13,
+      "genre":"Shooter",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"Magnetica",
       "total_sales":0.14,
       "genre":"Puzzle",
       "publisher":"Nintendo",
       "year":2006
+   },
+   {
+      "title":"Wrecking Crew",
+      "total_sales":0.51,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1985
+   },
+   {
+      "title":"Major League Baseball Featuring Ken Griffey Jr",
+      "total_sales":0.79,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1998
    },
    {
       "title":"Mario Golf: World Tour",
@@ -46635,6 +45921,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Mickey's Speedway USA",
+      "total_sales":0.6,
+      "genre":"Racing",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"Jam With the Band",
       "total_sales":0.51,
       "genre":"Misc",
@@ -46642,11 +45935,39 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Nintendo DS Browser",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Nintendo",
+      "year":2007
+   },
+   {
       "title":"Tenchu: Dark Secret",
       "total_sales":0.05,
       "genre":"Action",
       "publisher":"Nintendo",
       "year":2006
+   },
+   {
+      "title":"Ken Griffey Jr.'s Slugfest",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1999
+   },
+   {
+      "title":"Illusion of Gaia",
+      "total_sales":0.13,
+      "genre":"Role-Playing",
+      "publisher":"Nintendo",
+      "year":1994
+   },
+   {
+      "title":"Trade & Battle: Card Hero",
+      "total_sales":0.2,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":2000
    },
    {
       "title":"Trace Memory",
@@ -46712,11 +46033,53 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Super Smash Bros.",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"Nintendo",
+      "year":2009
+   },
+   {
+      "title":"Super Soccer",
+      "total_sales":0.38,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1992
+   },
+   {
+      "title":"Killer Instinct Gold",
+      "total_sales":0.82,
+      "genre":"Fighting",
+      "publisher":"Nintendo",
+      "year":1996
+   },
+   {
       "title":"Calcio Bit",
       "total_sales":0.03,
       "genre":"Sports",
       "publisher":"Nintendo",
       "year":2006
+   },
+   {
+      "title":"Dillon's Dead-Heat Breakers",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Nintendo",
+      "year":2018
+   },
+   {
+      "title":"Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!",
+      "total_sales":0.14,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
+      "title":"Itoi Shigesato no Bass Tsuri No. 1",
+      "total_sales":0.17,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1997
    },
    {
       "title":"New Play Control! Pikmin 2",
@@ -46803,6 +46166,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Super Mario USA",
+      "total_sales":0.69,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1992
+   },
+   {
       "title":"Disney's Magical Quest Starring Mickey and Minnie",
       "total_sales":0.22,
       "genre":"Action",
@@ -46852,11 +46222,39 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Tetrisphere",
+      "total_sales":0.36,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
       "title":"Tetris Axis",
       "total_sales":0.44,
       "genre":"Puzzle",
       "publisher":"Nintendo",
       "year":2011
+   },
+   {
+      "title":"Tetris Attack",
+      "total_sales":0.38,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1996
+   },
+   {
+      "title":"Tetris 2 (weekly jp sales)",
+      "total_sales":0.23,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1993
+   },
+   {
+      "title":"Tetris 2",
+      "total_sales":0.98,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1993
    },
    {
       "title":"Nintendogs + Cats Golden Retriever and New Friends",
@@ -46878,6 +46276,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Nintendo",
       "year":2009
+   },
+   {
+      "title":"Terranigma",
+      "total_sales":0.09,
+      "genre":"Role-Playing",
+      "publisher":"Nintendo",
+      "year":1996
    },
    {
       "title":"Disney Magic World 2",
@@ -46927,6 +46332,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Nintendo",
       "year":2012
+   },
+   {
+      "title":"Nazo no Murasame-Jou (FDS)",
+      "total_sales":0.57,
+      "genre":"Action",
+      "publisher":"Nintendo",
+      "year":1986
    },
    {
       "title":"Densetsu no Stafi",
@@ -47006,6 +46418,27 @@ export const pb_data =
       "year":2014
    },
    {
+      "title":"Kirby's Star Stacker",
+      "total_sales":0.22,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
+      "title":"Kirby's Dream Land 3",
+      "total_sales":0.36,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
+      "title":"Kirby's Dream Course",
+      "total_sales":0.59,
+      "genre":"Sports",
+      "publisher":"Nintendo",
+      "year":1995
+   },
+   {
       "title":"Tabi no Yubisashi Kaiwachou DS: DS Series 2 Chuugoku",
       "total_sales":0.05,
       "genre":"Misc",
@@ -47032,6 +46465,20 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Nintendo",
       "year":2012
+   },
+   {
+      "title":"Kirby's Block Ball",
+      "total_sales":0.32,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1996
+   },
+   {
+      "title":"Kirby's Adventure",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":2007
    },
    {
       "title":"Pok\u00e9mon Art Academy",
@@ -47090,6 +46537,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"Picross 2",
+      "total_sales":0.35,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1996
+   },
+   {
       "title":"Polarium",
       "total_sales":0.26,
       "genre":"Puzzle",
@@ -47144,6 +46598,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Nintendo",
       "year":2015
+   },
+   {
+      "title":"Pok\u00e9mon Puzzle League",
+      "total_sales":0.45,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":2000
    },
    {
       "title":"Pok\u00e9mon Pinball: Ruby & Sapphire (JP weekly sales)",
@@ -47216,6 +46677,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Pok\u00e9mon Rumble U",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Nintendo",
+      "year":2013
+   },
+   {
       "title":"Kurikin: Nano Island Story",
       "total_sales":0.09,
       "genre":"Role-Playing",
@@ -47286,6 +46754,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Custom Robo V2",
+      "total_sales":0.39,
+      "genre":"Fighting",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"The World Ends with You: Final Remix",
       "total_sales":0.27,
       "genre":"Role-Playing",
@@ -47305,6 +46780,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Nintendo",
       "year":2001
+   },
+   {
+      "title":"Paper Mario",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Nintendo",
+      "year":2007
    },
    {
       "title":"Hyrule Warriors Legends",
@@ -47398,6 +46880,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Bomberman Hero",
+      "total_sales":0.47,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":1998
+   },
+   {
       "title":"Doshin the Giant",
       "total_sales":0.14,
       "genre":"Simulation",
@@ -47438,6 +46927,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"Nintendo",
       "year":2008
+   },
+   {
+      "title":"Cruis'n World",
+      "total_sales":0.64,
+      "genre":"Racing",
+      "publisher":"Nintendo",
+      "year":1998
    },
    {
       "title":"Classic NES Series: Metroid",
@@ -47482,6 +46978,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Command & Conquer",
+      "total_sales":0.67,
+      "genre":"Strategy",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
       "title":"Jump Ultimate Stars",
       "total_sales":0.74,
       "genre":"Fighting",
@@ -47517,6 +47020,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"The New Tetris",
+      "total_sales":0.29,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1999
+   },
+   {
       "title":"BoxBoy! Hakobume Box",
       "total_sales":0.02,
       "genre":"Puzzle",
@@ -47524,11 +47034,32 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Donkey Kong GB: Dinky Kong & Dixie Kong",
+      "total_sales":0.28,
+      "genre":"Platform",
+      "publisher":"Nintendo",
+      "year":2000
+   },
+   {
       "title":"Donkey Kong Country 3",
       "total_sales":0.77,
       "genre":"Platform",
       "publisher":"Nintendo",
       "year":2005
+   },
+   {
+      "title":"Blast Corps",
+      "total_sales":0.71,
+      "genre":"Action",
+      "publisher":"Nintendo",
+      "year":1997
+   },
+   {
+      "title":"NES Remix Pack",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Nintendo",
+      "year":2014
    },
    {
       "title":"Style Savvy: Styling Star",
@@ -47592,6 +47123,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Nintendo",
       "year":2014
+   },
+   {
+      "title":"Clu Clu Land",
+      "total_sales":0.82,
+      "genre":"Puzzle",
+      "publisher":"Nintendo",
+      "year":1985
    },
    {
       "title":"Sudoku Gridmaster",
@@ -47671,2211 +47209,6 @@ export const pb_data =
       "year":2005
    },
    {
-      "title":"Million God",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Nippon Amuse",
-      "year":2002
-   },
-   {
-      "title":"Sumikko Gurashi: Sumikko Park e Youkoso",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2017
-   },
-   {
-      "title":"Akogare Girls Collection: Wan Nyan Doubutsu Byouin - Suteki na Juui-San ni Narou!",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Nippon Columbia",
-      "year":2015
-   },
-   {
-      "title":"Sumikko Gurashi: Mura o Tsukurundesu",
-      "total_sales":0.22,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2016
-   },
-   {
-      "title":"Akogare Girls Collection: Pika Pika Nurse Monogatari - Shounika Haitsumo Oosawagi",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Nippon Columbia",
-      "year":2016
-   },
-   {
-      "title":"Sumikko Gurashi: Omise Hajimerundesu",
-      "total_sales":0.17,
-      "genre":"Action",
-      "publisher":"Nippon Columbia",
-      "year":2015
-   },
-   {
-      "title":"Kobitodzukan: Kobito Kansatsu Set",
-      "total_sales":0.28,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2012
-   },
-   {
-      "title":"Sumikko Gurashi: Koko, Dokonan Desu?",
-      "total_sales":0.12,
-      "genre":"Puzzle",
-      "publisher":"Nippon Columbia",
-      "year":2017
-   },
-   {
-      "title":"Kobitodzukan: Kobito no Fushigi - Jikken Set",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Nippon Columbia",
-      "year":2013
-   },
-   {
-      "title":"Sumikko Gurashi: Koko ga Ochitsukundesu",
-      "total_sales":0.18,
-      "genre":"Action",
-      "publisher":"Nippon Columbia",
-      "year":2014
-   },
-   {
-      "title":"Sumikko Gurashi Atsumare Sumikko Town",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2018
-   },
-   {
-      "title":"Kobito Game Taizen",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2016
-   },
-   {
-      "title":"Hoppechan: Minna de Odekake! Waku Waku Hoppe Land!!",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Nippon Columbia",
-      "year":2014
-   },
-   {
-      "title":"Manga-ka Debut Monogatari: Suteki na Manga o Egakou",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Nippon Columbia",
-      "year":2017
-   },
-   {
-      "title":"Cake-ya San Monogatari: Ooishii Sweets o Tsukurou!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Columbia",
-      "year":2017
-   },
-   {
-      "title":"Hoppechan: Tsukutte! Asonde! Punipuni Town!!",
-      "total_sales":0.15,
-      "genre":"Simulation",
-      "publisher":"Nippon Columbia",
-      "year":2013
-   },
-   {
-      "title":"Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Nippon Columbia",
-      "year":2017
-   },
-   {
-      "title":"Heiligenstadt no Uta",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Cultural Broadcasting eXtend",
-      "year":2017
-   },
-   {
-      "title":"Mana Khemia: Student Alliance",
-      "total_sales":0.11,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Hayarigami 3: Keishichou Kaii Jiken File",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Fuuraiki 3",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Nippon Ichi Software",
-      "year":2015
-   },
-   {
-      "title":"Hero Must Die",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Shin Hayarigami 2",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Shin Hayarigami",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"Nippon Ichi Software",
-      "year":2014
-   },
-   {
-      "title":"The Conveni DS: Otona no Keiei Ryoku Training",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Nippon Ichi Software",
-      "year":2008
-   },
-   {
-      "title":"Second Novel: Kanojo no Natsu, 15-Bun no Kioku",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2010
-   },
-   {
-      "title":"New Hayarigami",
-      "total_sales":0.05,
-      "genre":"Visual Novel",
-      "publisher":"Nippon Ichi Software",
-      "year":2014
-   },
-   {
-      "title":"Zillions of Enemy X: Zetsukai no Crusade",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2013
-   },
-   {
-      "title":"Your Four Knight Princesses Training Story",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2018
-   },
-   {
-      "title":"Princess is Money Hungry",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Amagoushi no Yakata",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2007
-   },
-   {
-      "title":"Harem Tengoku da to Omottara Yandere Jigoku Datta",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Nippon Ichi Software",
-      "year":2014
-   },
-   {
-      "title":"Tori no Hoshi: Aerial Planet",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2008
-   },
-   {
-      "title":"Refrain no Chika Meikyuu to Majo no Ryodan",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Ouma ga Toki: Kakuriyo no Enishi",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Musou Tourou",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Great Edo Blacksmith",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Nippon Ichi Software",
-      "year":2014
-   },
-   {
-      "title":"Naraku no Shiro",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2008
-   },
-   {
-      "title":"Infinite Loop: Kojjou ga Miseta Yume",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2008
-   },
-   {
-      "title":"Blade Dancer: Lineage of Light",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2006
-   },
-   {
-      "title":"Lapis x Labyrinth",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2018
-   },
-   {
-      "title":"Criminal Girls",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2010
-   },
-   {
-      "title":"Closed Nightmare",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Nippon Ichi Software",
-      "year":2018
-   },
-   {
-      "title":"La Pucelle: Ragnarok",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Side Kicks!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2017
-   },
-   {
-      "title":"Ar tonelico: Melody of Elemia",
-      "total_sales":0.1,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2007
-   },
-   {
-      "title":"Makai Senki Disgaea Portable: Tsuushin Taisen Hajime Mashita",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2007
-   },
-   {
-      "title":"Phantom Kingdom Portable",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2011
-   },
-   {
-      "title":"Makai Senki Disgaea 4: Fuuka & Desco-hen Hajime Mashita",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Nippon Ichi Software",
-      "year":2011
-   },
-   {
-      "title":"Antiphona no Seikahime: Tenshi no Gakufu Op.A",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Hakoniwa Company Works",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Nippon Ichi Software",
-      "year":2017
-   },
-   {
-      "title":"Tsuihou Senkyo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2017
-   },
-   {
-      "title":"Blue Roses: Yousei to Aoi Hitomi no Senshitachi",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2010
-   },
-   {
-      "title":"Classic Dungeon: Fuyoku no Masoujin",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2010
-   },
-   {
-      "title":"Makai Senki Disgaea 3 Append Disc: Raspberyl-hen Hajime Mashita",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2009
-   },
-   {
-      "title":"Tokushu Houdoubu",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Nippon Ichi Software",
-      "year":2012
-   },
-   {
-      "title":"Iwaihime: Matsuri",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nippon Ichi Software",
-      "year":2017
-   },
-   {
-      "title":"Classic Dungeon X2",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Nippon Ichi Software",
-      "year":2011
-   },
-   {
-      "title":"Koori no Bohyou: Ichiryuuwa, 3-dome no Junan",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Nippon Ichi Software",
-      "year":2010
-   },
-   {
-      "title":"Rose to Tasogare no Kojou",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Nippon Ichi Software",
-      "year":2016
-   },
-   {
-      "title":"Dramatical Murder Re:code",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Nitroplus",
-      "year":2014
-   },
-   {
-      "title":"Trine",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Nobilis",
-      "year":2009
-   },
-   {
-      "title":"Case Closed: One Truth Prevails",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Nobilis",
-      "year":2009
-   },
-   {
-      "title":"Hotel Giant 2",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Nobilis",
-      "year":2010
-   },
-   {
-      "title":"Hotel Giant DS",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Nobilis",
-      "year":2008
-   },
-   {
-      "title":"Deadfall Adventures",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Nordic Games",
-      "year":2013
-   },
-   {
-      "title":"The Book of Unwritten Tales 2",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"Nordic Games",
-      "year":2014
-   },
-   {
-      "title":"We Dance",
-      "total_sales":0.16,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2011
-   },
-   {
-      "title":"Kart Racer",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Nordic Games",
-      "year":2009
-   },
-   {
-      "title":"Darksiders II: Deathinitive Edition",
-      "total_sales":0.32,
-      "genre":"Action-Adventure",
-      "publisher":"Nordic Games",
-      "year":2015
-   },
-   {
-      "title":"We Sing",
-      "total_sales":0.75,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2009
-   },
-   {
-      "title":"We Sing Deutsche Hits",
-      "total_sales":0.33,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2011
-   },
-   {
-      "title":"Dance Party: Pop Hits",
-      "total_sales":0.38,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2009
-   },
-   {
-      "title":"Truck Racer",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Nordic Games",
-      "year":2009
-   },
-   {
-      "title":"Legend of Kay Anniversary",
-      "total_sales":0.24,
-      "genre":"Action",
-      "publisher":"Nordic Games",
-      "year":2015
-   },
-   {
-      "title":"We Sing UK Hits",
-      "total_sales":0.17,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2011
-   },
-   {
-      "title":"We Sing Rock!",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2011
-   },
-   {
-      "title":"Codename: Panzers Complete Collection",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Nordic Games",
-      "year":2016
-   },
-   {
-      "title":"We Sing Pop!",
-      "total_sales":0.25,
-      "genre":"Music",
-      "publisher":"Nordic Games",
-      "year":2012
-   },
-   {
-      "title":"Painkiller: Hell & Damnation",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Nordic Games",
-      "year":2012
-   },
-   {
-      "title":"MX vs. ATV Supercross",
-      "total_sales":0.09,
-      "genre":"Racing",
-      "publisher":"Nordic Games",
-      "year":2014
-   },
-   {
-      "title":"MX vs. ATV Supercross Encore",
-      "total_sales":0.13,
-      "genre":"Sports",
-      "publisher":"Nordic Games",
-      "year":2015
-   },
-   {
-      "title":"We Sing Encore",
-      "total_sales":0.45,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2010
-   },
-   {
-      "title":"We Sing Robbie Williams",
-      "total_sales":0.2,
-      "genre":"Misc",
-      "publisher":"Nordic Games",
-      "year":2010
-   },
-   {
-      "title":"Joint Operations: Combined Arms",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"NovaLogic",
-      "year":2009
-   },
-   {
-      "title":"Delta Force: Black Hawk Down",
-      "total_sales":0.8,
-      "genre":"Shooter",
-      "publisher":"NovaLogic",
-      "year":2005
-   },
-   {
-      "title":"Kodawari Saihai Simulation: Ocha no Ma Pro Yakyuu DS",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Now Production",
-      "year":2009
-   },
-   {
-      "title":"Challenge Me: Brain Puzzles 2",
-      "total_sales":0.15,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"Challenge Me: Maths Workout",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Challenge Me: Word Puzzles",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2011
-   },
-   {
-      "title":"CID The Dummy",
-      "total_sales":0.06,
-      "genre":"Platform",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Jewel Time Deluxe",
-      "total_sales":0.07,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2011
-   },
-   {
-      "title":"My Friends",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"PDC World Championship Darts 2008",
-      "total_sales":0.24,
-      "genre":"Sports",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Mystery Tales of Time Travel",
-      "total_sales":0.19,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"The Treasures of Montezuma",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"My Dress-Up",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"O-Games",
-      "year":2008
-   },
-   {
-      "title":"Hysteria Hospital: Emergency Ward",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Touch 'N' Play Collection",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"O-Games",
-      "year":2011
-   },
-   {
-      "title":"Hurry Up Hedgehog!",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Challenge Me: Brain Puzzles",
-      "total_sales":0.06,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"John Daly's ProStroke Golf",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"Great Party Games",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"My Make-Up",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Titanic Mystery",
-      "total_sales":0.09,
-      "genre":"Puzzle",
-      "publisher":"O-Games",
-      "year":2012
-   },
-   {
-      "title":"The Mysterious Case of Dr. Jekyll and Mr. Hyde",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"O-Games",
-      "year":2011
-   },
-   {
-      "title":"PDC World Championship Darts: Pro Tour",
-      "total_sales":0.23,
-      "genre":"Sports",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"Girls Only",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"O-Games",
-      "year":2010
-   },
-   {
-      "title":"PDC World Championship Darts 2009",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"O-Games",
-      "year":2009
-   },
-   {
-      "title":"Pocket Pets",
-      "total_sales":0.11,
-      "genre":"Simulation",
-      "publisher":"O3 Entertainment",
-      "year":2007
-   },
-   {
-      "title":"D-Day",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"O3 Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Alien Hominid",
-      "total_sales":0.19,
-      "genre":"Shooter",
-      "publisher":"O3 Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Chaos Field",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"O3 Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Konductra",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"O3 Entertainment",
-      "year":2006
-   },
-   {
-      "title":"Pillars of Eternity",
-      "total_sales":0.23,
-      "genre":"Role-Playing",
-      "publisher":"Obsidian Entertainment",
-      "year":2014
-   },
-   {
-      "title":"Cooking Mama 5",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Office Create",
-      "year":2013
-   },
-   {
-      "title":"Railfan",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Ongakukan",
-      "year":2006
-   },
-   {
-      "title":"Racing Gears Advance",
-      "total_sales":0.06,
-      "genre":"Racing",
-      "publisher":"Orbital Media, Inc.",
-      "year":2005
-   },
-   {
-      "title":"Natsuzora no Monologue",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Otomate",
-      "year":2013
-   },
-   {
-      "title":"Fortissimo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Otomate Idea Factory",
-      "year":2018
-   },
-   {
-      "title":"Adventure Time: Pirates of the Enchiridion",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"Outright Games",
-      "year":2018
-   },
-   {
-      "title":"Hotel Transylvania 3: Monsters Overboard",
-      "total_sales":0.09,
-      "genre":"Action-Adventure",
-      "publisher":"Outright Games",
-      "year":2018
-   },
-   {
-      "title":"Paw Patrol on a Roll",
-      "total_sales":0.24,
-      "genre":"Platform",
-      "publisher":"Outright Games",
-      "year":2018
-   },
-   {
-      "title":"Crayola Scoot",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Outright Games",
-      "year":2018
-   },
-   {
-      "title":"Ben 10 (2017)",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"Outright Games",
-      "year":2017
-   },
-   {
-      "title":"Pirates: Duels on the High Seas",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Oxygen Interactive",
-      "year":2009
-   },
-   {
-      "title":"Chegger's Party Quiz",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Oxygen Interactive",
-      "year":2008
-   },
-   {
-      "title":"Tank Beat",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"O~3 Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Chaos Wars",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"O~3 Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Pocket Dogs",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"O~3 Entertainment",
-      "year":2005
-   },
-   {
-      "title":"Burn Zombie Burn!",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"P2 Games",
-      "year":2010
-   },
-   {
-      "title":"Peppa Pig: Theme Park Fun",
-      "total_sales":0.31,
-      "genre":"Misc",
-      "publisher":"P2 Games",
-      "year":2011
-   },
-   {
-      "title":"Jacqueline Wilson's Tracy Beaker: The Game",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"P2 Games",
-      "year":2009
-   },
-   {
-      "title":"DJ Max Fever",
-      "total_sales":0.13,
-      "genre":"Misc",
-      "publisher":"PM Studios",
-      "year":2009
-   },
-   {
-      "title":"DJ Max Portable 3",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"PM Studios",
-      "year":2010
-   },
-   {
-      "title":"Mercenaries Saga Chronicles",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"PM Studios",
-      "year":2018
-   },
-   {
-      "title":"SUPERBEAT: XONiC",
-      "total_sales":0.05,
-      "genre":"Music",
-      "publisher":"PM Studios",
-      "year":2015
-   },
-   {
-      "title":"Musynx",
-      "total_sales":0.01,
-      "genre":"Music",
-      "publisher":"PM Studios",
-      "year":2018
-   },
-   {
-      "title":"Valkyrie Drive: Bhikkhuni",
-      "total_sales":0.17,
-      "genre":"Action",
-      "publisher":"PQube",
-      "year":2016
-   },
-   {
-      "title":"Valthirian Arc: Hero School Story",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"PQube",
-      "year":2018
-   },
-   {
-      "title":"Root Letter",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"PQube",
-      "year":2016
-   },
-   {
-      "title":"Anima - Gate of Memories",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"PQube",
-      "year":2017
-   },
-   {
-      "title":"Gal Gun 2",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"PQube",
-      "year":2018
-   },
-   {
-      "title":"Punch Line",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"PQube",
-      "year":2018
-   },
-   {
-      "title":"Just Sing! Vol. 2",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"PQube",
-      "year":2011
-   },
-   {
-      "title":"All-Star Fruit Racing",
-      "total_sales":0.04,
-      "genre":"Racing",
-      "publisher":"PQube",
-      "year":2018
-   },
-   {
-      "title":"Gal Gun: Double Peace",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"PQube",
-      "year":2016
-   },
-   {
-      "title":"Summer Challenge: Athletics Tournament",
-      "total_sales":0.07,
-      "genre":"Sports",
-      "publisher":"PQube",
-      "year":2011
-   },
-   {
-      "title":"Cat Quest",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"PQube",
-      "year":2018
-   },
-   {
-      "title":"White Day: A Labyrinth Named School (2017)",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"PQube",
-      "year":2017
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Fuujirareta Megami Portable",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2011
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2010
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou - Yoshimune DS",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2007
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Shake II",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2007
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: 24 - Twenty-Four",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2008
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator: Shin Yoshimune",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Paon",
-      "year":2008
-   },
-   {
-      "title":"Daito Giken Koushiki Pachi-Slot Simulator Hihouden: Taiyou o Motomeru Monotachi",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Paon Corporation",
-      "year":2013
-   },
-   {
-      "title":"Cities: Skylines Snowfall",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Paradox Development",
-      "year":2016
-   },
-   {
-      "title":"Europa Universalis III Complete",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2008
-   },
-   {
-      "title":"Cities in Motion Collection",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"East India Company",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2009
-   },
-   {
-      "title":"East India Company Collection",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Majesty 2: The Fantasy Kingdom Sim",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2009
-   },
-   {
-      "title":"Majesty 2 Collection",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Europa Universalis III",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2007
-   },
-   {
-      "title":"King Arthur Collection",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"King Arthur II: The Role-playing Wargame",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2012
-   },
-   {
-      "title":"Knights of Honor",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2005
-   },
-   {
-      "title":"Pirates of Black Cove",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Commander: Conquest of the Americas",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Sengoku",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Magicka Collection",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Elven Legacy",
-      "total_sales":0.04,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2009
-   },
-   {
-      "title":"Sword of the Stars: Complete Collection",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Hearts of Iron III",
-      "total_sales":0.09,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2009
-   },
-   {
-      "title":"Pride of Nations",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Achtung Panzer: Kharkov 1943",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Elven Legacy Collection",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Mount & Blade: Warband",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Mount & Blade Collection",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Paradox Interactive",
-      "year":2012
-   },
-   {
-      "title":"Tyranny",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Paradox Interactive",
-      "year":2016
-   },
-   {
-      "title":"Mount & Blade",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Paradox Interactive",
-      "year":2008
-   },
-   {
-      "title":"Lionheart: Kings' Crusade",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Combat Mission: Shock Force",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2007
-   },
-   {
-      "title":"Ship Simulator Extremes",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Paradox Interactive",
-      "year":2010
-   },
-   {
-      "title":"Supreme Ruler: Cold War",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Paradox Interactive",
-      "year":2011
-   },
-   {
-      "title":"Rango: The Video Game",
-      "total_sales":0.56,
-      "genre":"Action",
-      "publisher":"Paramount Digital Entertainment",
-      "year":2011
-   },
-   {
-      "title":"Torchlight",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Perfect World Entertainment",
-      "year":2009
-   },
-   {
-      "title":"VR Karts",
-      "total_sales":0.04,
-      "genre":"Racing",
-      "publisher":"Perp Games",
-      "year":2017
-   },
-   {
-      "title":"Apex Construct",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Perp Games",
-      "year":2018
-   },
-   {
-      "title":"Don't Knock Twice",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Perpetual",
-      "year":2018
-   },
-   {
-      "title":"Operation Warcade",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"Perpetual",
-      "year":2018
-   },
-   {
-      "title":"Phantom Crash",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"Phantagram",
-      "year":2002
-   },
-   {
-      "title":"Past Cure",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Phantom 8 Studio",
-      "year":2018
-   },
-   {
-      "title":"Darkest of Days",
-      "total_sales":0.1,
-      "genre":"Shooter",
-      "publisher":"Phantom EFX",
-      "year":2009
-   },
-   {
-      "title":"World Election",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Piacci",
-      "year":2017
-   },
-   {
-      "title":"Ima Sugu Oniichan ni Imoto da tte Iitai!",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Piacci",
-      "year":2014
-   },
-   {
-      "title":"Kujiragami no Tearstilla",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Piacci",
-      "year":2016
-   },
-   {
-      "title":"FairlyLife: MiracleDays",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Piacci",
-      "year":2010
-   },
-   {
-      "title":"Peppa Pig: The Game",
-      "total_sales":1.25,
-      "genre":"Misc",
-      "publisher":"Pinnacle",
-      "year":2008
-   },
-   {
-      "title":"Football Director DS",
-      "total_sales":0.1,
-      "genre":"Sports",
-      "publisher":"Pinnacle",
-      "year":2008
-   },
-   {
-      "title":"Taiho Shichauzo!",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Pioneer LDC",
-      "year":2001
-   },
-   {
-      "title":"Bass Pro Shops: The Strike - Championship Edition",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Planet Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Party Arcade",
-      "total_sales":0.06,
-      "genre":"Party",
-      "publisher":"Planet Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Cabela's The Hunt: Championship Edition Bundle",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Planet Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Around The World in 80 Days",
-      "total_sales":0.16,
-      "genre":"Puzzle",
-      "publisher":"PlayV",
-      "year":2010
-   },
-   {
-      "title":"Mind Your Language: Learn English! \/ French! \/ German! \/ Spanish! \/Japanese!",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"PlayV",
-      "year":2009
-   },
-   {
-      "title":"Fairytale Fights",
-      "total_sales":0.34,
-      "genre":"Action",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Infernal: Hell's Vengeance",
-      "total_sales":0.08,
-      "genre":"Shooter",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Vertigo",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"WorldShift",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Pool Hall Pro",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Sudoku Ball Detective",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"Aliens in the Attic",
-      "total_sales":0.13,
-      "genre":"Action",
-      "publisher":"Playlogic Game Factory",
-      "year":2009
-   },
-   {
-      "title":"The King of Fighters 2000",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"Playmore",
-      "year":2002
-   },
-   {
-      "title":"Quiz Present Variety Q-Sama!! DS: Pressure Study x Atama Gai Kunaru Drill SP",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Plenty",
-      "year":2011
-   },
-   {
-      "title":"Poi",
-      "total_sales":0.07,
-      "genre":"Platform",
-      "publisher":"Polykid",
-      "year":2017
-   },
-   {
-      "title":"Zuma's Revenge!",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2009
-   },
-   {
-      "title":"BookWorm",
-      "total_sales":0.33,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2009
-   },
-   {
-      "title":"Bejeweled Blitz",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2010
-   },
-   {
-      "title":"Bejeweled 3",
-      "total_sales":0.63,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2011
-   },
-   {
-      "title":"Bejeweled 2 Deluxe",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2006
-   },
-   {
-      "title":"Bookworm Deluxe",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2006
-   },
-   {
-      "title":"Bejeweled Twist",
-      "total_sales":0.15,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2008
-   },
-   {
-      "title":"Escape the Emerald Star",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2011
-   },
-   {
-      "title":"Mystery P.I. - Portrait of a Thief",
-      "total_sales":0.11,
-      "genre":"Adventure",
-      "publisher":"PopCap Games",
-      "year":2008
-   },
-   {
-      "title":"Peggle: Dual Shot",
-      "total_sales":0.12,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2009
-   },
-   {
-      "title":"Amazing Adventures: The Forgotten Ruins",
-      "total_sales":0.24,
-      "genre":"Adventure",
-      "publisher":"PopCap Games",
-      "year":2008
-   },
-   {
-      "title":"PopCap Hits!",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"PopCap Games",
-      "year":2011
-   },
-   {
-      "title":"Plants vs. Zombies",
-      "total_sales":1.59,
-      "genre":"Strategy",
-      "publisher":"PopCap Games",
-      "year":2010
-   },
-   {
-      "title":"PopCap Arcade Vol 2",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"PopCap Games",
-      "year":2009
-   },
-   {
-      "title":"PopCap Arcade Vol 1",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"PopCap Games",
-      "year":2007
-   },
-   {
-      "title":"Natsuiro no Sunadokei",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Princess Soft",
-      "year":2002
-   },
-   {
-      "title":"Final Approach 2: 1st Priority",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Princess Soft",
-      "year":2008
-   },
-   {
-      "title":"Final Approach 2: 1st Priority Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Princess Soft",
-      "year":2009
-   },
-   {
-      "title":"Kira * Kira: Rock 'n' Roll Show",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Princess Soft",
-      "year":2009
-   },
-   {
-      "title":"Tsuyo Kiss: Mighty Heart",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Princess Soft",
-      "year":2006
-   },
-   {
-      "title":"Shinkyouku Soukai Polyphonica: 3&4 Hanashi Kanketsuhen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"Air",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2016
-   },
-   {
-      "title":"Shinkyoku Soukai Polyphonica",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"The Fruit of Grisaia",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2013
-   },
-   {
-      "title":"Time Leap",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2009
-   },
-   {
-      "title":"Flowers",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2014
-   },
-   {
-      "title":"The Three Kingdoms Love Story ~ The Art of Otome!",
-      "total_sales":0.07,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2011
-   },
-   {
-      "title":"Clannad: Mitsumi Mamoru Sakamichi de - Joukan",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2010
-   },
-   {
-      "title":"Clannad: Mitsumi Mamoru Sakamichi de - Gekan",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2010
-   },
-   {
-      "title":"Arabians Lost: The Engagement on Desert",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"Little Busters! Converted Edition",
-      "total_sales":0.12,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2009
-   },
-   {
-      "title":"Clover no Kuni no Alice",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2010
-   },
-   {
-      "title":"Rewrite: Harvest Festa!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2017
-   },
-   {
-      "title":"Flowers: Autumn Story",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2016
-   },
-   {
-      "title":"Rewrite",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2014
-   },
-   {
-      "title":"Island",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2017
-   },
-   {
-      "title":"Snow Portable",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"Hoshiori Yume Mirai: Converted Edition",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2016
-   },
-   {
-      "title":"Taishou x Alice: All in One",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2016
-   },
-   {
-      "title":"Tomoyo After: It's a Wonderful Life CS Edition",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"Amatsumi Sora ni! Kumo no Hatate ni",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2015
-   },
-   {
-      "title":"Amatsutsumi",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2018
-   },
-   {
-      "title":"Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2016
-   },
-   {
-      "title":"Lucky Dog 1",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2018
-   },
-   {
-      "title":"Planetarian: Chiisana Hoshi no Yume",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2009
-   },
-   {
-      "title":"Yoshiwara Higanbana Kuon no Chigiri",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2017
-   },
-   {
-      "title":"Chou no Doku: Hana no Kusari - Taishou Tsuyakoi Ibun",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2014
-   },
-   {
-      "title":"Flowers: Le volume sur hiver",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2018
-   },
-   {
-      "title":"Grisaia no Rakuen: Le Eden de la Grisaia",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2014
-   },
-   {
-      "title":"Grisaia no Kajitsu: Side Episode",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2017
-   },
-   {
-      "title":"Flowers: Natsu-hen",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Prototype",
-      "year":2015
-   },
-   {
-      "title":"Grisaia Phantom Trigger 03 & 04",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Prototype",
-      "year":2018
-   },
-   {
-      "title":"Grisaia no Meikyuu: Le Labyrinthe de la Grisaia",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2014
-   },
-   {
-      "title":"AIR",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2007
-   },
-   {
-      "title":"Heart no Kuni no Alice",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Prototype",
-      "year":2008
-   },
-   {
-      "title":"Asaki, Yumemishi",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"School Wars",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Quinrose",
-      "year":2012
-   },
-   {
-      "title":"Okashi na Shima no Peter Pan: Sweet Never Land",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"Romeo Vs. Juliet",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2013
-   },
-   {
-      "title":"Joker no Kuni no Alice",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"Mermaid Gothic",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Majo'ou",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Heart no Kuni no Alice: Wonderful Twin World",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Satomi Hakkenden: Murasame Marunoki",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2015
-   },
-   {
-      "title":"Daiya no Kuni no Alice: Wonderful Mirror World",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2013
-   },
-   {
-      "title":"Arabians Doubt",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Hyaku Monogatari: Kaidan Romance",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Quinrose",
-      "year":2013
-   },
-   {
-      "title":"Hyakki Yagyou Kaidan Romance",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Quinrose",
-      "year":2012
-   },
-   {
-      "title":"Iza, Shutsujin! Koisen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"Genji Koi Emaki",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Quinrose",
-      "year":2015
-   },
-   {
-      "title":"0-ji no Kane to Cinderella: Halloween Wedding",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2013
-   },
-   {
-      "title":"School Wars: Graduation Front",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2013
-   },
-   {
-      "title":"Oumagatoki: Kaidan Romance",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Quinrose",
-      "year":2012
-   },
-   {
-      "title":"Satomi Hakkenden: Hachi Tamanoki",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Mother Goose no Himitsu no Yakata",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"Satomi Hakkenden: Hamaji Himenoki",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Heart no Kuni no Alice Anniversary Ver.: Wonderful Wonder World",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Quinrose",
-      "year":2011
-   },
-   {
-      "title":"Kuroyukihime: Snow Black",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Quinrose",
-      "year":2014
-   },
-   {
-      "title":"Eschatos",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Qute",
-      "year":2011
-   },
-   {
-      "title":"Scared Rider Xechs",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"RED Entertainment",
-      "year":2010
-   },
-   {
-      "title":"Oretachi no Sekai wa Shimatteiru",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"RED Entertainment",
-      "year":2017
-   },
-   {
-      "title":"Apassionata: Die Galanacht der Pferde",
-      "total_sales":0.05,
-      "genre":"Simulation",
-      "publisher":"RTL",
-      "year":2009
-   },
-   {
-      "title":"RailWorks 2: Train Simulator",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"RailSimulator.com",
-      "year":2010
-   },
-   {
-      "title":"Teslagrad",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Rain Games",
-      "year":2014
-   },
-   {
-      "title":"Conker's Bad Fur Day",
-      "total_sales":0.77,
-      "genre":"Platform",
-      "publisher":"Rare",
-      "year":2001
-   },
-   {
-      "title":"Let's Sing 2016",
-      "total_sales":0.1,
-      "genre":"Music",
-      "publisher":"Ravenscourt",
-      "year":2015
-   },
-   {
-      "title":"Let's Sing 2019",
-      "total_sales":0.07,
-      "genre":"Music",
-      "publisher":"Ravenscourt",
-      "year":2018
-   },
-   {
-      "title":"Deformers",
-      "total_sales":0.12,
-      "genre":"Action",
-      "publisher":"Ready at Dawn",
-      "year":2017
-   },
-   {
-      "title":"Rogue Trooper Redux",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"Rebellion",
-      "year":2017
-   },
-   {
-      "title":"Sniper Elite 4",
-      "total_sales":0.85,
-      "genre":"Shooter",
-      "publisher":"Rebellion Developments",
-      "year":2017
-   },
-   {
-      "title":"Zombie Army Trilogy",
-      "total_sales":0.34,
-      "genre":"Shooter",
-      "publisher":"Rebellion Developments",
-      "year":2015
-   },
-   {
-      "title":"Strange Brigade",
-      "total_sales":0.14,
-      "genre":"Shooter",
-      "publisher":"Rebellion Developments",
-      "year":2018
-   },
-   {
-      "title":"Hyper Light Drifter",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Rebellion Games",
-      "year":2016
-   },
-   {
-      "title":"Eve: Burst Error R",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Red Flagship",
-      "year":2016
-   },
-   {
-      "title":"Jackass the Game DS",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Red Mile Entertainment",
-      "year":2008
-   },
-   {
-      "title":"Jackass the Game",
-      "total_sales":0.5,
-      "genre":"Action",
-      "publisher":"Red Mile Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Roswell Conspiracies: Aliens, Myths & Legends",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Red Storm Entertainment",
-      "year":2001
-   },
-   {
-      "title":"Tom Clancy's Rainbow Six: Rogue Spear",
-      "total_sales":0.34,
-      "genre":"Shooter",
-      "publisher":"Red Storm Entertainment",
-      "year":2001
-   },
-   {
       "title":"Guitar Hero Encore: Rocks The 80s",
       "total_sales":1.11,
       "genre":"Misc",
@@ -49895,314 +47228,6 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"RedOctane",
       "year":2006
-   },
-   {
-      "title":"Captain Morgane and the Golden Turtle",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"Reef Entertainment",
-      "year":2012
-   },
-   {
-      "title":"Dance with Devils",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Rejet",
-      "year":2016
-   },
-   {
-      "title":"Ken ga Kimi: Momoyo Tsuzuri",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Rejet",
-      "year":2016
-   },
-   {
-      "title":"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",
-      "total_sales":0.03,
-      "genre":"Visual Novel",
-      "publisher":"Rejet",
-      "year":2016
-   },
-   {
-      "title":"Tokyo Yamanote Boys for V: Main Disc",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Rejet",
-      "year":2017
-   },
-   {
-      "title":"Dance with Devils: My Carol",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Rejet",
-      "year":2018
-   },
-   {
-      "title":"Tsuyo Kiss 2 Gakki: Swift Love",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Revolution (Japan)",
-      "year":2009
-   },
-   {
-      "title":"Broken Sword 5: The Serpent's Curse",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"Revolution Software",
-      "year":2015
-   },
-   {
-      "title":"Pilot Academy",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Rising Star",
-      "year":2006
-   },
-   {
-      "title":"Jewel Legends: Tree of Life",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Rising Star",
-      "year":2011
-   },
-   {
-      "title":"Flipping Death",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Rising Star",
-      "year":2018
-   },
-   {
-      "title":"Jewel Master: Cradle Of Rome 2",
-      "total_sales":0.06,
-      "genre":"Puzzle",
-      "publisher":"Rising Star",
-      "year":2011
-   },
-   {
-      "title":"Bomberman Story DS",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Rising Star",
-      "year":2008
-   },
-   {
-      "title":"DoDonPachi Resurrection",
-      "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"Rising Star",
-      "year":2011
-   },
-   {
-      "title":"Earth's Dawn",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Rising Star Games",
-      "year":2016
-   },
-   {
-      "title":"Cooking Mama: Sweet Shop",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Rising Star Games",
-      "year":2017
-   },
-   {
-      "title":"Trailblazers",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Rising Star Games",
-      "year":2018
-   },
-   {
-      "title":"Zombie Vikings",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Rising Star Games",
-      "year":2016
-   },
-   {
-      "title":"88 Heroes: 98 Heroes Edition",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Rising Star Games",
-      "year":2017
-   },
-   {
-      "title":"Deadly Premonition: The Director's Cut",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"Rising Star Games",
-      "year":2013
-   },
-   {
-      "title":"SteamWorld Collection",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Rising Star Games",
-      "year":2016
-   },
-   {
-      "title":"Assault Suit Leynos",
-      "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"Rising Star Games",
-      "year":2016
-   },
-   {
-      "title":"Lumo",
-      "total_sales":0.08,
-      "genre":"Puzzle",
-      "publisher":"Rising Star Games",
-      "year":2016
-   },
-   {
-      "title":"SteamWorld Dig 2",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Rising Star Games",
-      "year":2018
-   },
-   {
-      "title":"Jewel Master: Cradle of Persia",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Rising Star Games",
-      "year":2014
-   },
-   {
-      "title":"Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kounin: KanKen DS 2 + Jouyou Kanji Jiten",
-      "total_sales":0.33,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2007
-   },
-   {
-      "title":"Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kounin: KanKen DS3 Deluxe",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2009
-   },
-   {
-      "title":"Chokkan! Asonde Relaxuma",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Rocket Company",
-      "year":2008
-   },
-   {
-      "title":"Watashi no Relaxuma",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"Rocket Company",
-      "year":2007
-   },
-   {
-      "title":"Eiken DS",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2007
-   },
-   {
-      "title":"Tokyo Friend Park II DS",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2006
-   },
-   {
-      "title":"Tenkaichi * Sengoku Lovers",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Rocket Company",
-      "year":2010
-   },
-   {
-      "title":"Billy's Boot Camp: Wii de Enjoy Diet!",
-      "total_sales":0.07,
-      "genre":"Sports",
-      "publisher":"Rocket Company",
-      "year":2011
-   },
-   {
-      "title":"Zaidan Houjin Nippon Kanji Nouryoko Kentei Kyoukai Kounin: KanKen DS",
-      "total_sales":0.67,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2006
-   },
-   {
-      "title":"Medalot 7",
-      "total_sales":0.13,
-      "genre":"Role-Playing",
-      "publisher":"Rocket Company",
-      "year":2012
-   },
-   {
-      "title":"Medarot DS: Kabuto \/ Kuwagata Ver.",
-      "total_sales":0.12,
-      "genre":"Role-Playing",
-      "publisher":"Rocket Company",
-      "year":2010
-   },
-   {
-      "title":"Medarot 9: Kabuto Ver. \/ Kuwagata Ver.",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Rocket Company",
-      "year":2015
-   },
-   {
-      "title":"Medabots Girls Mission: Metabee Ver. \/ Rokusho Ver.",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Rocket Company",
-      "year":2016
-   },
-   {
-      "title":"Medabots Dual: Kabuto \/ Kuwagata",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"Rocket Company",
-      "year":2013
-   },
-   {
-      "title":"Medabots 9: Metabee Ver. \/ Rokusho Ver.",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Rocket Company",
-      "year":2015
-   },
-   {
-      "title":"Medabots 8",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2014
-   },
-   {
-      "title":"Kouekizaidan Houjin Nihon Kanji Nouryoku Kentei Kyoukai: Kanken Training",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Rocket Company",
-      "year":2014
-   },
-   {
-      "title":"Gudetama: Hanjuku de Tanomuwa",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Rocket Company",
-      "year":2015
-   },
-   {
-      "title":"Mini Yonkyu DS",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Rocket Company",
-      "year":2009
    },
    {
       "title":"Beaterator",
@@ -50296,6 +47321,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Grand Theft Auto: Mission Pack #1, London 1969",
+      "total_sales":0.11,
+      "genre":"Adventure",
+      "publisher":"Rockstar Games",
+      "year":1999
+   },
+   {
       "title":"Smuggler's Run: Warzones",
       "total_sales":0.08,
       "genre":"Misc",
@@ -50310,6 +47342,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Monster Truck Madness 64",
+      "total_sales":0.3,
+      "genre":"Racing",
+      "publisher":"Rockstar Games",
+      "year":1999
+   },
+   {
       "title":"Grand Theft Auto IV",
       "total_sales":22.53,
       "genre":"Action",
@@ -50322,6 +47361,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Rockstar Games",
       "year":2005
+   },
+   {
+      "title":"Thrasher Presents: Skate and Destroy",
+      "total_sales":0.39,
+      "genre":"Sports",
+      "publisher":"Rockstar Games",
+      "year":1999
    },
    {
       "title":"Midnight Club 3: DUB Edition",
@@ -50387,6 +47433,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Earthworm Jim 3D",
+      "total_sales":0.12,
+      "genre":"Platform",
+      "publisher":"Rockstar Games",
+      "year":1999
+   },
+   {
       "title":"Manhunt",
       "total_sales":1.47,
       "genre":"Action",
@@ -50429,11 +47482,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Grand Theft Auto 2",
+      "total_sales":3.42,
+      "genre":"Action",
+      "publisher":"Rockstar Games",
+      "year":1999
+   },
+   {
       "title":"Grand Theft Auto: Vice City",
       "total_sales":16.19,
       "genre":"Action",
       "publisher":"Rockstar Games",
       "year":2002
+   },
+   {
+      "title":"Surfing H3O",
+      "total_sales":0.25,
+      "genre":"Sports",
+      "publisher":"Rockstar Games",
+      "year":2000
    },
    {
       "title":"Grand Theft Auto III",
@@ -50448,573 +47515,6 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Rockstar Games",
       "year":2011
-   },
-   {
-      "title":"Fishdom 2 Deluxe",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Rondomedia",
-      "year":2010
-   },
-   {
-      "title":"Emergency 2012",
-      "total_sales":0.12,
-      "genre":"Simulation",
-      "publisher":"Rondomedia",
-      "year":2010
-   },
-   {
-      "title":"The Great Mystery Hidden Object Package 5",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Rondomedia",
-      "year":2015
-   },
-   {
-      "title":"100 Classic Games",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Rondomedia",
-      "year":2011
-   },
-   {
-      "title":"Bendy and the Ink Machine",
-      "total_sales":0.51,
-      "genre":"Puzzle",
-      "publisher":"Rooster Teeth Games",
-      "year":2018
-   },
-   {
-      "title":"Nintama Rantarou: Nintama no Tame no Ninjutsu Training",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Russel",
-      "year":2009
-   },
-   {
-      "title":"Strike Witches: Anata to Dekiru Koto - A Little Peaceful Days",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Russel",
-      "year":2010
-   },
-   {
-      "title":"Strike Witches: Aoi no Dengekisen - Shin Taichou Funtousuru!",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Russel",
-      "year":2009
-   },
-   {
-      "title":"Shirogane no Soleil: Contract to the Future - Mirai e no Keiyaku",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Russel",
-      "year":2008
-   },
-   {
-      "title":"GA - Geijutsuka Art Design Class: Slapstick Wonder Land",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Russel",
-      "year":2010
-   },
-   {
-      "title":"Shuumatsu Otome Gensou Alicematic Apocalypse",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Russel",
-      "year":2008
-   },
-   {
-      "title":"Tenjin Ranman: Happy GO Lucky!!",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Russel",
-      "year":2010
-   },
-   {
-      "title":"Nintama Rantarou: Gakunen Taikousen Puzzle! no Dan",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"Russel",
-      "year":2010
-   },
-   {
-      "title":"Euro Truck Simulator",
-      "total_sales":0.48,
-      "genre":"Simulation",
-      "publisher":"SCS Software",
-      "year":2013
-   },
-   {
-      "title":"Euro Truck Simulator 2: Scandinavia",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"SCS Software",
-      "year":2015
-   },
-   {
-      "title":"American Truck Simulator",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"SCS Software",
-      "year":2016
-   },
-   {
-      "title":"Richard Burns Rally",
-      "total_sales":0.04,
-      "genre":"Racing",
-      "publisher":"SCi",
-      "year":2004
-   },
-   {
-      "title":"King of Fighters: Maximum Impact",
-      "total_sales":0.26,
-      "genre":"Fighting",
-      "publisher":"SNK",
-      "year":2004
-   },
-   {
-      "title":"Metal Slug 3",
-      "total_sales":0.1,
-      "genre":"Shooter",
-      "publisher":"SNK",
-      "year":2004
-   },
-   {
-      "title":"The King of Fighters 2000\/2001",
-      "total_sales":0.11,
-      "genre":"Fighting",
-      "publisher":"SNK",
-      "year":2003
-   },
-   {
-      "title":"Metal Slug Advance",
-      "total_sales":0.08,
-      "genre":"Shooter",
-      "publisher":"SNK",
-      "year":2004
-   },
-   {
-      "title":"The King of Fighters 02\/03",
-      "total_sales":0.1,
-      "genre":"Fighting",
-      "publisher":"SNK",
-      "year":2005
-   },
-   {
-      "title":"SVC Chaos: SNK vs. Capcom",
-      "total_sales":0.1,
-      "genre":"Fighting",
-      "publisher":"SNK",
-      "year":2004
-   },
-   {
-      "title":"Samurai Shodown V",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2006
-   },
-   {
-      "title":"DokiDoki Majo Shinpan! 2",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"The King of Fighters 2006",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2006
-   },
-   {
-      "title":"The King of Fighters 2002: Unlimited Match",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2009
-   },
-   {
-      "title":"World Heroes Anthology",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"Fatal Fury: Battle Archives Volume 1 (JP sales)",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"The King of Fighters XI",
-      "total_sales":0.19,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"Metal Slug 4 & 5",
-      "total_sales":0.15,
-      "genre":"Shooter",
-      "publisher":"SNK Playmore",
-      "year":2005
-   },
-   {
-      "title":"The King of Fighters Portable '94~'98: Chapter of Orochi",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2010
-   },
-   {
-      "title":"The King of Fighters NeoWave",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2006
-   },
-   {
-      "title":"Metal Slug Anthology",
-      "total_sales":0.2,
-      "genre":"Shooter",
-      "publisher":"SNK Playmore",
-      "year":2006
-   },
-   {
-      "title":"The King of Fighters NESTS Collection",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"SNK vs. Capcom Card Fighters DS",
-      "total_sales":0.1,
-      "genre":"Strategy",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"SNK Arcade Classics Vol. 1",
-      "total_sales":0.41,
-      "genre":"Misc",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"DokiDoki Majo Shinpan!",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"The King of Fighters: Maximum Impact - Maniax",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2005
-   },
-   {
-      "title":"Art of Fighting Anthology",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"Fatal Fury: Battle Archives Volume 1",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"Fatal Fury: Battle Archives Volume 2",
-      "total_sales":0.07,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"Fatal Fury: Battle Archives Volume 2 (JP sales)",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"The King of Fighters Collection: The Orochi Saga",
-      "total_sales":0.38,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"Samurai Shodown Anthology (JP sales)",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2009
-   },
-   {
-      "title":"Days of Memories 3",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"SNK Playmore",
-      "year":2009
-   },
-   {
-      "title":"Kimi no Yuusha",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"NeoGeo Battle Coliseum",
-      "total_sales":0.33,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"King of Fighters: Maximum Impact Regulation A",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2007
-   },
-   {
-      "title":"The King of Fighters Collection: The Orochi Saga (JP sales)",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2008
-   },
-   {
-      "title":"Doki Majo Plus",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"SNK Playmore",
-      "year":2009
-   },
-   {
-      "title":"King of Fighters 2002: Unlimited Match Tougeki Ver.",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2010
-   },
-   {
-      "title":"Samurai Shodown Anthology",
-      "total_sales":0.3,
-      "genre":"Fighting",
-      "publisher":"SNK Playmore",
-      "year":2009
-   },
-   {
-      "title":"Kid Fit Island Resort",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"SVG Distribution",
-      "year":2010
-   },
-   {
-      "title":"Reel Fishing: The Great Outdoors",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"SVG Distribution",
-      "year":2006
-   },
-   {
-      "title":"Lost Identities",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"SVG Distribution",
-      "year":2011
-   },
-   {
-      "title":"The Ultimate Battle of the Sexes",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"SVG Distribution",
-      "year":2011
-   },
-   {
-      "title":"Vegas Casino",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"SVG Distribution",
-      "year":2007
-   },
-   {
-      "title":"Seven Samurai 20XX",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"Sammy Corporation",
-      "year":2004
-   },
-   {
-      "title":"Lethal Skies Elite Pilot: Team SW",
-      "total_sales":0.22,
-      "genre":"Simulation",
-      "publisher":"Sammy Corporation",
-      "year":2002
-   },
-   {
-      "title":"Guilty Gear XX Slash",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"Sammy Corporation",
-      "year":2006
-   },
-   {
-      "title":"Lethal Skies II",
-      "total_sales":0.16,
-      "genre":"Simulation",
-      "publisher":"Sammy Corporation",
-      "year":2003
-   },
-   {
-      "title":"Jissen Pachi-Slot Hisshouhou! Moujuu-Oh S",
-      "total_sales":0.28,
-      "genre":"Misc",
-      "publisher":"Sammy Corporation",
-      "year":2002
-   },
-   {
-      "title":"Guilty Gear X",
-      "total_sales":0.12,
-      "genre":"Fighting",
-      "publisher":"Sammy Corporation",
-      "year":2001
-   },
-   {
-      "title":"Guilty Gear Isuka",
-      "total_sales":0.1,
-      "genre":"Fighting",
-      "publisher":"Sammy Corporation",
-      "year":2004
-   },
-   {
-      "title":"Guilty Gear X: Advance Edition",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Sammy Corporation",
-      "year":2002
-   },
-   {
-      "title":"Jissen Pachi-Slot Hisshouhou! Aladdin A",
-      "total_sales":0.2,
-      "genre":"Misc",
-      "publisher":"Sammy Corporation",
-      "year":2002
-   },
-   {
-      "title":"Guilty Gear X2",
-      "total_sales":0.35,
-      "genre":"Fighting",
-      "publisher":"Sammy Corporation",
-      "year":2003
-   },
-   {
-      "title":"Spy Fiction",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Sammy Corporation",
-      "year":2004
-   },
-   {
-      "title":"Galerians: Ash",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"Sammy Corporation",
-      "year":2003
-   },
-   {
-      "title":"I SPY castle",
-      "total_sales":0.19,
-      "genre":"Puzzle",
-      "publisher":"Scholastic Inc.",
-      "year":2011
-   },
-   {
-      "title":"Ultimate I Spy",
-      "total_sales":0.48,
-      "genre":"Adventure",
-      "publisher":"Scholastic Inc.",
-      "year":2008
-   },
-   {
-      "title":"Goosebumps HorrorLand",
-      "total_sales":0.55,
-      "genre":"Adventure",
-      "publisher":"Scholastic Inc.",
-      "year":2008
-   },
-   {
-      "title":"Digging for Dinosaurs",
-      "total_sales":0.36,
-      "genre":"Action",
-      "publisher":"Scholastic Inc.",
-      "year":2010
-   },
-   {
-      "title":"The Magic School Bus: Oceans",
-      "total_sales":0.21,
-      "genre":"Adventure",
-      "publisher":"Scholastic Inc.",
-      "year":2011
-   },
-   {
-      "title":"Animal Genius",
-      "total_sales":0.11,
-      "genre":"Puzzle",
-      "publisher":"Scholastic Inc.",
-      "year":2007
-   },
-   {
-      "title":"My Amusement Park",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"Scholastic Inc.",
-      "year":2010
-   },
-   {
-      "title":"I Spy: Fun House",
-      "total_sales":0.82,
-      "genre":"Puzzle",
-      "publisher":"Scholastic Inc.",
-      "year":2007
-   },
-   {
-      "title":"I Spy: Universe",
-      "total_sales":0.13,
-      "genre":"Puzzle",
-      "publisher":"Scholastic Inc.",
-      "year":2010
-   },
-   {
-      "title":"Nervous Brickdown",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Secret Stash Games",
-      "year":2007
-   },
-   {
-      "title":"Glory Days 2",
-      "total_sales":0.09,
-      "genre":"Strategy",
-      "publisher":"Secret Stash Games",
-      "year":2007
    },
    {
       "title":"Sonic Boom: Fire & Ice",
@@ -51064,6 +47564,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Sega",
       "year":2010
+   },
+   {
+      "title":"Sonic Adventure",
+      "total_sales":2.42,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Sonic Boom: Rise of Lyric",
@@ -51192,6 +47699,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"J-League Pro Soccer Club wo Tsukurou!",
+      "total_sales":0.26,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"J-League Pro Soccer Club wo Tsukurou! 2",
+      "total_sales":0.49,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
       "title":"Sonic Generations",
       "total_sales":4.15,
       "genre":"Platform",
@@ -51199,11 +47720,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"J-League Pro Striker 2",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"Phantasy Star Universe: Ambition of the Illuminus",
       "total_sales":0.26,
       "genre":"Role-Playing",
       "publisher":"Sega",
       "year":2007
+   },
+   {
+      "title":"J-League Pro Soccer Club o Tsukurou!",
+      "total_sales":0.36,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Sonic Advance & Sonic Pinball Party Combo Pack",
@@ -51225,6 +47760,34 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Sega",
       "year":2004
+   },
+   {
+      "title":"Deep Fear",
+      "total_sales":0.08,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Decathlete",
+      "total_sales":0.3,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Daytona USA Championship Circuit Edition",
+      "total_sales":0.14,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Daytona USA",
+      "total_sales":0.55,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"Tenchu: Fatal Shadows",
@@ -51255,11 +47818,39 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Fighters MEGAMiX",
+      "total_sales":0.62,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
+      "title":"Fighting Vipers",
+      "total_sales":0.4,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Fighting Vipers 2",
       "total_sales":0.04,
       "genre":"Fighting",
       "publisher":"Sega",
       "year":2001
+   },
+   {
+      "title":"J-League Victory Goal",
+      "total_sales":0.15,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"J-League Victory Goal '96",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1996
    },
    {
       "title":"J.League Pro Soccer Club o Tsukurou! 8 Euro Plus",
@@ -51274,6 +47865,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Sega",
       "year":2002
+   },
+   {
+      "title":"Pebble Beach Golf Links",
+      "total_sales":0.02,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"Jambo! Safari Animal Rescue",
@@ -51295,6 +47893,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Sega",
       "year":2010
+   },
+   {
+      "title":"Hanagumi Taisen Columns",
+      "total_sales":0.12,
+      "genre":"Puzzle",
+      "publisher":"Sega",
+      "year":1997
    },
    {
       "title":"Phantasy Star Online",
@@ -51325,11 +47930,32 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Sonic & Knuckles",
+      "total_sales":1.82,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
+      "title":"Sonic & All-Stars Racing Transformed",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":2013
+   },
+   {
       "title":"Soccer Tsuku: Pro Soccer Club o Tsukurou!",
       "total_sales":0.2,
       "genre":"Sports",
       "publisher":"Sega",
       "year":2013
+   },
+   {
+      "title":"Soccer Tsuku Tokudai Gou: J-League Pro Soccer Club o Tsukurou",
+      "total_sales":0.18,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2000
    },
    {
       "title":"Soccer Tsuku DS: World Challenge 2010",
@@ -51353,11 +47979,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Record of Lodoss War: Eiyuu Sensou",
+      "total_sales":0.06,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"Skies of Arcadia Legends",
       "total_sales":0.22,
       "genre":"Role-Playing",
       "publisher":"Sega",
       "year":2003
+   },
+   {
+      "title":"Skies of Arcadia",
+      "total_sales":0.09,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
+      "title":"Hang On GP",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1996
    },
    {
       "title":"Phantasy Star Online Episode I & II",
@@ -51423,6 +48070,27 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Streets of Rage",
+      "total_sales":2.6,
+      "genre":"Action",
+      "publisher":"Sega",
+      "year":1990
+   },
+   {
+      "title":"Streets of Rage 3",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
+      "title":"Dragon Force II: Kamisarishi Daichi ni",
+      "total_sales":0.08,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
       "title":"Hero Bank 2",
       "total_sales":0.05,
       "genre":"Role-Playing",
@@ -51458,11 +48126,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Pro Yakyuu Team o Tsukurou!",
+      "total_sales":0.67,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Pro Yakyuu Greatest Nine 98",
+      "total_sales":0.09,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Pro Yakyuu Greatest Nine '97",
+      "total_sales":0.21,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
       "title":"Doraemon: Nobita to Midori no Kyojinden DS",
       "total_sales":0.09,
       "genre":"Platform",
       "publisher":"Sega",
       "year":2008
+   },
+   {
+      "title":"Spikeout: Battle Street",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Sega",
+      "year":2005
    },
    {
       "title":"Headhunter: Redemption",
@@ -51484,6 +48180,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2003
+   },
+   {
+      "title":"Rampo",
+      "total_sales":0.03,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"Puyo Puyo 7",
@@ -51521,11 +48224,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"E0: Enemy Zero",
+      "total_sales":0.41,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
+      "title":"Dynamite Headdy",
+      "total_sales":0.05,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"ESPN NFL 2K5",
       "total_sales":4.25,
       "genre":"Sports",
       "publisher":"Sega",
       "year":2004
+   },
+   {
+      "title":"Puzzle & Action: Tant-R",
+      "total_sales":0.03,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1994
    },
    {
       "title":"Puyo Puyo Chronicle",
@@ -51554,6 +48278,20 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2003
+   },
+   {
+      "title":"Ecco the Dolphin",
+      "total_sales":0.12,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1993
+   },
+   {
+      "title":"Ecco: The Tides of Time",
+      "total_sales":0.07,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1994
    },
    {
       "title":"Puyo Puyo! 15th Anniversary",
@@ -51675,6 +48413,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Derby Tsuku: Derby Uma o Tsukurou!",
+      "total_sales":0.08,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
       "title":"Derby Tsuku 5: Derby Uma o Tsukurou!",
       "total_sales":0.04,
       "genre":"Sports",
@@ -51703,6 +48448,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Sonic Jam",
+      "total_sales":0.12,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
       "title":"Sonic Mega Collection Plus",
       "total_sales":0.92,
       "genre":"Misc",
@@ -51724,11 +48476,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Super Monkey Ball: Banana Splitz",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":2012
+   },
+   {
       "title":"Spartan: Total Warrior",
       "total_sales":0.42,
       "genre":"Action",
       "publisher":"Sega",
       "year":2005
+   },
+   {
+      "title":"Space Siege",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":2008
    },
    {
       "title":"Hatsune Miku: Project Mirai DX",
@@ -51801,6 +48567,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Sonic the Hedgehog 3",
+      "total_sales":1.76,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"Super Monkey Ball 3D",
       "total_sales":0.5,
       "genre":"Action",
@@ -51820,6 +48593,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sega",
       "year":2005
+   },
+   {
+      "title":"Sonic the Hedgehog 2",
+      "total_sales":0.04,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1992
    },
    {
       "title":"Initial D: Street Stage",
@@ -51864,6 +48644,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Virtua Racing",
+      "total_sales":0.26,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
+      "title":"Virtua Striker 2",
+      "total_sales":0.32,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
       "title":"Virtua Striker 2002",
       "total_sales":0.05,
       "genre":"Sports",
@@ -51906,6 +48700,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Baku Baku",
+      "total_sales":0.05,
+      "genre":"Puzzle",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"London 2012: The Official Video Game of the Olympic Games",
       "total_sales":1.23,
       "genre":"Sports",
@@ -51941,6 +48742,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"NBA 2K",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1999
+   },
+   {
       "title":"Astro Boy: Omega Factor",
       "total_sales":0.09,
       "genre":"Action",
@@ -51962,11 +48770,39 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Wing Arms",
+      "total_sales":0.2,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter Kids",
+      "total_sales":0.23,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Armored Core 4",
       "total_sales":0.45,
       "genre":"Simulation",
       "publisher":"Sega",
       "year":2007
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.6: Lau Chan",
+      "total_sales":0.04,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.4: Pai Chan",
+      "total_sales":0.12,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"Beach Spikers: Virtua Beach Volleyball",
@@ -52018,11 +48854,60 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Battle Arena Toshinden URA",
+      "total_sales":0.03,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Battle Arena Toshinden Remix",
+      "total_sales":0.12,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
       "title":"Viking: Battle for Asgard",
       "total_sales":0.82,
       "genre":"Action",
       "publisher":"Sega",
       "year":2008
+   },
+   {
+      "title":"Virtua Cop",
+      "total_sales":0.62,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Cop 2",
+      "total_sales":0.3,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Virtua Fighter",
+      "total_sales":1.07,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter 2",
+      "total_sales":1.93,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Virtua Fighter 3tb",
+      "total_sales":0.37,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Virtua Fighter 4: Evolution",
@@ -52044,6 +48929,41 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Sega",
       "year":2007
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.1: Sarah Bryant",
+      "total_sales":0.11,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.2: Jacky Bryant",
+      "total_sales":0.08,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.3: Akira Yuki",
+      "total_sales":0.09,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Virtua Fighter CG Portrait Series Vol.5: Wolf Hawkfield",
+      "total_sales":0.05,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Winter Heat",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1997
    },
    {
       "title":"MadWorld",
@@ -52114,6 +49034,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Sega",
       "year":2008
+   },
+   {
+      "title":"Yuu Yuu Hakusho: Makyo Toitsusen",
+      "total_sales":0.08,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1994
    },
    {
       "title":"Medieval II: Total War Gold Edition",
@@ -52228,6 +49155,20 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"World Cup '98 France: Road to Win",
+      "total_sales":0.09,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"World Series Baseball",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
       "title":"World Series Baseball 2K3",
       "total_sales":0.4,
       "genre":"Sports",
@@ -52249,6 +49190,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"World Snooker Challenge 2007",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2007
+   },
+   {
+      "title":"World Snooker Championship 2005",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2005
+   },
+   {
       "title":"World Snooker Championship 2007",
       "total_sales":0.11,
       "genre":"Sports",
@@ -52263,6 +49218,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Worldwide Soccer",
+      "total_sales":0.06,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
       "title":"Valkyria Revolution",
       "total_sales":0.25,
       "genre":"Role-Playing",
@@ -52275,6 +49237,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2006
+   },
+   {
+      "title":"All Japan Pro Wrestling featuring Virtua",
+      "total_sales":0.15,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1997
    },
    {
       "title":"Worms Forts: Under Siege",
@@ -52431,6 +49400,13 @@ export const pb_data =
       "year":2019
    },
    {
+      "title":"Congo Bongo",
+      "total_sales":0.4,
+      "genre":"Action",
+      "publisher":"Sega",
+      "year":1983
+   },
+   {
       "title":"Conduit 2",
       "total_sales":0.12,
       "genre":"Shooter",
@@ -52459,6 +49435,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Clockwork Knight",
+      "total_sales":0.09,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
       "title":"K-On! After School Live!! HD Ver.",
       "total_sales":0.03,
       "genre":"Music",
@@ -52466,11 +49449,32 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Kaite Oboeru: Dora-Gana",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":2008
+   },
+   {
+      "title":"The Tower SP",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Sega",
+      "year":2006
+   },
+   {
       "title":"The Typing of the Dead",
       "total_sales":0.05,
       "genre":"Shooter",
       "publisher":"Sega",
       "year":2001
+   },
+   {
+      "title":"Kanzen Chuuki Pro Yakyuu Greatest Nine",
+      "total_sales":0.22,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"ChuChu Rocket!",
@@ -52515,11 +49519,39 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Cyber Troopers Virtual-On",
+      "total_sales":0.42,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Panzer Dragoon Saga",
+      "total_sales":0.11,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
       "title":"Panzer Dragoon Orta",
       "total_sales":0.26,
       "genre":"Shooter",
       "publisher":"Sega",
       "year":2003
+   },
+   {
+      "title":"Panzer Dragoon II Zwei",
+      "total_sales":0.31,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Panzer Dragoon",
+      "total_sales":0.37,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"Culdcept DS",
@@ -52562,6 +49594,20 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Sega",
       "year":2009
+   },
+   {
+      "title":"The House of the Dead",
+      "total_sales":0.13,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"The House of the Dead 2",
+      "total_sales":0.26,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"The House of the Dead 2 & 3 Return",
@@ -52683,6 +49729,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Blazing Heroes",
+      "total_sales":0.3,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Blazer Drive",
       "total_sales":0.01,
       "genre":"Role-Playing",
@@ -52704,11 +49757,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"NFL 2K1",
+      "total_sales":1.09,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
       "title":"Blade Arcus from Shining EX",
       "total_sales":0.06,
       "genre":"Fighting",
       "publisher":"Sega",
       "year":2015
+   },
+   {
+      "title":"NFL 2K",
+      "total_sales":1.2,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Universe at War: Earth Assault",
@@ -52744,6 +49811,13 @@ export const pb_data =
       "genre":"Music",
       "publisher":"Sega",
       "year":2014
+   },
+   {
+      "title":"Beyond Oasis",
+      "total_sales":0.05,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1994
    },
    {
       "title":"Let's Make a Soccer Team!",
@@ -52788,6 +49862,27 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Last Bronx",
+      "total_sales":0.13,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
+      "title":"Nippon Daihyou Team no Kantoku ni Narou! Sekaihatsu Soccer RPG",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Chain Chronicle",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":2014
+   },
+   {
       "title":"ToeJam & Earl III: Mission to Earth",
       "total_sales":0.11,
       "genre":"Action",
@@ -52816,11 +49911,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"NiGHTS into dreams...",
+      "total_sales":0.44,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Next Hatsune Miku: Project Diva",
       "total_sales":0.28,
       "genre":"Music",
       "publisher":"Sega",
       "year":2013
+   },
+   {
+      "title":"Neon Genesis Evangelion 2nd Impression",
+      "total_sales":0.42,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1997
    },
    {
       "title":"Total War Collection",
@@ -52842,6 +49951,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Sega",
       "year":2015
+   },
+   {
+      "title":"Burning Rangers",
+      "total_sales":0.06,
+      "genre":"Platform",
+      "publisher":"Sega",
+      "year":1998
    },
    {
       "title":"Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center Kawashima Ryuuta Kyouju Kanshu: Nou Ryoku Trainer Portable",
@@ -52935,6 +50051,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Sega Ages: After Burner II",
+      "total_sales":0.08,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection",
       "total_sales":0.04,
       "genre":"Shooter",
@@ -52998,6 +50121,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Formula One World Championship: Beyond the Limit",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"Gungrave",
       "total_sales":0.19,
       "genre":"Shooter",
@@ -53019,11 +50149,60 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Game no Kanzume Vol 2",
+      "total_sales":0.05,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
+      "title":"Game no Kanzume Vol 1",
+      "total_sales":0.05,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
+      "title":"GunGriffon",
+      "total_sales":0.19,
+      "genre":"Simulation",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
+      "title":"Sakura Taisen 2 - Kimi, Shinitamou Koto Nakare",
+      "total_sales":0.53,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Sakura Taisen Hanagumi Tsuushin",
+      "total_sales":0.11,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
+      "title":"Sakura Wars",
+      "total_sales":0.66,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":1996
+   },
+   {
       "title":"Sakura Wars 1 & 2",
       "total_sales":0.02,
       "genre":"Strategy",
       "publisher":"Sega",
       "year":2006
+   },
+   {
+      "title":"Sega Bass Fishing",
+      "total_sales":0.59,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Sega GT 2002",
@@ -53054,11 +50233,32 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Shining Force III: Scenario 2",
+      "total_sales":0.05,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
       "title":"Shining Hearts",
       "total_sales":0.2,
       "genre":"Role-Playing",
       "publisher":"Sega",
       "year":2010
+   },
+   {
+      "title":"Shining Force III",
+      "total_sales":0.13,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
+      "title":"Shining Force II",
+      "total_sales":0.19,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1994
    },
    {
       "title":"Shining Force Feather",
@@ -53089,6 +50289,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Shining Force CD",
+      "total_sales":0.14,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"Sega Genesis Classics",
       "total_sales":0.63,
       "genre":"Misc",
@@ -53108,6 +50315,20 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2006
+   },
+   {
+      "title":"Sega Rally Championship",
+      "total_sales":1.17,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
+      "title":"Sega Rally Championship 2",
+      "total_sales":0.41,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1999
    },
    {
       "title":"Sands of Destruction",
@@ -53152,6 +50373,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Sega Touring Car Championship",
+      "total_sales":0.11,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
       "title":"Sakura Wars 3: Paris wa Moeteiru ka",
       "total_sales":0.33,
       "genre":"Adventure",
@@ -53159,11 +50387,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Sakura Wars 2: Kimi, Shinitamou koto Nakare",
+      "total_sales":0.1,
+      "genre":"Adventure",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
       "title":"Sakura Wars 4: Koi Seyo,Otome",
       "total_sales":0.29,
       "genre":"Adventure",
       "publisher":"Sega",
       "year":2002
+   },
+   {
+      "title":"Guardian Heroes",
+      "total_sales":0.29,
+      "genre":"Role-Playing",
+      "publisher":"Sega",
+      "year":1996
    },
    {
       "title":"San Goku Shi Taisen Ten",
@@ -53201,6 +50443,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Gale Racer",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":1994
+   },
+   {
       "title":"SEGA Classics Collection",
       "total_sales":0.43,
       "genre":"Misc",
@@ -53220,6 +50469,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2011
+   },
+   {
+      "title":"Football Manager Handheld 2013",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2012
    },
    {
       "title":"Samurai Jack: The Shadow of Aku",
@@ -53243,6 +50499,20 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Seaman",
+      "total_sales":0.52,
+      "genre":"Simulation",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
+      "title":"Godzilla Generations",
+      "total_sales":0.08,
+      "genre":"Action",
+      "publisher":"Sega",
+      "year":1998
+   },
+   {
       "title":"Shenmue I & II",
       "total_sales":0.34,
       "genre":"Action-Adventure",
@@ -53257,6 +50527,13 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"GOTHA: Ismailia Seneki",
+      "total_sales":0.08,
+      "genre":"Strategy",
+      "publisher":"Sega",
+      "year":1995
+   },
+   {
       "title":"Samurai & Dragons",
       "total_sales":0.02,
       "genre":"Action",
@@ -53269,6 +50546,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2014
+   },
+   {
+      "title":"Football Manager Handheld",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2006
    },
    {
       "title":"Rome: Total War - Gold Edition",
@@ -53292,11 +50576,32 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Saturn Bomberman",
+      "total_sales":0.15,
+      "genre":"Puzzle",
+      "publisher":"Sega",
+      "year":1997
+   },
+   {
+      "title":"Football Manager 2006",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sega",
+      "year":2006
+   },
+   {
       "title":"Football Manager 2007",
       "total_sales":0.02,
       "genre":"Sports",
       "publisher":"Sega",
       "year":2006
+   },
+   {
+      "title":"Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sega",
+      "year":2008
    },
    {
       "title":"Football Manager 2008",
@@ -53327,6 +50632,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Sega GT",
+      "total_sales":0.13,
+      "genre":"Racing",
+      "publisher":"Sega",
+      "year":2000
+   },
+   {
       "title":"Football Manager 2010",
       "total_sales":0.07,
       "genre":"Sports",
@@ -53339,6 +50651,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sega",
       "year":2010
+   },
+   {
+      "title":"Gunstar Heroes",
+      "total_sales":0.13,
+      "genre":"Shooter",
+      "publisher":"Sega",
+      "year":1993
    },
    {
       "title":"Football Manager 2012",
@@ -53383,32 +50702,11 @@ export const pb_data =
       "year":2012
    },
    {
-      "title":"Fast Racing Neo",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Shin'en",
-      "year":2015
-   },
-   {
-      "title":"DoraMoji: Nobita no Kanji Daisakusen",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Shogakukan",
-      "year":2015
-   },
-   {
-      "title":"DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan",
-      "total_sales":0.2,
-      "genre":"Misc",
-      "publisher":"Shogakukan",
-      "year":2006
-   },
-   {
-      "title":"DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-Kun",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"Shogakukan",
-      "year":2007
+      "title":"Golden Axe: The Duel",
+      "total_sales":0.05,
+      "genre":"Fighting",
+      "publisher":"Sega",
+      "year":1995
    },
    {
       "title":"The Mummy: Tomb of the Dragon Emperor",
@@ -53423,6 +50721,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sierra Entertainment",
       "year":2007
+   },
+   {
+      "title":"Arcanum: Of Steamworks and Magick Obscura",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Sierra Entertainment",
+      "year":2001
    },
    {
       "title":"Scarface: Money. Power. Respect.",
@@ -53453,11 +50758,25 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"SWAT 4: The Stetchkov Syndicate",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Sierra Entertainment",
+      "year":2006
+   },
+   {
       "title":"SWAT 4",
       "total_sales":0.02,
       "genre":"Shooter",
       "publisher":"Sierra Entertainment",
       "year":2005
+   },
+   {
+      "title":"Homeworld: Cataclysm",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Sierra Entertainment",
+      "year":2000
    },
    {
       "title":"Robert Ludlum's The Bourne Conspiracy",
@@ -53472,6 +50791,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Sierra Entertainment",
       "year":2002
+   },
+   {
+      "title":"NASCAR Racing",
+      "total_sales":0.41,
+      "genre":"Racing",
+      "publisher":"Sierra Entertainment",
+      "year":1996
+   },
+   {
+      "title":"M.A.C.H.: Modified Air Combat Heroes",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Sierra Entertainment",
+      "year":2007
    },
    {
       "title":"Ice Age 2: The Meltdown",
@@ -53493,6 +50826,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sierra Entertainment",
       "year":2007
+   },
+   {
+      "title":"Freedom Force vs The 3rd Reich",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Sierra Entertainment",
+      "year":2005
+   },
+   {
+      "title":"Joint Task Force",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Sierra Entertainment",
+      "year":2006
    },
    {
       "title":"Eragon",
@@ -53558,6 +50905,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Caesar III",
+      "total_sales":0.03,
+      "genre":"Strategy",
+      "publisher":"Sierra Entertainment",
+      "year":1998
+   },
+   {
       "title":"Crash of the Titans",
       "total_sales":2.3,
       "genre":"Action",
@@ -53593,11 +50947,25 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"You Don't Know Jack",
+      "total_sales":1.11,
+      "genre":"Misc",
+      "publisher":"Sierra Entertainment",
+      "year":1995
+   },
+   {
       "title":"Tribes: Aerial Assault",
       "total_sales":0.23,
       "genre":"Shooter",
       "publisher":"Sierra Entertainment",
       "year":2002
+   },
+   {
+      "title":"You Don't Know Jack: Mock 2",
+      "total_sales":0.1,
+      "genre":"Misc",
+      "publisher":"Sierra Entertainment",
+      "year":2000
    },
    {
       "title":"Aliens vs Predator: Requiem",
@@ -53621,6 +50989,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Return to Krondor",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Sierra Entertainment",
+      "year":1998
+   },
+   {
       "title":"Half-Life",
       "total_sales":0.6,
       "genre":"Shooter",
@@ -53635,193 +51010,18 @@ export const pb_data =
       "year":2007
    },
    {
-      "title":"Nanairo Reincarnation",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Silky`s",
-      "year":2015
-   },
-   {
-      "title":"Outlaw Golf",
-      "total_sales":0.37,
-      "genre":"Sports",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2002
-   },
-   {
-      "title":"Outlaw Golf: Nine Holes of Christmas",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2003
-   },
-   {
-      "title":"Darkened Skye",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2002
-   },
-   {
-      "title":"Outlaw Volleyball",
-      "total_sales":0.26,
-      "genre":"Sports",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2003
-   },
-   {
-      "title":"SeaBlade",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2002
-   },
-   {
-      "title":"EVE Online",
-      "total_sales":0.2,
+      "title":"Throne of Darkness",
+      "total_sales":0.0,
       "genre":"Role-Playing",
-      "publisher":"Simon & Schuster Interactive",
-      "year":2003
+      "publisher":"Sierra Entertainment",
+      "year":2001
    },
    {
-      "title":"The Long Dark",
-      "total_sales":0.1,
-      "genre":"Simulation",
-      "publisher":"Skybound Games",
-      "year":2018
-   },
-   {
-      "title":"Slime Rancher",
-      "total_sales":0.2,
-      "genre":"Simulation",
-      "publisher":"Skybound Games",
-      "year":2018
-   },
-   {
-      "title":"The History Channel: Great Battles - Medieval",
-      "total_sales":0.13,
-      "genre":"Strategy",
-      "publisher":"Slitherine Software",
-      "year":2011
-   },
-   {
-      "title":"ARK Park",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Snail Games USA",
-      "year":2018
-   },
-   {
-      "title":"Pharaonic",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Soedesco",
-      "year":2017
-   },
-   {
-      "title":"Omen of Sorrow",
-      "total_sales":0.04,
-      "genre":"Fighting",
-      "publisher":"Soedesco",
-      "year":2018
-   },
-   {
-      "title":"Air Missions: Hind",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Soedesco",
-      "year":2018
-   },
-   {
-      "title":"Tricky Towers",
+      "title":"Pharaoh",
       "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Soedesco",
-      "year":2017
-   },
-   {
-      "title":"Real Farm",
-      "total_sales":0.15,
-      "genre":"Simulation",
-      "publisher":"Soedesco",
-      "year":2017
-   },
-   {
-      "title":"Owlboy",
-      "total_sales":0.1,
-      "genre":"Platform",
-      "publisher":"Soedesco",
-      "year":2018
-   },
-   {
-      "title":"The Girl and the Robot",
-      "total_sales":0.03,
-      "genre":"Action-Adventure",
-      "publisher":"Soedesco",
-      "year":2017
-   },
-   {
-      "title":"AereA",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Soedesco",
-      "year":2017
-   },
-   {
-      "title":"8-Bit Armies",
-      "total_sales":0.06,
       "genre":"Strategy",
-      "publisher":"Soedesco",
-      "year":2018
-   },
-   {
-      "title":"Immortal Unchained",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Sold Out",
-      "year":2018
-   },
-   {
-      "title":"Overcooked! 2",
-      "total_sales":0.53,
-      "genre":"Simulation",
-      "publisher":"Sold Out",
-      "year":2018
-   },
-   {
-      "title":"Aven Colony",
-      "total_sales":0.12,
-      "genre":"Strategy",
-      "publisher":"Sold Out",
-      "year":2017
-   },
-   {
-      "title":"Yooka-Laylee",
-      "total_sales":0.39,
-      "genre":"Platform",
-      "publisher":"Sold Out",
-      "year":2017
-   },
-   {
-      "title":"Mothergunship",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Sold Out",
-      "year":2018
-   },
-   {
-      "title":"The Escapists 2",
-      "total_sales":0.44,
-      "genre":"Action",
-      "publisher":"Sold Out",
-      "year":2017
-   },
-   {
-      "title":"Overcooked",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Sold Out",
-      "year":2016
+      "publisher":"Sierra Entertainment",
+      "year":1999
    },
    {
       "title":"Jampack Volume 13 (RP-M)",
@@ -53829,6 +51029,27 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2005
+   },
+   {
+      "title":"Jampack Winter 2000",
+      "total_sales":1.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Porsche Challenge",
+      "total_sales":0.09,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Stolen Song",
+      "total_sales":0.12,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"The Eye of Judgment",
@@ -53843,6 +51064,20 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"Jampack Winter '99",
+      "total_sales":1.69,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
+      "title":"WipEout 3",
+      "total_sales":0.34,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"My Street",
@@ -53871,6 +51106,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Jampack Winter '98",
+      "total_sales":1.13,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"Aquanaut's Holiday: Kakusareta Kiroku",
@@ -53908,11 +51150,39 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"WipEout XL",
+      "total_sales":0.25,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"The Fight: Lights Out",
       "total_sales":0.59,
       "genre":"Fighting",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"Sentou Kokka Air Land Battle",
+      "total_sales":0.13,
+      "genre":"Strategy",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Namco Tennis Smash Court",
+      "total_sales":0.24,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Arc the Lad II",
+      "total_sales":1.05,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Uncharted 2: Among Thieves",
@@ -53929,11 +51199,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"NFL GameDay 2001",
+      "total_sales":1.36,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"NFL GameDay 2002",
       "total_sales":0.78,
       "genre":"Sports",
       "publisher":"Sony Computer Entertainment",
       "year":2001
+   },
+   {
+      "title":"Blasto",
+      "total_sales":0.35,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"NFL GameDay 2003",
@@ -53964,6 +51248,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Jampack Vol. 2",
+      "total_sales":0.53,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Ultra Street Fighter IV",
       "total_sales":0.1,
       "genre":"Fighting",
@@ -53976,6 +51267,27 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2005
+   },
+   {
+      "title":"Armored Core",
+      "total_sales":0.41,
+      "genre":"Simulation",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
+      "title":"NBA ShootOut 98",
+      "total_sales":0.78,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Um Jammer Lammy",
+      "total_sales":0.66,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"MyStylist",
@@ -53999,6 +51311,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Arc the Lad III",
+      "total_sales":0.42,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
       "title":"Arc the Lad: Twilight of the Spirits",
       "total_sales":0.36,
       "genre":"Role-Playing",
@@ -54006,11 +51325,32 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"echoshift",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":2010
+   },
+   {
+      "title":"Blades of Blood: Samurai Shodown III",
+      "total_sales":0.08,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"SOCOM: U.S. Navy SEALs",
       "total_sales":3.65,
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2002
+   },
+   {
+      "title":"Wizardry VII: Gadeia no Houshu",
+      "total_sales":0.15,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
    },
    {
       "title":"Secret Agent Clank",
@@ -54025,6 +51365,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2007
+   },
+   {
+      "title":"Namco Soccer Prime Goal",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Jampack Volume 12",
@@ -54046,6 +51393,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Sony Computer Entertainment",
       "year":2007
+   },
+   {
+      "title":"Kurushi Final: Mental Blocks",
+      "total_sales":0.66,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"Jampack Volume 11",
@@ -54090,11 +51444,25 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Jersey Devil",
+      "total_sales":0.23,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
       "title":"Jet Li: Rise to Honor",
       "total_sales":1.27,
       "genre":"Action",
       "publisher":"Sony Computer Entertainment",
       "year":2004
+   },
+   {
+      "title":"Jet Moto",
+      "total_sales":1.83,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"LocoRoco",
@@ -54111,6 +51479,27 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Krazy Ivan",
+      "total_sales":0.08,
+      "genre":"Simulation",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Philosoma",
+      "total_sales":0.05,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Kowloon's Gate",
+      "total_sales":0.15,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"The Heavy Rain and Beyond: Two Souls Collection",
       "total_sales":0.28,
       "genre":"Action",
@@ -54125,11 +51514,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Muppets Movie Adventures",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":2014
+   },
+   {
       "title":"PaRappa The Rapper",
       "total_sales":0.15,
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2007
+   },
+   {
+      "title":"Jet Moto 2",
+      "total_sales":1.94,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
    },
    {
       "title":"Move Fitness",
@@ -54153,6 +51556,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Grind Session",
+      "total_sales":0.44,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"PAIN",
       "total_sales":0.01,
       "genre":"Action",
@@ -54165,6 +51575,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2009
+   },
+   {
+      "title":"Crime Crackers",
+      "total_sales":0.1,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1994
+   },
+   {
+      "title":"NCAA Gamebreaker",
+      "total_sales":0.26,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"The ICO & Shadow of the Colossus Collection",
@@ -54209,11 +51633,32 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Einh\u00e4nder",
+      "total_sales":0.31,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
       "title":"World Tour Soccer 2003",
       "total_sales":0.14,
       "genre":"Sports",
       "publisher":"Sony Computer Entertainment",
       "year":2003
+   },
+   {
+      "title":"Hermie Hopperhead: Scrap Panic",
+      "total_sales":0.03,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
+      "title":"Jet Moto 3",
+      "total_sales":0.74,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"Jet X20",
@@ -54235,6 +51680,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"ESPN Extreme Games",
+      "total_sales":0.38,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
    },
    {
       "title":"Starhawk",
@@ -54286,6 +51738,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Ape Academy 2",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2006
+   },
+   {
       "title":"Kung Fu Rider",
       "total_sales":0.2,
       "genre":"Action",
@@ -54326,6 +51785,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2006
+   },
+   {
+      "title":"Ape Escape",
+      "total_sales":1.63,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"Ape Escape Academy (jp sales)",
@@ -54440,6 +51906,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"StarBlade \u03b1",
+      "total_sales":0.16,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Battle Arena Toshinden",
+      "total_sales":1.27,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"Bleach: Blade Battlers 2nd",
       "total_sales":0.06,
       "genre":"Fighting",
@@ -54475,6 +51955,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Bloody Roar II",
+      "total_sales":0.46,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Warhawk",
+      "total_sales":1.52,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"God of War Collection",
       "total_sales":0.24,
       "genre":"Action",
@@ -54487,6 +51981,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Sony Computer Entertainment",
       "year":2003
+   },
+   {
+      "title":"Bloody Roar",
+      "total_sales":0.39,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"Bleach: Heat the Soul 5",
@@ -54503,6 +52004,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Twisted Metal",
+      "total_sales":1.9,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"Twisted Metal (2012)",
       "total_sales":0.83,
       "genre":"Action",
@@ -54510,11 +52018,25 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Twisted Metal 2",
+      "total_sales":2.44,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"ICO",
       "total_sales":0.53,
       "genre":"Adventure",
       "publisher":"Sony Computer Entertainment",
       "year":2001
+   },
+   {
+      "title":"Blood: The Last Vampire (Joukan)",
+      "total_sales":0.09,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
    },
    {
       "title":"Twisted Metal: Black",
@@ -54587,6 +52109,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Doko Demo Issyo",
+      "total_sales":1.07,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
       "title":"Doko Demo Issho: Let's Gakkou!",
       "total_sales":0.04,
       "genre":"Misc",
@@ -54599,6 +52128,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2004
+   },
+   {
+      "title":"NHL FaceOff '97",
+      "total_sales":0.46,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Doki-Doki Universe",
@@ -54620,6 +52156,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"Turbo Prop Racing",
+      "total_sales":0.15,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"Invizimals: Shadow Zone",
@@ -54685,6 +52228,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Jak & Daxter Collection",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":2012
+   },
+   {
       "title":"Lair",
       "total_sales":0.51,
       "genre":"Action",
@@ -54727,6 +52277,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"NFL Xtreme",
+      "total_sales":0.69,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
       "title":"Bleach: Soul Carnival 2",
       "total_sales":0.03,
       "genre":"Fighting",
@@ -54762,6 +52319,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Formula 1",
+      "total_sales":0.76,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"Gran Turismo (PSP)",
       "total_sales":6.09,
       "genre":"Racing",
@@ -54774,6 +52338,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Sony Computer Entertainment",
       "year":2003
+   },
+   {
+      "title":"Formula 1 Championship Edition",
+      "total_sales":0.36,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
    },
    {
       "title":"Twisted Metal: Small Brawl",
@@ -54797,6 +52368,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Disney's The Emperor's New Groove",
+      "total_sales":0.31,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"Jak and Daxter: The Precursor Legacy",
       "total_sales":3.64,
       "genre":"Platform",
@@ -54816,6 +52394,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2009
+   },
+   {
+      "title":"Penny Racers",
+      "total_sales":0.31,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Jak and Daxter Collection",
@@ -54874,11 +52459,39 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"I.Q. Remix+: Intelligent Qube",
+      "total_sales":0.04,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Legend of Legaia",
+      "total_sales":0.66,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
       "title":"White Knight Chronicles: International Edition",
       "total_sales":0.95,
       "genre":"Role-Playing",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"Project: Horned Owl",
+      "total_sales":0.11,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Boku no Natsuyasumi",
+      "total_sales":0.4,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
    },
    {
       "title":"Jampack Summer 2002",
@@ -54888,11 +52501,46 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Hot Shots Golf",
+      "total_sales":5.35,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
       "title":"Jampack Summer 2001",
       "total_sales":0.74,
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2001
+   },
+   {
+      "title":"Hot Shots Golf 2",
+      "total_sales":1.88,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"MLB Pennant Race",
+      "total_sales":0.29,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"MLB 99",
+      "total_sales":0.86,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Jampack Summer '99",
+      "total_sales":0.96,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"Beat Sketch!",
@@ -54979,6 +52627,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Beat Sketcher",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2010
+   },
+   {
       "title":"Boku no Natsuyasumi Portable: Mushi Mushi Hakase to Teppen-yama no Himitsu!!",
       "total_sales":0.1,
       "genre":"Adventure",
@@ -54986,11 +52641,46 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Jampack Vol. 1",
+      "total_sales":0.18,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Wild ARMs 3",
       "total_sales":0.62,
       "genre":"Role-Playing",
       "publisher":"Sony Computer Entertainment",
       "year":2002
+   },
+   {
+      "title":"Wild ARMs 2",
+      "total_sales":0.67,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Intelligent Qube",
+      "total_sales":1.22,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Wild ARMs",
+      "total_sales":0.95,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Interactive Sampler Disc 6",
+      "total_sales":0.14,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"Boku no Natsuyasumi Portable 2: Nazo Nazo Shimai to Chinbotsusen no Himitsu",
@@ -55005,6 +52695,13 @@ export const pb_data =
       "genre":"Action-Adventure",
       "publisher":"Sony Computer Entertainment",
       "year":2013
+   },
+   {
+      "title":"Jampack Summer 2K",
+      "total_sales":1.58,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
    },
    {
       "title":"Boku no Natsuyasumi 4: Seitouchi Shounen Tanteidan, Boku to Himitsu no Chizu",
@@ -55070,11 +52767,25 @@ export const pb_data =
       "year":2014
    },
    {
+      "title":"Tail of the Sun",
+      "total_sales":0.02,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Patapon",
       "total_sales":0.82,
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"NCAA Final Four 2001",
+      "total_sales":0.35,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
    },
    {
       "title":"NCAA Final Four 2002",
@@ -55089,6 +52800,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Sony Computer Entertainment",
       "year":2007
+   },
+   {
+      "title":"Princess Maker: Yumemiru Yosei",
+      "total_sales":0.19,
+      "genre":"Strategy",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
    },
    {
       "title":"Patapon 2",
@@ -55126,6 +52844,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Passport to... Paris",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2006
+   },
+   {
       "title":"MLB 2004",
       "total_sales":0.66,
       "genre":"Sports",
@@ -55138,6 +52863,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2009
+   },
+   {
+      "title":"Passport to... London",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2006
    },
    {
       "title":"Hot Shots Golf: Out of Bounds",
@@ -55182,6 +52914,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"NHL FaceOff 98",
+      "total_sales":0.51,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
+      "title":"Bogey: Dead 6",
+      "total_sales":0.09,
+      "genre":"Simulation",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"Jampack Fall 2001",
       "total_sales":0.59,
       "genre":"Misc",
@@ -55203,11 +52949,53 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"MLB 2001",
+      "total_sales":0.89,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Passport to... Amsterdam",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2006
+   },
+   {
+      "title":"NHL FaceOff 2001",
+      "total_sales":0.43,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"MLB 2000",
+      "total_sales":0.94,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Victory Zone",
+      "total_sales":0.11,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"Genji: Dawn of the Samurai",
       "total_sales":0.23,
       "genre":"Action",
       "publisher":"Sony Computer Entertainment",
       "year":2005
+   },
+   {
+      "title":"Pet in TV",
+      "total_sales":0.4,
+      "genre":"Strategy",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
    },
    {
       "title":"Ratchet & Clank: Size Matters",
@@ -55229,6 +53017,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Jumping Flash!",
+      "total_sales":0.3,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
    },
    {
       "title":"Extermination",
@@ -55271,6 +53066,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Ratchet & Clank: Tools of Destruction and Ratchet & Clank: A Crack in Time",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":2011
    },
    {
       "title":"Ratchet & Clank: Up Your Arsenal (Weekly american sales)",
@@ -55322,6 +53124,27 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"MediEvil",
+      "total_sales":0.83,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"NBA ShootOut 2001",
+      "total_sales":0.42,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"The Raiden Project",
+      "total_sales":0.23,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"Buzz! The Music Quiz",
       "total_sales":1.61,
       "genre":"Misc",
@@ -55341,6 +53164,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2009
+   },
+   {
+      "title":"EyePet Adventures",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Sony Computer Entertainment",
+      "year":2011
    },
    {
       "title":"NBA ShootOut 2002",
@@ -55378,6 +53208,20 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Rascal",
+      "total_sales":0.42,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Rapid Reload",
+      "total_sales":0.09,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"SingStar Pop Edition",
       "total_sales":0.21,
       "genre":"Misc",
@@ -55399,6 +53243,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Spawn the Eternal",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"SingStar Country",
       "total_sales":0.28,
       "genre":"Misc",
@@ -55418,6 +53269,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2010
+   },
+   {
+      "title":"2Xtreme",
+      "total_sales":1.4,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"SingStar Fussballhits",
@@ -55460,6 +53318,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Sony Computer Entertainment",
       "year":2005
+   },
+   {
+      "title":"MediEvil II",
+      "total_sales":0.38,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
    },
    {
       "title":"SingStar Mallorca Party",
@@ -55553,6 +53418,20 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Yarudora Series Vol. 2: Kisetsu wo Dakishimete",
+      "total_sales":0.21,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Yarudora Series Vol.1: Double Cast",
+      "total_sales":0.37,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
       "title":"EyeToy: AntiGrav",
       "total_sales":0.43,
       "genre":"Sports",
@@ -55623,6 +53502,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"PoPoLoCrois Monogatari II",
+      "total_sales":0.21,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"Singstar: Ultimate Party",
       "total_sales":0.28,
       "genre":"Music",
@@ -55635,6 +53521,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2004
+   },
+   {
+      "title":"Colin McRae Rally",
+      "total_sales":2.87,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"PoPoLoCrois Monogatari",
+      "total_sales":0.5,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"After Hours Athletes",
@@ -55686,6 +53586,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Codename Tenka",
+      "total_sales":0.09,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Coded Soul: Uke Keigareshi Idea",
       "total_sales":0.02,
       "genre":"Role-Playing",
@@ -55714,6 +53621,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Kileak: The DNA Imperative",
+      "total_sales":0.37,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
+   },
+   {
       "title":"Syphon Filter 3",
       "total_sales":0.52,
       "genre":"Shooter",
@@ -55733,6 +53647,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Sony Computer Entertainment",
       "year":2006
+   },
+   {
+      "title":"F1 Grand Prix",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2005
    },
    {
       "title":"ATV Offroad Fury Pro",
@@ -55805,6 +53726,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Jumping Flash! 2",
+      "total_sales":0.25,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"Reality Fighters",
       "total_sales":0.13,
       "genre":"Fighting",
@@ -55854,6 +53782,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Shadow Master",
+      "total_sales":0.1,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"SingStar Summer Party",
       "total_sales":0.54,
       "genre":"Misc",
@@ -55868,6 +53803,20 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Shinobido: Tales of the Ninja",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":2007
+   },
+   {
+      "title":"Fired Up",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":2005
+   },
+   {
       "title":"SingStar Take That",
       "total_sales":0.76,
       "genre":"Misc",
@@ -55875,9 +53824,23 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Fantavision",
+      "total_sales":0.47,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"The Shoot",
       "total_sales":0.34,
       "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":2010
+   },
+   {
+      "title":"Jungle Party",
+      "total_sales":0.0,
+      "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2010
    },
@@ -55917,11 +53880,46 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Tomba! 2: The Evil Swine Return",
+      "total_sales":0.29,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
+      "title":"NCAA GameBreaker 2001",
+      "total_sales":0.48,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Tomba!",
+      "total_sales":0.26,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"Rally Cross",
+      "total_sales":0.32,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Derby Time Online",
       "total_sales":0.01,
       "genre":"Sports",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Tobal No.1",
+      "total_sales":0.92,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Okage: Shadow King",
@@ -55938,6 +53936,20 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Crash Bash",
+      "total_sales":3.39,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"G-Police",
+      "total_sales":0.24,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"PlayStation Move Ape Escape",
       "total_sales":0.04,
       "genre":"Party",
@@ -55952,6 +53964,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Tiny Tank",
+      "total_sales":0.34,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
       "title":"Looney Tunes: Galactic Sports",
       "total_sales":0.03,
       "genre":"Action",
@@ -55964,6 +53983,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2006
+   },
+   {
+      "title":"Omega Boost",
+      "total_sales":0.52,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
    },
    {
       "title":"Resident Evil Director's Cut",
@@ -55985,6 +54011,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2011
+   },
+   {
+      "title":"Carnage Heart",
+      "total_sales":0.11,
+      "genre":"Strategy",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
    },
    {
       "title":"Heavy Rain: Move Edition",
@@ -56057,6 +54090,20 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Running Wild",
+      "total_sales":0.09,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1998
+   },
+   {
+      "title":"G-Police: Weapons of Justice",
+      "total_sales":0.06,
+      "genre":"Action",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
       "title":"SOCOM: U.S. Navy SEALs Fireteam Bravo 2",
       "total_sales":1.05,
       "genre":"Shooter",
@@ -56076,6 +54123,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2001
+   },
+   {
+      "title":"Sengoku Cyber: Fujimaru Jigokuhen",
+      "total_sales":0.12,
+      "genre":"Strategy",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
    },
    {
       "title":"Minna no Sukkiri",
@@ -56113,6 +54167,13 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Cart World Series",
+      "total_sales":0.3,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"The Sly Collection",
       "total_sales":0.69,
       "genre":"Platform",
@@ -56148,11 +54209,39 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"LittleBigPlanet: Game of the Year Edition",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Sony Computer Entertainment",
+      "year":2009
+   },
+   {
+      "title":"The Legend of Dragoon",
+      "total_sales":1.86,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"SOCOM: U.S. Navy SEALs Confrontation",
       "total_sales":1.26,
       "genre":"Shooter",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Crash Team Racing",
+      "total_sales":4.79,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1999
+   },
+   {
+      "title":"Sports Champions 2",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2012
    },
    {
       "title":"Sports Champions",
@@ -56216,6 +54305,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Sony Computer Entertainment",
       "year":2008
+   },
+   {
+      "title":"Bushido Blade",
+      "total_sales":1.16,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
    },
    {
       "title":"SingStar Abba",
@@ -56288,6 +54384,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Cool Boarders 2001",
+      "total_sales":0.74,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
       "title":"SingStar Amped",
       "total_sales":0.46,
       "genre":"Misc",
@@ -56302,6 +54405,20 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Buzz! Brain Bender",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Sony Computer Entertainment",
+      "year":2008
+   },
+   {
+      "title":"Cool Boarders 2",
+      "total_sales":2.25,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Buzz! Brain of the UK",
       "total_sales":0.17,
       "genre":"Misc",
@@ -56309,11 +54426,39 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Speed Punks",
+      "total_sales":0.2,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":2000
+   },
+   {
+      "title":"Cool Boarders",
+      "total_sales":0.43,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
+      "title":"Mega Minis Volume 1",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Sony Computer Entertainment",
+      "year":2011
+   },
+   {
       "title":"Buzz! Junior: Jungle Party",
       "total_sales":0.41,
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2007
+   },
+   {
+      "title":"Mortal Kombat 3",
+      "total_sales":3.42,
+      "genre":"Fighting",
+      "publisher":"Sony Computer Entertainment",
+      "year":1995
    },
    {
       "title":"SingStar Apres-Ski Party 2",
@@ -56330,6 +54475,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Epidemic",
+      "total_sales":0.14,
+      "genre":"Shooter",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"ATV Offroad Fury: Blazin' Trails",
       "total_sales":0.57,
       "genre":"Racing",
@@ -56344,11 +54496,25 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Beyond The Beyond",
+      "total_sales":0.57,
+      "genre":"Role-Playing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
+   },
+   {
       "title":"Sly 3: Honor Among Thieves",
       "total_sales":0.83,
       "genre":"Platform",
       "publisher":"Sony Computer Entertainment",
       "year":2005
+   },
+   {
+      "title":"Motor Toon Grand Prix (Japan)",
+      "total_sales":0.07,
+      "genre":"Racing",
+      "publisher":"Sony Computer Entertainment",
+      "year":1994
    },
    {
       "title":"Saru! Get You! Pipo Saru Senki",
@@ -56372,11 +54538,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"NBA ShootOut '97",
+      "total_sales":0.62,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1997
+   },
+   {
       "title":"Sly Cooper: Thieves in Time",
       "total_sales":0.85,
       "genre":"Misc",
       "publisher":"Sony Computer Entertainment",
       "year":2013
+   },
+   {
+      "title":"NBA ShootOut",
+      "total_sales":0.31,
+      "genre":"Sports",
+      "publisher":"Sony Computer Entertainment",
+      "year":1996
    },
    {
       "title":"Enkaku Sousa: Sana e no 23 Hiai",
@@ -56419,6 +54599,13 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"Sony Computer Entertainment America",
       "year":2013
+   },
+   {
+      "title":"Until Dawn",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Sony Computer Entertainment America",
+      "year":2014
    },
    {
       "title":"Journey",
@@ -56582,6 +54769,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Hustle Kings VR",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Sony Interactive Entertainment",
+      "year":2016
+   },
+   {
       "title":"Firewall: Zero Hour",
       "total_sales":0.37,
       "genre":"Shooter",
@@ -56687,13 +54881,6 @@ export const pb_data =
       "year":2016
    },
    {
-      "title":"Space Venus starring Morning Musume",
-      "total_sales":0.14,
-      "genre":"Misc",
-      "publisher":"Sony Music Entertainment",
-      "year":2001
-   },
-   {
       "title":"EverQuest Online Adventures: Frontiers",
       "total_sales":0.19,
       "genre":"Role-Playing",
@@ -56762,6 +54949,13 @@ export const pb_data =
       "genre":"MMO",
       "publisher":"Sony Online Entertainment",
       "year":2011
+   },
+   {
+      "title":"Vanguard: Saga of Heroes",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Sony Online Entertainment",
+      "year":2007
    },
    {
       "title":"Untold Legends: Dark Kingdom",
@@ -56848,6 +55042,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Rally Challenge 2000",
+      "total_sales":0.04,
+      "genre":"Racing",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
+   },
+   {
       "title":"Montessori Music",
       "total_sales":0.03,
       "genre":"Misc",
@@ -56876,6 +55077,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Mia Hamm Soccer 64",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
+   },
+   {
       "title":"My Baby: First Steps",
       "total_sales":0.45,
       "genre":"Simulation",
@@ -56902,6 +55110,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"SouthPeak Interactive",
       "year":2008
+   },
+   {
+      "title":"BoomBots",
+      "total_sales":0.11,
+      "genre":"Fighting",
+      "publisher":"SouthPeak Interactive",
+      "year":1999
    },
    {
       "title":"Big Bang Mini",
@@ -56946,11 +55161,32 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Fix it: Home improvement challenge",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"SouthPeak Interactive",
+      "year":2011
+   },
+   {
+      "title":"Fix It: Home Improvement Challenge",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"SouthPeak Interactive",
+      "year":2011
+   },
+   {
       "title":"Sushi Go-Round",
       "total_sales":0.09,
       "genre":"Simulation",
       "publisher":"SouthPeak Interactive",
       "year":2010
+   },
+   {
+      "title":"Big Mountain 2000",
+      "total_sales":0.03,
+      "genre":"Sports",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
    },
    {
       "title":"Crime Scene",
@@ -56965,6 +55201,27 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"SouthPeak Interactive",
       "year":2009
+   },
+   {
+      "title":"Roogoo",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"SouthPeak Interactive",
+      "year":2008
+   },
+   {
+      "title":"Fighter Destiny 2",
+      "total_sales":0.05,
+      "genre":"Fighting",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
+   },
+   {
+      "title":"The Flintstones: Bedrock Bowling",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
    },
    {
       "title":"Pirates vs Ninja Dodgeball",
@@ -56993,6 +55250,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"SouthPeak Interactive",
       "year":2008
+   },
+   {
+      "title":"The Dukes of Hazzard II: Daisy Dukes It Out",
+      "total_sales":0.3,
+      "genre":"Racing",
+      "publisher":"SouthPeak Interactive",
+      "year":2000
    },
    {
       "title":"Stronghold 3",
@@ -57044,249 +55308,39 @@ export const pb_data =
       "year":2006
    },
    {
-      "title":"Nounai Aeshe: IQ Suppli DS 2 - Sukkiri King Ketteisen",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Spike",
-      "year":2007
+      "title":"Bahamut Lagoon",
+      "total_sales":0.62,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1996
    },
    {
-      "title":"Nounai Aeshe: IQ Suppli DS",
+      "title":"Rudra no Hihou",
+      "total_sales":0.15,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1996
+   },
+   {
+      "title":"Live A Live",
+      "total_sales":0.32,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1994
+   },
+   {
+      "title":"Treasure Hunter G",
+      "total_sales":0.2,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1996
+   },
+   {
+      "title":"Ehrgeiz",
       "total_sales":0.3,
-      "genre":"Misc",
-      "publisher":"Spike",
-      "year":2006
-   },
-   {
-      "title":"Hanshin Tigers DS",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Spike",
-      "year":2008
-   },
-   {
-      "title":"Shinjuku no Ookami",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2009
-   },
-   {
-      "title":"Fushigi no Dungeon - Furai no Shiren 4 Plus: Kami no Hitomi to Akuma no Heso",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Spike",
-      "year":2012
-   },
-   {
-      "title":"Koukou Yakyuu Dou DS",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Spike",
-      "year":2009
-   },
-   {
-      "title":"Twilight Syndrome: Kinjiratera Toshi Densetsu",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Spike",
-      "year":2008
-   },
-   {
-      "title":"GachiTora! Abarenbou Kyoushi in High School",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2011
-   },
-   {
-      "title":"Kenka Banchou 2: Full Throttle",
-      "total_sales":0.09,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2007
-   },
-   {
-      "title":"Elvandia Story",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Spike",
-      "year":2007
-   },
-   {
-      "title":"Kenka Banchou Portable",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2009
-   },
-   {
-      "title":"Hokuto no Ken: Hokuto Shinken Denshousha no Michi",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2008
-   },
-   {
-      "title":"Kenka Banchou 4: Ichinen Sensou",
-      "total_sales":0.19,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2010
-   },
-   {
-      "title":"Kenshuui Tendo Dokuta",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Spike",
-      "year":2004
-   },
-   {
-      "title":"Conception: Please Give Birth to My Child!",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"Spike",
-      "year":2012
-   },
-   {
-      "title":"Gotouchi Kenkei DS",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Spike",
-      "year":2006
-   },
-   {
-      "title":"King of Colosseum (Red): Shin Nippon x Zen Nippon x Pancrase Disc",
-      "total_sales":0.12,
       "genre":"Fighting",
-      "publisher":"Spike",
-      "year":2002
-   },
-   {
-      "title":"Fushigi no Dungeon: Fuurai no Shiren 4 - Kami no Hitomi to Akuma no Heso",
-      "total_sales":0.13,
-      "genre":"Role-Playing",
-      "publisher":"Spike",
-      "year":2010
-   },
-   {
-      "title":"Kenka Banchou 5: Otoko no Housoku",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2011
-   },
-   {
-      "title":"Fushigi no Dungeon: Fuurai no Shiren 3 Portable",
-      "total_sales":0.05,
-      "genre":"Role-Playing",
-      "publisher":"Spike",
-      "year":2010
-   },
-   {
-      "title":"Samurai Dou Portable",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2008
-   },
-   {
-      "title":"Kenka Bancho Bros: Tokyo Battle Royale",
-      "total_sales":0.1,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2012
-   },
-   {
-      "title":"Way of the Samurai 2 Portable",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Spike",
-      "year":2009
-   },
-   {
-      "title":"Kenka Bancho Otome: Kanzenmuketsu no My Honey",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Spike Chunsoft",
-      "year":2017
-   },
-   {
-      "title":"Fushigi no Chronicle: Furikaerimasen Katsu Madewa",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Spike Chunsoft",
-      "year":2015
-   },
-   {
-      "title":"Attack on Titan 2: Future Coordinates",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Spike Chunsoft",
-      "year":2017
-   },
-   {
-      "title":"Fire Pro Wrestling World",
-      "total_sales":0.12,
-      "genre":"Fighting",
-      "publisher":"Spike Chunsoft",
-      "year":2018
-   },
-   {
-      "title":"Attack on Titan: The Last Wings of Mankind",
-      "total_sales":0.45,
-      "genre":"Action",
-      "publisher":"Spike Chunsoft",
-      "year":2013
-   },
-   {
-      "title":"Kenka Banchou 6: Soul & Blood",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"Spike Chunsoft",
-      "year":2015
-   },
-   {
-      "title":"Crystar",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Spike Chunsoft",
-      "year":2019
-   },
-   {
-      "title":"Ukiyo no Roushi",
-      "total_sales":0.03,
-      "genre":"Action-Adventure",
-      "publisher":"Spike Chunsoft",
-      "year":2015
-   },
-   {
-      "title":"Zanki Zero: Last Beginning",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Spike Chunsoft",
-      "year":2018
-   },
-   {
-      "title":"Kenka Bancho Otome",
-      "total_sales":0.04,
-      "genre":"Visual Novel",
-      "publisher":"Spike Chunsoft",
-      "year":2016
-   },
-   {
-      "title":"428: Shibuya Scramble",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Spike Chunsoft",
-      "year":2018
-   },
-   {
-      "title":"Aokana: Four Rhythm Across the Blue",
-      "total_sales":0.08,
-      "genre":"Visual Novel",
-      "publisher":"Sprite",
-      "year":2016
+      "publisher":"Square",
+      "year":1999
    },
    {
       "title":"World Fantasista",
@@ -57296,11 +55350,67 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Final Fantasy",
+      "total_sales":0.51,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":2000
+   },
+   {
+      "title":"Final Fantasy Adventure",
+      "total_sales":0.38,
+      "genre":"Adventure",
+      "publisher":"Square",
+      "year":1991
+   },
+   {
+      "title":"All Star Pro-Wrestling",
+      "total_sales":0.2,
+      "genre":"Fighting",
+      "publisher":"Square",
+      "year":2000
+   },
+   {
+      "title":"Gekikuukan Pro Yakyuu: At the End of the Century 1999",
+      "total_sales":0.54,
+      "genre":"Sports",
+      "publisher":"Square",
+      "year":2000
+   },
+   {
       "title":"Final Fantasy Chronicles",
       "total_sales":0.52,
       "genre":"Role-Playing",
       "publisher":"Square",
       "year":2001
+   },
+   {
+      "title":"Final Fantasy Collection",
+      "total_sales":0.45,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1999
+   },
+   {
+      "title":"Racing Lagoon - High Speed Driving RPG",
+      "total_sales":0.16,
+      "genre":"Racing",
+      "publisher":"Square",
+      "year":1999
+   },
+   {
+      "title":"Seiken Densetsu 3",
+      "total_sales":0.89,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1995
+   },
+   {
+      "title":"Tobal 2",
+      "total_sales":0.37,
+      "genre":"Fighting",
+      "publisher":"Square",
+      "year":1997
    },
    {
       "title":"Kingdom Hearts: Final Mix",
@@ -57310,11 +55420,53 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Final Fantasy II",
+      "total_sales":1.01,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1988
+   },
+   {
+      "title":"Final Fantasy I & II",
+      "total_sales":0.11,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1994
+   },
+   {
       "title":"Nichibeikan Pro Yakyuu: Final League",
       "total_sales":0.07,
       "genre":"Sports",
       "publisher":"Square",
       "year":2002
+   },
+   {
+      "title":"Brave Fencer Musashi",
+      "total_sales":1.14,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1998
+   },
+   {
+      "title":"Final Fantasy VII International",
+      "total_sales":0.63,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1997
+   },
+   {
+      "title":"Final Fantasy Legend III",
+      "total_sales":0.76,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1993
+   },
+   {
+      "title":"Front Mission Alternative",
+      "total_sales":0.14,
+      "genre":"Strategy",
+      "publisher":"Square",
+      "year":1997
    },
    {
       "title":"Driving Emotion Type-S",
@@ -57324,11 +55476,74 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Front Mission: Gun Hazard",
+      "total_sales":0.24,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1996
+   },
+   {
+      "title":"Soukaigi",
+      "total_sales":0.14,
+      "genre":"Role-Playing",
+      "publisher":"Square",
+      "year":1998
+   },
+   {
       "title":"The Bouncer",
       "total_sales":0.99,
       "genre":"Action",
       "publisher":"Square",
       "year":2001
+   },
+   {
+      "title":"Vagrant Story",
+      "total_sales":0.87,
+      "genre":"Role-Playing",
+      "publisher":"Square EA",
+      "year":2000
+   },
+   {
+      "title":"SaGa Frontier 2",
+      "total_sales":0.94,
+      "genre":"Role-Playing",
+      "publisher":"Square EA",
+      "year":2000
+   },
+   {
+      "title":"Threads of Fate",
+      "total_sales":0.21,
+      "genre":"Role-Playing",
+      "publisher":"Square EA",
+      "year":2000
+   },
+   {
+      "title":"Final Fantasy Anthology",
+      "total_sales":0.8,
+      "genre":"Role-Playing",
+      "publisher":"Square EA",
+      "year":1999
+   },
+   {
+      "title":"Chocobo Racing",
+      "total_sales":0.44,
+      "genre":"Racing",
+      "publisher":"Square EA",
+      "year":1999
+   },
+   {
+      "title":"Chocobo's Dungeon 2",
+      "total_sales":0.7,
+      "genre":"Role-Playing",
+      "publisher":"Square EA",
+      "year":1999
+   },
+   {
+      "title":"Bushido Blade 2",
+      "total_sales":0.68,
+      "genre":"Fighting",
+      "publisher":"Square EA",
+      "year":1998
    },
    {
       "title":"The Tomb Raider Trilogy",
@@ -57385,6 +55600,13 @@ export const pb_data =
       "genre":"MMO",
       "publisher":"Square Enix",
       "year":2015
+   },
+   {
+      "title":"Snoopy DS: Snoopy to Nakama Tachi ni Ai ni Ikou!",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Square Enix",
+      "year":2008
    },
    {
       "title":"Final Fantasy XIV: A Realm Reborn",
@@ -57583,6 +55805,13 @@ export const pb_data =
       "year":2014
    },
    {
+      "title":"Pingu no Waku Waku Carnival!",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Square Enix",
+      "year":2008
+   },
+   {
       "title":"Final Fantasy Type-0 HD",
       "total_sales":0.3,
       "genre":"Role-Playing",
@@ -57714,6 +55943,13 @@ export const pb_data =
       "genre":"Role-Playing",
       "publisher":"Square Enix",
       "year":2006
+   },
+   {
+      "title":"Final Fantasy XI: The Vana'diel Collection",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Square Enix",
+      "year":2007
    },
    {
       "title":"Just Cause 3",
@@ -58010,6 +56246,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Kingdom Hearts HD I.5 + II.5 ReMIX",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Square Enix",
+      "year":2017
+   },
+   {
       "title":"Pony Friends 2",
       "total_sales":0.41,
       "genre":"Simulation",
@@ -58029,6 +56272,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Square Enix",
       "year":2008
+   },
+   {
+      "title":"Space Bust-A-Move (JP sales)",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Square Enix",
+      "year":2009
    },
    {
       "title":"Space Bust-A-Move",
@@ -58234,536 +56484,11 @@ export const pb_data =
       "year":2008
    },
    {
-      "title":"Final Fantasy IV",
-      "total_sales":0.31,
+      "title":"Chocobo to Mahou no Ehon: Special Package",
+      "total_sales":0.0,
       "genre":"Role-Playing",
-      "publisher":"SquareSoft",
-      "year":2001
-   },
-   {
-      "title":"Carmageddon: Max Damage",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Stainless Games",
-      "year":2016
-   },
-   {
-      "title":"Sins of a Solar Empire: Trinity",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Stardock",
-      "year":2010
-   },
-   {
-      "title":"Elminage II DS Remix: Sousei no Megami to Unmai no Daichi",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Starfish",
-      "year":2010
-   },
-   {
-      "title":"Elminage II: Sousei no Megami to Unmei no Daichi",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Starfish",
-      "year":2009
-   },
-   {
-      "title":"Elminage Original: Majo to Megami to Kamigami no Yubiwa",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Starfish",
-      "year":2011
-   },
-   {
-      "title":"Elminage III: Ankoku no Shito to Yaiyou no Kyuuden",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Starfish",
-      "year":2011
-   },
-   {
-      "title":"Elminage Gothic: Ulm Zakir to Yami no Gishiki",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Starfish",
-      "year":2012
-   },
-   {
-      "title":"Knights in the Nightmare: DHE Series Special Pack",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Sting",
+      "publisher":"Square Enix",
       "year":2008
-   },
-   {
-      "title":"Blaze Union: Story to Reach the Future",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Sting",
-      "year":2010
-   },
-   {
-      "title":"System Flaw",
-      "total_sales":0.1,
-      "genre":"Shooter",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Hands On! Tangrams",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Honda ATV Fever",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"The Island of Dr. Frankenstein",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Bermuda Triangle: Saving the Coral",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Foto Frenzy: Spot The Diffrence",
-      "total_sales":0.31,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Heathcliff! The Fast and the Furriest",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"I Spy: Spooky Mansion",
-      "total_sales":0.3,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Jewel Master: Cradle of Athena",
-      "total_sales":0.18,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Vegas Party",
-      "total_sales":0.16,
-      "genre":"Misc",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Heathcliff! Frantic Foto",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Once Upon A Time",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Gummy Bears Magical Medallion",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Storm City Games",
-      "year":2011
-   },
-   {
-      "title":"ATV Quad Kings",
-      "total_sales":0.33,
-      "genre":"Racing",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Monkey Madness: Island Escape",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Chevrolet Camaro: Wild Ride",
-      "total_sales":0.08,
-      "genre":"Racing",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Jewel Master Egypt",
-      "total_sales":0.53,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2009
-   },
-   {
-      "title":"Gummy Bears Mini Golf",
-      "total_sales":0.09,
-      "genre":"Sports",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Alpha and Omega",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Family GameShow",
-      "total_sales":0.09,
-      "genre":"Misc",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Gem Quest: 4 Elements",
-      "total_sales":0.11,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2011
-   },
-   {
-      "title":"Beastly",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"Storm City Games",
-      "year":2011
-   },
-   {
-      "title":"Beastly Frantic Foto",
-      "total_sales":0.05,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2011
-   },
-   {
-      "title":"Treasure Chase",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Storm City Games",
-      "year":2011
-   },
-   {
-      "title":"T.A.C. Heroes : Big Red One",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Storm City Games",
-      "year":2010
-   },
-   {
-      "title":"Sacred Gold",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Strategy First",
-      "year":2006
-   },
-   {
-      "title":"BC Kings",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Strategy First",
-      "year":2008
-   },
-   {
-      "title":"Cossacks: European Wars",
-      "total_sales":0.03,
-      "genre":"Strategy",
-      "publisher":"Strategy First",
-      "year":2001
-   },
-   {
-      "title":"Dangerous Waters",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Strategy First",
-      "year":2006
-   },
-   {
-      "title":"Jack Keane",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Strategy First",
-      "year":2008
-   },
-   {
-      "title":"FlatOut 4: Total Insanity",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Strategy First",
-      "year":2017
-   },
-   {
-      "title":"ARK: Survival Evolved",
-      "total_sales":0.08,
-      "genre":"Action-Adventure",
-      "publisher":"Studio Wildcard",
-      "year":2018
-   },
-   {
-      "title":"Aoishiro",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Success",
-      "year":2008
-   },
-   {
-      "title":"Nihon Pro Mahjong Kishikai Kanshuu: Pro Ni Naru Mahjong DS",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Success",
-      "year":2005
-   },
-   {
-      "title":"Touch Detective 3: Does Funghi Dream of Bananas?",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Success",
-      "year":2014
-   },
-   {
-      "title":"Touch Detective Funghi Rhythm",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Success",
-      "year":2014
-   },
-   {
-      "title":"Tactical Guild",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"Success",
-      "year":2008
-   },
-   {
-      "title":"Konohana 2: Todoke Kanai Requiem",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Success",
-      "year":2002
-   },
-   {
-      "title":"Touch Detective: Nameko Shigeru",
-      "total_sales":0.07,
-      "genre":"Puzzle",
-      "publisher":"Success",
-      "year":2013
-   },
-   {
-      "title":"Metal Saga: Hagane no Kisetsu",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Success",
-      "year":2006
-   },
-   {
-      "title":"Crushed Baseball",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Summitsoft",
-      "year":2004
-   },
-   {
-      "title":"Blades of Thunder II",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Summitsoft",
-      "year":2006
-   },
-   {
-      "title":"Shinseiki GPX Cyber Formula: Road To The INFINITY 4",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Sunrise Interactive",
-      "year":2007
-   },
-   {
-      "title":"Shinseiki GPX Cyber Formula VS",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Sunrise Interactive",
-      "year":2008
-   },
-   {
-      "title":"Mai-Otome Hime: Otome Butou Shi",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Sunrise Interactive",
-      "year":2006
-   },
-   {
-      "title":"Clear: Atarashii Kaze no Fuku Oka de",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Sweets",
-      "year":2009
-   },
-   {
-      "title":"Gift: Prism",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Sweets",
-      "year":2006
-   },
-   {
-      "title":"D.C.I.F.: Da Capo Innocent Finale",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Sweets",
-      "year":2009
-   },
-   {
-      "title":"Super Putty Squad",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"System 3",
-      "year":2017
-   },
-   {
-      "title":"SuperCar Challenge",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"System 3 Arcade Software",
-      "year":2009
-   },
-   {
-      "title":"Ferrari Challenge Trofeo Pirelli Deluxe",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"System 3 Arcade Software",
-      "year":2009
-   },
-   {
-      "title":"Sengoku Hime 2 Arashi: Hyakubana Senran Tatsukaze no Gotoku",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"System Soft",
-      "year":2010
-   },
-   {
-      "title":"Daisenryaku: Dai Toua Kouboushi - Tora Tora Tora Ware Kishuu Ni Seikou Seri",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"System Soft",
-      "year":2008
-   },
-   {
-      "title":"Sengoku Hime 2 Honoo: Hyakubana, Senran Tatsukaze no Gotoku",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"System Soft",
-      "year":2010
-   },
-   {
-      "title":"Moe Moe 2-Ji Daisenryaku 2",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"System Soft",
-      "year":2010
-   },
-   {
-      "title":"Moe Moe 2-ji Taisen (Ryoku) * Deluxe",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"System Soft",
-      "year":2008
-   },
-   {
-      "title":"Shutsugeki! Otometachi no Senjou 2: Ikusabana no Kizuna",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"System Soft",
-      "year":2011
-   },
-   {
-      "title":"Sengoku Hime 7: Sen'un Tsuranuku Guren no Ishi",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"System Soft Alpha",
-      "year":2018
-   },
-   {
-      "title":"Moe Moe 2-ji Daisenryaku 3",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"System Soft Alpha",
-      "year":2017
-   },
-   {
-      "title":"Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"System Soft Alpha",
-      "year":2012
-   },
-   {
-      "title":"Sengoku Hime: Senkou no Taika - Akatsuki no Haryuu",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"SystemSoft Alpha",
-      "year":2012
-   },
-   {
-      "title":"Sangoku Hime 4: Tenka Ryouran - Tenmei no Koi Emaki",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"SystemSoft Alpha",
-      "year":2016
-   },
-   {
-      "title":"Minna no DS Seminar: Kanpeki Kanji Ryoku",
-      "total_sales":0.16,
-      "genre":"Misc",
-      "publisher":"TDK Core",
-      "year":2006
-   },
-   {
-      "title":"Minna no DS Seminar: Kanpeki Eitango Ryoku",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"TDK Core",
-      "year":2006
-   },
-   {
-      "title":"Dinotopia: The Timestone Pirates",
-      "total_sales":0.19,
-      "genre":"Action",
-      "publisher":"TDK Core",
-      "year":2002
-   },
-   {
-      "title":"Mame Goma: Honobo no Nikki",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"TDK Core",
-      "year":2007
    },
    {
       "title":"Star Trek: Shattered Universe",
@@ -58948,34 +56673,6 @@ export const pb_data =
       "year":2003
    },
    {
-      "title":"Kono Aozora ni Yakusoku o: Tenohira no Rakuen",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"TGL",
-      "year":2009
-   },
-   {
-      "title":"Renai Revenge",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"TGL",
-      "year":2015
-   },
-   {
-      "title":"Kisuato",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"TGL",
-      "year":2015
-   },
-   {
-      "title":"Parfait",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"TGL",
-      "year":2015
-   },
-   {
       "title":"Bratz: Girlz Really Rock",
       "total_sales":0.76,
       "genre":"Action",
@@ -58995,6 +56692,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"THQ",
       "year":2002
+   },
+   {
+      "title":"Brunswick Circuit Pro Bowling",
+      "total_sales":0.24,
+      "genre":"Sports",
+      "publisher":"THQ",
+      "year":1998
    },
    {
       "title":"uDraw Studio",
@@ -59018,6 +56722,13 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Titan Quest: Immortal Throne",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"THQ",
+      "year":2007
+   },
+   {
       "title":"Jimmy Neutron: Boy Genius",
       "total_sales":0.92,
       "genre":"Platform",
@@ -59030,6 +56741,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"THQ",
       "year":2006
+   },
+   {
+      "title":"Quest 64",
+      "total_sales":0.47,
+      "genre":"Role-Playing",
+      "publisher":"THQ",
+      "year":1998
    },
    {
       "title":"Rugrats: I Gotta Go Party",
@@ -59058,6 +56776,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"THQ",
       "year":2003
+   },
+   {
+      "title":"Nuclear Strike 64",
+      "total_sales":0.11,
+      "genre":"Simulation",
+      "publisher":"THQ",
+      "year":1999
    },
    {
       "title":"Frontlines: Fuel of War",
@@ -59123,6 +56848,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Rugrats: Scavenger Hunt",
+      "total_sales":0.51,
+      "genre":"Misc",
+      "publisher":"THQ",
+      "year":1999
+   },
+   {
       "title":"Toxic Grind",
       "total_sales":0.02,
       "genre":"Sports",
@@ -59144,6 +56876,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"The Granstream Saga",
+      "total_sales":0.14,
+      "genre":"Role-Playing",
+      "publisher":"THQ",
+      "year":1998
+   },
+   {
       "title":"2 Games in 1: Sonic Advance & ChuChu Rocket!",
       "total_sales":1.83,
       "genre":"Misc",
@@ -59156,6 +56895,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"THQ",
       "year":2011
+   },
+   {
+      "title":"Brunswick Circuit Pro Bowling 2",
+      "total_sales":0.11,
+      "genre":"Sports",
+      "publisher":"THQ",
+      "year":2000
    },
    {
       "title":"Full Spectrum Warrior",
@@ -59177,6 +56923,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"THQ",
       "year":2005
+   },
+   {
+      "title":"Tiny Token Empires",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"THQ",
+      "year":2011
    },
    {
       "title":"Zoo Tycoon 2 DS",
@@ -59212,6 +56965,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"THQ",
       "year":2011
+   },
+   {
+      "title":"Bravo Air Race",
+      "total_sales":0.14,
+      "genre":"Racing",
+      "publisher":"THQ",
+      "year":1997
    },
    {
       "title":"de Blob 2",
@@ -59324,6 +57084,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"THQ",
       "year":2002
+   },
+   {
+      "title":"Championship Motocross featuring Ricky Carmichael",
+      "total_sales":0.58,
+      "genre":"Racing",
+      "publisher":"THQ",
+      "year":1999
    },
    {
       "title":"Bratz 4 Real",
@@ -59543,6 +57310,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Ray Tracers",
+      "total_sales":0.06,
+      "genre":"Racing",
+      "publisher":"THQ",
+      "year":1997
+   },
+   {
       "title":"Monster Truck Madness",
       "total_sales":0.12,
       "genre":"Racing",
@@ -59739,6 +57513,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Ghost in the Shell",
+      "total_sales":0.1,
+      "genre":"Simulation",
+      "publisher":"THQ",
+      "year":1997
+   },
+   {
       "title":"Marvel Super Hero Squad: The Infinity Gauntlet",
       "total_sales":0.91,
       "genre":"Action",
@@ -59858,6 +57639,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"G Darius",
+      "total_sales":0.07,
+      "genre":"Shooter",
+      "publisher":"THQ",
+      "year":1998
+   },
+   {
       "title":"Sega Smash Pack",
       "total_sales":0.32,
       "genre":"Misc",
@@ -59926,6 +57714,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"THQ",
       "year":2010
+   },
+   {
+      "title":"Saban's Power Rangers: Lightspeed Rescue",
+      "total_sales":0.71,
+      "genre":"Action",
+      "publisher":"THQ",
+      "year":2000
    },
    {
       "title":"SpongeBob's Truth or Square",
@@ -60054,6 +57849,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Evil Dead: Hail to the King",
+      "total_sales":0.27,
+      "genre":"Adventure",
+      "publisher":"THQ",
+      "year":2000
+   },
+   {
       "title":"Evil Dead: Fistfull of Boomstick",
       "total_sales":0.48,
       "genre":"Action",
@@ -60150,6 +57952,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"THQ",
       "year":2011
+   },
+   {
+      "title":"Battle of the Bands",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"THQ",
+      "year":2008
    },
    {
       "title":"WWE SmackDown! vs. Raw",
@@ -60285,6 +58094,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Unfabulous",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"THQ",
+      "year":2006
+   },
+   {
       "title":"WWE All Stars",
       "total_sales":1.47,
       "genre":"Action",
@@ -60355,6 +58171,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"WWF SmackDown! 2: Know Your Role",
+      "total_sales":3.2,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":2000
+   },
+   {
       "title":"Big Family Games",
       "total_sales":0.23,
       "genre":"Misc",
@@ -60367,6 +58190,20 @@ export const pb_data =
       "genre":"Sports",
       "publisher":"THQ",
       "year":2009
+   },
+   {
+      "title":"Rugrats Studio Tour",
+      "total_sales":1.31,
+      "genre":"Adventure",
+      "publisher":"THQ",
+      "year":1999
+   },
+   {
+      "title":"WCW vs the World",
+      "total_sales":1.46,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":1998
    },
    {
       "title":"Blue's Clues: Blue's Big Musical",
@@ -60453,6 +58290,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"WCW vs. nWo: World Tour",
+      "total_sales":1.69,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":1997
+   },
+   {
+      "title":"Robo Pit",
+      "total_sales":0.03,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":1996
+   },
+   {
       "title":"Paws & Claws: Regal Resort",
       "total_sales":0.04,
       "genre":"Simulation",
@@ -60467,6 +58318,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"WCW\/nWo Revenge",
+      "total_sales":2.38,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":1998
+   },
+   {
       "title":"Paws & Claws: Pampered Pets",
       "total_sales":0.38,
       "genre":"Simulation",
@@ -60479,6 +58337,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"THQ",
       "year":2005
+   },
+   {
+      "title":"Warhammer 40,000: Dawn of War - Dark Crusade",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"THQ",
+      "year":2006
    },
    {
       "title":"Disney's Brother Bear",
@@ -60628,6 +58493,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"WWF No Mercy",
+      "total_sales":1.5,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":2000
+   },
+   {
       "title":"Rocket Power: Dream Scheme",
       "total_sales":0.4,
       "genre":"Action",
@@ -60640,6 +58512,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"THQ",
       "year":2002
+   },
+   {
+      "title":"WWF SmackDown!",
+      "total_sales":3.58,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":2000
    },
    {
       "title":"Back At The Barnyard: Slop Bucket Games",
@@ -60682,6 +58561,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"THQ",
       "year":2007
+   },
+   {
+      "title":"WWE Raw",
+      "total_sales":0.0,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":2002
    },
    {
       "title":"WWE Raw 2",
@@ -60873,6 +58759,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Drawn to Life (JP sales)",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"THQ",
+      "year":2007
+   },
+   {
       "title":"Scooby-Doo and the Cyber Chase",
       "total_sales":0.41,
       "genre":"Adventure",
@@ -60971,6 +58864,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"WCW Nitro",
+      "total_sales":2.09,
+      "genre":"Fighting",
+      "publisher":"THQ",
+      "year":1998
+   },
+   {
       "title":"Are You Smarter than a 5th Grader?",
       "total_sales":0.53,
       "genre":"Misc",
@@ -61062,11 +58962,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Scooby-Doo! Classic Creep Capers",
+      "total_sales":0.37,
+      "genre":"Action",
+      "publisher":"THQ",
+      "year":2000
+   },
+   {
       "title":"My Farm Around the World",
       "total_sales":0.12,
       "genre":"Simulation",
       "publisher":"THQ",
       "year":2009
+   },
+   {
+      "title":"My Little Pony Crystal Princess: Runaway Rainbow",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"THQ",
+      "year":2006
    },
    {
       "title":"My Little Pony: Pinkie Pie's Party",
@@ -61123,6 +59037,13 @@ export const pb_data =
       "genre":"Puzzle",
       "publisher":"THQ",
       "year":2008
+   },
+   {
+      "title":"Road Rash 64",
+      "total_sales":0.24,
+      "genre":"Racing",
+      "publisher":"THQ",
+      "year":1999
    },
    {
       "title":"The Fairly Odd Parents: Enter the Cleft",
@@ -61251,6 +59172,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"In the Hunt",
+      "total_sales":0.14,
+      "genre":"Shooter",
+      "publisher":"THQ",
+      "year":1996
+   },
+   {
       "title":"Hot Wheels: Stunt Track Challenge",
       "total_sales":1.14,
       "genre":"Racing",
@@ -61286,11 +59214,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Bassmasters 2000",
+      "total_sales":0.14,
+      "genre":"Sports",
+      "publisher":"THQ",
+      "year":1999
+   },
+   {
       "title":"Bass Strike",
       "total_sales":0.28,
       "genre":"Sports",
       "publisher":"THQ",
       "year":2001
+   },
+   {
+      "title":"Devil Dice",
+      "total_sales":1.26,
+      "genre":"Puzzle",
+      "publisher":"THQ",
+      "year":1998
    },
    {
       "title":"Hot Wheels: World Race",
@@ -61328,11 +59270,25 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Destruction Derby 64",
+      "total_sales":0.16,
+      "genre":"Racing",
+      "publisher":"THQ",
+      "year":1999
+   },
+   {
       "title":"Destroy All Humans! Path of the Furon",
       "total_sales":0.22,
       "genre":"Action",
       "publisher":"THQ",
       "year":2008
+   },
+   {
+      "title":"Rugrats in Paris: The Movie",
+      "total_sales":4.02,
+      "genre":"Action",
+      "publisher":"THQ",
+      "year":2000
    },
    {
       "title":"Summoner 2",
@@ -61354,6 +59310,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"THQ",
       "year":2004
+   },
+   {
+      "title":"Summoner",
+      "total_sales":0.51,
+      "genre":"Role-Playing",
+      "publisher":"THQ",
+      "year":2000
    },
    {
       "title":"Homefront",
@@ -61412,6 +59375,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"MTV Sports: Pure Ride",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"THQ",
+      "year":2000
+   },
+   {
       "title":"Dood's Big Adventure",
       "total_sales":0.25,
       "genre":"Platform",
@@ -61440,557 +59410,25 @@ export const pb_data =
       "year":2008
    },
    {
-      "title":"Darksiders III",
-      "total_sales":0.38,
-      "genre":"Action",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"Darksiders: Warmastered Edition",
-      "total_sales":0.18,
-      "genre":"Action-Adventure",
-      "publisher":"THQ Nordic",
-      "year":2016
-   },
-   {
-      "title":"Baja: Edge of Control HD",
-      "total_sales":0.08,
-      "genre":"Racing",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"We Sing (2016)",
-      "total_sales":0.03,
-      "genre":"Music",
-      "publisher":"THQ Nordic",
-      "year":2016
-   },
-   {
-      "title":"The Raven Remastered",
-      "total_sales":0.06,
-      "genre":"Adventure",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"8 to Glory: The Official Game of the PBR",
-      "total_sales":0.06,
-      "genre":"Sports",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"Titan Quest",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"Giana Sisters: Twisted Dreams",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"MX vs ATV Supercross Encore 2017 Track Edition",
-      "total_sales":0.12,
-      "genre":"Racing",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"MX vs ATV All Out",
-      "total_sales":0.2,
-      "genre":"Racing",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"Black Mirror",
-      "total_sales":0.08,
-      "genre":"Adventure",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"Rad Rodgers",
-      "total_sales":0.04,
-      "genre":"Platform",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"The Dwarves",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"THQ Nordic",
-      "year":2016
-   },
-   {
-      "title":"This Is the Police 2",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"Jagged Alliance: Rage!",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"The Town of Light",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"Battle Chasers: Nightwar",
-      "total_sales":0.15,
-      "genre":"Role-Playing",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"Red Faction: Guerrilla Re-Mars-tered",
-      "total_sales":0.14,
-      "genre":"Shooter",
-      "publisher":"THQ Nordic",
-      "year":2018
-   },
-   {
-      "title":"theHunter: Call of the Wild",
-      "total_sales":0.45,
-      "genre":"Shooter",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"This Is The Police",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"Sine Mora EX",
-      "total_sales":0.14,
-      "genre":"Action",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"Elex",
-      "total_sales":0.27,
-      "genre":"Role-Playing",
-      "publisher":"THQ Nordic",
-      "year":2017
-   },
-   {
-      "title":"My Riding Stables: Life with Horses",
-      "total_sales":0.09,
-      "genre":"Simulation",
-      "publisher":"TREVA Entertainment",
-      "year":2018
-   },
-   {
-      "title":"My Pet Shop (JP sales)",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2009
-   },
-   {
-      "title":"My Pet Shop",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2009
-   },
-   {
-      "title":"Space Invaders Extreme 2",
-      "total_sales":0.19,
-      "genre":"Shooter",
-      "publisher":"Taito",
-      "year":2009
-   },
-   {
-      "title":"Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2007
-   },
-   {
-      "title":"Pet Shop Monogatari DS 2",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2010
-   },
-   {
-      "title":"The Legend of Kage 2",
-      "total_sales":0.08,
-      "genre":"Action",
-      "publisher":"Taito",
-      "year":2008
-   },
-   {
-      "title":"Exit DS",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"Taito",
-      "year":2008
-   },
-   {
-      "title":"Akko ni Omakase! Brain Shock",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Taito",
-      "year":2006
-   },
-   {
-      "title":"Rozen Maiden: Gebetgarten",
-      "total_sales":0.01,
-      "genre":"Fighting",
-      "publisher":"Taito",
-      "year":2007
-   },
-   {
-      "title":"Tetsudou Seminar: Oote Shitetsuhen",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2009
-   },
-   {
-      "title":"Densha De Go! 3 Tsuukinhen",
-      "total_sales":0.06,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2001
-   },
-   {
-      "title":"Rozen Maiden: Duellwalzer",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Taito",
-      "year":2006
-   },
-   {
-      "title":"Minna no Conveni",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"Taito",
-      "year":2010
-   },
-   {
-      "title":"Kikou Heidan J-Phoenix",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Takara",
-      "year":2001
-   },
-   {
-      "title":"Kikou Heidan J-Phoenix 2",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Takara",
-      "year":2003
-   },
-   {
-      "title":"Kikou Heidan J-Phoenix: Cobalt Shoutaihen",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Takara",
-      "year":2002
-   },
-   {
-      "title":"EX Monopoly",
-      "total_sales":0.22,
-      "genre":"Misc",
-      "publisher":"Takara",
-      "year":2001
-   },
-   {
-      "title":"Tokyo Mew Mew",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Takara",
-      "year":2002
-   },
-   {
-      "title":"Jinsei Game Q DS: Shouwa no Dekigoto",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Jinsei Game Wii",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Naruto Shippuuden: Dairansen! Kage Bunsen Emaki",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450!",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2015
-   },
-   {
-      "title":"Metal Fight Beyblade Portable: Chouzetsu Tensei Vulcan Horses",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2010
-   },
-   {
-      "title":"Naruto Shippuuden: Gekitou Ninja Taisen! EX 2",
-      "total_sales":0.09,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Major Dream: Major Wii Nagero! Gyroball!!",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Naruto Shippuuden: Shinobi Retsuden III",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2009
-   },
-   {
-      "title":"Naruto Shippuuden: Gekitou Ninja Taisen! EX 3",
-      "total_sales":0.07,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Naruto Shippuden: Clash of Ninja Revolution III",
-      "total_sales":0.51,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2009
-   },
-   {
-      "title":"Naruto Shippuden: Shinobi Rumble!!",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2011
-   },
-   {
-      "title":"Major Dream: Major DS Dream Baseball",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Naruto Shippuden: Gekitou Ninja Taisen Special",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2010
-   },
-   {
-      "title":"PriPara Mezameyo! Megami no Dress Design",
-      "total_sales":0.07,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2016
-   },
-   {
-      "title":"PriPara Mezase! Idol Grand Prix No.1!",
-      "total_sales":0.13,
-      "genre":"Music",
-      "publisher":"Takara Tomy",
-      "year":2015
-   },
-   {
-      "title":"Naruto Shippuuden: Gekitou Ninja Taisen! EX",
-      "total_sales":0.1,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Flame Rumble Mukuro Kyoushuu",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Ore ga Boss! Saikyou Family Taisen",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2009
-   },
-   {
-      "title":"Nano Diver",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2011
-   },
-   {
-      "title":"Yattaman Wii: BikkuriDokkiri Machine de Mou Race da Koron",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Yattaman DS: BikkuriDokkiri Daisakusen da Koron",
-      "total_sales":0.12,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Yattaman DS 2: BikkuriDokkiri Animal Daibouken",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Idol Time PriPara: Yume All-Star Live!",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Takara Tomy",
-      "year":2017
-   },
-   {
-      "title":"Pretty Rhythm: My Deco Rainbow Wedding",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Takara Tomy",
-      "year":2013
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Shinuki Max! Vongola Carnival!!",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Fate of Heat - Hono no Unmei",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Moyashimon DS",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2009
-   },
-   {
-      "title":"Naruto RPG 3: Rejiuu vs Konoha Shoutai",
-      "total_sales":0.09,
-      "genre":"Role-Playing",
-      "publisher":"Takara Tomy",
-      "year":2006
-   },
-   {
-      "title":"Pretty Rhythm Rainbow Live: Kira Kira My * Design",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"Takara Tomy",
-      "year":2013
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Bongole Shiki Taisen Battle Sugoroku",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Penny Racers Party: Turbo-Q Speedway",
-      "total_sales":0.08,
-      "genre":"Racing",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS Flame Rumble XX - Kessen! Shin 6 Chouka",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2010
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS Flame Rumble X - Mirai Chou-Bakuhatsu!!",
-      "total_sales":0.06,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2009
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Flame Rumble Kaien Ring Soudatsuen!",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2007
-   },
-   {
-      "title":"Yuu Yuu Hakusho DS: Ankoku Bujutsukai Hen",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2006
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai",
-      "total_sales":0.08,
-      "genre":"Fighting",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
-      "title":"Katekyoo Hitman Reborn! DS: Mafia Daishuugou Bongole Festival",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"Takara Tomy",
-      "year":2008
-   },
-   {
       "title":"Pipe Dreams 3D",
       "total_sales":0.14,
       "genre":"Puzzle",
       "publisher":"Take-Two Interactive",
       "year":2001
+   },
+   {
+      "title":"Fritz Chess: The Ultimate Chess Game",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Take-Two Interactive",
+      "year":2007
+   },
+   {
+      "title":"Time of Shadows",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Take-Two Interactive",
+      "year":2009
    },
    {
       "title":"Sudoku Fever",
@@ -62021,6 +59459,48 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Grudge Warriors",
+      "total_sales":0.41,
+      "genre":"Action",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
+      "title":"Serious Sam: The Second Encounter",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Take-Two Interactive",
+      "year":2002
+   },
+   {
+      "title":"Tang Tang",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Take-Two Interactive",
+      "year":2001
+   },
+   {
+      "title":"Q-Ball: Billiards Master",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
+      "title":"Bass Hunter 64",
+      "total_sales":0.31,
+      "genre":"Sports",
+      "publisher":"Take-Two Interactive",
+      "year":1999
+   },
+   {
+      "title":"Lemmings Revolution",
+      "total_sales":0.01,
+      "genre":"Puzzle",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
       "title":"Rune: Viking Warlord",
       "total_sales":0.26,
       "genre":"Action",
@@ -62035,11 +59515,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Monkey Hero",
+      "total_sales":0.08,
+      "genre":"Action",
+      "publisher":"Take-Two Interactive",
+      "year":1999
+   },
+   {
       "title":"Splat Renegade Paintball",
       "total_sales":0.06,
       "genre":"Sports",
       "publisher":"Take-Two Interactive",
       "year":2005
+   },
+   {
+      "title":"Action Bass",
+      "total_sales":1.14,
+      "genre":"Action",
+      "publisher":"Take-Two Interactive",
+      "year":2000
    },
    {
       "title":"Saltwater Sportfishing",
@@ -62049,11 +59543,39 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Alexi Lalas International Soccer",
+      "total_sales":0.07,
+      "genre":"Sports",
+      "publisher":"Take-Two Interactive",
+      "year":1999
+   },
+   {
+      "title":"AGEOD's American Civil War: 1861-1865 - The Blue and the Gray",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Take-Two Interactive",
+      "year":2008
+   },
+   {
+      "title":"Speedball 2100",
+      "total_sales":0.18,
+      "genre":"Sports",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
       "title":"City Crisis",
       "total_sales":0.13,
       "genre":"Simulation",
       "publisher":"Take-Two Interactive",
       "year":2001
+   },
+   {
+      "title":"Mall Tycoon",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Take-Two Interactive",
+      "year":2002
    },
    {
       "title":"WWE 2K16",
@@ -62070,11 +59592,25 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Railroad Tycoon II",
+      "total_sales":0.11,
+      "genre":"Strategy",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
       "title":"Spec Ops: Covert Assault",
       "total_sales":0.43,
       "genre":"Shooter",
       "publisher":"Take-Two Interactive",
       "year":2001
+   },
+   {
+      "title":"Space Station Silicon Valley",
+      "total_sales":0.15,
+      "genre":"Adventure",
+      "publisher":"Take-Two Interactive",
+      "year":1998
    },
    {
       "title":"Major League Baseball 2K12",
@@ -62089,6 +59625,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Take-Two Interactive",
       "year":2001
+   },
+   {
+      "title":"Civilization IV: The Complete Edition",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Take-Two Interactive",
+      "year":2009
    },
    {
       "title":"Grand Theft Auto Online",
@@ -62126,6 +59669,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Ball Breakers",
+      "total_sales":0.18,
+      "genre":"Action",
+      "publisher":"Take-Two Interactive",
+      "year":2000
+   },
+   {
       "title":"The Backyardigans",
       "total_sales":0.25,
       "genre":"Adventure",
@@ -62147,81 +59697,11 @@ export const pb_data =
       "year":2008
    },
    {
-      "title":"Hoshiiro no Okurimono",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Takuyo",
-      "year":2007
-   },
-   {
-      "title":"Cafe Cuillere",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Takuyo",
-      "year":2018
-   },
-   {
-      "title":"Shinigami to Shoujo",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Takuyo",
-      "year":2011
-   },
-   {
-      "title":"Overcooked Special Edition",
-      "total_sales":0.11,
+      "title":"Monster Rancher Advance",
+      "total_sales":0.0,
       "genre":"Simulation",
-      "publisher":"Team 17",
-      "year":2018
-   },
-   {
-      "title":"Super Meat Boy",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Team Meat",
-      "year":2016
-   },
-   {
-      "title":"Worms: WMD",
-      "total_sales":0.07,
-      "genre":"Strategy",
-      "publisher":"Team17 Digital Ltd",
-      "year":2016
-   },
-   {
-      "title":"Worms Reloaded",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"Team17 Software",
-      "year":2010
-   },
-   {
-      "title":"The Escapists: The Walking Dead",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Team17 Software",
-      "year":2016
-   },
-   {
-      "title":"Torment: Tides of Numenera",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Techland",
-      "year":2017
-   },
-   {
-      "title":"Pure Farming 2018",
-      "total_sales":0.07,
-      "genre":"Simulation",
-      "publisher":"Techland",
-      "year":2018
-   },
-   {
-      "title":"Shirogane x Spirits!",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Technical Associates Inc",
-      "year":2016
+      "publisher":"Tecmo",
+      "year":2001
    },
    {
       "title":"Monster Rancher 4",
@@ -62252,6 +59732,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Monster Rancher Battle Card: Episode II",
+      "total_sales":0.07,
+      "genre":"Action",
+      "publisher":"Tecmo",
+      "year":2000
+   },
+   {
       "title":"Monster Rancher DS",
       "total_sales":0.13,
       "genre":"Role-Playing",
@@ -62273,6 +59760,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"Monster Rancher Hop-A-Bout",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Tecmo",
+      "year":2000
+   },
+   {
       "title":"Aibou DS",
       "total_sales":0.08,
       "genre":"Adventure",
@@ -62285,6 +59779,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Tecmo",
       "year":2009
+   },
+   {
+      "title":"Gallop Racer 2: One and Only Road to Victory",
+      "total_sales":0.27,
+      "genre":"Sports",
+      "publisher":"Tecmo",
+      "year":1997
    },
    {
       "title":"Gallop Racer 2006",
@@ -62322,6 +59823,13 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Gallop Racer 2000",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Tecmo",
+      "year":2000
+   },
+   {
       "title":"Rygar: The Battle of Argus",
       "total_sales":0.09,
       "genre":"Action",
@@ -62334,6 +59842,20 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Tecmo",
       "year":2005
+   },
+   {
+      "title":"Gallop Racer (JP)",
+      "total_sales":0.24,
+      "genre":"Sports",
+      "publisher":"Tecmo",
+      "year":1996
+   },
+   {
+      "title":"Gallop Racer",
+      "total_sales":0.19,
+      "genre":"Sports",
+      "publisher":"Tecmo",
+      "year":1999
    },
    {
       "title":"Trapt",
@@ -62392,6 +59914,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Kagero: Deception II",
+      "total_sales":0.29,
+      "genre":"Strategy",
+      "publisher":"Tecmo",
+      "year":1998
+   },
+   {
       "title":"Kaite Shabette Hajimeyou! Monster Farm DS",
       "total_sales":0.06,
       "genre":"Role-Playing",
@@ -62420,6 +59949,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"DOA 2: Dead or Alive 2 Hardcore",
+      "total_sales":0.11,
+      "genre":"Fighting",
+      "publisher":"Tecmo",
+      "year":2000
+   },
+   {
       "title":"DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana",
       "total_sales":0.22,
       "genre":"Adventure",
@@ -62439,6 +59975,20 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Tecmo",
       "year":2004
+   },
+   {
+      "title":"Dead or Alive",
+      "total_sales":0.46,
+      "genre":"Fighting",
+      "publisher":"Tecmo",
+      "year":1997
+   },
+   {
+      "title":"Dead or Alive 2",
+      "total_sales":1.14,
+      "genre":"Fighting",
+      "publisher":"Tecmo",
+      "year":2000
    },
    {
       "title":"Super Swing Golf",
@@ -62462,6 +60012,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Deception III: Dark Delusion",
+      "total_sales":0.04,
+      "genre":"Role-Playing",
+      "publisher":"Tecmo",
+      "year":2000
+   },
+   {
       "title":"Dead or Alive Paradise",
       "total_sales":0.2,
       "genre":"Misc",
@@ -62474,6 +60031,20 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Tecmo",
       "year":2004
+   },
+   {
+      "title":"Tecmo Super Bowl",
+      "total_sales":0.12,
+      "genre":"Sports",
+      "publisher":"Tecmo",
+      "year":1996
+   },
+   {
+      "title":"Tecmo's Deception",
+      "total_sales":0.07,
+      "genre":"Role-Playing",
+      "publisher":"Tecmo",
+      "year":1996
    },
    {
       "title":"Rakushou! Pachi-Slot Sengen 5: Rio Paradise",
@@ -63008,6 +60579,13 @@ export const pb_data =
       "year":2017
    },
    {
+      "title":"Samurai Warriors 3: Xtreme Legends",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Tecmo Koei",
+      "year":2011
+   },
+   {
       "title":"Harukanaru Toki no Naka de 6",
       "total_sales":0.05,
       "genre":"Adventure",
@@ -63225,53 +60803,11 @@ export const pb_data =
       "year":2011
    },
    {
-      "title":"Solitaire Overload Plus",
-      "total_sales":0.16,
-      "genre":"Misc",
-      "publisher":"Telegames",
-      "year":2010
-   },
-   {
-      "title":"Solitaire Overload",
-      "total_sales":0.42,
-      "genre":"Misc",
-      "publisher":"Telegames",
-      "year":2007
-   },
-   {
-      "title":"Ultimate Brain Games",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Telegames",
-      "year":2003
-   },
-   {
-      "title":"Ultimate Card Games",
-      "total_sales":0.12,
-      "genre":"Misc",
-      "publisher":"Telegames",
-      "year":2004
-   },
-   {
-      "title":"Ultimate Card Games DS",
-      "total_sales":0.08,
-      "genre":"Strategy",
-      "publisher":"Telegames",
-      "year":2008
-   },
-   {
-      "title":"Ultimate Puzzle Games",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Telegames",
-      "year":2005
-   },
-   {
-      "title":"Ultimate Puzzle Games: Sudoku Edition",
-      "total_sales":0.12,
-      "genre":"Puzzle",
-      "publisher":"Telegames",
-      "year":2007
+      "title":"Sam & Max: Season Two",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Telltale Games",
+      "year":2009
    },
    {
       "title":"Back to the Future: The Game",
@@ -63358,186 +60894,32 @@ export const pb_data =
       "year":2017
    },
    {
-      "title":"Post Mortem",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2003
+      "title":"R.B.I. Baseball",
+      "total_sales":2.2,
+      "genre":"Sports",
+      "publisher":"Tengen",
+      "year":1988
    },
    {
-      "title":"Broken Sword: The Sleeping Dragon",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2003
+      "title":"R.B.I. Baseball 3",
+      "total_sales":1.18,
+      "genre":"Sports",
+      "publisher":"Tengen",
+      "year":1991
    },
    {
-      "title":"Still Life",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2005
+      "title":"R.B.I. Baseball 2",
+      "total_sales":1.42,
+      "genre":"Sports",
+      "publisher":"Tengen",
+      "year":1990
    },
    {
-      "title":"Sam & Max: Season One",
-      "total_sales":0.15,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2008
-   },
-   {
-      "title":"Agatha Christie: Evil Under the Sun",
-      "total_sales":0.09,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2007
-   },
-   {
-      "title":"Syberia II",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2004
-   },
-   {
-      "title":"Agatha Christie: And Then There Were None",
-      "total_sales":0.07,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2005
-   },
-   {
-      "title":"Dark Fall 3: Lost Souls",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2010
-   },
-   {
-      "title":"A Vampyre Story",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"The Adventure Company",
-      "year":2008
-   },
-   {
-      "title":"Axiom Verge",
-      "total_sales":0.22,
-      "genre":"Action",
-      "publisher":"Thomas Happ Games",
-      "year":2015
-   },
-   {
-      "title":"Prehistorik Man",
-      "total_sales":0.02,
-      "genre":"Platform",
-      "publisher":"Titus",
-      "year":2001
-   },
-   {
-      "title":"Top Gun: Firestorm Advance",
-      "total_sales":0.09,
-      "genre":"Shooter",
-      "publisher":"Titus",
-      "year":2002
-   },
-   {
-      "title":"Stunt GP",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Titus",
-      "year":2001
-   },
-   {
-      "title":"Planet Monsters",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Titus",
-      "year":2001
-   },
-   {
-      "title":"Kao the Kangaroo",
-      "total_sales":0.01,
-      "genre":"Platform",
-      "publisher":"Titus",
-      "year":2001
-   },
-   {
-      "title":"Downforce",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Titus",
-      "year":2002
-   },
-   {
-      "title":"RoboCop",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Titus",
-      "year":2003
-   },
-   {
-      "title":"Barbarian",
-      "total_sales":0.14,
+      "title":"Shin Nippon Pro Wrestling: Toukon Retsuden",
+      "total_sales":0.33,
       "genre":"Fighting",
-      "publisher":"Titus",
-      "year":2002
-   },
-   {
-      "title":"Virtual Kasparov",
-      "total_sales":0.02,
-      "genre":"Strategy",
-      "publisher":"Titus",
-      "year":2002
-   },
-   {
-      "title":"Lernerfolg Vorschule: Capt'n Sharky",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"Tivola",
-      "year":2009
-   },
-   {
-      "title":"Jerry Rice and Nitus' Dog Football",
-      "total_sales":0.04,
-      "genre":"Sports",
-      "publisher":"Tommo",
-      "year":2011
-   },
-   {
-      "title":"Reversal Challenge",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Tommo",
-      "year":2009
-   },
-   {
-      "title":"Spy Games: Elevator Mission",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"Tommo",
-      "year":2007
-   },
-   {
-      "title":"PANGYA: Fantasy Golf",
-      "total_sales":0.14,
-      "genre":"Sports",
-      "publisher":"Tommo",
-      "year":2009
-   },
-   {
-      "title":"Interactive Storybook DS Series 1",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"Tommo",
-      "year":2007
-   },
-   {
-      "title":"Interactive Storybook DS Series 3",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Tommo",
-      "year":2007
+      "publisher":"Tomy Corporation",
+      "year":1995
    },
    {
       "title":"Naruto Shippuden: Ninja Destiny 2",
@@ -63559,6 +60941,20 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Tomy Corporation",
       "year":2004
+   },
+   {
+      "title":"Shin Nippon Pro Wrestling: Toukon Retsuden 3",
+      "total_sales":0.23,
+      "genre":"Fighting",
+      "publisher":"Tomy Corporation",
+      "year":1998
+   },
+   {
+      "title":"Shin Nippon Pro Wrestling: Toukon Retsuden 2",
+      "total_sales":0.27,
+      "genre":"Fighting",
+      "publisher":"Tomy Corporation",
+      "year":1996
    },
    {
       "title":"Naruto Shippuuden: Ninja Council 4",
@@ -63622,461 +61018,6 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Tomy Corporation",
       "year":2009
-   },
-   {
-      "title":"Raven's Cry",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"TopWare Interactive",
-      "year":2015
-   },
-   {
-      "title":"Turok",
-      "total_sales":1.43,
-      "genre":"Shooter",
-      "publisher":"Touchstone",
-      "year":2008
-   },
-   {
-      "title":"UFO: Extraterrestrials",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Tri Synergy",
-      "year":2007
-   },
-   {
-      "title":"Shooting Love, 200X",
-      "total_sales":0.01,
-      "genre":"Shooter",
-      "publisher":"Triangle Service",
-      "year":2009
-   },
-   {
-      "title":"End of Nations",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Trion Worlds",
-      "year":2012
-   },
-   {
-      "title":"DEFIANCE",
-      "total_sales":0.79,
-      "genre":"Action",
-      "publisher":"Trion Worlds",
-      "year":2013
-   },
-   {
-      "title":"Defiance",
-      "total_sales":0.37,
-      "genre":"Action",
-      "publisher":"Trion Worlds",
-      "year":2013
-   },
-   {
-      "title":"Killing Floor 2",
-      "total_sales":0.33,
-      "genre":"Shooter",
-      "publisher":"Tripwire Interactive",
-      "year":2016
-   },
-   {
-      "title":"Red Orchestra 2: Heroes of Stalingrad",
-      "total_sales":0.13,
-      "genre":"Shooter",
-      "publisher":"Tripwire Interactive",
-      "year":2011
-   },
-   {
-      "title":"Rugby League Live 4",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Tru Blu Entertainment",
-      "year":2017
-   },
-   {
-      "title":"Don Bradman Cricket 14",
-      "total_sales":0.19,
-      "genre":"Sports",
-      "publisher":"Tru Blu Entertainment",
-      "year":2014
-   },
-   {
-      "title":"Rugby League Live 3",
-      "total_sales":0.07,
-      "genre":"Sports",
-      "publisher":"Tru Blu Entertainment",
-      "year":2015
-   },
-   {
-      "title":"Wrestle Angels: Survivor 2",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Tryfirst",
-      "year":2008
-   },
-   {
-      "title":"4 Elements",
-      "total_sales":0.07,
-      "genre":"Puzzle",
-      "publisher":"Tulip Games",
-      "year":2009
-   },
-   {
-      "title":"Jewel Quest 5: The Sleepless Star",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"Tulip Games",
-      "year":2011
-   },
-   {
-      "title":"The Lord of the Rings Online: Mines of Moria",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"Turbine Inc.",
-      "year":2008
-   },
-   {
-      "title":"Fate\/hollow ataraxia",
-      "total_sales":0.12,
-      "genre":"Visual Novel",
-      "publisher":"Type-Moon",
-      "year":2014
-   },
-   {
-      "title":"GRIP: Combat Racing",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"U&I Entertainment",
-      "year":2018
-   },
-   {
-      "title":"Chuck E. Cheese's Playhouse",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2010
-   },
-   {
-      "title":"Pucca Power Up",
-      "total_sales":0.06,
-      "genre":"Platform",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Raiden IV",
-      "total_sales":0.12,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Heavenly Guardian",
-      "total_sales":0.07,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Smart Kid's Gameclub",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Smart Girl's Winter Wonderland",
-      "total_sales":0.03,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Kurupoto Cool Cool Stars",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Ultimate Shooting Collection",
-      "total_sales":0.08,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"O.M.G. 26 - Our Mini Games",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Dungeon Maker II: The Hidden War",
-      "total_sales":0.08,
-      "genre":"Role-Playing",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Rock Blast",
-      "total_sales":0.08,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Puzzler World 2",
-      "total_sales":0.11,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Chuck E. Cheese's Super Collection",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Raiden V",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"UFO Interactive",
-      "year":2017
-   },
-   {
-      "title":"Smart Kid's Mega Game Mix",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Smart Kid's Party Fun Pak",
-      "total_sales":0.05,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Warriors of the Lost Empire (JP sales)",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Smart Girl's Playhouse",
-      "total_sales":0.25,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Warriors of the Lost Empire",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Army Rescue",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Smart Girl's Party Game",
-      "total_sales":0.34,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Underground Pool",
-      "total_sales":0.03,
-      "genre":"Sports",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Smart Boy's Toys Club",
-      "total_sales":0.06,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"The Monkey King: The Legend Begins",
-      "total_sales":0.04,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Professional Fisherman's Tour: Northern Hemisphere",
-      "total_sales":0.17,
-      "genre":"Sports",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Saint",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Chuck E. Cheese's Game Room",
-      "total_sales":0.13,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2010
-   },
-   {
-      "title":"Professional Fisherman's Tour: Big Bass Open",
-      "total_sales":0.01,
-      "genre":"Sports",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Sudoku Mania",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2006
-   },
-   {
-      "title":"Chameleon",
-      "total_sales":0.1,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Rain Drops",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Anubis II",
-      "total_sales":0.07,
-      "genre":"Platform",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Chuck E. Cheese's Sports Games",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Smart Boy's Winter Wonderland",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Florist Shop",
-      "total_sales":0.01,
-      "genre":"Simulation",
-      "publisher":"UFO Interactive",
-      "year":2010
-   },
-   {
-      "title":"Balloon Pop",
-      "total_sales":0.19,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Chameleon: To Dye For!",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Classic Action: Devilish",
-      "total_sales":0.07,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Dungeon Raiders",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"UFO Interactive",
-      "year":2011
-   },
-   {
-      "title":"Balloon Pop 2",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2012
-   },
-   {
-      "title":"Super Bowling",
-      "total_sales":0.02,
-      "genre":"Sports",
-      "publisher":"UFO Interactive",
-      "year":2001
-   },
-   {
-      "title":"Chuck E. Cheese's Party Games",
-      "total_sales":0.34,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2010
-   },
-   {
-      "title":"Geon Cube",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Smart Boy's Gameroom",
-      "total_sales":0.13,
-      "genre":"Misc",
-      "publisher":"UFO Interactive",
-      "year":2007
-   },
-   {
-      "title":"Domino Rally",
-      "total_sales":0.05,
-      "genre":"Action",
-      "publisher":"UFO Interactive",
-      "year":2009
-   },
-   {
-      "title":"Dungeon Maker II: The Hidden War (JP sales)",
-      "total_sales":0.01,
-      "genre":"Role-Playing",
-      "publisher":"UFO Interactive",
-      "year":2008
-   },
-   {
-      "title":"Farming 2017 - The Simulation",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"UIG Entertainment",
-      "year":2016
    },
    {
       "title":"Shape Up",
@@ -64212,6 +61153,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Stratego",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2008
+   },
+   {
       "title":"Planet of the Apes",
       "total_sales":0.03,
       "genre":"Action",
@@ -64268,11 +61216,25 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Pippa Funnell: Take The Reins",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Assassin's Creed Origins",
       "total_sales":6.53,
       "genre":"Action",
       "publisher":"Ubisoft",
       "year":2017
+   },
+   {
+      "title":"Pippa Funnell: The Stud Farm Inheritance",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2005
    },
    {
       "title":"Rabbids Go Home",
@@ -64583,6 +61545,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"My Spanish Coach Level 2: Intermediate",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2007
+   },
+   {
       "title":"Petz: Dolphinz Encounter",
       "total_sales":0.03,
       "genre":"Simulation",
@@ -64623,6 +61592,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"Assassin's Creed II: Complete Edition",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Ubisoft",
+      "year":2010
    },
    {
       "title":"Assassin's Creed: Bloodlines",
@@ -64728,6 +61704,13 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"Alexander",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2004
    },
    {
       "title":"Style Lab: Makeover",
@@ -64870,6 +61853,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"We Dare: Flirty Fun For All",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2011
+   },
+   {
       "title":"TMNT",
       "total_sales":1.09,
       "genre":"Action",
@@ -64919,6 +61909,20 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Arthur and the Revenge of Maltazard",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2010
+   },
+   {
+      "title":"Myst V: End of Ages",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2005
+   },
+   {
       "title":"Myst IV: Revelation",
       "total_sales":0.06,
       "genre":"Adventure",
@@ -64931,6 +61935,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2007
+   },
+   {
+      "title":"Warlords IV: Heroes of Etheria",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2003
    },
    {
       "title":"Prince of Persia Trilogy",
@@ -64959,6 +61970,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Ubisoft",
       "year":2005
+   },
+   {
+      "title":"Dogz 5",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2002
    },
    {
       "title":"Dogz Fashion",
@@ -65010,6 +62028,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"Imagine: Champion Rider 2009",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Ubisoft",
+      "year":2009
+   },
+   {
       "title":"American Bass Challenge",
       "total_sales":0.05,
       "genre":"Sports",
@@ -65022,6 +62047,20 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Ubisoft",
       "year":2016
+   },
+   {
+      "title":"Gold and Glory: The Road to El Dorado",
+      "total_sales":0.06,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2000
+   },
+   {
+      "title":"Imagine: Champion Rider",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Ubisoft",
+      "year":2008
    },
    {
       "title":"Imagine: Boutique Owner",
@@ -65073,6 +62112,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Walt Disney's The Jungle Book: Rhythm N'Groove",
+      "total_sales":0.34,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2000
+   },
+   {
       "title":"PowerUp Heroes",
       "total_sales":0.3,
       "genre":"Fighting",
@@ -65122,6 +62168,20 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Disney's Donald Duck: Goin' Quackers",
+      "total_sales":0.37,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":2000
+   },
+   {
+      "title":"IL-2 Sturmovik Series: Complete Edition",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Anno 1701: Dawn of Discovery",
       "total_sales":0.13,
       "genre":"Simulation",
@@ -65169,6 +62229,13 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Ubisoft",
       "year":2005
+   },
+   {
+      "title":"My French Coach Level 2",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2007
    },
    {
       "title":"Imagine: Fashion Designer World Tour",
@@ -65255,6 +62322,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Street Racer",
+      "total_sales":0.16,
+      "genre":"Racing",
+      "publisher":"Ubisoft",
+      "year":1996
+   },
+   {
       "title":"America's Greatest Game Shows: Wheel of Fortune and Jeopardy!",
       "total_sales":0.06,
       "genre":"Party",
@@ -65267,6 +62341,13 @@ export const pb_data =
       "genre":"Strategy",
       "publisher":"Ubisoft",
       "year":2015
+   },
+   {
+      "title":"Sam Power: Footballer",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"E.T. The Extra-Terrestrial: Interplanetary Mission",
@@ -65430,6 +62511,13 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"World in Conflict: Soviet Assault",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2009
+   },
+   {
       "title":"Horsez",
       "total_sales":0.43,
       "genre":"Simulation",
@@ -65456,6 +62544,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2016
+   },
+   {
+      "title":"Destroyer Command",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2002
    },
    {
       "title":"Gold's Gym: Cardio Workout (Others sales)",
@@ -65519,6 +62614,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2010
+   },
+   {
+      "title":"How To Pass Your Driving Test",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2008
+   },
+   {
+      "title":"All Star Tennis 99",
+      "total_sales":0.05,
+      "genre":"Sports",
+      "publisher":"Ubisoft",
+      "year":1999
    },
    {
       "title":"Imagine: Sweet 16",
@@ -65689,6 +62798,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Surf Riders",
+      "total_sales":0.13,
+      "genre":"Sports",
+      "publisher":"Ubisoft",
+      "year":2000
+   },
+   {
       "title":"Heroes of the Pacific",
       "total_sales":0.44,
       "genre":"Simulation",
@@ -65799,6 +62915,20 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Ubisoft",
       "year":2003
+   },
+   {
+      "title":"CSI: NY - The Game",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2008
+   },
+   {
+      "title":"CSI: Miami",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2004
    },
    {
       "title":"CSI: Hard Evidence",
@@ -65941,6 +63071,13 @@ export const pb_data =
       "year":2006
    },
    {
+      "title":"The Settlers: Heritage of Kings",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2005
+   },
+   {
       "title":"Tom Clancy's The Division",
       "total_sales":7.44,
       "genre":"Shooter",
@@ -66067,6 +63204,13 @@ export const pb_data =
       "year":2018
    },
    {
+      "title":"Tonic Trouble",
+      "total_sales":0.11,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":1999
+   },
+   {
       "title":"ZombiU",
       "total_sales":0.84,
       "genre":"Action",
@@ -66102,6 +63246,13 @@ export const pb_data =
       "year":2015
    },
    {
+      "title":"Buck Bumble",
+      "total_sales":0.16,
+      "genre":"Action",
+      "publisher":"Ubisoft",
+      "year":1998
+   },
+   {
       "title":"Over G Fighters",
       "total_sales":0.22,
       "genre":"Simulation",
@@ -66128,6 +63279,20 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"From Dust",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2011
+   },
+   {
+      "title":"Faces of War",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2006
    },
    {
       "title":"Real Soccer 2009",
@@ -66163,6 +63328,13 @@ export const pb_data =
       "genre":"Shooter",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"Brothers In Arms: Earned in Blood",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Ubisoft",
+      "year":2005
    },
    {
       "title":"Brothers In Arms: Earned In Blood",
@@ -66249,6 +63421,27 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Top Trumps Horror & Predator",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2007
+   },
+   {
+      "title":"Top Trumps: Dogs & Dinosaurs",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Ubisoft",
+      "year":2007
+   },
+   {
+      "title":"Top Trumps: Horror & Predators",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2007
+   },
+   {
       "title":"Family Feud: 2012 Edition",
       "total_sales":0.3,
       "genre":"Misc",
@@ -66317,6 +63510,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"Knockout Party",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"Sleepover Party",
@@ -66417,11 +63617,25 @@ export const pb_data =
       "year":2002
    },
    {
+      "title":"Metropolis Crimes",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2009
+   },
+   {
       "title":"Mind Quiz",
       "total_sales":0.09,
       "genre":"Action",
       "publisher":"Ubisoft",
       "year":2006
+   },
+   {
+      "title":"City Life DS",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"City Racer",
@@ -66564,6 +63778,20 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Chessmaster: Grandmaster Edition",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2007
+   },
+   {
+      "title":"Chessmaster 10th Edition",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2004
+   },
+   {
       "title":"Chessmaster",
       "total_sales":0.56,
       "genre":"Misc",
@@ -66618,6 +63846,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Ubisoft",
       "year":2010
+   },
+   {
+      "title":"Silent Hunter II",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2001
    },
    {
       "title":"Nitrobike",
@@ -66725,6 +63960,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Tom Clancy's Rainbow Six Vegas",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Tom Clancy's Rainbow Six: Critical Hour",
       "total_sales":0.06,
       "genre":"Shooter",
@@ -66809,6 +64051,13 @@ export const pb_data =
       "year":2005
    },
    {
+      "title":"Tom Clancy's Rainbow Six: Patriots",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Ubisoft",
+      "year":2014
+   },
+   {
       "title":"Tom Clancy's Splinter Cell: Double Agent",
       "total_sales":1.23,
       "genre":"Action",
@@ -66870,6 +64119,13 @@ export const pb_data =
       "genre":"Music",
       "publisher":"Ubisoft",
       "year":2018
+   },
+   {
+      "title":"Kids Pack: Open Season \/ Surf's Up",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"Just Dance 2018",
@@ -66975,6 +64231,13 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2007
+   },
+   {
+      "title":"Fairyland Melody Magic",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"Jam Sessions: Sing and Play Guitar (US sales)",
@@ -67222,6 +64485,34 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Rayman Gold",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":1997
+   },
+   {
+      "title":"Rocket: Robot on Wheels",
+      "total_sales":0.12,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":1999
+   },
+   {
+      "title":"F1 Pole Position 64",
+      "total_sales":0.25,
+      "genre":"Racing",
+      "publisher":"Ubisoft",
+      "year":1997
+   },
+   {
+      "title":"Dark Messiah Might and Magic",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Hasbro Family Fun Pack Conquest Edition",
       "total_sales":0.14,
       "genre":"Misc",
@@ -67397,6 +64688,13 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"Rayman 2: The Great Escape",
+      "total_sales":0.96,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":1999
+   },
+   {
       "title":"Rayman 2: Revolution",
       "total_sales":0.3,
       "genre":"Platform",
@@ -67416,6 +64714,20 @@ export const pb_data =
       "genre":"Party",
       "publisher":"Ubisoft",
       "year":2018
+   },
+   {
+      "title":"Rayman",
+      "total_sales":3.03,
+      "genre":"Platform",
+      "publisher":"Ubisoft",
+      "year":1995
+   },
+   {
+      "title":"Grandia II",
+      "total_sales":0.49,
+      "genre":"Role-Playing",
+      "publisher":"Ubisoft",
+      "year":2000
    },
    {
       "title":"Jade Cocoon 2",
@@ -67446,6 +64758,13 @@ export const pb_data =
       "year":2007
    },
    {
+      "title":"Monster 4X4: World Circuit",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Sabrina The Teenage Witch: Potion Commotion",
       "total_sales":0.11,
       "genre":"Action",
@@ -67465,6 +64784,13 @@ export const pb_data =
       "genre":"Fighting",
       "publisher":"Ubisoft",
       "year":2009
+   },
+   {
+      "title":"Pacific Fighters",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Ubisoft",
+      "year":2004
    },
    {
       "title":"Cubic Ninja",
@@ -67502,11 +64828,25 @@ export const pb_data =
       "year":2009
    },
    {
+      "title":"S.C.A.R.S",
+      "total_sales":0.14,
+      "genre":"Racing",
+      "publisher":"Ubisoft",
+      "year":1998
+   },
+   {
       "title":"Brain Challenge",
       "total_sales":0.45,
       "genre":"Misc",
       "publisher":"Ubisoft",
       "year":2008
+   },
+   {
+      "title":"Brain Challenge Deluxe",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Ubisoft",
+      "year":2009
    },
    {
       "title":"Crouching Tiger, Hidden Dragon",
@@ -67528,6 +64868,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Ubisoft",
       "year":2012
+   },
+   {
+      "title":"Trevor Chan's Capitalism 2",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Ubisoft",
+      "year":2002
    },
    {
       "title":"NCIS",
@@ -67556,6 +64903,13 @@ export const pb_data =
       "genre":"Simulation",
       "publisher":"Ubisoft",
       "year":2007
+   },
+   {
+      "title":"The Hip Hop Dance Experience",
+      "total_sales":0.0,
+      "genre":"Music",
+      "publisher":"Ubisoft",
+      "year":2012
    },
    {
       "title":"Academy of Champions: Soccer",
@@ -67663,6 +65017,20 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Monaco Grand Prix",
+      "total_sales":0.04,
+      "genre":"Racing",
+      "publisher":"Ubisoft",
+      "year":1999
+   },
+   {
+      "title":"Paradise",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Ubisoft",
+      "year":2006
+   },
+   {
       "title":"Rocksmith",
       "total_sales":2.38,
       "genre":"Misc",
@@ -67710,13 +65078,6 @@ export const pb_data =
       "genre":"Board Game",
       "publisher":"Ubisoft",
       "year":2017
-   },
-   {
-      "title":"Agatha Christie's The ABC Murders",
-      "total_sales":0.13,
-      "genre":"Adventure",
-      "publisher":"Unfinished Pixel",
-      "year":2016
    },
    {
       "title":"Bruce Lee: Quest of the Dragon",
@@ -67782,6 +65143,13 @@ export const pb_data =
       "year":2003
    },
    {
+      "title":"Hacker Evolution Collection",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"Mystery Stories: Curse of the Ancient Spirits",
       "total_sales":0.1,
       "genre":"Adventure",
@@ -67801,6 +65169,20 @@ export const pb_data =
       "genre":"Misc",
       "publisher":"Unknown",
       "year":2006
+   },
+   {
+      "title":"Casual Classics",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2010
+   },
+   {
+      "title":"Railway Simulator",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Unknown",
+      "year":2011
    },
    {
       "title":"Airport Simulator",
@@ -67880,11 +65262,32 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Garshasp: The Monster Slayer",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"Tantei Opera: Milky Holmes",
       "total_sales":0.02,
       "genre":"Adventure",
       "publisher":"Unknown",
       "year":2010
+   },
+   {
+      "title":"Mysterious Adventures in the Caribbean",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2010
+   },
+   {
+      "title":"Hollywood Files: Deadly Intrigues",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Unknown",
+      "year":2011
    },
    {
       "title":"Garfield Gets Real",
@@ -67908,6 +65311,13 @@ export const pb_data =
       "year":2008
    },
    {
+      "title":"Fast Food",
+      "total_sales":0.29,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":1982
+   },
+   {
       "title":"1001 Touch Games",
       "total_sales":0.31,
       "genre":"Action",
@@ -67915,11 +65325,32 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Halloween",
+      "total_sales":0.62,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":1983
+   },
+   {
       "title":"Fit & Fun",
       "total_sales":0.01,
       "genre":"Sports",
       "publisher":"Unknown",
       "year":2011
+   },
+   {
+      "title":"Phil Taylor's Power Play Darts",
+      "total_sales":0.0,
+      "genre":"Sports",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
+      "title":"XG Blast!",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Unknown",
+      "year":2010
    },
    {
       "title":"Saigo no Yakusoku no Monogatari",
@@ -67957,6 +65388,13 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"18 Wheels of Steel: Triple Pack",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"Euro Fishing",
       "total_sales":0.01,
       "genre":"Simulation",
@@ -67978,11 +65416,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"ArmA II: Reinforcements",
+      "total_sales":0.0,
+      "genre":"Shooter",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"Strawberry Nauts",
       "total_sales":0.02,
       "genre":"Adventure",
       "publisher":"Unknown",
       "year":2016
+   },
+   {
+      "title":"Karate",
+      "total_sales":0.47,
+      "genre":"Fighting",
+      "publisher":"Unknown",
+      "year":1980
    },
    {
       "title":"Jewel Quest Mysteries 2: Trail of the Midnight Heart",
@@ -67992,11 +65444,25 @@ export const pb_data =
       "year":2010
    },
    {
+      "title":"X-Man",
+      "total_sales":0.63,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":1983
+   },
+   {
       "title":"Maximum Racing: Crash Car Racer",
       "total_sales":0.02,
       "genre":"Racing",
       "publisher":"Unknown",
       "year":2011
+   },
+   {
+      "title":"The Garfield Show: Threat of the Space Lasagna",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Unknown",
+      "year":2010
    },
    {
       "title":"Ikki Tousen: Shining Dragon",
@@ -68013,11 +65479,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Natsumegu",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":2015
+   },
+   {
       "title":"Meikyuu Cross Blood: Reloaded",
       "total_sales":0.02,
       "genre":"Action",
       "publisher":"Unknown",
       "year":2011
+   },
+   {
+      "title":"Heroes of Might and Magic V: Tribes of the East",
+      "total_sales":0.0,
+      "genre":"Role-Playing",
+      "publisher":"Unknown",
+      "year":2007
    },
    {
       "title":"Red Stone DS: Akaki Ishi ni Michibikareshi Monotachi",
@@ -68041,11 +65521,25 @@ export const pb_data =
       "year":2012
    },
    {
+      "title":"Crane Simulator 2009",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Unknown",
+      "year":2009
+   },
+   {
       "title":"The Lost Chronicles of Zerzura",
       "total_sales":0.05,
       "genre":"Adventure",
       "publisher":"Unknown",
       "year":2012
+   },
+   {
+      "title":"Love Once",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Unknown",
+      "year":2010
    },
    {
       "title":"The Lost Treasures of Alexandria",
@@ -68132,6 +65626,13 @@ export const pb_data =
       "year":2016
    },
    {
+      "title":"Crazy Taxi 3",
+      "total_sales":0.0,
+      "genre":"Racing",
+      "publisher":"Unknown",
+      "year":2020
+   },
+   {
       "title":"Match 3 Madness",
       "total_sales":0.05,
       "genre":"Puzzle",
@@ -68146,6 +65647,13 @@ export const pb_data =
       "year":2020
    },
    {
+      "title":"The Hidden Mystery Collectives: Mystic Diary 1 & 2",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"May's Mystery: Forbidden Memories",
       "total_sales":0.1,
       "genre":"Puzzle",
@@ -68156,6 +65664,13 @@ export const pb_data =
       "title":"Maximum Racing: Super Truck Racer",
       "total_sales":0.01,
       "genre":"Racing",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
+      "title":"Trainz Simulator 12",
+      "total_sales":0.0,
+      "genre":"Simulation",
       "publisher":"Unknown",
       "year":2011
    },
@@ -68181,6 +65696,13 @@ export const pb_data =
       "year":2001
    },
    {
+      "title":"Musiic Party: Rock the House",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Unknown",
+      "year":2020
+   },
+   {
       "title":"Love Once: Mermaid's Tears",
       "total_sales":0.02,
       "genre":"Adventure",
@@ -68188,8 +65710,36 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"The Magician's Handbook: Cursed Valley",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2007
+   },
+   {
+      "title":"Jolly Rover",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Unknown",
+      "year":2010
+   },
+   {
       "title":"Hamster Heroes",
       "total_sales":0.16,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2020
+   },
+   {
+      "title":"Fireball",
+      "total_sales":0.33,
+      "genre":"Action",
+      "publisher":"Unknown",
+      "year":1982
+   },
+   {
+      "title":"Call of Atlantis",
+      "total_sales":0.0,
       "genre":"Puzzle",
       "publisher":"Unknown",
       "year":2020
@@ -68244,11 +65794,25 @@ export const pb_data =
       "year":2013
    },
    {
+      "title":"Dark",
+      "total_sales":0.0,
+      "genre":"Platform",
+      "publisher":"Unknown",
+      "year":2009
+   },
+   {
       "title":"JASF: Jane's Advanced Strike Fighters",
       "total_sales":0.24,
       "genre":"Simulation",
       "publisher":"Unknown",
       "year":2011
+   },
+   {
+      "title":"UFO: Aftermath",
+      "total_sales":0.0,
+      "genre":"Strategy",
+      "publisher":"Unknown",
+      "year":2003
    },
    {
       "title":"UFO: Trilogy",
@@ -68272,9 +65836,23 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Picture Puzzle Collection: The Dutch Masters",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"Unknown",
+      "year":2020
+   },
+   {
       "title":"Demolition Company: Gold Edition",
       "total_sales":0.04,
       "genre":"Simulation",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
+      "title":"LIMBO",
+      "total_sales":0.0,
+      "genre":"Platform",
       "publisher":"Unknown",
       "year":2011
    },
@@ -68307,11 +65885,25 @@ export const pb_data =
       "year":2011
    },
    {
+      "title":"Paramedic Simulator",
+      "total_sales":0.0,
+      "genre":"Simulation",
+      "publisher":"Unknown",
+      "year":2011
+   },
+   {
       "title":"Ridge Racer 2",
       "total_sales":0.1,
       "genre":"Racing",
       "publisher":"Unknown",
       "year":2020
+   },
+   {
+      "title":"The Crown of Midas",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Unknown",
+      "year":2011
    },
    {
       "title":"Gekiatsu!! Pachi Game Tamashi: CR Evangelion - Hajimari no Fukuin",
@@ -68361,6 +65953,13 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Unknown",
       "year":2010
+   },
+   {
+      "title":"The Clockwork Man",
+      "total_sales":0.0,
+      "genre":"Puzzle",
+      "publisher":"Unknown",
+      "year":2011
    },
    {
       "title":"Empire Earth II",
@@ -68475,6 +66074,13 @@ export const pb_data =
       "year":2004
    },
    {
+      "title":"Leisure Suit Larry Collection",
+      "total_sales":0.0,
+      "genre":"Misc",
+      "publisher":"VU Games",
+      "year":2006
+   },
+   {
       "title":"Buffy the Vampire Slayer: Chaos Bleeds",
       "total_sales":0.33,
       "genre":"Action",
@@ -68587,326 +66193,81 @@ export const pb_data =
       "year":2003
    },
    {
-      "title":"Corvette Evolution GT",
-      "total_sales":0.1,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2008
-   },
-   {
-      "title":"Wicked Monster Blast!",
+      "title":"NHL Powerplay 98",
       "total_sales":0.05,
-      "genre":"Shooter",
-      "publisher":"Valcon Games",
-      "year":2011
-   },
-   {
-      "title":"James Pond: Codename Robocod",
-      "total_sales":0.03,
-      "genre":"Platform",
-      "publisher":"Valcon Games",
-      "year":2005
-   },
-   {
-      "title":"Offshore Tycoon",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Horse Life Adventures",
-      "total_sales":0.24,
-      "genre":"Simulation",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Bode Miller Alpine Skiing",
-      "total_sales":0.03,
       "genre":"Sports",
-      "publisher":"Valcon Games",
-      "year":2006
+      "publisher":"Virgin Interactive",
+      "year":1997
    },
    {
-      "title":"Ocean Commander",
-      "total_sales":0.03,
-      "genre":"Simulation",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Easy Piano",
-      "total_sales":0.17,
-      "genre":"Misc",
-      "publisher":"Valcon Games",
-      "year":2010
-   },
-   {
-      "title":"Master Jin Jin's IQ Challenge",
+      "title":"Agile Warrior F-111X",
       "total_sales":0.14,
-      "genre":"Misc",
-      "publisher":"Valcon Games",
-      "year":2007
-   },
-   {
-      "title":"Ultimate Board Game Collection",
-      "total_sales":0.23,
-      "genre":"Misc",
-      "publisher":"Valcon Games",
-      "year":2006
-   },
-   {
-      "title":"Mountain Bike Adrenaline",
-      "total_sales":0.05,
-      "genre":"Sports",
-      "publisher":"Valcon Games",
-      "year":2007
-   },
-   {
-      "title":"Survivor",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Valcon Games",
-      "year":2010
-   },
-   {
-      "title":"Suzuki Super-Bikes II: Riding Challenge",
-      "total_sales":0.05,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2008
-   },
-   {
-      "title":"Suzuki TT Superbikes",
-      "total_sales":0.4,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2005
-   },
-   {
-      "title":"Raiden Fighters Aces",
-      "total_sales":0.09,
-      "genre":"Shooter",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Ski-Doo Snowmobile Challenge",
-      "total_sales":0.22,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Hannspree Ten Kate Honda: SBK Superbike World Championship",
-      "total_sales":0.11,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2007
-   },
-   {
-      "title":"History Great Empires: Rome",
-      "total_sales":0.05,
-      "genre":"Strategy",
-      "publisher":"Valcon Games",
-      "year":2009
-   },
-   {
-      "title":"Gunslingers",
-      "total_sales":0.15,
-      "genre":"Shooter",
-      "publisher":"Valcon Games",
-      "year":2011
-   },
-   {
-      "title":"Alfa Romeo Racing Italiano",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"Valcon Games",
-      "year":2006
-   },
-   {
-      "title":"Pirates: Legend of the Black Buccaneer",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Valcon Games",
-      "year":2006
-   },
-   {
-      "title":"Legend: Hand of God",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"ValuSoft",
-      "year":2008
-   },
-   {
-      "title":"NHRA Championship Drag Racing",
-      "total_sales":0.24,
-      "genre":"Racing",
-      "publisher":"ValuSoft",
-      "year":2005
-   },
-   {
-      "title":"18 Wheels of Steel: Extreme Trucker",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"ValuSoft",
-      "year":2009
-   },
-   {
-      "title":"Fabulous Finds",
-      "total_sales":0.11,
-      "genre":"Puzzle",
-      "publisher":"ValuSoft",
-      "year":2009
-   },
-   {
-      "title":"Voodoo Chronicles: First Sign",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"ValuSoft",
-      "year":2011
-   },
-   {
-      "title":"Left 4 Dead 2",
-      "total_sales":0.36,
-      "genre":"Shooter",
-      "publisher":"Valve",
-      "year":2009
-   },
-   {
-      "title":"Portal 2",
-      "total_sales":3.79,
-      "genre":"Shooter",
-      "publisher":"Valve",
-      "year":2011
-   },
-   {
-      "title":"Pilot ni Narou! 2",
-      "total_sales":0.08,
       "genre":"Simulation",
-      "publisher":"Victor Interactive",
-      "year":2001
+      "publisher":"Virgin Interactive",
+      "year":1995
    },
    {
-      "title":"Tsuki no Hikari: Shizumeru Kane no Satsujin",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Victor Interactive",
-      "year":2002
-   },
-   {
-      "title":"Dies Irae: Amantes Amentes",
-      "total_sales":0.02,
-      "genre":"Visual Novel",
-      "publisher":"Views",
-      "year":2012
-   },
-   {
-      "title":"Kajiri Kamui Kagura: Akebono no Hikari",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Views",
-      "year":2013
-   },
-   {
-      "title":"Shin Koihime Musou: Otome Taisen * Sangokushi Engi",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Views",
-      "year":2014
-   },
-   {
-      "title":"Yoku's Island Express",
-      "total_sales":0.04,
-      "genre":"Action",
-      "publisher":"Villa Gorilla",
-      "year":2018
-   },
-   {
-      "title":"Ducati Moto",
-      "total_sales":0.03,
+      "title":"F1 Challenge",
+      "total_sales":0.18,
       "genre":"Racing",
-      "publisher":"Vir2L Studios",
-      "year":2008
+      "publisher":"Virgin Interactive",
+      "year":1996
    },
    {
-      "title":"Medieval Games",
-      "total_sales":0.16,
-      "genre":"Action",
-      "publisher":"Vir2L Studios",
-      "year":2009
-   },
-   {
-      "title":"Junior Classic Books & Fairytales",
-      "total_sales":0.08,
-      "genre":"Misc",
-      "publisher":"Virtual Play Games",
-      "year":2010
-   },
-   {
-      "title":"City Builder",
-      "total_sales":0.04,
+      "title":"Command & Conquer: Red Alert Retaliation",
+      "total_sales":0.7,
       "genre":"Strategy",
-      "publisher":"Virtual Play Games",
-      "year":2010
+      "publisher":"Virgin Interactive",
+      "year":1998
    },
    {
-      "title":"Canada Hunt",
-      "total_sales":0.02,
+      "title":"Nanotek Warrior",
+      "total_sales":0.03,
+      "genre":"Shooter",
+      "publisher":"Virgin Interactive",
+      "year":1997
+   },
+   {
+      "title":"Grid Runner",
+      "total_sales":0.03,
+      "genre":"Action",
+      "publisher":"Virgin Interactive",
+      "year":1996
+   },
+   {
+      "title":"Black Dawn",
+      "total_sales":0.13,
+      "genre":"Simulation",
+      "publisher":"Virgin Interactive",
+      "year":1996
+   },
+   {
+      "title":"NHL Powerplay '96",
+      "total_sales":0.12,
       "genre":"Sports",
-      "publisher":"Virtual Play Games",
-      "year":2010
+      "publisher":"Virgin Interactive",
+      "year":1996
    },
    {
-      "title":"The Haunted: Hell's Reach",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Visco",
-      "year":2011
+      "title":"Grand Slam",
+      "total_sales":0.04,
+      "genre":"Sports",
+      "publisher":"Virgin Interactive",
+      "year":1997
    },
    {
-      "title":"S.T.A.L.K.E.R.: Call of Pripyat",
-      "total_sales":0.06,
-      "genre":"Shooter",
-      "publisher":"Viva Media",
-      "year":2010
+      "title":"The Lion King",
+      "total_sales":3.2,
+      "genre":"Action",
+      "publisher":"Virgin Interactive",
+      "year":1994
    },
    {
-      "title":"Sacra Terra: Angelic Night",
-      "total_sales":0.03,
-      "genre":"Puzzle",
-      "publisher":"Viva Media",
-      "year":2011
-   },
-   {
-      "title":"GT Legends",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Viva Media",
-      "year":2006
-   },
-   {
-      "title":"Mata Hari: Betrayal is only a Kiss Away",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"Viva Media",
-      "year":2009
-   },
-   {
-      "title":"STORM: Frontline Nation",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"Viva Media",
-      "year":2011
-   },
-   {
-      "title":"GTR Evolution",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Viva Media",
-      "year":2008
+      "title":"Spot Goes to Hollywood",
+      "total_sales":0.07,
+      "genre":"Platform",
+      "publisher":"Virgin Interactive",
+      "year":1996
    },
    {
       "title":"Rescue Heroes: Billy Blazes",
@@ -68956,6 +66317,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Vivendi Games",
       "year":2003
+   },
+   {
+      "title":"King's Quest Collection",
+      "total_sales":0.0,
+      "genre":"Adventure",
+      "publisher":"Vivendi Games",
+      "year":2006
    },
    {
       "title":"Crash & Spyro Superpack",
@@ -69019,20 +66387,6 @@ export const pb_data =
       "genre":"Platform",
       "publisher":"Vivendi Games",
       "year":2003
-   },
-   {
-      "title":"Triggerheart Exelica",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"Warashi",
-      "year":2007
-   },
-   {
-      "title":"World of Tanks",
-      "total_sales":0.31,
-      "genre":"Shooter",
-      "publisher":"Wargaming.net",
-      "year":2011
    },
    {
       "title":"F.E.A.R. 3",
@@ -69313,6 +66667,13 @@ export const pb_data =
       "genre":"Action",
       "publisher":"Warner Bros. Interactive",
       "year":2006
+   },
+   {
+      "title":"Watchmen: The End is Nigh",
+      "total_sales":0.0,
+      "genre":"Action",
+      "publisher":"Warner Bros. Interactive",
+      "year":2009
    },
    {
       "title":"Batman: Arkham Knight",
@@ -69616,6 +66977,13 @@ export const pb_data =
       "year":2014
    },
    {
+      "title":"Harry Potter for Kinect",
+      "total_sales":0.0,
+      "genre":"Action-Adventure",
+      "publisher":"Warner Bros. Interactive Entertainment",
+      "year":2009
+   },
+   {
       "title":"Lollipop Chainsaw",
       "total_sales":1.15,
       "genre":"Action",
@@ -69719,216 +67087,6 @@ export const pb_data =
       "genre":"Adventure",
       "publisher":"Warner Bros. Interactive Entertainment",
       "year":2018
-   },
-   {
-      "title":"Shantae: Half-Genie Hero",
-      "total_sales":0.29,
-      "genre":"Platform",
-      "publisher":"WayForward Technologies",
-      "year":2016
-   },
-   {
-      "title":"Shantae and the Pirate's Curse",
-      "total_sales":0.1,
-      "genre":"Platform",
-      "publisher":"WayForward Technologies",
-      "year":2016
-   },
-   {
-      "title":"Max: The Curse of Brotherhood",
-      "total_sales":0.01,
-      "genre":"Action-Adventure",
-      "publisher":"Wired Productions",
-      "year":2018
-   },
-   {
-      "title":"Wordhunters",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Wired Productions",
-      "year":2018
-   },
-   {
-      "title":"Victor Vran: Overkill Edition",
-      "total_sales":0.06,
-      "genre":"Role-Playing",
-      "publisher":"Wired Productions",
-      "year":2018
-   },
-   {
-      "title":"Shaq-Fu: A Legend Reborn",
-      "total_sales":0.06,
-      "genre":"Action",
-      "publisher":"Wired Productions",
-      "year":2018
-   },
-   {
-      "title":"Just Deal With It",
-      "total_sales":0.01,
-      "genre":"Party",
-      "publisher":"Wired Productions",
-      "year":2018
-   },
-   {
-      "title":"Super Dungeon Bros",
-      "total_sales":0.03,
-      "genre":"Action",
-      "publisher":"Wired Productions",
-      "year":2016
-   },
-   {
-      "title":"VA-11 HALL-A",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Wolfgame",
-      "year":2017
-   },
-   {
-      "title":"Silpheed: The Lost Planet",
-      "total_sales":0.07,
-      "genre":"Shooter",
-      "publisher":"Working Designs",
-      "year":2001
-   },
-   {
-      "title":"Growlanser Generations",
-      "total_sales":0.11,
-      "genre":"Role-Playing",
-      "publisher":"Working Designs",
-      "year":2004
-   },
-   {
-      "title":"Rebel Raiders: Operation Nighthawk",
-      "total_sales":0.04,
-      "genre":"Simulation",
-      "publisher":"XS Games",
-      "year":2006
-   },
-   {
-      "title":"Thunder Alley",
-      "total_sales":0.01,
-      "genre":"Racing",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"Mobile Light Force 2",
-      "total_sales":0.11,
-      "genre":"Shooter",
-      "publisher":"XS Games",
-      "year":2003
-   },
-   {
-      "title":"XS Airboat Racing",
-      "total_sales":0.24,
-      "genre":"Racing",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"DT Racer",
-      "total_sales":0.13,
-      "genre":"Racing",
-      "publisher":"XS Games",
-      "year":2005
-   },
-   {
-      "title":"Knight's Apprentice: Memorick's Adventures",
-      "total_sales":0.02,
-      "genre":"Action",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"Bass Pro Shops: The Strike",
-      "total_sales":0.69,
-      "genre":"Sports",
-      "publisher":"XS Games",
-      "year":2009
-   },
-   {
-      "title":"Castle Shikigami 2",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"Super Trucks Racing",
-      "total_sales":0.71,
-      "genre":"Racing",
-      "publisher":"XS Games",
-      "year":2003
-   },
-   {
-      "title":"Ten Pin Alley 2",
-      "total_sales":0.03,
-      "genre":"Sports",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"Pure Pinball",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"PopStar Guitar",
-      "total_sales":0.1,
-      "genre":"Misc",
-      "publisher":"XS Games",
-      "year":2008
-   },
-   {
-      "title":"FunkMaster Flex's Digital Hitz Factory",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"XS Games",
-      "year":2004
-   },
-   {
-      "title":"Commando: Steel Disaster",
-      "total_sales":0.02,
-      "genre":"Shooter",
-      "publisher":"XS Games",
-      "year":2008
-   },
-   {
-      "title":"Super PickUps",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"XS Games",
-      "year":2007
-   },
-   {
-      "title":"Black Stone: Magic & Steel",
-      "total_sales":0.04,
-      "genre":"Role-Playing",
-      "publisher":"Xicat Interactive",
-      "year":2003
-   },
-   {
-      "title":"Metal Dungeon",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"Xicat Interactive",
-      "year":2002
-   },
-   {
-      "title":"Top Angler: Real Bass Fishing",
-      "total_sales":0.11,
-      "genre":"Sports",
-      "publisher":"Xicat Interactive",
-      "year":2002
-   },
-   {
-      "title":"Motor Trend presents Lotus Challenge",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Xicat Interactive",
-      "year":2003
    },
    {
       "title":"Senran Kagura Burst",
@@ -70365,258 +67523,6 @@ export const pb_data =
       "year":2012
    },
    {
-      "title":"Anime Slot Revolution: Pachi-Slot Mobile Suit Gundam II - Ai Senshi Hen",
-      "total_sales":0.01,
-      "genre":"Misc",
-      "publisher":"Yamasa Entertainment",
-      "year":2007
-   },
-   {
-      "title":"Yamasa Digi Portable: Matsuri no Tatsujin - Win-Chan no Natsumatsuri",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Yamasa Entertainment",
-      "year":2006
-   },
-   {
-      "title":"Yamasa Digi World SP: Moeyo! Kung Fu Shukujo",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Yamasa Entertainment",
-      "year":2006
-   },
-   {
-      "title":"Secret Game: Killer Queen",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"Yeti",
-      "year":2008
-   },
-   {
-      "title":"Secret Game Portable",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2010
-   },
-   {
-      "title":"Koihime Musou",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2008
-   },
-   {
-      "title":"Koihime Enbu",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Yeti",
-      "year":2016
-   },
-   {
-      "title":"Maitetsu: Pure Station",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Yeti",
-      "year":2018
-   },
-   {
-      "title":"Mystereet",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2006
-   },
-   {
-      "title":"Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Wei-Hen",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2010
-   },
-   {
-      "title":"Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Wu-Hen",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2010
-   },
-   {
-      "title":"Myself; Yourself: Sorezore no Finale",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2009
-   },
-   {
-      "title":"Myself; Yourself",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2007
-   },
-   {
-      "title":"Root Double: Before Crime * After Days",
-      "total_sales":0.01,
-      "genre":"Visual Novel",
-      "publisher":"Yeti",
-      "year":2012
-   },
-   {
-      "title":"Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Shu-Hen",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2010
-   },
-   {
-      "title":"Sengoku Hime: Senran ni Mau Otometachi",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Yeti",
-      "year":2009
-   },
-   {
-      "title":"Neverland Card Battles",
-      "total_sales":0.07,
-      "genre":"Role-Playing",
-      "publisher":"Yuke's",
-      "year":2008
-   },
-   {
-      "title":"NEVES",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Yuke's",
-      "year":2007
-   },
-   {
-      "title":"D1 Professional Drift Grand Prix Series",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"Yuke's",
-      "year":2006
-   },
-   {
-      "title":"Wrestle Kingdom 2: Pro Wrestling Sekai Taisen",
-      "total_sales":0.02,
-      "genre":"Fighting",
-      "publisher":"Yuke's",
-      "year":2007
-   },
-   {
-      "title":"Wrestle Kingdom",
-      "total_sales":0.03,
-      "genre":"Fighting",
-      "publisher":"Yuke's",
-      "year":2006
-   },
-   {
-      "title":"Minna no Chizu",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Zenrin",
-      "year":2006
-   },
-   {
-      "title":"Minna no Chizu 2",
-      "total_sales":0.02,
-      "genre":"Misc",
-      "publisher":"Zenrin",
-      "year":2007
-   },
-   {
-      "title":"M&M's Adventure",
-      "total_sales":0.05,
-      "genre":"Adventure",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Skate City Heroes",
-      "total_sales":0.12,
-      "genre":"Sports",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Ultimate Duck Hunting",
-      "total_sales":0.08,
-      "genre":"Sports",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
-      "title":"M&M's Beach Party",
-      "total_sales":0.04,
-      "genre":"Misc",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
-      "title":"Dream Salon",
-      "total_sales":0.24,
-      "genre":"Misc",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
-      "title":"Bigfoot: Collision Course",
-      "total_sales":0.47,
-      "genre":"Racing",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Margot's Word Brain",
-      "total_sales":0.2,
-      "genre":"Puzzle",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Story Hour: Adventures",
-      "total_sales":0.03,
-      "genre":"Adventure",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Smiley World: Island Challenge",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
-      "title":"Jelly Belly: Ballistic Beans",
-      "total_sales":0.02,
-      "genre":"Puzzle",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
-      "title":"Story Hour: Fairy Tales",
-      "total_sales":0.04,
-      "genre":"Adventure",
-      "publisher":"Zoo Digital Publishing",
-      "year":2008
-   },
-   {
-      "title":"Gadget Racers (PAL)",
-      "total_sales":0.02,
-      "genre":"Racing",
-      "publisher":"Zoo Digital Publishing",
-      "year":2003
-   },
-   {
-      "title":"Puzzle Kingdoms",
-      "total_sales":0.25,
-      "genre":"Puzzle",
-      "publisher":"Zoo Digital Publishing",
-      "year":2009
-   },
-   {
       "title":"Shawn Johnson Gymnastics",
       "total_sales":0.17,
       "genre":"Sports",
@@ -70669,6 +67575,13 @@ export const pb_data =
       "title":"Hyper Fighters",
       "total_sales":0.01,
       "genre":"Simulation",
+      "publisher":"Zoo Games",
+      "year":2011
+   },
+   {
+      "title":"Super Sonic Racer",
+      "total_sales":0.0,
+      "genre":"Racing",
       "publisher":"Zoo Games",
       "year":2011
    },
@@ -70930,131 +67843,5 @@ export const pb_data =
       "genre":"Racing",
       "publisher":"Zoo Games",
       "year":2009
-   },
-   {
-      "title":"Jig-A-Pix: Pets",
-      "total_sales":0.04,
-      "genre":"Puzzle",
-      "publisher":"Zushi Games",
-      "year":2009
-   },
-   {
-      "title":"RACE On",
-      "total_sales":0.03,
-      "genre":"Racing",
-      "publisher":"bitComposer Games",
-      "year":2009
-   },
-   {
-      "title":"Wildlife Park 3",
-      "total_sales":0.08,
-      "genre":"Simulation",
-      "publisher":"bitComposer Games",
-      "year":2011
-   },
-   {
-      "title":"Victorian Mysteries: Woman in White",
-      "total_sales":0.01,
-      "genre":"Strategy",
-      "publisher":"eGames",
-      "year":2010
-   },
-   {
-      "title":"World Neverland 2in1 Portable: Olerud Kingdom & Republic of Pluto",
-      "total_sales":0.02,
-      "genre":"Simulation",
-      "publisher":"fonfun",
-      "year":2008
-   },
-   {
-      "title":"Ayakashi Gohan: Oomori!",
-      "total_sales":0.01,
-      "genre":"Action",
-      "publisher":"honeybee",
-      "year":2015
-   },
-   {
-      "title":"Dynamic Chord feat. Apple-Polisher: V Edition",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"honeybee",
-      "year":2018
-   },
-   {
-      "title":"Starry Sky: Spring Stories",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"honeybee",
-      "year":2016
-   },
-   {
-      "title":"Dynamic Chord feat. Reve Parfait: V Edition",
-      "total_sales":0.02,
-      "genre":"Adventure",
-      "publisher":"honeybee",
-      "year":2016
-   },
-   {
-      "title":"Wagamama High Spec",
-      "total_sales":0.01,
-      "genre":"Adventure",
-      "publisher":"iMel",
-      "year":2017
-   },
-   {
-      "title":"Jewel Quest V: The Sleepless Star",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"iWin",
-      "year":2010
-   },
-   {
-      "title":"Jewel Quest II",
-      "total_sales":0.01,
-      "genre":"Puzzle",
-      "publisher":"iWin",
-      "year":2007
-   },
-   {
-      "title":"Jewel Quest IV: Heritage",
-      "total_sales":0.06,
-      "genre":"Puzzle",
-      "publisher":"iWin",
-      "year":2011
-   },
-   {
-      "title":"Soni Pro",
-      "total_sales":0.01,
-      "genre":"Music",
-      "publisher":"imageepoch Inc.",
-      "year":2014
-   },
-   {
-      "title":"Toushin Toshi",
-      "total_sales":0.03,
-      "genre":"Role-Playing",
-      "publisher":"imageepoch Inc.",
-      "year":2014
-   },
-   {
-      "title":"The Bard's Tale",
-      "total_sales":0.31,
-      "genre":"Role-Playing",
-      "publisher":"inXile Entertainment",
-      "year":2004
-   },
-   {
-      "title":"Torment: Tides of Numen\u00c3\u00a9ra",
-      "total_sales":0.02,
-      "genre":"Role-Playing",
-      "publisher":"inXile Entertainment",
-      "year":2017
-   },
-   {
-      "title":"Yourself Fitness",
-      "total_sales":0.13,
-      "genre":"Sports",
-      "publisher":"responDESIGN",
-      "year":2004
    }
 ]

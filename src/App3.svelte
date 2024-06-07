@@ -401,6 +401,28 @@
 <h4> by Annie Pham, Phu Dang, and Sean Chan</h4>
 <br>
 
+<section>
+  <p>
+    Thousands of games are worked on and developed every month, so how do publishers decide which games they want to market and release? 
+    Well, like any business, game publishers are out to make profit. Depending on the publisher behind a video game, they may decide to 
+    help with or even shoulder development costs, take charge of marketing, and distribute the game, in return taking a portion of the profit
+    the game ends up making. <br><br>
+
+    But funding a game can be risky, depending on the size of the project and size of the team working on the project, 
+    developing a game can take months to years. Take for example 2023's game of the year Baldur's Gate 3 a Role-Playing game which spent over 6 years in development
+    and had over $100 million dollars in development cost, as much as many modern day Hollywood movies. <br><br>
+
+    Although that game turned out wildly successful, most games can't even dream of reaching that level of success, so how would a publisher decide on whether
+    or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br><br>
+
+    <img src="src/assets/annotated_largesales_2012.png" alt="annotated_largesales_2012" width="550" height="400" class="center"><br>
+
+    From 2011-2018, shooter games and sport games continously make it to the top 3 in sales. With a prime example of that being in 2012.
+    Despite being 2 of more than 15 genres, Sport and Shooter games makeup over a third of sales combined across these 8 years.
+    So, to optimize profits, publishers should just release Sport and Shooter games, right? Well... it's a bit more complicated than that, but feel
+    to try to find your own trends! What type of game would you want to fund if you were a publisher?
+  </p>
+</section>
 <h1>⚔️  Genre Prevalence Combat  ⚔️</h1>
 <h3><em>What's your favorite genre?  🤔</em></h3>
 
@@ -410,7 +432,6 @@
   <input type="range" min="1980" max="2020" value={selectedYear} class="slider" on:input="{handleSliderInput}">
   <span>{selectedYear}</span>
 </div>
-
 <div class="bar-chart-container">
   <div id="games-chart" class="chart-container"></div>
   <div id="sales-chart" class="chart-container"></div>
@@ -424,8 +445,32 @@
   <br>
   <h2 align="left"> <br>A publisher wants...</h2>
   <p>
-    To create a brand! <br>
-    The following bubble plot is of games published by Square Enix
+    To create a brand! Looking at numbers from a holistic view may actually lead to some devastating misunderstandings. Take the bar chart
+    we went out of our way to show you earlier, it'd be easy to say that creating Shooter games leads to great profits, but in actuality,
+    a compartively small number of shooter games were actually released in 2012! 
+    
+    <br> <br>(use our interaction above to see just how few!)<br><br>
+    
+    In fact, we only have to look at one publisher to see just where these huge sales are coming from. Activision. <br> <br>
+
+    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Even in 2012 when they released
+    Call of Duty: Black Ops 2 which has almost 30 millions dollars in sale, just about a third of the total sales shooter games made in that year!
+    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, a company famous
+    for their shooter games, continously put out these games to make huge profits. <br><br>
+
+    That's what it means to create a brand. Many video game players stick with playing the same handful of games with the same small subset of genres,
+    just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy games, you'll go to Activison for shooter games. <br><br>
+
+    We can even see this trend for other game genres. Choosing a publisher from the top 100 in sales will show you the games that publisher has released, color-coded
+    for genre and sized by sales. Take Square Enix, for example, and we can see that this publisher overwhemlingly puts out Role-Playing games as part of their infamous 
+    Final Fantasy Series which as of writing this has 16 installments in the main series alone. <br><br>
+
+    Creating a brand doesn't just help consumers, but the publishers themselves. Knowing that the developers they're hiring can put out good games of this genre
+    means like it will like less of an upfront risk, afterall, they've already succeeded in making a game like this, chances are they can make another.
+    There's also less of an upfront cost as, hypothetically, many skills and even assets can be reused or transferred over from one game to the next meaning developers 
+    won't have to start from scratch each time they want to release another game. 
+
+
   </p>
   <br>
   <PublisherBubble />
