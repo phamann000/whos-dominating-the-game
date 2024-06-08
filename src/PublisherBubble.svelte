@@ -158,6 +158,7 @@
     // Detect Change
     dropdown.on('change', handleCategoryChange);
   });
+  
 </script>
 
 <svg width="1300" height="600"></svg>

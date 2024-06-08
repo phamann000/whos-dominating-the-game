@@ -5,4 +5,5 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 export default defineConfig({
   plugins: [svelte()],
   base: '/whos-dominating-the-game/',
+  publicDir: 'public'
 })

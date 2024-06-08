@@ -6,8 +6,7 @@
   import Papa from 'papaparse';
   import * as d3 from 'd3';
   import PublisherBubble from './PublisherBubble.svelte';
-
-
+  
 
   Chart.register(...registerables);
 
@@ -402,6 +401,7 @@
 <br>
 
 <section>
+  
   <p>
     Thousands of games are worked on and developed every month, so how do publishers decide which games they want to market and release? 
     Well, like any business, game publishers are out to make profit. Depending on the publisher behind a video game, they may decide to 
@@ -414,8 +414,8 @@
 
     Although that game turned out wildly successful, most games can't even dream of reaching that level of success, so how would a publisher decide on whether
     or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br><br>
-
-    <img src="/annotated_largesales_2012.png" alt="annotated_largesales_2012" width="550" height="400" class="center"><br>
+    
+    <img src="./public/annotated_largesales_2012.png" alt="annotated_2012" width=400 height=350 class="center"> <br><br>
 
     From 2011-2018, shooter games and sport games continously make it to the top 3 in sales. With a prime example of that being in 2012.
     Despite being 2 of more than 15 genres, Sport and Shooter games makeup over a third of sales combined across these 8 years.
