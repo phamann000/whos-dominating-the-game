@@ -447,21 +447,21 @@
   <p>
     To create a brand! Looking at numbers from a holistic view may actually lead to some devastating misunderstandings. Take the bar chart
     we went out of our way to show you earlier, it'd be easy to say that creating Shooter games leads to great profits, but in actuality,
-    a compartively small number of shooter games were actually released in 2012! 
+    a compartively small number of shooter games were released in 2012! 
     
     <br> <br>(use our interaction above to see just how few!)<br><br>
     
-    In fact, we only have to look at one publisher to see just where these huge sales are coming from. Activision. <br> <br>
+    In fact, we only have to look at one publisher to see where these huge sales are coming from. Activision. <br> <br>
 
-    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
-    Call of Duty: Black Ops 2 which has almost 30 millions dollars in sale, just about a third of the total sales shooter games made in that year!
-    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, a company famous
-    for their shooter games, continously put out these games to make huge profits. <br><br>
+    Activision releases a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
+    Call of Duty: Black Ops 2 which has almost 30 millions dollars in sales, just about a third of the total shooter game sales made in that year!
+    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison specifically
+    profits hugely off of this genre. <br><br>
 
     That's what it means to create a brand. Many video game players stick with playing the same handful of games with the same small subset of genres,
-    just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy games, you'll go to Activison for shooter games. <br><br>
+    just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy books. You go to Activison for shooter games. <br><br>
 
-    We can even see this trend for other game genres. Choosing a publisher from the top 100 in sales will show you the games that publisher has released, color-coded
+    We can even see this trend for other game genres. Choosing a publisher below will show you the games that publisher has released, color-coded
     for genre and sized by sales. Take Square Enix, for example, and we can see that this publisher overwhemlingly puts out Role-Playing games as part of their infamous 
     Final Fantasy Series which as of writing this has 16 installments in the main series alone. <br><br>
 
@@ -488,7 +488,7 @@
     may look like they're saying, but it's important to take into account seemingly invisble factors like innovation and novelty
     in explaining why a game may do well. But just by checking out the graph below on how different
     publishers do over time, it's easy to see that success in one year may not gurantee it the next, all a publisher can try
-    to encorage is consistenty in a market that is everchaning.
+    to encourage is consistency in a market that is everchanging.
 
   </p>
 
