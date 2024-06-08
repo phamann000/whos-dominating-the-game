@@ -12,8 +12,8 @@
 
   // Head-2-Head publishers combat data
   let publishers = [];
-  let selectedPublisher1 = '';
-  let selectedPublisher2 = '';
+  let selectedPublisher1 = 'Activision';
+  let selectedPublisher2 = 'Ubisoft';
   let selectedMetric = 'total_sales';
   let chartData = writable({ datasets: [] });
   let data = [];
@@ -37,6 +37,7 @@
       complete: function(results) {
         data = results.data;
         publishers = Array.from(new Set(data.map(d => d.publisher)));
+        publishers.sort()
       },
     });
 
@@ -500,6 +501,8 @@
   <h3><em>How does your favorite publisher match up?  🔥🔥🔥</em></h3>
   
   <br>
+
+
 
   <div class="buttons">
     <button class:active={selectedMetric === 'total_sales'} on:click={() => selectMetric('total_sales')}>Mean Total Sales</button>
