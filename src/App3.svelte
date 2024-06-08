@@ -475,7 +475,24 @@
   <br>
   <PublisherBubble />
 </section>
+<section>
+  <br>
+  <h2 align="left"> <br>Conclusions</h2>
+  <p>
+    Huge hit games have a tendency to wildly skew the market, making certain trends and genres seem much more profitable than they may really be.
+    At the end of the day it's important for publishers to support games that people want to play, 
+    and a good way to find a consistent playerbase, and thereby a consistent cashflow, is to make consistent games. Games of a consistent
+    genre, games of a consistent series, games with a consistent polish, but interestingly enough, games that are also consistently innovative. <br><br>
 
+    It can be easy to assume that a game that makes you a million dollars one year will continue to do so, because that's what statistics
+    may look like they're saying, but it's important to take into account seemingly invisble factors like innovation and novelty
+    in explaining why a game may do well. But just by checking out the graph below on how different
+    publishers do over time, it's easy to see that success in one year may not gurantee it the next, all a publisher can try
+    to encorage is consistenty in a market that is everchaning.
+
+  </p>
+
+</section>
 <div class="container">
   <h1>⚔️  Head-2-Head Publishers Combat  ⚔️</h1>
   <h3><em>How does your favorite publisher match up?  🔥🔥🔥</em></h3>
