@@ -43,7 +43,7 @@ License: MIT
     and had over $100 million dollars in development cost, as much as many modern day Hollywood movies. <br/><br/>
 
     Although that game turned out wildly successful, most games can&#39;t even dream of reaching that level of success, so how would a publisher decide on whether
-    or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br/><br/> <img src="./annotated_largesales_2012.png" alt="annotated_largesales_2012" width="550" height="400" class="center"/><br/>
+    or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br/><br/> <img src="/annotated_largesales_2012.png" alt="annotated_largesales_2012" width="550" height="400" class="center"/><br/>
 
     From 2011-2018, shooter games and sport games continously make it to the top 3 in sales. With a prime example of that being in 2012.
     Despite being 2 of more than 15 genres, Sport and Shooter games makeup over a third of sales combined across these 8 years.
@@ -56,7 +56,7 @@ License: MIT
     
     In fact, we only have to look at one publisher to see just where these huge sales are coming from. Activision. <br/> <br/>
 
-    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Even in 2012 when they released
+    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
     Call of Duty: Black Ops 2 which has almost 30 millions dollars in sale, just about a third of the total sales shooter games made in that year!
     So it&#39;s not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, a company famous
     for their shooter games, continously put out these games to make huge profits. <br/><br/>
