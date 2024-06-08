@@ -413,15 +413,15 @@
 
     But funding a game can be risky, depending on the size of the project and size of the team working on the project, 
     developing a game can take months to years. Take for example 2023's game of the year Baldur's Gate 3 a Role-Playing game which spent over 6 years in development
-    and had over $100 million dollars in development cost, as much as many modern day Hollywood movies. <br><br>
+    and costed the price of hollywood movies you may see today. <br><br>
 
     Although that game turned out wildly successful, most games can't even dream of reaching that level of success, so how would a publisher decide on whether
     or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br><br>
     
     <img src="https://raw.githubusercontent.com/phamann000/whos-dominating-the-game/main/public/annotated_largesales_2012.png" alt="annotated_2012" width=400 height=350 class="center"> <br><br>
 
-    From 2011-2018, shooter games and sport games continously make it to the top 3 in sales. With a prime example of that being in 2012.
-    Despite being 2 of more than 15 genres, Sport and Shooter games makeup over a third of sales combined across these 8 years.
+    For the 8 years from 2011-2018, shooter games and sport games make it to the top 3 in sales. With a prime example of that being in 2012.
+    Despite being only 2 of more than 13 other genres, Sport and Shooter games makeup over a third of sales combined across those years.
     So, to optimize profits, publishers should just release Sport and Shooter games, right? Well... it's a bit more complicated than that, but feel
     to try to find your own trends! What type of game would you want to fund if you were a publisher?
   </p>
@@ -450,16 +450,16 @@
   <p>
     To create a brand! Looking at numbers from a holistic view may actually lead to some devastating misunderstandings. Take the bar chart
     we went out of our way to show you earlier, it'd be easy to say that creating Shooter games leads to great profits, but in actuality,
-    a compartively small number of shooter games were actually released in 2012! 
+    a comparatively small number of shooter games were released in 2012! 
     
     <br> <br>(use our interaction above to see just how few!)<br><br>
     
     In fact, we only have to look at one publisher to see just where these huge sales are coming from. Activision. <br> <br>
 
-    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
+    Activision releases a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
     Call of Duty: Black Ops 2 which has almost 30 millions dollars in sale, just about a third of the total sales shooter games made in that year!
-    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, a company famous
-    for their shooter games, continously put out these games to make huge profits. <br><br>
+    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, puts out a shooter game
+    yearly to make huge profits. <br><br>
 
     That's what it means to create a brand. Many video game players stick with playing the same handful of games with the same small subset of genres,
     just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy games, you'll go to Activison for shooter games. <br><br>
@@ -482,16 +482,16 @@
   <br>
   <h2 align="left"> <br>Conclusions</h2>
   <p>
-    Huge hit games have a tendency to wildly skew the market, making certain trends and genres seem much more profitable than they may really be.
+    Huge hit games have a tendency to wildly skew the market, making certain trends and genres seem much more profitable than they really are.
     At the end of the day it's important for publishers to support games that people want to play, 
     and a good way to find a consistent playerbase, and thereby a consistent cashflow, is to make consistent games. Games of a consistent
-    genre, games of a consistent series, games with a consistent polish, but interestingly enough, games that are also consistently innovative. <br><br>
+    genre, games of a consistent series, games with consistent polish, but interestingly enough, games that are also consistently innovative. <br><br>
 
     It can be easy to assume that a game that makes you a million dollars one year will continue to do so, because that's what statistics
     may look like they're saying, but it's important to take into account seemingly invisble factors like innovation and novelty
     in explaining why a game may do well. But just by checking out the graph below on how different
     publishers do over time, it's easy to see that success in one year may not gurantee it the next, all a publisher can try
-    to encorage is consistenty in a market that is everchaning.
+    to encourage is consistency in a market that is everchanging.
 
   </p>
 
