@@ -12,8 +12,8 @@
 
   // Head-2-Head publishers combat data
   let publishers = [];
-  let selectedPublisher1 = '';
-  let selectedPublisher2 = '';
+  let selectedPublisher1 = 'Activision';
+  let selectedPublisher2 = 'Ubisoft';
   let selectedMetric = 'total_sales';
   let chartData = writable({ datasets: [] });
   let data = [];
@@ -37,6 +37,7 @@
       complete: function(results) {
         data = results.data;
         publishers = Array.from(new Set(data.map(d => d.publisher)));
+        publishers.sort()
       },
     });
 
@@ -401,21 +402,23 @@
 <br>
 
 <section>
+    <h2>Demo Video</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vUTQJeS9STU" frameborder="0" title="YouTube video player - Who's Dominating the Game" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
   <p>
     Thousands of games are worked on and developed every month, so how do publishers decide which games they want to market and release? 
-    Well, like any business, game publishers are out to make profit. Depending on the publisher behind a video game, they may decide to 
+    Well, like any business, game publishers are out to make a profit. Depending on the publisher behind a video game, they may decide to 
     help with or even shoulder development costs, take charge of marketing, and distribute the game, in return taking a portion of the profit
     the game ends up making. <br><br>
 
     But funding a game can be risky, depending on the size of the project and size of the team working on the project, 
-    developing a game can take months to years. Take for example 2023's game of the year Baldur's Gate 3 a Role-Playing game which spent over 6 years in development
+    developing a game can take months to years. Take for example 2023's game of the year Baldur's Gate 3 spent over 6 years in development
     and had over $100 million dollars in development cost, as much as many modern day Hollywood movies. <br><br>
 
     Although that game turned out wildly successful, most games can't even dream of reaching that level of success, so how would a publisher decide on whether
     or not they should risk funding a game? Well a good place to start is to look at trends from previous years! <br><br>
     
-    <img src="./public/annotated_largesales_2012.png" alt="annotated_2012" width=400 height=350 class="center"> <br><br>
+    <img src="https://raw.githubusercontent.com/phamann000/whos-dominating-the-game/main/public/annotated_largesales_2012.png" alt="annotated_2012" width=400 height=350 class="center"> <br><br>
 
     From 2011-2018, shooter games and sport games continously make it to the top 3 in sales. With a prime example of that being in 2012.
     Despite being 2 of more than 15 genres, Sport and Shooter games makeup over a third of sales combined across these 8 years.
@@ -451,17 +454,17 @@
     
     <br> <br>(use our interaction above to see just how few!)<br><br>
     
-    In fact, we only have to look at one publisher to see where these huge sales are coming from. Activision. <br> <br>
+    In fact, we only have to look at one publisher to see just where these huge sales are coming from. Activision. <br> <br>
 
-    Activision releases a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
-    Call of Duty: Black Ops 2 which has almost 30 millions dollars in sales, just about a third of the total shooter game sales made in that year!
-    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison specifically
-    profits hugely off of this genre. <br><br>
+    Activision has released a shooter game almost every year we see shooter games beat out other genres in sales. Especially in 2012 when they released
+    Call of Duty: Black Ops 2 which has almost 30 millions dollars in sale, just about a third of the total sales shooter games made in that year!
+    So it's not that shooter games lead to huge sales like the initial data may have led you to believe, but rather Activison, a company famous
+    for their shooter games, put out these games yearly to make huge profits. <br><br>
 
     That's what it means to create a brand. Many video game players stick with playing the same handful of games with the same small subset of genres,
-    just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy books. You go to Activison for shooter games. <br><br>
+    just like how readers may keep reading Stephen King for horror books or Terry Pratchett for fantasy games, you'll go to Activison for shooter games. <br><br>
 
-    We can even see this trend for other game genres. Choosing a publisher below will show you the games that publisher has released, color-coded
+    We can even see this trend for other game genres. Choosing a publisher from the dropdown below will show you the games that publisher has released, color-coded
     for genre and sized by sales. Take Square Enix, for example, and we can see that this publisher overwhemlingly puts out Role-Playing games as part of their infamous 
     Final Fantasy Series which as of writing this has 16 installments in the main series alone. <br><br>
 
@@ -498,6 +501,8 @@
   <h3><em>How does your favorite publisher match up?  🔥🔥🔥</em></h3>
   
   <br>
+
+
 
   <div class="buttons">
     <button class:active={selectedMetric === 'total_sales'} on:click={() => selectMetric('total_sales')}>Mean Total Sales</button>
